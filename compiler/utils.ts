@@ -58,6 +58,19 @@ export const hasUncommittedChanges = async (directory: string): Promise<boolean>
   return stdout.trim().length > 0;
 };
 
+export const exists = async (path: string): Promise<boolean> => {
+  try {
+    await fs.access(path);
+    return true;
+  } catch (e) {
+    if (e instanceof Error && 'code' in e && e.code === 'ENOENT') {
+      return false;
+    }
+
+    throw e;
+  }
+};
+
 export const cloneRepository = async (
   repository: string,
   directory: string,
@@ -66,7 +79,9 @@ export const cloneRepository = async (
   await fs.mkdir(directory, { recursive: true });
 
   const repositoryUrl = `git@github.com:${repository}.git`;
-  const currentCommit = await getCheckedOutCommit(directory);
+  const currentCommit = (await exists(path.join(directory, '.git')))
+    ? await getCheckedOutCommit(directory)
+    : undefined;
 
   if (currentCommit) {
     if (currentCommit.ref === tagOrBranch) {
