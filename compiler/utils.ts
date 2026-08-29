@@ -107,9 +107,7 @@ export const cloneRepository = async (
     }
   } else {
     const ref = tagOrBranch.replace(/^tags\//, '');
-    await execa({
-      stdio: 'inherit',
-    })`git clone --branch ${ref} --depth 1 ${repositoryUrl} ${directory}`;
+    await execa({})`git clone --branch ${ref} --depth 1 ${repositoryUrl} ${directory}`;
   }
 };
 
