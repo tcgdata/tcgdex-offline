@@ -1,0 +1,677 @@
+[
+  {
+    "id": "tk-ex-p-9",
+    "name": {
+      "en": "Potion",
+      "fr": "Potion",
+      "de": "Trank"
+    },
+    "illustrator": "Keiji Kinebuchi",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1).",
+      "fr": "Soignez 30 dégâts à 1 de vos Pokémon.",
+      "de": "Entferne bis zu 2 Schadensmarken von einem Deiner Pokémon."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "tcgplayer": 88339
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "tk-ex-p-8",
+    "name": {
+      "en": "Energy Search",
+      "fr": "Recherche d'énergie",
+      "de": "Energiesuche"
+    },
+    "illustrator": "Kai Ishikawa",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward",
+      "fr": "Choisissez dans votre deck une carte Énergie de base, montrez-la à votre adversaire et placez-la dans votre main. Mélangez ensuite votre deck.",
+      "de": "Durchsuche dein Deck nach einer Basis-Energiekarte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische dein Deck danach."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "tcgplayer": 85242
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "tk-ex-p-7",
+    "name": {
+      "en": "Spoink",
+      "fr": "Spoink",
+      "de": "Spoink"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      325
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Knock Away",
+          "fr": "Asticotage",
+          "de": "Zurückschlagen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277191,
+          "tcgplayer": 89475
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "tk-ex-p-6",
+    "name": {
+      "en": "Plusle",
+      "fr": "Posipi",
+      "de": "Plusle"
+    },
+    "illustrator": "Katsura Tabata",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      311
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pickup Power",
+          "fr": "Pouvoir ramassage",
+          "de": "Kraft aufsammeln"
+        },
+        "effect": {
+          "en": "Search your discard pile for an Energy card, show it to your opponent, and put it into your hand.",
+          "fr": "Choisissez une carte Énergie dans votre pile de défausse, montrez-la à votre adversaire et placez-la dans votre main.",
+          "de": "Durchsuche deinen Ablagestapel nach einer Energiekarte. Zeige sie deinem Gegner und nimm sie auf die Hand."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rear Spark",
+          "fr": "Étincelle arrière",
+          "de": "Hinterer Funke"
+        },
+        "effect": {
+          "en": "Does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 20 dégâts à 1 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Fügt 1 gegnerischen Pokémon auf der Bank 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277192,
+          "tcgplayer": 88166
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "tk-ex-p-5",
+    "name": {
+      "en": "Metang",
+      "fr": "Métang",
+      "de": "Metang"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      375
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Beldum",
+      "fr": "Terhal",
+      "de": "Tanhel"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psychic Boom",
+          "fr": "Psycho-boom",
+          "de": "Psychoknall"
+        },
+        "effect": {
+          "en": "Does 10 damage plus 10 more damage for each Energy attached to the Defending Pokémon.",
+          "fr": "Inflige 10 dégâts plus 10 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Défenseur.",
+          "de": "Fügt 10 Schadenspunkte plus 10 weitere Schadenspunkte für jede am Verteidigenden Pokémon angelegte Energie zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Blow",
+          "fr": "Coup d'poing éclair",
+          "de": "Schnellschlag"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277188,
+          "tcgplayer": 87376
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "tk-ex-p-4",
+    "name": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "de": "Mauzi"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      52
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Collect",
+          "fr": "Collectionner",
+          "de": "Sammeln"
+        },
+        "effect": {
+          "en": "Draw a card.",
+          "fr": "Piochez une carte.",
+          "de": "Ziehe 1 Karte."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Cat Kick",
+          "fr": "Coup d'patte",
+          "de": "Katzenkick"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277187,
+          "tcgplayer": 87319
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "tk-ex-p-3",
+    "name": {
+      "en": "Grumpig",
+      "fr": "Groret",
+      "de": "Groink"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      326
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Spoink",
+      "fr": "Spoink",
+      "de": "Spoink"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Snap Tail",
+          "fr": "Claquement de queue",
+          "de": "Schnappender Schweif"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Choisissez 1 des Pokémon de votre adversaire. Cette attaque lui inflige 10 dégâts. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt dem gewählten Pokémon 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psypunch",
+          "fr": "Coup de poing psy",
+          "de": "Psyhieb"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277183,
+          "tcgplayer": 85968
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "tk-ex-p-2",
+    "name": {
+      "en": "Electrike",
+      "fr": "Dynavolt",
+      "de": "Frizelbliz"
+    },
+    "illustrator": "Hiroki Fuchino",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      309
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Recharge",
+          "fr": "Recharger",
+          "de": "Auffüllen"
+        },
+        "effect": {
+          "en": "Search your deck for a Lightning Energy card and attach it to Electrike. Shuffle your deck afterward.",
+          "fr": "Cherchez dans votre deck 1 carte Énergie  et attachez-la à Dynavolt. Ensuite, mélangez votre deck.",
+          "de": "Durchsuche dein Deck nach einer {L}-Energiekarte und lege sie an Frizelbliz an. Mische dein Deck danach."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277182,
+          "tcgplayer": 85136
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "tk-ex-p-12",
+    "name": {
+      "en": "Psychic Energy",
+      "fr": "Énergie Psy",
+      "de": "Psycho-Energie"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "types": [
+      "Psychic"
+    ],
+    "energyType": "Normal",
+    "stage": "Basic",
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277184,
+          "tcgplayer": 88420
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "tk-ex-p-11",
+    "name": {
+      "en": "Lightning Energy",
+      "fr": "Énergie Électrique",
+      "de": "Elektro-Energie"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "tcgplayer": 86763
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "tk-ex-p-10",
+    "name": {
+      "en": "Professor Cozmo's Discovery",
+      "fr": "La découverte du Professeur Kosmo",
+      "de": "Professor Kosmos Entdeckung"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card. Flip a coin. If heads, draw the bottom 3 cards of your deck. If tails, draw the top 2 cards of your deck.",
+      "fr": "Vous ne pouvez jouer qu'une seule carte Supporter par tour. Lorsque vous la jouez, placez-la à côté de votre Pokémon Actif. À la fin du tour, défaussez-la.",
+      "de": "Du kannst in jedem Zug nur eine Unterstützerkarte spielen. Wenn du diese Karte ausspielst, lege sie neben dein Aktives Pokémon. Lege diese Karte am Ende deines Zuges auf deinen Ablagestapel. Wirf 1 Münze. Ziehe bei „Kopf“ die untersten 3 Karten deines Decks. Ziehe bei „Zahl“ die obersten 2 Karten deines Decks."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "tcgplayer": 88385
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "tk-ex-p-1",
+    "name": {
+      "en": "Beldum",
+      "fr": "Terhal",
+      "de": "Tanhel"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      374
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Call for Family",
+          "fr": "Appel à la famille",
+          "de": "Familienruf"
+        },
+        "effect": {
+          "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+          "fr": "Choisissez un Pokémon de base dans votre deck et placez-le sur votre Banc. Ensuite, mélangez votre deck.",
+          "de": "Durchsuche dein Deck nach einem Basis-Pokémon und lege es auf deine Bank. Mische dein Deck danach."
+        }
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Metal Ball",
+          "fr": "Boule métallique",
+          "de": "Metallball"
+        },
+        "effect": {
+          "en": "Put 1 damage counter on the Defending Pokémon.",
+          "fr": "Placez 1 marqueur de dégât sur le Pokémon Défenseur.",
+          "de": "Lege 1 Schadensmarke auf das Verteidigende Pokémon."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277193,
+          "tcgplayer": 83786
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-ex-p"
+    },
+    "cardNumber": "1"
+  }
+]

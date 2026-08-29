@@ -1,0 +1,785 @@
+[
+  {
+    "id": "SPZ-LIG",
+    "name": {
+      "ja": "基本雷エネルギー"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "LIG"
+  },
+  {
+    "id": "SPZ-020",
+    "name": {
+      "zh-tw": "老大的指令（赤日）",
+      "ja": "ボスの指令（アカギ）"
+    },
+    "illustrator": "GIDORA",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "ja": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SPZ-019",
+    "name": {
+      "zh-tw": "冒險家的發現",
+      "ja": "冒険家の発見"
+    },
+    "illustrator": "Taira Akitsu",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多3張「寶可夢【V】」卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "自分の山札から「ポケモンV」を3枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SPZ-018",
+    "name": {
+      "zh-tw": "博士的研究（山梨博士）",
+      "ja": "博士の研究（ナナカマド博士）"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "ja": "自分の手札をすべてトラッシュし、山札を7枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SPZ-017",
+    "name": {
+      "zh-tw": "竹蘭的霸氣",
+      "ja": "シロナの覇気"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從牌庫抽卡直到自己的手牌滿5張為止。在上個對手的回合，若自己的寶可夢【氣絕】了，則抽卡直到滿8張為止。",
+      "ja": "自分の手札が5枚になるように、山札を引く。前の相手の番に、自分のポケモンがきぜつしていたなら、8枚になるように引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SPZ-016",
+    "name": {
+      "zh-tw": "阿馴",
+      "ja": "ジュン"
+    },
+    "illustrator": "Ken Sugimori",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "ja": "自分の山札を3枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SPZ-015",
+    "name": {
+      "zh-tw": "莎娜",
+      "ja": "サナ"
+    },
+    "illustrator": "Yuu Nishida",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "ja": "自分の手札をすべて山札にもどして切る。その後、山札を5枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SPZ-014",
+    "name": {
+      "zh-tw": "克拉拉",
+      "ja": "クララ"
+    },
+    "illustrator": "Ken Sugimori",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的棄牌區選擇最多2張寶可夢卡與最多2張基本能量卡，在給對手看過後加入手牌。（可只選擇寶可夢卡或者只選擇基本能量卡。）",
+      "ja": "自分のトラッシュからポケモンを2枚までと、基本エネルギーを2枚まで選び、相手に見せて、手札に加える。（ポケモンまたは基本エネルギーのどちらかだけでもよい。）"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SPZ-013",
+    "name": {
+      "zh-tw": "葉隱披風",
+      "ja": "葉隠れポンチョ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。",
+      "ja": "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SPZ-012",
+    "name": {
+      "zh-tw": "講究腰帶",
+      "ja": "こだわりベルト"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。",
+      "ja": "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SPZ-011",
+    "name": {
+      "zh-tw": "等級球",
+      "ja": "レベルボール"
+    },
+    "illustrator": "Ryo Ueda",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張HP為「90」以下的寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "自分の山札から、HPが「90」以下のポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SPZ-010",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "ja": "ポケモンいれかえ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "ja": "自分のバトルポケモンをベンチポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SPZ-009",
+    "name": {
+      "zh-tw": "高級球",
+      "ja": "ハイパーボール"
+    },
+    "illustrator": "sadaji",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "このカードは、自分の手札を2枚トラッシュしなければ使えない。\n\n自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SPZ-008",
+    "name": {
+      "zh-tw": "啪嚓海膽",
+      "ja": "バチンウニ"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "dexId": [
+      871
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼朋引伴",
+          "ja": "なかまをよぶ"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
+          "ja": "自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "連續滾動",
+          "ja": "れんぞくころがり"
+        },
+        "effect": {
+          "zh-tw": "擲硬幣直到出現反面，增加正面出現的次數×30點傷害。",
+          "ja": "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。"
+        },
+        "damage": "30＋"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "能從刺的尖端放電。會用銳利的牙齒刮取附在岩石上的海藻來吃。",
+      "ja": "棘の 先から 電気を 放つ。 鋭い 歯で 岩に ついた 海藻を こそいで 食べる。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SPZ-007",
+    "name": {
+      "zh-tw": "捷拉奧拉VSTAR",
+      "ja": "ゼラオラVSTAR"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "粉碎律動",
+          "ja": "クラッシュビート"
+        },
+        "effect": {
+          "zh-tw": "若希望，將場上的競技場卡丟棄。",
+          "ja": "のぞむなら、場に出ているスタジアムをトラッシュする。"
+        },
+        "damage": 190
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "[VSTAR力量]雷霆星星",
+          "ja": "いかずちスター"
+        },
+        "effect": {
+          "zh-tw": "選擇4次對手的寶可夢，對所選的所有寶可夢不計算弱點・抵抗力，造成其選擇次數×60點傷害。（1隻可選擇2次以上。）[對戰中，己方只可使用1次【VSTAR】力量。]",
+          "ja": "相手のポケモンを4回選び、選んだポケモン全員に、弱点・抵抗力を計算せず、選んだ回数×60ダメージ。（1匹を2回以上選べる。）［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SPZ-006",
+    "name": {
+      "zh-tw": "捷拉奧拉VMAX",
+      "ja": "ゼラオラVMAX"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "反應脈衝",
+          "ja": "リアクトパルス"
+        },
+        "effect": {
+          "zh-tw": "造成對手場上擁有特性的寶可夢的數量×60點傷害。",
+          "ja": "相手の場の特性を持つポケモンの数×60ダメージ。"
+        },
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨電拳",
+          "ja": "ダイフィスト"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。",
+          "ja": "このポケモンについているエネルギーを2個選び、トラッシュする。"
+        },
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SPZ-005",
+    "name": {
+      "zh-tw": "捷拉奧拉V",
+      "ja": "ゼラオラV"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "利爪劈擊",
+          "ja": "ツメできりさく"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "閃電伏特",
+          "ja": "サンダーボルト"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用招式。",
+          "ja": "次の自分の番、このポケモンはワザが使えない。"
+        },
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "suffix": "V",
+    "cardNumber": "005"
+  },
+  {
+    "id": "SPZ-004",
+    "name": {
+      "zh-tw": "雷電雲",
+      "ja": "ボルトロス"
+    },
+    "illustrator": "Souichirou Gunjima",
+    "category": "Pokemon",
+    "dexId": [
+      642
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "輔助電光",
+          "ja": "アシストスパーク"
+        },
+        "effect": {
+          "zh-tw": "若希望，從自己的手牌選擇1張【雷】能量卡，附於備戰寶可夢身上。",
+          "ja": "のぞむなら、自分の手札からエネルギーを1枚選び、ベンチポケモンにつける。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "打雷",
+          "ja": "かみなり"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。",
+          "ja": "このポケモンにも30ダメージ。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一邊在空中飛來飛去，一邊四處打雷引發森林大火，因此受到厭惡。",
+      "ja": "大空を 飛び回りながら あちこちに 雷を 落として 山火事を 起こすので 嫌われる。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SPZ-003",
+    "name": {
+      "zh-tw": "茸茸羊",
+      "ja": "モココ"
+    },
+    "illustrator": "OKACHEKE",
+    "category": "Pokemon",
+    "dexId": [
+      180
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "電氣發電機",
+          "ja": "エレキダイナモ"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。從自己的棄牌區選擇1張【雷】能量卡，附於備戰寶可夢身上。",
+          "ja": "自分の番に1回使える。自分のトラッシュからエネルギーを1枚選び、ベンチポケモンにつける。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "電球",
+          "ja": "エレキボール"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會將電力儲存在鬆軟的毛中。因為儲存了太多電力，身上有些地方變得光禿禿的。",
+      "ja": "ふかふかの 毛に 電気を ためこむ。 蓄えすぎて ところどころ つるつるに 禿げあがって しまった。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SPZ-002",
+    "name": {
+      "zh-tw": "咩利羊",
+      "ja": "メリープ"
+    },
+    "illustrator": "Miki Tanaka",
+    "category": "Pokemon",
+    "dexId": [
+      179
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "叫聲",
+          "ja": "なきごえ"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害「-20」點。",
+          "ja": "次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "劈哩啪啦",
+          "ja": "バチバチ"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會累積絨毛摩擦時所產生的電力。如果因為牠可愛而直接用手去摸，就會被電得又麻又痛。",
+      "ja": "綿毛が こすれ 電気が たまる。 かわいいからと 素手で 触ると バチッと 痺れて 痛いのだ。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SPZ-001",
+    "name": {
+      "zh-tw": "霓虹魚V",
+      "ja": "ネオラントV"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "夜光標誌",
+          "ja": "ルミナスサイン"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。從自己的牌庫選擇1張支援者卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "ja": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の山札からサポートを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水迴旋",
+          "ja": "アクアリターン"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。",
+          "ja": "このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPZ"
+    },
+    "suffix": "V",
+    "cardNumber": "001"
+  }
+]

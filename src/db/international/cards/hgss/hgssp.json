@@ -1,0 +1,1882 @@
+[
+  {
+    "id": "hgssp-HGSS25",
+    "name": {
+      "en": "Hitmonlee",
+      "fr": "Kicklee"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      106
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Kick",
+          "fr": "Koud'pied"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "High Jump Kick",
+          "fr": "Pied voltige"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275601,
+          "tcgplayer": 86109
+        }
+      }
+    ],
+    "description": {
+      "en": "If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS25"
+  },
+  {
+    "id": "hgssp-HGSS24",
+    "name": {
+      "en": "Hitmonchan",
+      "fr": "Tygnon"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      107
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Detect",
+          "fr": "Détection"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Hitmonchan during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, évitez tous les effets d'attaques (y compris les dégâts) infligés à Tygnon pendant le prochain tour de votre adversaire."
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky Uppercut",
+          "fr": "Stratopercut"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Resistance.",
+          "fr": "Les dégâts infligés par cette attaque ne sont pas affectés par la Résistance."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275602,
+          "tcgplayer": 86097
+        }
+      }
+    ],
+    "description": {
+      "en": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS24"
+  },
+  {
+    "id": "hgssp-HGSS23",
+    "name": {
+      "en": "Porygon2",
+      "fr": "Porygon2"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      233
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Porygon",
+      "fr": "Porygon"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Shortcut",
+          "fr": "Raccourci"
+        },
+        "effect": {
+          "en": "The Retreat Cost for each Porygon, Porygon2, and Porygon-Z you have in play is Colorless less.",
+          "fr": "Le Coût de retraite de chacun de vos Porygon, Porygon2 et Porygon-Z en jeu est diminué de ."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Reckless Charge",
+          "fr": "Attaque imprudente"
+        },
+        "effect": {
+          "en": "Porygon2 does 10 damage to itself.",
+          "fr": "Porygon2 s'inflige 10 dégâts."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275603,
+          "tcgplayer": 88328
+        }
+      }
+    ],
+    "description": {
+      "en": "This upgraded version of Porygon is designed for space exploration. It can't fly, though."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS23"
+  },
+  {
+    "id": "hgssp-HGSS22",
+    "name": {
+      "en": "Porygon",
+      "fr": "Porygon"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      137
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Stiffen",
+          "fr": "Raidir"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, any damage done to Porygon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "fr": "Tous les dégâts infligés à Porygon par des attaques pendant le prochain tour de votre adversaire sont réduits de 20 (après application de la Faiblesse et de la Résistance)."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Version Update",
+          "fr": "Mise à jour de version"
+        },
+        "effect": {
+          "en": "Search your deck for Porygon2, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+          "fr": "Cherchez Porygon2 dans votre deck, montrez-le à votre adversaire et ajoutez-le à votre main. Mélangez ensuite votre deck."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275604,
+          "tcgplayer": 88313
+        }
+      }
+    ],
+    "description": {
+      "en": "It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment.."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS22"
+  },
+  {
+    "id": "hgssp-HGSS21",
+    "name": {
+      "en": "Suicune",
+      "fr": "Suicune"
+    },
+    "illustrator": "Hideaki Hakozaki",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      245
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sheer Cold",
+          "fr": "Glaciation"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur ne peut pas attaquer lors du prochain tour de votre adversaire."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275600,
+          "tcgplayer": 89605
+        }
+      }
+    ],
+    "description": {
+      "en": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS21"
+  },
+  {
+    "id": "hgssp-HGSS20",
+    "name": {
+      "en": "Entei",
+      "fr": "Entei"
+    },
+    "illustrator": "Yuri Umemura",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      244
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare Blitz",
+          "fr": "Boutefeu"
+        },
+        "effect": {
+          "en": "Discard all Fire Energy attached to Entei.",
+          "fr": "Défaussez toutes les Énergies  attachées à Entei."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275599,
+          "tcgplayer": 85273
+        }
+      }
+    ],
+    "description": {
+      "en": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS20"
+  },
+  {
+    "id": "hgssp-HGSS19",
+    "name": {
+      "en": "Raikou",
+      "fr": "Raikou"
+    },
+    "illustrator": "Noriko Hotta",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      243
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Zap Cannon",
+          "fr": "Elecanon"
+        },
+        "effect": {
+          "en": "During your next turn, Raikou can't use Zap Cannon.",
+          "fr": "Lors de votre prochain tour, Raikou ne pourra pas utiliser Elecanon."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275595,
+          "tcgplayer": 88535
+        }
+      }
+    ],
+    "description": {
+      "en": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS19"
+  },
+  {
+    "id": "hgssp-HGSS18",
+    "name": {
+      "en": "Tropical Tidal Wave",
+      "fr": "Raz-de-marée tropical"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "category": "Trainer",
+    "dexId": [
+      25,
+      183,
+      54,
+      187
+    ],
+    "effect": {
+      "en": "Flip a coin. If heads, discard all Trainer and Stadium cards your opponent has in play. If tails, discard all Trainer and Stadium cards you have in play.",
+      "fr": "Lancez une pièce. Si c'est face, défaussez toutes les cartes Dresseur et Stade que votre adversaire a en jeu. Si c'est pile, défaussez toutes les cartes Dresseur et Stade que vous avez en jeu."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010"
+        ],
+        "thirdParty": {
+          "cardmarket": 275594,
+          "tcgplayer": 90052
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "staff"
+        ],
+        "thirdParty": {
+          "tcgplayer": 97703
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "finalist"
+        ]
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "quarter-finalist"
+        ],
+        "thirdParty": {
+          "tcgplayer": 97701
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "semi-finalist"
+        ],
+        "thirdParty": {
+          "tcgplayer": 97702
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "top-sixteen"
+        ],
+        "thirdParty": {
+          "tcgplayer": 97700
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "worlds-2010",
+          "top-thirty-two"
+        ],
+        "thirdParty": {
+          "tcgplayer": 97699
+        }
+      }
+    ],
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS18"
+  },
+  {
+    "id": "hgssp-HGSS17",
+    "name": {
+      "en": "Minun",
+      "fr": "Négapi"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      312
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Call for Family",
+          "fr": "Appel à la famille"
+        },
+        "effect": {
+          "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+          "fr": "Cherchez jusqu'à 2 cartes Pokémon de base dans votre deck et placez-les sur votre Banc. Mélangez ensuite votre deck."
+        }
+      },
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Tag Team Boost",
+          "fr": "Boost de groupe"
+        },
+        "effect": {
+          "en": "If Plusle is on your Bench, this attack does 10 damage plus 20 more damage.",
+          "fr": "Si Posipi se trouve sur votre Banc, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275596,
+          "tcgplayer": 87492
+        }
+      }
+    ],
+    "description": {
+      "en": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS17"
+  },
+  {
+    "id": "hgssp-HGSS16",
+    "name": {
+      "en": "Plusle",
+      "fr": "Posipi"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      311
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Collect",
+          "fr": "Collectionner"
+        },
+        "effect": {
+          "en": "Draw 2 cards.",
+          "fr": "Piochez 2 cartes."
+        }
+      },
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Jolt",
+          "fr": "Secousse tonnerre"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, Plusle does 10 damage to itself.",
+          "fr": "Lancez une pièce. Si c'est pile, Posipi s'inflige 10 dégâts."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275597,
+          "tcgplayer": 88172
+        }
+      }
+    ],
+    "description": {
+      "en": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS16"
+  },
+  {
+    "id": "hgssp-HGSS15",
+    "name": {
+      "en": "Shuckle",
+      "fr": "Caratroc"
+    },
+    "illustrator": "match",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      213
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Fermenting Liquid",
+          "fr": "Liquide fermenté"
+        },
+        "effect": {
+          "en": "Whenever you attach an Energy card from your hand to Shuckle, draw a card.",
+          "fr": "Lorsque vous attachez une carte Énergie de votre main à Caratroc, piochez une carte."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Shell Stunner",
+          "fr": "Carafrappe"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all damage done to Shuckle by attacks during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, évitez tous les dégâts infligés à Caratroc par des attaques pendant le prochain tour de votre adversaire."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275598,
+          "tcgplayer": 89193
+        }
+      }
+    ],
+    "description": {
+      "en": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS15"
+  },
+  {
+    "id": "hgssp-HGSS14",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      131
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Ferry",
+          "fr": "Transbordeur"
+        },
+        "effect": {
+          "en": "Search your discard pile for a Supporter card, show it to your opponent, and put it into your hand.",
+          "fr": "Cherchez une carte Supporter dans votre pile de défausse, montrez-la à votre adversaire, puis ajoutez-la à votre main."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Surf",
+          "fr": "Surf"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275605,
+          "tcgplayer": 86621
+        }
+      }
+    ],
+    "description": {
+      "en": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS14"
+  },
+  {
+    "id": "hgssp-HGSS13",
+    "name": {
+      "en": "Smoochum",
+      "fr": "Lippouti"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      238
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Sweet Sleeping Face",
+          "fr": "Joli visage endormi"
+        },
+        "effect": {
+          "en": "As long as Smoochum is Asleep, prevent all damage done to Smoochum by attacks.",
+          "fr": "Tant que Lippouti reste Endormi, prévenez tous les dégâts qui peuvent lui être infligés par des attaques."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "name": {
+          "en": "Energy Antics",
+          "fr": "Singénergies"
+        },
+        "effect": {
+          "en": "Move an Energy card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon. Smoochum is now Asleep.",
+          "fr": "Déplacez une carte Énergie attachée à l'un des Pokémon de votre adversaire sur un autre de ses Pokémon. Lippouti est maintenant Endormi."
+        }
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275606,
+          "tcgplayer": 89364
+        }
+      }
+    ],
+    "description": {
+      "en": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS13"
+  },
+  {
+    "id": "hgssp-HGSS12",
+    "name": {
+      "en": "Cleffa",
+      "fr": "Mélo"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      173
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Sweet Sleeping Face",
+          "fr": "Joli visage endormi"
+        },
+        "effect": {
+          "en": "As long as Cleffa is Asleep, prevent all damage done to Cleffa by attacks.",
+          "fr": "Tant que Mélo reste Endormi, prévenez tous les dégâts qui peuvent lui être infligés par des attaques."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "name": {
+          "en": "Eeeeeeek",
+          "fr": "Arheuuuuu"
+        },
+        "effect": {
+          "en": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep.",
+          "fr": "Mélangez votre main avec votre deck, piochez ensuite 6 cartes. Mélo est maintenant Endormi."
+        }
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275614,
+          "tcgplayer": 84368
+        }
+      }
+    ],
+    "description": {
+      "en": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS12"
+  },
+  {
+    "id": "hgssp-HGSS11",
+    "name": {
+      "en": "Latios",
+      "fr": "Latios"
+    },
+    "illustrator": "Wataru Kawahara",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      381
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Luster Float",
+          "fr": "Éclat ondoyant"
+        },
+        "effect": {
+          "en": "If you have Latias in play, the Retreat Cost for Latios is 0.",
+          "fr": "Si vous avez Latias en jeu, le Coût de retraite de Latios est de 0."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Infinite Wing",
+          "fr": "Aile éternelle"
+        },
+        "effect": {
+          "en": "Discard 2 Energy attached to Latios.",
+          "fr": "Défaussez 2 Énergies attachées à Latios."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275615,
+          "tcgplayer": 97706
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "tcgplayer": 86667
+        }
+      }
+    ],
+    "description": {
+      "en": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS11"
+  },
+  {
+    "id": "hgssp-HGSS10",
+    "name": {
+      "en": "Latias",
+      "fr": "Latias"
+    },
+    "illustrator": "Wataru Kawahara",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      380
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Energy Assist",
+          "fr": "Assist-Énergie"
+        },
+        "effect": {
+          "en": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon.",
+          "fr": "Choisissez dans votre pile de défausse une carte Énergie de base et attachez-la à 1 des Pokémon de votre Banc."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Infinite Wind",
+          "fr": "Vent éternel"
+        },
+        "effect": {
+          "en": "If Latios is on your Bench, remove 2 damage counters from each of your Benched Pokémon.",
+          "fr": "Si Latios est sur votre Banc, retirez 2 marqueurs de dégât à chacun de vos Pokémon de Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275616,
+          "tcgplayer": 97705
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "tcgplayer": 86653
+        }
+      }
+    ],
+    "description": {
+      "en": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS10"
+  },
+  {
+    "id": "hgssp-HGSS09",
+    "name": {
+      "en": "Typhlosion",
+      "fr": "Typhlosion"
+    },
+    "illustrator": "Wataru Kawahara",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      157
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Quilava",
+      "fr": "Feurisson"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Afterburner",
+          "fr": "Combustion"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may search your discard pile for a Fire Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. This power can't be used if Typhlosion is affected by a Special Condition.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez chercher dans votre pile de défausse une carte Énergie  et l'attacher à l'un de vos Pokémon. Dans ce cas, ajoutez un marqueur de dégât à ce Pokémon. Ce pouvoir ne peut pas être utilisé si Typhlosion est affecté par un État Spécial."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare Destroy",
+          "fr": "Éclatodestruction"
+        },
+        "effect": {
+          "en": "Discard an Energy card attached to Typhlosion and discard an Energy card attached to the Defending Pokémon.",
+          "fr": "Défaussez une carte Énergie attachée à Typhlosion et une carte Énergie attachée au Pokémon Défenseur."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275617,
+          "tcgplayer": 90108
+        }
+      }
+    ],
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS09"
+  },
+  {
+    "id": "hgssp-HGSS08",
+    "name": {
+      "en": "Meganium",
+      "fr": "Méganium"
+    },
+    "illustrator": "Noriko Hotta",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      154
+    ],
+    "hp": 150,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Bayleef",
+      "fr": "Macronium"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Leaf Trans",
+          "fr": "Transfo feuille"
+        },
+        "effect": {
+          "en": "As often as you like during your turn (before your attack), you may move a Grass Energy attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Meganium is affected by a Special Condition.",
+          "fr": "Autant de fois que vous le souhaitez pendant votre tour (avant votre attaque), vous pouvez déplacer une carte Énergie  attachée à l'un de vos Pokémon sur un autre Pokémon. Ce pouvoir ne peut pas être utilisé si Meganium est affecté par un État Spécial."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Solarbeam",
+          "fr": "Lance-soleil"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275613,
+          "tcgplayer": 87295
+        }
+      }
+    ],
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS08"
+  },
+  {
+    "id": "hgssp-HGSS07",
+    "name": {
+      "en": "Feraligatr",
+      "fr": "Aligatueur"
+    },
+    "illustrator": "Kent Kanetsuna",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      160
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Croconaw",
+      "fr": "Crocrodil"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Rain Dance",
+          "fr": "Danse pluie"
+        },
+        "effect": {
+          "en": "As often as you like during your turn (before your attack), you may attach a Water Energy from your hand to 1 of your Water Pokémon. This power can't be used if Feraligatr is affected by a Special Condition.",
+          "fr": "Autant de fois que vous le souhaitez pendant votre tour (avant votre attaque), vous pouvez attacher une carte Énergie  de votre main à l'un de vos Pokémon . Ce pouvoir ne peut pas être utilisé si Aligatueur est affecté par un État Spécial."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Hydro Crunch",
+          "fr": "Hydro-machouille"
+        },
+        "effect": {
+          "en": "Does 60 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+          "fr": "Inflige 60 dégâts plus 10 dégâts supplémentaires pour chaque marqueur de dégât sur le Pokémon Défenseur."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275612,
+          "tcgplayer": 85421
+        }
+      }
+    ],
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS07"
+  },
+  {
+    "id": "hgssp-HGSS06",
+    "name": {
+      "en": "Noctowl",
+      "fr": "Noarfang"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      164
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Hoothoot",
+      "fr": "Hoothoot"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Night Scope",
+          "fr": "Regard Nocturne"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may look at your opponent's hand. This power can't be used if Noctowl is affected by a Special Condition.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez regarder la main de votre adversaire. Ce pouvoir ne peut pas être utilisé si Noarfang est affecté par un État spécial."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hypnoblast",
+          "fr": "Hypnoblast"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Asleep.",
+          "fr": "Le Pokémon Défenseur est maintenant Endormi."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275608,
+          "tcgplayer": 87795
+        }
+      }
+    ],
+    "description": {
+      "en": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS06"
+  },
+  {
+    "id": "hgssp-HGSS05",
+    "name": {
+      "en": "Hoothoot",
+      "fr": "Hoothoot"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      163
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Insomnia",
+          "fr": "Insomnia"
+        },
+        "effect": {
+          "en": "Hoothoot can't be Asleep.",
+          "fr": "Hoothoot ne peut pas être endormi."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Peck",
+          "fr": "Picpic"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275607,
+          "tcgplayer": 86174
+        }
+      }
+    ],
+    "description": {
+      "en": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS05"
+  },
+  {
+    "id": "hgssp-HGSS04",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké"
+    },
+    "illustrator": "match",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      202
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Tenacious Bind",
+          "fr": "Liaison tenace"
+        },
+        "effect": {
+          "en": "As long as Wobbuffet is your Active Pokémon, your opponent's Active Pokémon's Retreat Cost is ColorlessColorless more.",
+          "fr": "Tant que Qulbutoke est votre Pokémon Actif, le Coût de retraite du Pokémon Actif de votre adversaire est augmenté de ."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Trip Over",
+          "fr": "Croche-pied"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts plus 30 dégâts supplémentaires."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275609,
+          "tcgplayer": 90622
+        }
+      }
+    ],
+    "description": {
+      "en": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS04"
+  },
+  {
+    "id": "hgssp-HGSS03",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Recharge",
+          "fr": "Recharge"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward.",
+          "fr": "Lancez une pièce. Si c'est face, cherchez une carte Énergie  dans votre deck et attachez-la à Pikachu. Mélangez ensuite votre deck."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt",
+          "fr": "Tonnerre"
+        },
+        "effect": {
+          "en": "Discard all Energy attached to Pikachu.",
+          "fr": "Défaussez toutes les cartes Énergie attachées à Pikachu."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275610,
+          "tcgplayer": 88098
+        }
+      }
+    ],
+    "description": {
+      "en": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS03"
+  },
+  {
+    "id": "hgssp-HGSS02",
+    "name": {
+      "en": "Lugia",
+      "fr": "Lugia"
+    },
+    "illustrator": "Takashi Yamaguchi",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      249
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Wave Splash",
+          "fr": "Grosse vague"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Aeroblast",
+          "fr": "Aeroblast"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 50 dégâts plus 20 dégâts supplémentaires pour chaque face."
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275611,
+          "tcgplayer": 86909
+        }
+      }
+    ],
+    "description": {
+      "en": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS02"
+  },
+  {
+    "id": "hgssp-HGSS01",
+    "name": {
+      "en": "Ho-Oh",
+      "fr": "Ho-Oh"
+    },
+    "illustrator": "Takashi Yamaguchi",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      250
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Combustion",
+          "fr": "Fournaise"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sacred Fire",
+          "fr": "Feu sacré"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance.",
+          "fr": "Lancez une pièce. Si c'est face, choisissez 1 des Pokémon de votre adversaire. Cette attaque lui inflige 80 dégâts. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 275618,
+          "tcgplayer": 86125
+        }
+      }
+    ],
+    "description": {
+      "en": "A legend says that its body glows in seven colors. A rainbow is said to form behind when it flies."
+    },
+    "series": {
+      "id": "hgss"
+    },
+    "set": {
+      "id": "hgssp"
+    },
+    "cardNumber": "HGSS01"
+  }
+]

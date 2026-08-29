@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "pop6-9",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spark",
+          "fr": "Étincelle",
+          "de": "Sinelbeere"
+        },
+        "effect": {
+          "en": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 10 dégâts à 2 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Entferne am Ende deines Zuges 1 Schadensmarke von Pikachu."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277894,
+          "tcgplayer": 88087
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277894,
+          "tcgplayer": 88087
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "pokemon-day"
+        ],
+        "thirdParty": {
+          "cardmarket": 277894,
+          "tcgplayer": 276377
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop6-8",
+    "name": {
+      "en": "Riolu",
+      "fr": "Riolu",
+      "de": "Riolu"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      447
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Wild Kick",
+          "fr": "Coup déchaîné",
+          "de": "Stürmischer Kick"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque est sans effet.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277893,
+          "tcgplayer": 88752
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277893,
+          "tcgplayer": 88752
+        }
+      }
+    ],
+    "description": {
+      "en": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "de": "Die Aura, die dieses PKMN umgibt, verstärkt sich, wenn es zeigen will, dass es ängstlich oder traurig ist."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop6-7",
+    "name": {
+      "en": "Gible",
+      "fr": "Griknot",
+      "de": "Kaumalat"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      443
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Surprise Attack",
+          "fr": "Attaque surprise",
+          "de": "Sinelbeere"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque est sans effet.",
+          "de": "Entferne am Ende deines Zuges 1 Schadensmarke von Kaumalat."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277892,
+          "tcgplayer": 85699
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277892,
+          "tcgplayer": 85699
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop6-6",
+    "name": {
+      "en": "Drifloon",
+      "fr": "Baudrive",
+      "de": "Driftlon"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      425
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Blowing Wind",
+          "fr": "Vent violent",
+          "de": "Windböe"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to it on top of your deck. Shuffle your deck afterward.",
+          "fr": "Lancez une pièce. Si c'est face, placez 1 de vos Pokémon de Banc et toutes les cartes qui lui sont attachées au dessus de votre deck. Ensuite, mélangez votre deck.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ lege 1 der Pokémon auf deiner Bank und alle an es angelegten Karten auf dein Deck. Mische dein Deck danach."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ominous Wind",
+          "fr": "Vent Mauvais",
+          "de": "Unheilböen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus et ne peut pas battre en retraite lors du prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt und kann sich im nächsten Zug deines Gegners nicht zurückziehen."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Colorless",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277891,
+          "tcgplayer": 84954
+        }
+      }
+    ],
+    "description": {
+      "en": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "de": "Ein PKMN, entstanden aus den Gefühlen von Menschen und PKMN. Es mag feuchte Jahreszeiten."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop6-5",
+    "name": {
+      "en": "Rampardos",
+      "fr": "Charkos",
+      "de": "Rameidon"
+    },
+    "illustrator": "Kazuyuki Kano",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      409
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Cranidos",
+      "fr": "Kranidos",
+      "de": "Koknodon"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Assurance",
+          "fr": "Assurance",
+          "de": "Gewissheit"
+        },
+        "effect": {
+          "en": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30.",
+          "fr": "Tant qu'il reste un maximum de 60 PV au Pokémon Défenseur, les dégâts de base de cette attaque sont de 60 au lieu de 30.",
+          "de": "Solange die verbliebenen KP des Verteidigenden Pokémon 60 oder weniger betragen, beträgt der Grundschaden dieses Angriffs 60 Schadenspunkte anstelle von 30 Schadenspunkten."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Hasty Headbutt",
+          "fr": "Coup d'boule rapide",
+          "de": "Hastige Kopfnuss"
+        },
+        "effect": {
+          "en": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "fr": "Charkos s'inflige 20 dégâts. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance, les Poké-Power, les Poké-Bodies ou tout autre effet sur le Pokémon Défenseur.",
+          "de": "Rameidon fügt sich selbst 20 Schadenspunkte zu. Schwäche, Resistenz, Poké-Power, Poké-Body und alle anderen Effekte auf dem Verteidigenden Pokémon haben keine Auswirkungen auf die Schadenspunkte dieses Angriffs."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277890,
+          "tcgplayer": 88570
+        }
+      }
+    ],
+    "description": {
+      "en": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+      "de": "Sein kräftiger Kopfstoß hat genug Kraft, um selbst die stabilsten Dinge zu zerschmettern."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop6-4",
+    "name": {
+      "en": "Pachirisu",
+      "fr": "Pachirisu",
+      "de": "Pachirisu"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      417
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Minor Errand-Running",
+          "fr": "Rendez-vous mineur",
+          "de": "Kleine Besorgung"
+        },
+        "effect": {
+          "en": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
+          "fr": "Choisissez dans votre deck une Carte Énergie de base, montrez-la à votre adversaire et placez-la dans votre main. Ensuite, mélangez votre deck.",
+          "de": "Durchsuche dein Deck nach einer Basis-Energiekarte, zeige sie deinem Gegner und nimm sie auf die Hand. Mische dein Deck danach."
+        }
+      },
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Jolt",
+          "fr": "Secousse tonnerre",
+          "de": "Donnerrüttler"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, Pachirisu does 10 damage to itself.",
+          "fr": "Lancez une pièce. Si c'est pile, Pachirisu s'inflige 10 dégâts.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ fügt sich Pachirisu selbst 10 Schadenspunkte zu."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277889,
+          "tcgplayer": 87898
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277889,
+          "tcgplayer": 87898
+        }
+      }
+    ],
+    "description": {
+      "en": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "de": "Es bildet ein Fellknäuel, der vor statischer Energie knistert. Es speichert die Energie in Bäumen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop6-3",
+    "name": {
+      "en": "Manaphy",
+      "fr": "Manaphy",
+      "de": "Manaphy"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      490
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Call for Family",
+          "fr": "Appel à la famille",
+          "de": "Familienruf"
+        },
+        "effect": {
+          "en": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward.",
+          "fr": "Choisissez dans votre deck un Pokémon de Base et placez-le sur votre Banc. Ensuite, mélangez votre deck.",
+          "de": "Durchsuche dein Deck nach 1 Basis-Pokémon-Karte und lege sie auf deine Bank. Mische dein Deck danach."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Aqua Ring",
+          "fr": "Anneau hydro",
+          "de": "Wasserring"
+        },
+        "effect": {
+          "en": "Switch Manaphy with 1 of your Benched Pokémon.",
+          "fr": "Échangez Manaphy avec 1 des Pokémon de votre Banc.",
+          "de": "Tausche Manaphy gegen 1 Pokémon auf deiner Bank aus."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277888,
+          "tcgplayer": 87144
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277888,
+          "tcgplayer": 87144
+        }
+      }
+    ],
+    "description": {
+      "en": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+      "de": "Geboren auf dem Meeresboden, legt es große Entfernungen zurück, um dorthin zurückzukehren."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop6-2",
+    "name": {
+      "en": "Lucario",
+      "fr": "Lucario",
+      "de": "Lucario"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Riolu",
+      "fr": "Riolu",
+      "de": "Riolu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Feint",
+          "fr": "Ruse",
+          "de": "Offenlegung"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+          "de": "Der Schaden dieses Angriffs wird durch die Resistenz des Verteidigenden Pokémon nicht verändert."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Aura Sphere",
+          "fr": "Aurasphère",
+          "de": "Aurasphäre"
+        },
+        "effect": {
+          "en": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 20 dégâts à 1 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277887,
+          "tcgplayer": 86874
+        }
+      }
+    ],
+    "description": {
+      "en": "It has the ability to sense the auras of all things. It understands human speech.",
+      "de": "Es besitzt die Fähigkeit, die Aura aller Dinge zu spüren. Es versteht die menschliche Sprache."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop6-17",
+    "name": {
+      "en": "Turtwig",
+      "fr": "Tortipouss",
+      "de": "Chelast"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      387
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "fr": "Tranch'herbe",
+          "de": "Rasierblatt"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277902,
+          "tcgplayer": 90072
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277902,
+          "tcgplayer": 90072
+        }
+      }
+    ],
+    "description": {
+      "en": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "de": "Es besteht aus Erdreich. Trinkt es Wasser, verhärtet sich der Panzer auf seinem Rücken. Es lebt an Seen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop6-16",
+    "name": {
+      "en": "Starly",
+      "fr": "Étourmi",
+      "de": "Staralili"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      396
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade",
+          "de": "Windstoß"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277901,
+          "tcgplayer": 89521
+        }
+      }
+    ],
+    "description": {
+      "en": "They flock in great numbers. Though small, they flap their wings with great power.",
+      "de": "Ihr Schwarm ist stets groß. Obwohl es kleine PKMN sind, schwingen sie ihre Flügel mit enormer Kraft."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop6-15",
+    "name": {
+      "en": "Piplup",
+      "fr": "Tiplouf",
+      "de": "Plinfa"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      393
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Peck",
+          "fr": "Picpic",
+          "de": "Schnabel"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Spash",
+          "fr": "Éclaboussure",
+          "de": "Wasserplatscher"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277900,
+          "tcgplayer": 88143
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277900,
+          "tcgplayer": 88143
+        }
+      }
+    ],
+    "description": {
+      "en": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "de": "Es ist sehr stolz und nimmt daher kein Futter von anderen an. Seine dicken Daunen schützen vor Kälte."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop6-14",
+    "name": {
+      "en": "Chimchar",
+      "fr": "Ouisticram",
+      "de": "Panflam"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      390
+    ],
+    "hp": 50,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe",
+          "de": "Kratzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ember",
+          "fr": "Flammèche",
+          "de": "Glut"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads discard a Fire Energy attached to Chimchar.",
+          "fr": "Lancez une pièce. Si c'est pile, défaussez une Énergie  attachée à Ouisticram.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ lege eine {R}-Energie, die an Panflam angelegt ist, auf deinen Ablagestapel."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277899,
+          "tcgplayer": 84283
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277899,
+          "tcgplayer": 84283
+        }
+      }
+    ],
+    "description": {
+      "en": "It agilely scales cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "de": "Es klettert behände steile Felsen hinauf, um auf Bergen zu leben. Sein Feuer ist aus, wenn es schläft."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop6-13",
+    "name": {
+      "en": "Cherubi",
+      "fr": "Ceribou",
+      "de": "Kikugi"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      420
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Sleep Powder",
+          "fr": "Poudre dodo",
+          "de": "Schlafpuder"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Asleep.",
+          "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+          "de": "Das Verteidigende Pokémon schläft jetzt."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leech Seed",
+          "fr": "Vampigraine",
+          "de": "Egelsamen"
+        },
+        "effect": {
+          "en": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi.",
+          "fr": "Si cette attaque inflige des dégâts au Pokémon Défenseur (après application de la Faiblesse et de la Résistance), retirez 1 marqueur de dégât à Ceribou.",
+          "de": "Falls dieser Angriff dem Verteidigenden Pokémon Schaden zufügt (nachdem Schwäche und Resistenz verrechnet wurden), entferne 1 Schadensmarke von Kikugi."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277898,
+          "tcgplayer": 84260
+        }
+      }
+    ],
+    "description": {
+      "en": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+      "de": "Das kleine Bällchen enthält alles, was es für die Entwicklung braucht. Es ist süß und lecker."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop6-12",
+    "name": {
+      "en": "Buneary",
+      "fr": "Laporeille",
+      "de": "Haspiror"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      427
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Splash",
+          "fr": "Trempette",
+          "de": "Platscher"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Jump Kick",
+          "fr": "Pied Sauté",
+          "de": "Sprungkick"
+        },
+        "effect": {
+          "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 10 dégâts à 1 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277897,
+          "tcgplayer": 84038
+        }
+      }
+    ],
+    "description": {
+      "en": "It slams foes by sharply uncoiling is rolled ears. It stings enough to make a grown-up cry in pain.",
+      "de": "Es entrollt seine Ohren sehr schnell, um seine Gegner schmerzhaft zu schlagen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop6-11",
+    "name": {
+      "en": "Bidoof",
+      "fr": "Keunotor",
+      "de": "Bidiza"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      399
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Amnesia",
+          "fr": "Amnésie",
+          "de": "Amnesie"
+        },
+        "effect": {
+          "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "fr": "Choisissez 1 des attaques du Pokémon Défenseur. Ce Pokémon ne peut pas utiliser cette attaque lors du prochain tour de votre adversaire.",
+          "de": "Wähle 1 Angriff des Verteidigenden Pokémon. Dieses Pokémon kann den gewählten Angriff im nächsten Zug deines Gegners nicht einsetzen."
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Scavenge",
+          "fr": "Farfouille",
+          "de": "Aasfresser"
+        },
+        "effect": {
+          "en": "Search your discard pile for a Trainer card, show it to your opponent, an put it into your hand.",
+          "fr": "Choisissez une carte Dresseur dans votre pile de défausse, montrez-la à votre adversaire et placez-la dans votre main.",
+          "de": "Durchsuche deinen Ablagestapel nach einer Trainerkarte, zeige sie deinem Gegner und nimm sie auf die Hand."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277896,
+          "tcgplayer": 83826
+        }
+      }
+    ],
+    "description": {
+      "en": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "de": "Es hat Nerven wie Drahtseile, nichts kann es erschüttern. Es ist agiler und aktiver, als es scheint."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop6-10",
+    "name": {
+      "en": "Staravia",
+      "fr": "Étourvol",
+      "de": "Staravia"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      397
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Starly",
+      "fr": "Étourmi",
+      "de": "Staralili"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Whirlwind",
+          "fr": "Cyclone",
+          "de": "Wirbelwind"
+        },
+        "effect": {
+          "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+          "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 des Pokémon de son Banc.",
+          "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Clutch",
+          "fr": "Serre",
+          "de": "Greifer"
+        },
+        "effect": {
+          "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "fr": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+          "de": "Das Verteidigende Pokémon kann sich im nächsten Zug deines Gegners nicht zurückziehen."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277895,
+          "tcgplayer": 89514
+        }
+      }
+    ],
+    "description": {
+      "en": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+      "de": "Auf der Suche nach Käfer-PKMN fliegt es über Wiesen und Wälder. Es bleibt in einem großen Schwarm."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop6-1",
+    "name": {
+      "en": "Bastiodon",
+      "fr": "Bastiodon",
+      "de": "Bollterus"
+    },
+    "illustrator": "Kazuyuki Kano",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      411
+    ],
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "en": "Shieldon",
+      "fr": "Dinoclier",
+      "de": "Schilterus"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Protective Wall",
+          "fr": "Mur protecteur",
+          "de": "Schutzwall"
+        },
+        "effect": {
+          "en": "Prevent all damage done to your Benched Pokémon by your opponent's attacks.",
+          "fr": "Prévenez tous les dégâts infligés à vos Pokémon de Banc par des attaques de votre adversaire.",
+          "de": "Verhindere allen Schaden, der Pokémon auf deiner Bank durch gegnerische Angriffe zugefügt wird."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Anger Revenge",
+          "fr": "Vengeance furieuse",
+          "de": "Zornesrache"
+        },
+        "effect": {
+          "en": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Si des dégâts ont été infligés à Bastiodon par une attaque lors du dernier tour de votre adversaire, cette attaque inflige 40 dégâts à 1 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Wenn Bollterus im letzten Zug deines Gegners durch einen Angriff Schaden zugefügt wurde, fügt dieser Angriff 1 Pokémon auf der Bank deines Gegners 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+40"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277886,
+          "tcgplayer": 83735
+        }
+      }
+    ],
+    "description": {
+      "en": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+      "de": "Jeder Frontalangriff wird abgeschmettert. Dieses friedliche PKMN ernährt sich von Gras und Beeren."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop6"
+    },
+    "cardNumber": "1"
+  }
+]

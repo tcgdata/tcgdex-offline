@@ -1,0 +1,938 @@
+[
+  {
+    "id": "ru1-9",
+    "name": {
+      "en": "Mewtwo"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Super Psy Bolt"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278850,
+          "tcgplayer": 87423
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "ru1-8",
+    "name": {
+      "en": "Zapdos"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      145
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Drill Peck"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278849,
+          "tcgplayer": 90720
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "ru1-7",
+    "name": {
+      "en": "Pikachu"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Volt Tackle"
+        },
+        "effect": {
+          "en": "Pikachu does 10 damage to itself."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278848,
+          "tcgplayer": 88096
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "ru1-6",
+    "name": {
+      "en": "Gyarados"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Magikarp"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thrash Tackle"
+        },
+        "effect": {
+          "en": "Gyarados does 20 damage to itself."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278847,
+          "tcgplayer": 87775
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "ru1-5",
+    "name": {
+      "en": "Starmie"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Staryu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spiral Drain"
+        },
+        "effect": {
+          "en": "Remove 1 damage counter from Starmie."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278846,
+          "tcgplayer": 87775
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "ru1-4",
+    "name": {
+      "en": "Heatran"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      485
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heat Boiler"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon is a Water Pokémon, this attack does 60 damage plus 40 more damage."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal"
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "ru1-3",
+    "name": {
+      "en": "Ninetales"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      38
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Vulpix"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flame Tail"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal"
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "ru1-2",
+    "name": {
+      "en": "Cherrim"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Cherubi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Solarbeam"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278843,
+          "tcgplayer": 84256
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "ru1-16",
+    "name": {
+      "en": "Bibarel"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      400
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Bidoof"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rollout"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278857,
+          "tcgplayer": 83820
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "ru1-15",
+    "name": {
+      "en": "Rattata"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      19
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278856,
+          "tcgplayer": 88620
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "ru1-14",
+    "name": {
+      "en": "Bastiodon"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      411
+    ],
+    "hp": 120,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "en": "Shieldon"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Strength"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278855,
+          "tcgplayer": 83737
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "ru1-13",
+    "name": {
+      "en": "Skuntank"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      435
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Stunky"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rage"
+        },
+        "effect": {
+          "en": "Does 20 damage plus 10 more damage for each damage counter on Skuntank."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278854,
+          "tcgplayer": 89281
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "ru1-12",
+    "name": {
+      "en": "Lucario"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Riolu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Metal Claw"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pulse Blast"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278853,
+          "tcgplayer": 86879
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "ru1-11",
+    "name": {
+      "en": "Diglett"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      50
+    ],
+    "hp": 30,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dig"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278852,
+          "tcgplayer": 84825
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "ru1-10",
+    "name": {
+      "en": "Mew"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Cut"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Will-o'-the-wisp"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278850,
+          "tcgplayer": 87404
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "ru1-1",
+    "name": {
+      "en": "Venusaur"
+    },
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      3
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Ivysaur"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Giga Drain"
+        },
+        "effect": {
+          "en": "Remove from Venusaur the number of damage counters equal to the damage you did to the Defending Pokémon."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278842,
+          "tcgplayer": 90320
+        }
+      }
+    ],
+    "series": {
+      "id": "pl"
+    },
+    "set": {
+      "id": "ru1"
+    },
+    "cardNumber": "1"
+  }
+]

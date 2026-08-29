@@ -1,0 +1,650 @@
+[
+  {
+    "id": "2017sm-9",
+    "name": {
+      "en": "Alolan Diglett",
+      "fr": "Taupiqueur d'Alola"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      50
+    ],
+    "hp": 50,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [],
+        "name": {
+          "en": "Spelunk",
+          "fr": "Spéléologue"
+        },
+        "effect": {
+          "en": "Look at the top 3 cards of your deck and put them back in any order.",
+          "fr": "Regardez les 3 cartes du dessus de votre deck et replacez-les dans l'ordre de votre choix."
+        }
+      },
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "en": "Mud-Slap",
+          "fr": "Coud'Boue"
+        },
+        "damage": "10"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301851,
+          "tcgplayer": 152689
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "2017sm-8",
+    "name": {
+      "en": "Alolan Meowth",
+      "fr": "Miaouss d'Alola"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      52
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [],
+        "name": {
+          "en": "Fury Swipes",
+          "fr": "Combo-Griffe"
+        },
+        "effect": {
+          "en": "Flip 3 coins. This attack does 10 damage for each heads",
+          "fr": "Lancez 3 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face."
+        },
+        "damage": "10×"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301850,
+          "tcgplayer": 152688
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "2017sm-7",
+    "name": {
+      "en": "Crabrawler",
+      "fr": "Crabagarre"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      739
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Punch",
+          "fr": "Koud'Poing"
+        },
+        "damage": "20"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Crabhammer",
+          "fr": "Pince-Masse"
+        },
+        "damage": "40"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301849,
+          "tcgplayer": 152687
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "2017sm-6",
+    "name": {
+      "en": "Cosmog",
+      "fr": "Cosmog"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      789
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dust Gathering",
+          "fr": "Ramasse Poussière"
+        },
+        "effect": {
+          "en": "Draw a card",
+          "fr": "Piochez une carte."
+        }
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301848,
+          "tcgplayer": 152686
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "2017sm-5",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thudner Wave",
+          "fr": "Cage-Éclair"
+        },
+        "effect": {
+          "en": "Flip a coin, If heads your opponent's active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Boule Élek"
+        },
+        "damage": "50"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301847,
+          "tcgplayer": 152685
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "2017sm-4",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      728
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras'Face"
+        },
+        "damage": "10"
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Gun",
+          "fr": "Pistolet à O"
+        },
+        "damage": "20"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301846,
+          "tcgplayer": 152684
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "2017sm-3",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      725
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": "10"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare",
+          "fr": "Flamboiement"
+        },
+        "damage": "20"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301845,
+          "tcgplayer": 152683
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "2017sm-2",
+    "name": {
+      "en": "Grubbin",
+      "fr": "Larvibule"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      736
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Vice Grips",
+          "fr": "Force Poigne"
+        },
+        "damage": "20"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301844,
+          "tcgplayer": 152682
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "2017sm-12",
+    "name": {
+      "en": "Yungoos",
+      "fr": "Manglouton"
+    },
+    "illustrator": "match",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      734
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge"
+        },
+        "damage": "10"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": "20"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301854,
+          "tcgplayer": 152693
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "2017sm-11",
+    "name": {
+      "en": "Pikipek",
+      "fr": "Picassaut"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      731
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Smash",
+          "fr": "Éclate-Roc"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires."
+        },
+        "damage": "10+"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301853,
+          "tcgplayer": 152692
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "2017sm-10",
+    "name": {
+      "en": "Cutiefly",
+      "fr": "Bombydou"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      742
+    ],
+    "hp": 30,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Fly Around",
+          "fr": "Papillonnement"
+        },
+        "effect": {
+          "en": "If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage.",
+          "fr": "Si des dégâts sont infligés à ce Pokémon par des attaques pendant le prochain tour de votre adversaire, lancez une pièce. Si c'est face, évitez ces dégâts."
+        },
+        "damage": "10"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301852,
+          "tcgplayer": 152690
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "2017sm-1",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      722
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge"
+        },
+        "damage": "10"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leafage",
+          "fr": "Feuillage"
+        },
+        "damage": "20"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 301843,
+          "tcgplayer": 152681
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2017sm"
+    },
+    "cardNumber": "1"
+  }
+]

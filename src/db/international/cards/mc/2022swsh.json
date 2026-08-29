@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "2022swsh-9",
+    "name": {
+      "en": "Flaaffy",
+      "fr": "Lainergie",
+      "es": "Flaaffy",
+      "it": "Flaaffy",
+      "pt": "Flaaffy",
+      "de": "Waaty"
+    },
+    "illustrator": "sui",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      180
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Mareep",
+      "fr": "Wattouat",
+      "es": "Mareep",
+      "it": "Mareep",
+      "pt": "Mareep",
+      "de": "Voltilamm"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Electro Ball",
+          "fr": "Boule Élek",
+          "es": "Bola Voltio",
+          "it": "Energisfera",
+          "pt": "Bola Elétrica",
+          "de": "Elektroball"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670474,
+          "tcgplayer": 281478
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "2022swsh-8",
+    "name": {
+      "en": "Chinchou",
+      "fr": "Loupio",
+      "es": "Chinchou",
+      "it": "Chinchou",
+      "pt": "Chinchou",
+      "de": "Lampi"
+    },
+    "illustrator": "sowsow",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      170
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Electro Ball",
+          "fr": "Boule Élek",
+          "es": "Bola Voltio",
+          "it": "Energisfera",
+          "pt": "Bola Elétrica",
+          "de": "Elektroball"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670473,
+          "tcgplayer": 281491
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "2022swsh-7",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "es": "Pikachu",
+      "it": "Pikachu",
+      "pt": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "chibi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Energize",
+          "de": "Energiezufuhr"
+        },
+        "effect": {
+          "en": "Attach a Lightning Energy card from your discard pile to this Pokémon.",
+          "de": "Lege 1 {L}-Energiekarte aus deinem Ablagestapel an dieses Pokémon an."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Electro Ball",
+          "fr": "Boule Élek",
+          "es": "Bola Voltio",
+          "it": "Energisfera",
+          "pt": "Bola Elétrica",
+          "de": "Elektroball"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670472,
+          "tcgplayer": 282523
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "2022swsh-6",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass",
+      "es": "Lapras",
+      "it": "Lapras",
+      "pt": "Lapras",
+      "de": "Lapras"
+    },
+    "illustrator": "Atsushi Furusawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      131
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Wintry Call",
+          "de": "Winterlicher Ruf"
+        },
+        "effect": {
+          "en": "Search your deck for up to 2 Melony cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "de": "Durchsuche dein Deck nach bis zu 2 Mel-Karten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Icy Wind",
+          "de": "Eissturm"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Asleep.",
+          "de": "Das Aktive Pokémon deines Gegners schläft jetzt."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670471,
+          "tcgplayer": 281485
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "2022swsh-5",
+    "name": {
+      "en": "Victini",
+      "fr": "Victini",
+      "es": "Victini",
+      "it": "Victini",
+      "pt": "Victini",
+      "de": "Victini"
+    },
+    "illustrator": "Teeziro",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      494
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Victory Dive",
+          "de": "Triumphzug"
+        },
+        "effect": {
+          "en": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+          "de": "Du kannst dein Deck nach bis zu 2 Karten durchsuchen und sie auf deine Hand nehmen. Mische anschließend dein Deck."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670470,
+          "tcgplayer": 281493
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "2022swsh-4",
+    "name": {
+      "en": "Growlithe",
+      "fr": "Caninos",
+      "es": "Growlithe",
+      "it": "Growlithe",
+      "pt": "Growlithe",
+      "de": "Fukano"
+    },
+    "illustrator": "Narumi Sato",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      58
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Warm Up",
+          "de": "Aufwärmen"
+        },
+        "effect": {
+          "en": "Search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.",
+          "de": "Durchsuche dein Deck nach 1 {R}-Energiekarte und lege sie an 1 deiner Pokémon an. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Combustion",
+          "de": "Glühen"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670469,
+          "tcgplayer": 281503
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "2022swsh-3",
+    "name": {
+      "en": "Gossifleur",
+      "fr": "Tournicoton",
+      "es": "Gossifleur",
+      "it": "Gossifleur",
+      "pt": "Gossifleur",
+      "de": "Cottini"
+    },
+    "illustrator": "Mizue",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      829
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blot",
+          "de": "Klecks"
+        },
+        "effect": {
+          "en": "Heal 10 damage from this Pokémon.",
+          "de": "Heile 10 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670468,
+          "tcgplayer": 281482
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "2022swsh-2",
+    "name": {
+      "en": "Rowlet",
+      "fr": "Brindibou",
+      "es": "Rowlet",
+      "it": "Rowlet",
+      "pt": "Rowlet",
+      "de": "Bauz"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      722
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Sky Circus",
+          "de": "Himmelszirkus"
+        },
+        "effect": {
+          "en": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs",
+          "de": "Wenn du Vogel-Profi während dieses Zuges aus deiner Hand gespielt hast, ignoriere alle Energien in den Attackenkosten dieses Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Wind Shard",
+          "de": "Windscherbe"
+        },
+        "effect": {
+          "en": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "de": "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 60 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670467,
+          "tcgplayer": 281473
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "2022swsh-15",
+    "name": {
+      "en": "Smeargle",
+      "fr": "Queulorior",
+      "es": "Smeargle",
+      "it": "Smeargle",
+      "pt": "Smeargle",
+      "de": "Farbeagle"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      235
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Live Painting",
+          "de": "Live-Malerei"
+        },
+        "effect": {
+          "en": "Reveal any number of basic Energy cards from your hand. This attack does 30 more damage for each type of basic Energy you revealed in this way.",
+          "de": "Zeige deinem Gegner beliebig viele Basis-Energiekarten auf deiner Hand. Diese Attacke fügt für jeden auf diese Weise gezeigten Basis-Energietyp 30 Schadenspunkte mehr zu."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670480,
+          "tcgplayer": 281500
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "2022swsh-14",
+    "name": {
+      "en": "Drampa",
+      "fr": "Draïeul",
+      "es": "Drampa",
+      "it": "Drampa",
+      "pt": "Drampa",
+      "de": "Sen-Long"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      780
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Corkscrew Punch",
+          "de": "Korkenzieherhieb"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Berkshire",
+          "de": "Wutausbruch"
+        },
+        "effect": {
+          "en": "If your Benched Pokémon have any damage counters on them, this attack does 90 more damage.",
+          "de": "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 90 Schadenspunkte mehr zu."
+        },
+        "damage": "70+"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670479,
+          "tcgplayer": 281497
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "2022swsh-13",
+    "name": {
+      "en": "Pangoro",
+      "fr": "Pandarbare",
+      "es": "Pangoro",
+      "it": "Pangoro",
+      "pt": "Pangoro",
+      "de": "Pandagro"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      675
+    ],
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Pancham",
+      "fr": "Pandespiègle",
+      "es": "Pancham",
+      "it": "Pancham",
+      "pt": "Pancham",
+      "de": "Pam-Pam"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Knocking Hammer",
+          "de": "Klopfender Hammer"
+        },
+        "effect": {
+          "en": "Discard the top card of your opponent's deck.",
+          "de": "Lege die oberste Karte des Decks deines Gegners auf seinen Ablagestapel."
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Shakedown",
+          "de": "Abschütteln"
+        },
+        "effect": {
+          "en": "Discard a random card from your opponent's hand.",
+          "de": "Lege 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel."
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670478,
+          "tcgplayer": 281505
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "2022swsh-12",
+    "name": {
+      "en": "Bewear",
+      "fr": "Chelours",
+      "es": "Bewear",
+      "it": "Bewear",
+      "pt": "Bewear",
+      "de": "Kosturso"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      760
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Stufful",
+      "fr": "Nounourson",
+      "es": "Stufful",
+      "it": "Stufful",
+      "pt": "Stufful",
+      "de": "Velursi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Split Spiral Punch",
+          "de": "Spiralhieb"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Confused.",
+          "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Strength",
+          "de": "Stärke"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670477,
+          "tcgplayer": 281504
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "2022swsh-11",
+    "name": {
+      "en": "Cutiefly",
+      "fr": "Bombydou",
+      "es": "Cutiefly",
+      "it": "Cutiefly",
+      "pt": "Cutiefly",
+      "de": "Wommel"
+    },
+    "illustrator": "Yukiko Baba",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      742
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flap",
+          "de": "Flattern"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670476,
+          "tcgplayer": 281494
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "2022swsh-10",
+    "name": {
+      "en": "Tynamo",
+      "fr": "Anchwatt",
+      "es": "Tynamo",
+      "it": "Tynamo",
+      "pt": "Tynamo",
+      "de": "Zapplardin"
+    },
+    "illustrator": "sowsow",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      602
+    ],
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Levitate",
+          "de": "Schwebe"
+        },
+        "effect": {
+          "en": "If this Pokémon has any Energy attached, it has no Retreat Cost.",
+          "de": "Wenn an dieses Pokémon mindestens 1 Energie angelegt ist, hat es keine Rückzugskosten."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Tiny Charge",
+          "de": "Mini-Stromstoß"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670475,
+          "tcgplayer": 281472
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "2022swsh-1",
+    "name": {
+      "en": "Ledyba",
+      "fr": "Coxy",
+      "es": "Ledyba",
+      "it": "Ledyba",
+      "pt": "Ledyba",
+      "de": "Ledyba"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      165
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Collect",
+          "de": "Sammeln"
+        },
+        "effect": {
+          "en": "Draw a card.",
+          "de": "Ziehe 1 Karte."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Punch",
+          "de": "Boxhieb"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 670466,
+          "tcgplayer": 281476
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2022swsh"
+    },
+    "cardNumber": "1"
+  }
+]
