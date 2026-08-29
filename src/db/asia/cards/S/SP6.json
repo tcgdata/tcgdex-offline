@@ -1,0 +1,415 @@
+[
+  {
+    "id": "SP6-006",
+    "name": {
+      "zh-tw": "藏瑪然特VSTAR",
+      "ja": "ザマゼンタVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "盾之星星"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時可使用。在下個對手的回合，自己的所有寶可夢受到對手的寶可夢招式的傷害「-100」點。（包含新上場的寶可夢。）[對戰中，己方只可使用1次【VSTAR】力量。]"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "終極衝擊",
+          "ja": "ギガインパクト"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用招式。",
+          "ja": "次の自分の番、このポケモンはワザが使えない。"
+        },
+        "damage": 220
+      },
+      {
+        "name": {
+          "ja": "特性"
+        }
+      },
+      {
+        "name": {
+          "ja": "シールドスター"
+        },
+        "effect": {
+          "ja": "自分の番に使える。次の相手の番、自分のポケモン全員が、相手のポケモンから受けるワザのダメージは「-100」される。（新しく場に出したポケモンもふくむ。）［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SP6-005",
+    "name": {
+      "zh-tw": "藏瑪然特V",
+      "ja": "ザマゼンタV"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "王者之勢",
+          "ja": "おうじゃのかまえ"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時可使用1次，若使用，則自己的回合結束。將自己的手牌全部丟棄，從牌庫抽出5張卡。",
+          "ja": "自分の番に1回使えて、使ったなら、自分の番は終わる。自分の手札をすべてトラッシュし、山札を5枚引く。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "復仇暴擊",
+          "ja": "リベンジバースト"
+        },
+        "effect": {
+          "zh-tw": "增加對手已經獲得的獎賞卡的張數×30點傷害。",
+          "ja": "相手がすでにとったサイドの枚数×30ダメージ追加。"
+        },
+        "damage": "120＋"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "suffix": "V",
+    "cardNumber": "005"
+  },
+  {
+    "id": "SP6-004",
+    "name": {
+      "zh-tw": "蒼響VSTAR",
+      "ja": "ザシアンVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "破壞刀鋒",
+          "ja": "ブレイクエッジ"
+        },
+        "effect": {
+          "zh-tw": "這個招式的傷害不計算弱點・抵抗力、對手的戰鬥寶可夢身上的附加效果。",
+          "ja": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。"
+        },
+        "damage": 200
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "[VSTAR力量]劍之星星",
+          "ja": "ソードスター"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。[對戰中，己方只可使用1次【VSTAR】力量。]",
+          "ja": "このポケモンにも30ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        },
+        "damage": 310
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SP6-003",
+    "name": {
+      "zh-tw": "蒼響V",
+      "ja": "ザシアンV"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "zh-tw": "打穿",
+          "ja": "ぶちぬく"
+        },
+        "effect": {
+          "zh-tw": "這個招式的傷害不計算弱點・抵抗力、對手的戰鬥寶可夢身上的附加效果。",
+          "ja": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "巨獸斬",
+          "ja": "きょじゅうざん"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢為「寶可夢【VMAX】」，則增加160點傷害。",
+          "ja": "相手のバトルポケモンが「ポケモンVMAX」なら、160ダメージ追加。"
+        },
+        "damage": "100＋"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "suffix": "V",
+    "cardNumber": "003"
+  },
+  {
+    "id": "SP6-002",
+    "name": {
+      "zh-tw": "洛托姆VSTAR",
+      "ja": "ロトムVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 250,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "轉化星星"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時可使用。將自己的任意數量的手牌丟棄，從牌庫抽出與其張數相同數量的卡。[對戰中，己方只可使用1次【VSTAR】力量。]"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "廢鐵脈衝",
+          "ja": "スクラップパルス"
+        },
+        "effect": {
+          "zh-tw": "將自己的棄牌區的任意數量的「寶可夢道具」放置於放逐區，增加其張數×40點傷害。",
+          "ja": "自分のトラッシュにある「ポケモンのどうぐ」を好きなだけロストゾーンに置き、その枚数×40ダメージ追加。"
+        },
+        "damage": "80＋"
+      },
+      {
+        "name": {
+          "ja": "特性"
+        }
+      },
+      {
+        "name": {
+          "ja": "へんかんスター"
+        },
+        "effect": {
+          "ja": "自分の番に使える。自分の手札を好きなだけトラッシュし、その枚数ぶん、山札を引く。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SP6-001",
+    "name": {
+      "zh-tw": "洛托姆V",
+      "ja": "ロトムV"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "放逐駭入",
+          "ja": "ロストハック"
+        },
+        "effect": {
+          "zh-tw": "選擇1個對手的場上寶可夢身上附加的特殊能量，放置於放逐區。",
+          "ja": "相手の場のポケモンについている特殊エネルギーを1個選び、ロストゾーンに置く。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "激電流",
+          "ja": "げきでんりゅう"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。",
+          "ja": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SP6"
+    },
+    "suffix": "V",
+    "cardNumber": "001"
+  }
+]

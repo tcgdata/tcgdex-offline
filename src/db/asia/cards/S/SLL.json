@@ -1,0 +1,853 @@
+[
+  {
+    "id": "SLL-FIG",
+    "name": {
+      "zh-tw": "基本鬥能量",
+      "ja": "基本闘エネルギー"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "FIG"
+  },
+  {
+    "id": "SLL-021",
+    "name": {
+      "zh-tw": "雙重渦輪能量",
+      "ja": "ダブルターボエネルギー"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "F",
+    "effect": {
+      "zh-tw": "只要這張卡附於寶可夢身上，視為提供2個【無】能量。附有這張卡的寶可夢使用的招式，對對手的寶可夢造成的傷害「-20」點。",
+      "ja": "このカードは、ポケモンについているかぎり、エネルギー2個ぶんとしてはたらく。\n\nこのカードをつけているポケモンが使うワザの、相手のポケモンへのダメージは「-20」される。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SLL-020",
+    "name": {
+      "zh-tw": "老大的指令（赤日）",
+      "ja": "ボスの指令（アカギ）"
+    },
+    "illustrator": "GIDORA",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "ja": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SLL-019",
+    "name": {
+      "zh-tw": "博士的研究（山梨博士）",
+      "ja": "博士の研究（ナナカマド博士）"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "ja": "自分の手札をすべてトラッシュし、山札を7枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SLL-018",
+    "name": {
+      "zh-tw": "竹蘭的霸氣",
+      "ja": "シロナの覇気"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從牌庫抽卡直到自己的手牌滿5張為止。在上個對手的回合，若自己的寶可夢【氣絕】了，則抽卡直到滿8張為止。",
+      "ja": "自分の手札が5枚になるように、山札を引く。前の相手の番に、自分のポケモンがきぜつしていたなら、8枚になるように引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SLL-017",
+    "name": {
+      "zh-tw": "阿馴",
+      "ja": "ジュン"
+    },
+    "illustrator": "Ken Sugimori",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "ja": "自分の山札を3枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SLL-016",
+    "name": {
+      "zh-tw": "莎娜",
+      "ja": "サナ"
+    },
+    "illustrator": "Yuu Nishida",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "ja": "自分の手札をすべて山札にもどして切る。その後、山札を5枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SLL-015",
+    "name": {
+      "zh-tw": "講究腰帶",
+      "ja": "こだわりベルト"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。",
+      "ja": "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SLL-014",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "ja": "ポケモンいれかえ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "ja": "自分のバトルポケモンをベンチポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SLL-013",
+    "name": {
+      "zh-tw": "高級球",
+      "ja": "ハイパーボール"
+    },
+    "illustrator": "sadaji",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "このカードは、自分の手札を2枚トラッシュしなければ使えない。\n\n自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SLL-012",
+    "name": {
+      "zh-tw": "先機球",
+      "ja": "クイックボール"
+    },
+    "illustrator": "Ryo Ueda",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的1張手牌丟棄才可使用。從自己的牌庫選擇1張【基礎】寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "このカードは、自分の手札を1枚トラッシュしなければ使えない。\n\n自分の山札からたねポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SLL-011",
+    "name": {
+      "zh-tw": "堅毅十字鎬",
+      "ja": "ガッツのつるはし"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的牌庫上方1張卡翻到正面，若那張卡為【鬥】能量卡，則附於自己的備戰寶可夢身上。若不為【鬥】能量卡，則在給對手看過後加入手牌。",
+      "ja": "自分の山札を上から1枚オモテにして、そのカードがエネルギーなら、自分のベンチポケモンにつける。エネルギーでないなら、相手に見せて、手札に加える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SLL-010",
+    "name": {
+      "zh-tw": "叉字蝠V",
+      "ja": "クロバットV"
+    },
+    "illustrator": "PLANETA Mochizuki",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "暗夜能源",
+          "ja": "ナイトアセット"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。從牌庫抽卡直到自己的手牌滿6張為止。在這個回合，若已經使出了其他的「暗夜能源」，則這個特性無法使用。",
+          "ja": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の手札が6枚になるように、山札を引く。この番、すでに別の「ナイトアセット」を使っていたなら、この特性は使えない。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒牙",
+          "ja": "どくのキバ"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。",
+          "ja": "相手のバトルポケモンをどくにする。"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "suffix": "V",
+    "cardNumber": "010"
+  },
+  {
+    "id": "SLL-009",
+    "name": {
+      "zh-tw": "劈斧螳螂",
+      "ja": "バサギリ"
+    },
+    "illustrator": "Shin Nagasawa",
+    "category": "Pokemon",
+    "dexId": [
+      900
+    ],
+    "hp": 140,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踢散",
+          "ja": "けちらす"
+        },
+        "effect": {
+          "zh-tw": "增加對手的備戰寶可夢的數量×30點傷害。",
+          "ja": "相手のベンチポケモンの数×30ダメージ追加。"
+        },
+        "damage": "10＋"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "巨岩衝撞",
+          "ja": "がんせきタックル"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到50點傷害。",
+          "ja": "このポケモンにも50ダメージ。"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "用堅硬的岩石守護己身，以粗獷的斧頭砍倒大樹。性情暴躁易怒。要是在荒野遇見牠，逃跑將是唯一選擇。",
+      "ja": "硬き岩で 身を守り 無骨な 斧は 大木を 切り倒す。 気性 荒々しく 荒地にて 遭遇しときは 逃げの一手。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SLL-008",
+    "name": {
+      "zh-tw": "列陣兵",
+      "ja": "タイレーツ"
+    },
+    "illustrator": "sowsow",
+    "category": "Pokemon",
+    "dexId": [
+      870
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-tw": "鬥志頭錘",
+          "ja": "とうしのずつき"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢為「寶可夢【V】」，則增加50點傷害。這個招式的傷害不計算弱點。",
+          "ja": "相手のバトルポケモンが「ポケモンV」なら、50ダメージ追加。このワザのダメージは弱点を計算しない。"
+        },
+        "damage": "10＋"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴射頭擊",
+          "ja": "ジェットヘッド"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "列陣兵由１個頭頭和５個跟班組成。頭頭的命令不可違抗。",
+      "ja": "ヘイチョーと 呼ばれる １匹と ヘイと 呼ばれる ５匹で ひとつ。 ヘイチョーの 命令は 絶対。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SLL-007",
+    "name": {
+      "zh-tw": "岩狗狗",
+      "ja": "イワンコ"
+    },
+    "illustrator": "Miki Tanaka",
+    "category": "Pokemon",
+    "dexId": [
+      744
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-tw": "雙重抽出",
+          "ja": "ダブルドロー"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出2張卡。",
+          "ja": "自分の山札を2枚引く。"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "後踢",
+          "ja": "うしろげり"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "非常容易親近，但是卻喜歡東咬西咬，所以如果要一直培育牠的話會相當費勁。",
+      "ja": "よく 懐くが 噛み癖が あるので ずっと 育てるには なかなか 骨が 折れるぞ。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SLL-006",
+    "name": {
+      "zh-tw": "土地雲",
+      "ja": "ランドロス"
+    },
+    "illustrator": "KEIICHIRO ITO",
+    "category": "Pokemon",
+    "dexId": [
+      645
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "巴掌撲擊",
+          "ja": "はりて"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "粉碎刀鋒",
+          "ja": "スマッシュエッジ"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。",
+          "ja": "このポケモンについているエネルギーを2個選び、トラッシュする。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "吸收風與雷後轉化成的能量能夠給予土壤營養，讓大地變得豐饒。",
+      "ja": "風や 雷を 取りこみ 変えた エネルギーが 土に 栄養を 与えて 大地を 豊かに する。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SLL-005",
+    "name": {
+      "zh-tw": "路卡利歐VSTAR",
+      "ja": "ルカリオVSTAR"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "搏鬥肘擊",
+          "ja": "ファイティングナックル"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢為「寶可夢【V】」，則增加120點傷害。",
+          "ja": "相手のバトルポケモンが「ポケモンV」なら、120ダメージ追加。"
+        },
+        "damage": "120+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "[VSTAR力量]波導星星",
+          "ja": "はどうスター"
+        },
+        "effect": {
+          "zh-tw": "造成對手的場上寶可夢身上附加的能量的數量×70點傷害。[對戰中，己方只可使用1次【VSTAR】力量。]",
+          "ja": "相手の場のポケモンについているエネルギーの数×70ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        },
+        "damage": "70×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SLL-004",
+    "name": {
+      "zh-tw": "路卡利歐V",
+      "ja": "ルカリオV"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "粉碎拳",
+          "ja": "クラッシュパンチ"
+        },
+        "effect": {
+          "zh-tw": "選擇1個對手的戰鬥寶可夢身上附加的特殊能量，將其丟棄。",
+          "ja": "相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "旋風踢",
+          "ja": "せんぷうきゃく"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "suffix": "V",
+    "cardNumber": "004"
+  },
+  {
+    "id": "SLL-003",
+    "name": {
+      "zh-tw": "恰雷姆",
+      "ja": "チャーレム"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "dexId": [
+      308
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-tw": "戰鬥舞步",
+          "ja": "バトルステップ"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張【鬥】能量卡，以任意方式附於備戰寶可夢身上。並且重洗牌庫。",
+          "ja": "自分の山札からエネルギーを2枚まで選び、ベンチポケモンに好きなようにつける。そして山札を切る。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "能用在瑜伽的修行中鍛鍊出來的精神力量預測對手的行動。",
+      "ja": "ヨガの 修行で 鍛えられた サイコパワーで 相手の 動きを 予測する ことが できるのだ。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SLL-002",
+    "name": {
+      "zh-tw": "瑪沙那",
+      "ja": "アサナン"
+    },
+    "illustrator": "0313",
+    "category": "Pokemon",
+    "dexId": [
+      307
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-tw": "真氣突刺",
+          "ja": "きあいづき"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。",
+          "ja": "コインを1回投げウラなら、このワザは失敗。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "１天只吃１個樹果。藉由忍耐飢餓來來磨練自己的心。",
+      "ja": "１日 １個だけ 木の実を 食べる。 空腹に 耐えることで 心が 研ぎ澄まされていく。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SLL-001",
+    "name": {
+      "zh-tw": "飛天螳螂",
+      "ja": "ストライク"
+    },
+    "illustrator": "GIDORA",
+    "category": "Pokemon",
+    "dexId": [
+      123
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "高速鐮",
+          "ja": "こうそくカマ"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "雙臂的大鐮刀鋒利程度堪比神兵利器。動作迅捷靈敏，沒有獵物能逃出其指掌。",
+      "ja": "腕の 大きな 鎌は 切れ味 鋭く 真に 恐ろしき 得物なり。 動き 俊敏にして 獲物 逃がすことなし。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SLL"
+    },
+    "cardNumber": "001"
+  }
+]

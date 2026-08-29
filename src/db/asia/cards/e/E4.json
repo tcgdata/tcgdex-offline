@@ -1,0 +1,5298 @@
+[
+  {
+    "id": "E4-091",
+    "name": {
+      "ja": "ho-oh"
+    },
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      250
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "クリスタルタイプ"
+        },
+        "effect": {
+          "ja": "火、水、または稲妻の基本エネルギーカードを手からho-ohに取り付けると、ho-ohのタイプ（色）はターンの終わりまでそのタイプのエネルギーと同じになります。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "name": {
+          "ja": "聖なる炎"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "蒸気を乱す"
+        },
+        "effect": {
+          "ja": "Ho-Ohに取り付けられたエネルギーカードを廃棄し、コインをひっくり返します。  頭の場合、防御するポケモンが燃やされます。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "091"
+  },
+  {
+    "id": "E4-090",
+    "name": {
+      "ja": "カブトップス"
+    },
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      141
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "クリスタルタイプ"
+        },
+        "effect": {
+          "ja": "手からカブトップスまでの水、稲妻、または基本エネルギーカードとの戦いをするたびに、カブトップスのタイプ（色）はターンの終わりまでそのタイプのエネルギーと同じになります。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "排水カット"
+        },
+        "effect": {
+          "ja": "Kabutopsからダメージカウンターを取り外します。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "トリプルカッター"
+        },
+        "effect": {
+          "ja": "3コインをフリップします。この攻撃は、ヘッド数の30回のダメージ時間を実行します。"
+        }
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "090"
+  },
+  {
+    "id": "E4-089",
+    "name": {
+      "ja": "ゴーレム"
+    },
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      76
+    ],
+    "hp": 100,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "クリスタルタイプ"
+        },
+        "effect": {
+          "ja": "手からゴーレムに草、火、または基本エネルギーカードとの戦いをするときはいつでも、ゴーレムのタイプ（色）はターンの終わりまでそのタイプのエネルギーと同じになります。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ロックスロー"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Grass",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "地球爆弾"
+        },
+        "effect": {
+          "ja": "ゴーレムはそれ自体に20のダメージを与えます。この攻撃は、各ベンチポケモン（あなたと相手）に10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 50
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "089"
+  },
+  {
+    "id": "E4-088",
+    "name": {
+      "ja": "ミラージュスタジアム"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "088"
+  },
+  {
+    "id": "E4-087",
+    "name": {
+      "ja": "地下湖"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "087"
+  },
+  {
+    "id": "E4-086",
+    "name": {
+      "ja": "ミステリープレートo"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "086"
+  },
+  {
+    "id": "E4-085",
+    "name": {
+      "ja": "ミステリープレートY"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "085"
+  },
+  {
+    "id": "E4-084",
+    "name": {
+      "ja": "ミステリープレートb"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "084"
+  },
+  {
+    "id": "E4-083",
+    "name": {
+      "ja": "ミステリープレートa"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "083"
+  },
+  {
+    "id": "E4-082",
+    "name": {
+      "ja": "スターピース"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "082"
+  },
+  {
+    "id": "E4-081",
+    "name": {
+      "ja": "クリスタルシャード"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "081"
+  },
+  {
+    "id": "E4-080",
+    "name": {
+      "ja": "地下遠征"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "080"
+  },
+  {
+    "id": "E4-079",
+    "name": {
+      "ja": "オラクル"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "079"
+  },
+  {
+    "id": "E4-078",
+    "name": {
+      "ja": "砂漠のシャーマン"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "078"
+  },
+  {
+    "id": "E4-077",
+    "name": {
+      "ja": "ハイパーポーション"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "077"
+  },
+  {
+    "id": "E4-076",
+    "name": {
+      "ja": "スカルモリー"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      227
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルペック"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の10倍のダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピニングヘッド"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合は、ベンチ付きポケモンを1枚スカルモリーします。"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "076"
+  },
+  {
+    "id": "E4-075",
+    "name": {
+      "ja": "forretress"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      205
+    ],
+    "hp": 70,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピニングブロー"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の20倍のダメージを与えます。両方のコインがヘッドである場合は、ベンチ付きポケモンの1つを使用してforretressを切り替えます。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "散布骨"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。各ヘッドについて、相手のベンチポケモンのそれぞれに10ダメージを与えます。各尾で、自分のベンチポケモンのそれぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "075"
+  },
+  {
+    "id": "E4-074",
+    "name": {
+      "ja": "forretress"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      205
+    ],
+    "hp": 70,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピニングブロー"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の20倍のダメージを与えます。両方のコインがヘッドである場合は、ベンチ付きポケモンの1つを使用してforretressを切り替えます。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "散布骨"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。各ヘッドについて、相手のベンチポケモンのそれぞれに10ダメージを与えます。各尾で、自分のベンチポケモンのそれぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "074"
+  },
+  {
+    "id": "E4-073",
+    "name": {
+      "ja": "マークロウ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      198
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "邪悪な目"
+        },
+        "effect": {
+          "ja": "対戦相手のポケモンを1つ選択します。そのポケモンにダメージカウンターを置きます。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ブラインドサイド"
+        },
+        "effect": {
+          "ja": "ダメージカウンターがある対戦相手のポケモンを1つ選択します。この攻撃は、そのポケモンに20のダメージを与えます。衰弱と抵抗を適用しないでください。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "073"
+  },
+  {
+    "id": "E4-072",
+    "name": {
+      "ja": "Umbreon"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "暗い視線"
+        },
+        "effect": {
+          "ja": "UmbreonがあなたのアクティブなPokmonである限り、ベンチ付きPokmon（あなたとあなたの対戦相手）はPok-Powersを使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "鋭い爪"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は10ダメージに加えて30ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "072"
+  },
+  {
+    "id": "E4-071",
+    "name": {
+      "ja": "Umbreon"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "暗い視線"
+        },
+        "effect": {
+          "ja": "UmbreonがあなたのアクティブなPokmonである限り、ベンチ付きPokmon（あなたとあなたの対戦相手）はPok-Powersを使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "鋭い爪"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は10ダメージに加えて30ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "071"
+  },
+  {
+    "id": "E4-070",
+    "name": {
+      "ja": "埋もれた化石"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "再建"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前に）手に基本的なエネルギーカードを持っている場合は、デッキを検索してOmanyteまたはKabutoカードを検索し、対戦相手に見せて、手に入れてください。次に、基本的なエネルギーカードを手からデッキに入れます。その後、デッキをシャッフルします。"
+        }
+      }
+    ],
+    "attacks": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "070"
+  },
+  {
+    "id": "E4-069",
+    "name": {
+      "ja": "グランブル"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      210
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "逃げる"
+        },
+        "effect": {
+          "ja": "対戦相手は、ベンチ付きポケモンの1つで防御ポケモンを切り替えます。 （ポケモンを切り替える前にダメージを与えます。）"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メガパンチ"
+        },
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "069"
+  },
+  {
+    "id": "E4-068",
+    "name": {
+      "ja": "Snubbull"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      209
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "怖い顔"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、対戦相手の次の終わりまで、防御するポケモンは攻撃したり後退したりすることはできません。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "噛む"
+        },
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "068"
+  },
+  {
+    "id": "E4-067",
+    "name": {
+      "ja": "ダンズパース"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      206
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "滑りやすい肌"
+        },
+        "effect": {
+          "ja": "防御ポケモンが進化したポケモンである限り、Dunsparceのリトリートコストは0です。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "テールシェイク"
+        },
+        "effect": {
+          "ja": "防御ポケモンは今眠っています。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "067"
+  },
+  {
+    "id": "E4-066",
+    "name": {
+      "ja": "クレファ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      173
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Baby",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エネルギーリサイクル"
+        },
+        "effect": {
+          "ja": "廃棄の山からデッキに基本的なエネルギーカードをシャッフルします。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "066"
+  },
+  {
+    "id": "E4-065",
+    "name": {
+      "ja": "Eevee"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スマッシュキック"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "降ろす"
+        },
+        "effect": {
+          "ja": "Eeveeはそれ自体に10ダメージを与えます。"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "065"
+  },
+  {
+    "id": "E4-064",
+    "name": {
+      "ja": "同上"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      132
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "プリズムボディ"
+        },
+        "effect": {
+          "ja": "Dittoに添付された各基本エネルギーカードは、あらゆる種類のエネルギーを提供しますが、一度に1つのエネルギーしか提供しません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "コピー"
+        },
+        "effect": {
+          "ja": "防御ポケモンの攻撃の1つを選択します。その攻撃をコピーします。この攻撃は、その攻撃を使用するのに必要なエネルギーがない場合、何もしません。 （その攻撃を使用するために必要な他のことをまだしなければなりません。）"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "064"
+  },
+  {
+    "id": "E4-063",
+    "name": {
+      "ja": "ペルシャ語"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      53
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サプライズスラッシュ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合は、相手の手を見てください。彼または彼女がそこにトレーナーカードを持っている場合は、それらの1つを選択してください。対戦相手はそのカードを彼または彼女のデッキにシャッフルします。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "突進"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、この攻撃は何もしません。"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "063"
+  },
+  {
+    "id": "E4-062",
+    "name": {
+      "ja": "meowth"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      52
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "突然スワイプ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合は、相手の手を見てください。彼または彼女がそこにエネルギーカードを持っている場合は、それらの1つを選択してください。あなたの対戦相手はそのカードを彼または彼女のデッキにシャッフルします。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "062"
+  },
+  {
+    "id": "E4-061",
+    "name": {
+      "ja": "ラティテート"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      20
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "傷"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "連続した噛みつき"
+        },
+        "effect": {
+          "ja": "3コインをフリップします。 1ヘッドを獲得した場合、この攻撃は10ダメージに加えて10ダメージを与えます。 2つのヘッドを獲得した場合、この攻撃は10ダメージに加えて30ダメージを与えます。 3ヘッドを獲得した場合、この攻撃は10ダメージに加えて60ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "061"
+  },
+  {
+    "id": "E4-060",
+    "name": {
+      "ja": "ラッタタ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      19
+    ],
+    "hp": 30,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "友達を呼びます"
+        },
+        "effect": {
+          "ja": "ベビーポケモンまたは基本的なポケモンカードを求めてデッキを検索し、ベンチに置きます。その後、デッキをシャッフルします。 （この攻撃を使用することはできませんそれはあなたのベンチがいっぱいです。）"
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ボディスラム"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは麻痺しています。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "060"
+  },
+  {
+    "id": "E4-059",
+    "name": {
+      "ja": "アエロダクチル"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      142
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "古代の風"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前）に、アエロダクチルがアクティブなポクモンである場合、ターンの終わりまですべてのポックボディを無視することができます。アエロダクチルが特別な状態の影響を受けている場合、この電力は使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "上昇する突進"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は20ダメージに加えて20ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "059"
+  },
+  {
+    "id": "E4-058",
+    "name": {
+      "ja": "カブトップス"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      141
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "原始オーラ"
+        },
+        "effect": {
+          "ja": "Kabutopsがあなたのアクティブなポクモンである限り、どちらのプレイヤーも、ベンチでベンチポクモンを進化させるために彼または彼女の手から基本的なポクモンカードや進化カードをプレイすることはできません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "デュアルカット"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の50回のダメージ時間を実行します。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "058"
+  },
+  {
+    "id": "E4-057",
+    "name": {
+      "ja": "カブトップス"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      141
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "原始オーラ"
+        },
+        "effect": {
+          "ja": "Kabutopsがあなたのアクティブなポクモンである限り、どちらのプレイヤーも、ベンチでベンチポクモンを進化させるために彼または彼女の手から基本的なポクモンカードや進化カードをプレイすることはできません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "デュアルカット"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の50回のダメージ時間を実行します。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "057"
+  },
+  {
+    "id": "E4-056",
+    "name": {
+      "ja": "カブト"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      140
+    ],
+    "hp": 50,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "厚いシェル"
+        },
+        "effect": {
+          "ja": "進化したポケモンからのカブトへの攻撃によって与えられたすべての損傷は、衰弱と抵抗を適用した後）10増加します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "傷"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "056"
+  },
+  {
+    "id": "E4-055",
+    "name": {
+      "ja": "ライドン"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      112
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "踏みつけ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は30ダメージに加えて20ダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "巨大な尾"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、この攻撃は何もしません。"
+        },
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "055"
+  },
+  {
+    "id": "E4-054",
+    "name": {
+      "ja": "ライドン"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      112
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "踏みつけ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は30ダメージに加えて20ダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "巨大な尾"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、この攻撃は何もしません。"
+        },
+        "damage": 100
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "054"
+  },
+  {
+    "id": "E4-053",
+    "name": {
+      "ja": "Rhyhorn"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      111
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ホーン攻撃"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "報復"
+        },
+        "effect": {
+          "ja": "この攻撃は、Rhyhornのダメージカウンターの数の10倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "053"
+  },
+  {
+    "id": "E4-052",
+    "name": {
+      "ja": "Poliwrath"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      62
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "奇妙ならせん"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前に）一度、PoliwrathがアクティブなPokmonである場合、PoliWrathに取り付けられた基本的なエネルギーカードを破棄することができます。もしそうなら、防御するポクモンは今混乱しています。 Poliwrathが特別な状態の影響を受けている場合、このパワーは使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スパイラルパンチ"
+        },
+        "effect": {
+          "ja": "尾がなくなるまでコインをひっくり返します。この攻撃は、40のダメージに加えて、ヘッドごとに20のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "052"
+  },
+  {
+    "id": "E4-051",
+    "name": {
+      "ja": "Poliwrath"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      62
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "奇妙ならせん"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前に）一度、PoliwrathがアクティブなPokmonである場合、PoliWrathに取り付けられた基本的なエネルギーカードを破棄することができます。もしそうなら、防御するポクモンは今混乱しています。 Poliwrathが特別な状態の影響を受けている場合、このパワーは使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スパイラルパンチ"
+        },
+        "effect": {
+          "ja": "尾がなくなるまでコインをひっくり返します。この攻撃は、40のダメージに加えて、ヘッドごとに20のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "051"
+  },
+  {
+    "id": "E4-050",
+    "name": {
+      "ja": "サンドスラッシュ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      28
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンドトラップ"
+        },
+        "effect": {
+          "ja": "対戦相手がベンチポケモンを持っている場合は、最大2つのポケモンを選択します。この攻撃は、それぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "毒針ラッシュ"
+        },
+        "effect": {
+          "ja": "3コインをフリップします。この攻撃は、ヘッド数の20倍のダメージを与えます。少なくとも1つの頭を手に入れた場合、防御するポケモンは毒されます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "050"
+  },
+  {
+    "id": "E4-049",
+    "name": {
+      "ja": "サンドシュー"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      27
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "二重スクラッチ"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の10倍のダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "下を掘ります"
+        },
+        "effect": {
+          "ja": "対戦相手のポケモンを1つ選択します。この攻撃は、そのポケモンに10ダメージを与えます。衰弱と抵抗を適用しないでください。 （衰弱と抵抗を適用した後に発生する他の効果はまだ起こります。）"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "049"
+  },
+  {
+    "id": "E4-048",
+    "name": {
+      "ja": "Girafarig"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      203
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "エネルギーパッチ"
+        },
+        "effect": {
+          "ja": "ポケモンの1つに取り付けられた基本的なエネルギーカードを取り、ポケモンのもう1つに取り付けます。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "シンクロブラスト"
+        },
+        "effect": {
+          "ja": "Girafarigと防御ポケモンに同じ数のエネルギーカードが付いていない場合、この攻撃の基本ダメージは40ではなく10です。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "048"
+  },
+  {
+    "id": "E4-047",
+    "name": {
+      "ja": "ウォブバフェット"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      202
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ミラーコート"
+        },
+        "effect": {
+          "ja": "Wobbuffetが敵の順番中に防御するPokmonの攻撃によって毒されたり燃やされたりすると、Pokmonは同じ特別な状態の影響を受けます。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "攻撃を返す"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。どちらかがヘッドである場合、この攻撃はWobbuffetのダメージ数の数の10倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "047"
+  },
+  {
+    "id": "E4-046",
+    "name": {
+      "ja": "ミスレアヴァス"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      200
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "催眠芽球"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御するポケモンは今眠っています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "にきびの贈り物"
+        },
+        "effect": {
+          "ja": "プレイ中のポケモンの数をダメージカウンターで数えます。その多くのダメージカウンターを防御ポケモンに置きます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "046"
+  },
+  {
+    "id": "E4-045",
+    "name": {
+      "ja": "スターミー"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "エネルギーバースト"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。ヘッドの場合、この攻撃は、スターミーと防御ポケモンに取り付けられたエネルギーの数を10回ダメージします。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スターバック"
+        },
+        "effect": {
+          "ja": "廃棄パイルからポケモン1に基本的なエネルギーカードを取り付けます。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "045"
+  },
+  {
+    "id": "E4-044",
+    "name": {
+      "ja": "スターミー"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "エネルギーバースト"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。ヘッドの場合、この攻撃は、スターミーと防御ポケモンに取り付けられたエネルギーの数を10回ダメージします。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スターバック"
+        },
+        "effect": {
+          "ja": "廃棄パイルからポケモン1に基本的なエネルギーカードを取り付けます。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "044"
+  },
+  {
+    "id": "E4-043",
+    "name": {
+      "ja": "アラカザム"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      65
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "エネルギージャンプ"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前）に、エネルギーカードをポケモンの1匹からポケモンの別のものに移動できます。アラカザムが特別な状態の影響を受けている場合、この力は使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイキック"
+        },
+        "effect": {
+          "ja": "この攻撃は、防御ポケモンに取り付けられた各エネルギーカードに対して30のダメージと10のダメージをさらに10件以上与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "E4-042",
+    "name": {
+      "ja": "アラカザム"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      65
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "エネルギージャンプ"
+        },
+        "effect": {
+          "ja": "ターン中（攻撃の前）に、エネルギーカードをポケモンの1匹からポケモンの別のものに移動できます。アラカザムが特別な状態の影響を受けている場合、この力は使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイキック"
+        },
+        "effect": {
+          "ja": "この攻撃は、防御ポケモンに取り付けられた各エネルギーカードに対して30のダメージと10のダメージをさらに10件以上与えます。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "E4-041",
+    "name": {
+      "ja": "カダブラ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      64
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "悪夢"
+        },
+        "effect": {
+          "ja": "防御ポケモンは今眠っています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マインドショック"
+        },
+        "effect": {
+          "ja": "衰弱と抵抗を適用しないでください。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "E4-040",
+    "name": {
+      "ja": "アブラ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      63
+    ],
+    "hp": 40,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "サイコフロー"
+        },
+        "effect": {
+          "ja": "ABRAに精神的エネルギーカードが付いている限り、そのリトリートコストは0です。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ヘッドバット"
+        },
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "E4-039",
+    "name": {
+      "ja": "ライコウ"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      243
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "純粋な体"
+        },
+        "effect": {
+          "ja": "手からライコウに稲妻エネルギーカードを取り付けるには、ライコウに取り付けられたエネルギーカードを捨てる必要があります。 （稲妻エネルギーを取り付けてから、ライコウからエネルギーカードを捨てます。）"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "稲妻球"
+        },
+        "effect": {
+          "ja": "コインをひっくり返すことができます。頭の場合は、ライコウに取り付けられたすべての稲妻エネルギーカードを捨ててください。この攻撃は、この方法で破棄されたエネルギーカードごとに40のダメージと20のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "E4-038",
+    "name": {
+      "ja": "ライコウ"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      243
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "純粋な体"
+        },
+        "effect": {
+          "ja": "手からライコウに稲妻エネルギーカードを取り付けるには、ライコウに取り付けられたエネルギーカードを捨てる必要があります。 （稲妻エネルギーを取り付けてから、ライコウからエネルギーカードを捨てます。）"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "稲妻球"
+        },
+        "effect": {
+          "ja": "コインをひっくり返すことができます。頭の場合は、ライコウに取り付けられたすべての稲妻エネルギーカードを捨ててください。この攻撃は、この方法で破棄されたエネルギーカードごとに40のダメージと20のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "E4-037",
+    "name": {
+      "ja": "ジョルテオン"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からジョルテオンに稲妻エネルギーカードを取り付けるときはいつでも、ジョルテオンに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "サンダーショック"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは麻痺しています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンダーパーク"
+        },
+        "effect": {
+          "ja": "この攻撃は、少なくとも1つのエネルギーカード（あなたと相手）に1つのエネルギーカードが取り付けられた各ベンチポケモンに10ダメージを与えます。"
+        },
+        "damage": 40
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "E4-036",
+    "name": {
+      "ja": "ジョルテオン"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からジョルテオンに稲妻エネルギーカードを取り付けるときはいつでも、ジョルテオンに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "サンダーショック"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは麻痺しています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンダーパーク"
+        },
+        "effect": {
+          "ja": "この攻撃は、少なくとも1つのエネルギーカード（あなたと相手）に1つのエネルギーカードが取り付けられた各ベンチポケモンに10ダメージを与えます。"
+        },
+        "damage": 40
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "E4-035",
+    "name": {
+      "ja": "ライチュ"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "zzzap"
+        },
+        "effect": {
+          "ja": "この攻撃は、ポックで各ポケモンに20のダメージを与えますか？ （衰弱や抵抗を適用しないでください。）"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "稲妻"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、Raichuに2つのダメージカウンターを入れます。"
+        },
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "E4-034",
+    "name": {
+      "ja": "ライチュ"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "zzzap"
+        },
+        "effect": {
+          "ja": "この攻撃は、ポックで各ポケモンに20のダメージを与えますか？ （衰弱や抵抗を適用しないでください。）"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "稲妻"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、Raichuに2つのダメージカウンターを入れます。"
+        },
+        "damage": 50
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "E4-033",
+    "name": {
+      "ja": "ピカチュウ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "最大電圧"
+        },
+        "effect": {
+          "ja": "ピカチュウに取り付けられたすべての稲妻エネルギーカードを捨てます。この攻撃は、この方法で破棄されたエネルギーカードごとに20のダメージに加えて10ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "E4-032",
+    "name": {
+      "ja": "マンティン"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      226
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "フィンスマック"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の10倍のダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "アクアソニック"
+        },
+        "effect": {
+          "ja": "抵抗を適用しないでください。"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "E4-031",
+    "name": {
+      "ja": "政治"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      186
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "突然の成長"
+        },
+        "effect": {
+          "ja": "あなたの手から政治に任意の数の基本的なエネルギーカードを添付してください。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "カエルホップ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は30ダメージに加えて20ダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エネルギースプラッシュ"
+        },
+        "effect": {
+          "ja": "ベンチ付きポケモンの1つまたは2つに政治的に取り付けられた2つの水エネルギーカードを移動します。 （同じポケモンまたはそれぞれ1つの両方を2つの異なるポケモンに置くことができます。）ベンチポケモンがない場合は、この効果を無視してください。"
+        },
+        "damage": 70
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "E4-030",
+    "name": {
+      "ja": "政治"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      186
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "突然の成長"
+        },
+        "effect": {
+          "ja": "あなたの手から政治に任意の数の基本的なエネルギーカードを添付してください。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "カエルホップ"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、この攻撃は30ダメージに加えて20ダメージを与えます。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エネルギースプラッシュ"
+        },
+        "effect": {
+          "ja": "ベンチ付きポケモンの1つまたは2つに政治的に取り付けられた2つの水エネルギーカードを移動します。 （同じポケモンまたはそれぞれ1つの両方を2つの異なるポケモンに置くことができます。）ベンチポケモンがない場合は、この効果を無視してください。"
+        },
+        "damage": 70
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "030"
+  },
+  {
+    "id": "E4-029",
+    "name": {
+      "ja": "Omastar"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      139
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "原始凝視"
+        },
+        "effect": {
+          "ja": "Omastarがアクティブなポケモンである限り、あなたの対戦相手は、アクティブなポクモンを進化させるために、手から進化カードのために基本的なポケモンをプレイすることができません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "恐怖"
+        },
+        "effect": {
+          "ja": "防御するポケモンは、相手の次のターン中に退却することはできません。"
+        },
+        "damage": 50
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "E4-028",
+    "name": {
+      "ja": "オマニテ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      138
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "進化の水"
+        },
+        "effect": {
+          "ja": "Omanyteに手からオマスターを置きます。これは進化するオマニテとしてカウントされます。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ドラッグします"
+        },
+        "effect": {
+          "ja": "ダメージを与える前に、対戦相手のベンチポケモンの1つを選択し、防御ポケモンに切り替えることができます。"
+        },
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "E4-027",
+    "name": {
+      "ja": "Vaporeon"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からVaporeonに水エネルギーカードを取り付けるときはいつでも、Vaporeonに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "Hypnosplash"
+        },
+        "effect": {
+          "ja": "防御ポケモンは今眠っています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "アクアトリック"
+        },
+        "effect": {
+          "ja": "防衛ポケモンにエネルギーカードが付いている場合は、コインをひっくり返します。頭の場合は、それらのエネルギーカードの1枚を選択し、相手のベンチポケモンの1つに移動します。相手がベンチポケモンを持っていない場合は、この効果を無視してください。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "E4-026",
+    "name": {
+      "ja": "Vaporeon"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からVaporeonに水エネルギーカードを取り付けるときはいつでも、Vaporeonに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "Hypnosplash"
+        },
+        "effect": {
+          "ja": "防御ポケモンは今眠っています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "アクアトリック"
+        },
+        "effect": {
+          "ja": "防衛ポケモンにエネルギーカードが付いている場合は、コインをひっくり返します。頭の場合は、それらのエネルギーカードの1枚を選択し、相手のベンチポケモンの1つに移動します。相手がベンチポケモンを持っていない場合は、この効果を無視してください。"
+        },
+        "damage": 40
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "E4-025",
+    "name": {
+      "ja": "スターミー"
+    },
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "ウォーターガン"
+        },
+        "effect": {
+          "ja": "この攻撃は、スターミーに取り付けられた各水エネルギーに対して10ダメージに加えて20のダメージを与えますが、この攻撃のエネルギーコストの支払いには使用されません。この方法で40以上のダメージを追加することはできません。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "コアブラスト"
+        },
+        "effect": {
+          "ja": "この攻撃は、防御ポケモンに取り付けられた特別なエネルギーカードごとに30のダメージに加えて20ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "E4-024",
+    "name": {
+      "ja": "staryu"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      120
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "平手打ち"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "レイを混乱させます"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは混乱しています。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "E4-023",
+    "name": {
+      "ja": "staryu"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      120
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エネルギーヒーリング"
+        },
+        "effect": {
+          "ja": "それに取り付けられた各エネルギーについて、Staryuから2つのダメージカウンターを削除します。それよりもダメージカウンターが少ない場合は、それらすべてを削除します。"
+        }
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "doubleslap"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の10倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "E4-022",
+    "name": {
+      "ja": "PoliWhirl"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      61
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ツイドル"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは混乱しています。尾の場合、防御ポケモンは今眠っています。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルキック"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の30回のダメージ時間を実行します。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "E4-021",
+    "name": {
+      "ja": "poliwag"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      60
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "睡眠バブル"
+        },
+        "effect": {
+          "ja": "防御ポケモンは今眠っています。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "doubleslap"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の20倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "E4-020",
+    "name": {
+      "ja": "マグカルゴ"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      219
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "噴火"
+        },
+        "effect": {
+          "ja": "各プレイヤーは、デッキの一番上のカードを捨てます。この攻撃は、この方法で破棄された各火災エネルギーカードに対して20のダメージと20のダメージをもたらします。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "火の流れ"
+        },
+        "effect": {
+          "ja": "この攻撃を使用するために、Magcargoに取り付けられた消防エネルギーカードを廃棄します。対戦相手がベンチでポケモンを持っている場合、この攻撃はそれぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 60
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "E4-019",
+    "name": {
+      "ja": "マグカルゴ"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      219
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "噴火"
+        },
+        "effect": {
+          "ja": "各プレイヤーは、デッキの一番上のカードを捨てます。この攻撃は、この方法で破棄された各火災エネルギーカードに対して20のダメージと20のダメージをもたらします。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "火の流れ"
+        },
+        "effect": {
+          "ja": "この攻撃を使用するために、Magcargoに取り付けられた消防エネルギーカードを廃棄します。対戦相手がベンチでポケモンを持っている場合、この攻撃はそれぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        },
+        "damage": 60
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "E4-018",
+    "name": {
+      "ja": "slugma"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      218
+    ],
+    "hp": 50,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "取り組む"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "焼ける溶岩"
+        },
+        "effect": {
+          "ja": "この攻撃を使用するために、Slugmaに取り付けられた消防エネルギーカードを廃棄します。防御ポケモンは現在燃やされています。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "E4-017",
+    "name": {
+      "ja": "フレアロン"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からフレレオンに火のエネルギーカードを取り付けるときはいつでも、フレアロンに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "シング"
+        },
+        "effect": {
+          "ja": "防御ポケモンは現在燃やされています。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "燃焼ブースター"
+        },
+        "effect": {
+          "ja": "この攻撃を使用するために、フレアロンに取り付けられたエネルギーカードを廃棄します。廃棄されたカードが火災エネルギーカードの場合、この攻撃は40ダメージに加えて10ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "E4-016",
+    "name": {
+      "ja": "フレアロン"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "自己癒し"
+        },
+        "effect": {
+          "ja": "手からフレレオンに火のエネルギーカードを取り付けるときはいつでも、フレアロンに影響を与えるすべての特別な条件を削除します。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "シング"
+        },
+        "effect": {
+          "ja": "防御ポケモンは現在燃やされています。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "燃焼ブースター"
+        },
+        "effect": {
+          "ja": "この攻撃を使用するために、フレアロンに取り付けられたエネルギーカードを廃棄します。廃棄されたカードが火災エネルギーカードの場合、この攻撃は40ダメージに加えて10ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "E4-015",
+    "name": {
+      "ja": "ヘラクロス"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      214
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スラッシュ"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "怒っている角"
+        },
+        "effect": {
+          "ja": "ヘラクロスに4つ以上のダメージカウンターがある場合、この攻撃のベースダメージは30ではなく50です。"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "E4-014",
+    "name": {
+      "ja": "シャックル"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      213
+    ],
+    "hp": 30,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "花瓶の体"
+        },
+        "effect": {
+          "ja": "攻撃からシャックルへのすべての損傷は20増加します（衰弱と抵抗を適用した後）。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "有毒唾液"
+        },
+        "effect": {
+          "ja": "防御ポケモンは現在中毒になっています。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "E4-013",
+    "name": {
+      "ja": "forretress"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      205
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "外骨格"
+        },
+        "effect": {
+          "ja": "攻撃によってforretressへのすべての損傷は10増加します（衰弱と抵抗を適用した後）。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "シェル破裂"
+        },
+        "effect": {
+          "ja": "この攻撃は、相手のベンチポケモンのそれぞれに10ダメージを与えます。 （ベンチポケモンに衰弱と抵抗を適用しないでください。）"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルスピン"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の40回のダメージ倍になります。"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "E4-012",
+    "name": {
+      "ja": "Pineco"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      204
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルエッジ"
+        },
+        "effect": {
+          "ja": "Pinecoはそれ自体に10ダメージを与えます。"
+        },
+        "damage": 30
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "E4-011",
+    "name": {
+      "ja": "Pineco"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      204
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "奇襲"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。尾の場合、この攻撃は何もしません。"
+        },
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "E4-010",
+    "name": {
+      "ja": "ヤンマ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      193
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "敏ility性"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。ヘッドの場合、対戦相手の次のターン中に、ヤンマに行われた損害を含む攻撃のすべての影響を防ぎます。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "トリプルスマッシュ"
+        },
+        "effect": {
+          "ja": "3コインをフリップします。この攻撃は20のダメージに加えて、各ヘッドに対してさらに10ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "E4-009",
+    "name": {
+      "ja": "クロバット"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      169
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "キャリーオフ"
+        },
+        "effect": {
+          "ja": "ターン中に（攻撃の前に）、コインをひっくり返すことができます。頭の場合は、相手の手を見てください。対戦相手がベビーポクモン、基本的なポクモン、または進化カードを持っている場合は、そのうち1枚を選択します。あなたの対戦相手はそのカードを彼または彼女のデッキにシャッフルします。クロバットが特別な状態の影響を受けている場合、このパワーは使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルクロス"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の40回のダメージ倍になります。両方が尾である場合、防御するポケモンは混乱し、毒されます。"
+        }
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "E4-008",
+    "name": {
+      "ja": "クロバット"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      169
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "キャリーオフ"
+        },
+        "effect": {
+          "ja": "ターン中に（攻撃の前に）、コインをひっくり返すことができます。頭の場合は、相手の手を見てください。対戦相手がベビーポクモン、基本的なポクモン、または進化カードを持っている場合は、そのうち1枚を選択します。あなたの対戦相手はそのカードを彼または彼女のデッキにシャッフルします。クロバットが特別な状態の影響を受けている場合、このパワーは使用できません。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルクロス"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の40回のダメージ倍になります。両方が尾である場合、防御するポケモンは混乱し、毒されます。"
+        }
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "E4-007",
+    "name": {
+      "ja": "レディアン"
+    },
+    "rarity": "Holo Rare",
+    "category": "Pokemon",
+    "dexId": [
+      166
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "花粉シールド"
+        },
+        "effect": {
+          "ja": "対戦相手の次のターン中に、Ledianは特別な状態の影響を受けることはできません。 （攻撃、pok？-powers、pok？-bodies、およびトレーナーカードの他の効果はまだ発生しています。）"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "迅速"
+        },
+        "effect": {
+          "ja": "この攻撃の損傷は、脱力感、抵抗、pok？-Powers、pok？-bodies、または防御ポケモンに対するその他の影響の影響を受けません。"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "E4-006",
+    "name": {
+      "ja": "レディアン"
+    },
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      166
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "花粉シールド"
+        },
+        "effect": {
+          "ja": "対戦相手の次のターン中に、Ledianは特別な状態の影響を受けることはできません。 （攻撃、pok？-powers、pok？-bodies、およびトレーナーカードの他の効果はまだ発生しています。）"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "迅速"
+        },
+        "effect": {
+          "ja": "この攻撃の損傷は、脱力感、抵抗、pok？-Powers、pok？-bodies、または防御ポケモンに対するその他の影響の影響を受けません。"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "E4-005",
+    "name": {
+      "ja": "レディバ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      165
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "gnaw"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スラム"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の20倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "E4-004",
+    "name": {
+      "ja": "レディバ"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      165
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "涙目"
+        },
+        "effect": {
+          "ja": "対戦相手の次のターン中に、攻撃によるLedybaに与えられた損害は20倍に減少します。"
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "クイックターン"
+        },
+        "effect": {
+          "ja": "2つのコインをフリップします。この攻撃は、ヘッド数の10倍のダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "E4-003",
+    "name": {
+      "ja": "ゴルバット"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      42
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "毒音波"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは混乱しています。尾の場合、防御ポケモンは現在毒されます。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "数の強度"
+        },
+        "effect": {
+          "ja": "この攻撃は、ベンチで30のダメージに加えて、Zubat、Golbat、およびCrobatごとにさらに10ダメージを与えます。"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "E4-002",
+    "name": {
+      "ja": "Zubat"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      41
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "翼攻撃"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "毒スプレー"
+        },
+        "effect": {
+          "ja": "防御ポケモンは現在中毒になっています。"
+        },
+        "damage": 10
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "E4-001",
+    "name": {
+      "ja": "Zubat"
+    },
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      41
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "音波"
+        },
+        "effect": {
+          "ja": "コインをひっくり返します。頭の場合、防御ポケモンは混乱しています。"
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "フリッター"
+        },
+        "effect": {
+          "ja": "対戦相手のポケモンを1つ選択します。この攻撃は、そのポケモンに10ダメージを与えます。衰弱と抵抗を適用しないでください。 （衰弱と抵抗を適用した後に発生する他の効果はまだ起こります。）"
+        }
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "subtype": "unlimited"
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "1st edition"
+        ]
+      }
+    ],
+    "series": {
+      "id": "e"
+    },
+    "set": {
+      "id": "E4"
+    },
+    "cardNumber": "001"
+  }
+]

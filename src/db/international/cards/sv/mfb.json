@@ -1,0 +1,1907 @@
+[
+  {
+    "id": "mfb-9",
+    "name": {
+      "en": "Charmander"
+    },
+    "illustrator": "Kurata So",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Scratch"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Ember"
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741988,
+          "tcgplayer": 524082
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "charmander",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 741976,
+          "tcgplayer": 523985
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "mfb-8",
+    "name": {
+      "en": "Grass Energy"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741986,
+          "tcgplayer": 524038
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "bulbasaur",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 741985,
+          "tcgplayer": 532088
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "mfb-7",
+    "name": {
+      "en": "Scyther"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      123
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "X-Scissor"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 40 more damage."
+        },
+        "damage": "20+"
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741982,
+          "tcgplayer": 524016
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "mfb-6",
+    "name": {
+      "en": "Exeggutor"
+    },
+    "illustrator": "nagimiso",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      103
+    ],
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Exeggcute"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Seed Bomb"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Barrage Impact"
+        },
+        "damage": 80
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741981,
+          "tcgplayer": 524015
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "mfb-5",
+    "name": {
+      "en": "Exeggcute"
+    },
+    "illustrator": "Jerky",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      102
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Rollout"
+        },
+        "damage": 40
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741980,
+          "tcgplayer": 524013
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "mfb-4",
+    "name": {
+      "en": "Gloom"
+    },
+    "illustrator": "Natsumi Yashida",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      44
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Mega Drain"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon."
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741979,
+          "tcgplayer": 524010
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "mfb-34",
+    "name": {
+      "en": "Switch",
+      "fr": "Échange",
+      "de": "Tausch",
+      "it": "Scambio",
+      "es": "Cambio",
+      "pt": "Substituição",
+      "es-mx": "Cambio"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "None",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "fr": "Échangez votre Pokémon Actif contre l'un de vos Pokémon de Banc.",
+      "de": "Tausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+      "it": "Scambia il tuo Pokémon attivo con uno nella tua panchina.",
+      "es": "Cambia tu Pokémon Activo por uno de tus Pokémon en Banca.",
+      "pt": "Troque o seu Pokémon Ativo por 1 dos seus Pokémon no Banco.",
+      "es-mx": "Cambia tu Pokémon Activo por 1 de tus Pokémon en Banca."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742008,
+          "tcgplayer": 524028
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742020,
+          "tcgplayer": 524034
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741984,
+          "tcgplayer": 524026
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741996,
+          "tcgplayer": 524036
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "thirdParty": {
+      "cardmarket": 741984,
+      "tcgplayer": 524026
+    },
+    "cardNumber": "34"
+  },
+  {
+    "id": "mfb-33",
+    "name": {
+      "en": "Potion",
+      "fr": "Potion",
+      "es": "Poción",
+      "es-mx": "Poción",
+      "de": "Trank",
+      "it": "Pozione",
+      "pt": "Poção"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "None",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Heal 30 damage from 1 of your Pokémon.",
+      "fr": "Soignez 30 dégâts de l'un de vos Pokémon.",
+      "es": "Cura 30 puntos de daño a uno de tus Pokémon.",
+      "es-mx": "Cura 30 puntos de daño a 1 de tus Pokémon.",
+      "de": "Heile 30 Schadenspunkte bei 1 deiner Pokémon.",
+      "it": "Cura uno dei tuoi Pokémon da 30 danni.",
+      "pt": "Cure 30 pontos de dano de 1 dos seus Pokémon."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742007,
+          "tcgplayer": 524028
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 524029,
+          "tcgplayer": 742019
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741983,
+          "tcgplayer": 524026
+        }
+      },
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741995,
+          "tcgplayer": 524027
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "33"
+  },
+  {
+    "id": "mfb-32",
+    "name": {
+      "en": "Water Energy"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742022,
+          "tcgplayer": 524041
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "squirtle",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 742022,
+          "tcgplayer": 524041
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "32"
+  },
+  {
+    "id": "mfb-31",
+    "name": {
+      "en": "Lapras"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      129
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Surf"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742018,
+          "tcgplayer": 524056
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "31"
+  },
+  {
+    "id": "mfb-30",
+    "name": {
+      "en": "Gyarados"
+    },
+    "illustrator": "NC Empire",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 160,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Magikarp"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Tail Smash"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing."
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Hyper Beam"
+        },
+        "damage": 120
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742017,
+          "tcgplayer": 524055
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "30"
+  },
+  {
+    "id": "mfb-3",
+    "name": {
+      "en": "Oddish"
+    },
+    "illustrator": "Gemi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      43
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Absorb"
+        },
+        "effect": {
+          "en": "Heal 10 damage from this Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741978,
+          "tcgplayer": 524008
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "mfb-29",
+    "name": {
+      "en": "Magikarp"
+    },
+    "illustrator": "Amelicart",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Splash"
+        },
+        "damage": 10
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742016,
+          "tcgplayer": 524054
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "29"
+  },
+  {
+    "id": "mfb-28",
+    "name": {
+      "en": "Poliwhirl"
+    },
+    "illustrator": "Mizue",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      61
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Poliwag"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Wave Splash"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742015,
+          "tcgplayer": 524053
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "28"
+  },
+  {
+    "id": "mfb-27",
+    "name": {
+      "en": "Poliwag"
+    },
+    "illustrator": "0313",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      60
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Pound"
+        },
+        "damage": 20
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742014,
+          "tcgplayer": 524052
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "27"
+  },
+  {
+    "id": "mfb-26",
+    "name": {
+      "en": "Wartortle"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      8
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Water Gun"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Skull Bash"
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742013,
+          "tcgplayer": 524048
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "26"
+  },
+  {
+    "id": "mfb-25",
+    "name": {
+      "en": "Squirtle"
+    },
+    "illustrator": "ryoma uratsuka",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      7
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Water Gun"
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "squirtle"
+        ],
+        "thirdParty": {
+          "cardmarket": 742012,
+          "tcgplayer": 524047
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "squirtle",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 742011,
+          "tcgplayer": 524046
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "25"
+  },
+  {
+    "id": "mfb-24",
+    "name": {
+      "en": "Lightning Energy"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742010,
+          "tcgplayer": 524040
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "pikachu",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 742009,
+          "tcgplayer": 532090
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "24"
+  },
+  {
+    "id": "mfb-23",
+    "name": {
+      "en": "Electabuzz"
+    },
+    "illustrator": "hncl",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      125
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Low Kick"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Electro Punch"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742006,
+          "tcgplayer": 524068
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "23"
+  },
+  {
+    "id": "mfb-22",
+    "name": {
+      "en": "Electrode"
+    },
+    "illustrator": "miki kudo",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Voltorb"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Speed Attack"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Single Shot Blast"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing."
+        },
+        "damage": 120
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742005,
+          "tcgplayer": 524066
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "22"
+  },
+  {
+    "id": "mfb-21",
+    "name": {
+      "en": "Voltorb"
+    },
+    "illustrator": "OKACHEKE",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      100
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Rollout"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Spark"
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742004,
+          "tcgplayer": 524065
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "21"
+  },
+  {
+    "id": "mfb-20",
+    "name": {
+      "en": "Magneton"
+    },
+    "illustrator": "GOSSAN",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      82
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Magnemite"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Shock"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Magnetic Circle"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each of your Benched lightning Pokémon"
+        },
+        "damage": "20+"
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742003,
+          "tcgplayer": 524064
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "20"
+  },
+  {
+    "id": "mfb-2",
+    "name": {
+      "en": "Ivysaur"
+    },
+    "illustrator": "Narumi Sato",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      2
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Vine Whip"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Razor Leaf"
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741977,
+          "tcgplayer": 524007
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "mfb-19",
+    "name": {
+      "en": "Magnemite"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      81
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Shock"
+        },
+        "damage": 20
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742002,
+          "tcgplayer": 524063
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "19"
+  },
+  {
+    "id": "mfb-18",
+    "name": {
+      "en": "Raichu"
+    },
+    "illustrator": "Kariya",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Pikachu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Electro Ball"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder"
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742001,
+          "tcgplayer": 524062
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "18"
+  },
+  {
+    "id": "mfb-17",
+    "name": {
+      "en": "Pikachu"
+    },
+    "illustrator": "Saino Misaki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Quick Attack"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Electro Ball"
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "pikachu"
+        ],
+        "thirdParty": {
+          "cardmarket": 742000,
+          "tcgplayer": 524060
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "pikachu",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 741999,
+          "tcgplayer": 524061
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "mfb-16",
+    "name": {
+      "en": "Fire Energy"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741998,
+          "tcgplayer": 524039
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "charmander",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 741997,
+          "tcgplayer": 532087
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "mfb-15",
+    "name": {
+      "en": "Magmar"
+    },
+    "illustrator": "Ryuta Fuse",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      126
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Flare"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Magma Punch"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741994,
+          "tcgplayer": 524097
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "mfb-14",
+    "name": {
+      "en": "Arcanine"
+    },
+    "illustrator": "nisimana",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      59
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Growlithe"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Flare Blitz"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 more damage"
+        },
+        "damage": "90+"
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741993,
+          "tcgplayer": 524094
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "mfb-13",
+    "name": {
+      "en": "Growlithe"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      58
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Gnaw"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Take Down"
+        },
+        "damage": 50
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741992,
+          "tcgplayer": 524092
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "mfb-12",
+    "name": {
+      "en": "Ninetales"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      38
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Vulpix"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Flame Tail"
+        },
+        "damage": 70
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741991,
+          "tcgplayer": 524091
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "mfb-11",
+    "name": {
+      "en": "Vulpix"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      37
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Will-O-Wisp"
+        },
+        "damage": 20
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741990,
+          "tcgplayer": 524087
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "mfb-10",
+    "name": {
+      "en": "Charmeleon"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      5
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charmander"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Ember"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Flamethrower"
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "charmander"
+        ],
+        "thirdParty": {
+          "cardmarket": 741989,
+          "tcgplayer": 524085
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "mfb-1",
+    "name": {
+      "en": "Bulbasaur"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      1
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Vine Whip"
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "stamp": [
+          "bulbasaur"
+        ],
+        "thirdParty": {
+          "cardmarket": 741976,
+          "tcgplayer": 523985
+        }
+      },
+      {
+        "type": "normal",
+        "subtype": "blue-border",
+        "stamp": [
+          "bulbasaur",
+          "pokeball"
+        ],
+        "thirdParty": {
+          "cardmarket": 741975,
+          "tcgplayer": 523984
+        }
+      }
+    ],
+    "series": {
+      "id": "sv"
+    },
+    "set": {
+      "id": "mfb"
+    },
+    "cardNumber": "1"
+  }
+]

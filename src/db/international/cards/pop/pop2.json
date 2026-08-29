@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "pop2-9",
+    "name": {
+      "en": "Multi Technical Machine 01",
+      "fr": "Machine multi-technique 01",
+      "de": "Vielzweckmaschine 01"
+    },
+    "illustrator": "\"Big Mama\" Tagawa\"Big Mama\" Tagawa",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Technical Machine",
+    "effect": {
+      "en": "Attach this card to 1 of your Pokémon in play. That Pokémon may use this card’s attack instead of its own. At the end of your turn, discard Multi Technical Machine 01.",
+      "fr": "Attachez cette carte à 1 des Pokémon que vous avez en jeu. Ce Pokémon peut utiliser l'attaque de cette carte à la place de ses attaques. À la fin de votre tour, défaussez Machine multi-technique 01.",
+      "de": "Lege diese Karte an eines deiner Pokémon an. Dieses Pokémon kann diesen Angriff anstelle seiner eigenen verwenden. Lege die Vielzweckmaschine 01 am Ende deines Zuges auf deinen Ablagestapel."
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Paralyzing Gaze",
+          "de": "Lähmender Blick"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Paralyzed.",
+          "de": "Das Verteidigende Pokémon ist jetzt gelähmt."
+        }
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277440,
+          "tcgplayer": 87636
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop2-8",
+    "name": {
+      "en": "Mr. Briney's Compassion",
+      "fr": "La compassion de M. Briney",
+      "de": "Mr. Bracks Mitgefühl"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card. Choose 1 of your Pokémon in play (excluding Pokémon-ex). Return that Pokémon and all cards attached to it to your hand.",
+      "fr": "Vous ne pouvez jouer qu'une seule carte Supporter par tour. Lorsque vous jouez cette carte, placez-la à côté de votre Pokémon Actif. À la fin du tour, défaussez-la.\n\nChoisissez 1 des Pokémon que vous avez en jeu (sauf les Pokémon-ex). Reprenez dans votre main ce Pokémon ainsi que toutes les cartes qui lui sont attachées.",
+      "de": "Du kannst in jedem Zug nur eine Unterstützerkarte spielen. Wenn du diese Karte ausspielst, lege sie neben dein Aktives Pokémon. Lege diese Karte am Ende deines Zuges auf deinen Ablagestapel. Wähle 1 deiner Pokémon (außer Pokémon-ex). Nimm das ausgewählte Pokémon und alle daran angelegten Karten zurück auf deine Hand."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "tcgplayer": 87586
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop2-7",
+    "name": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre",
+      "de": "Bisaknosp"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      2
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "de": "Bisasam"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Poison Seed",
+          "fr": "Graine poison",
+          "de": "Giftsamen"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Poisoned.",
+          "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+          "de": "Das Verteidigende Pokémon ist jetzt vergiftet."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "fr": "Tranch'herbe",
+          "de": "Rasierblatt"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277438,
+          "tcgplayer": 86298
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop2-6",
+    "name": {
+      "en": "Venusaur",
+      "fr": "Florizarre",
+      "de": "Bisaflor"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      3
+    ],
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre",
+      "de": "Bisaknosp"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Wide Solarbeam",
+          "fr": "« Grand rayon solaire »",
+          "de": "Geteilter Solarstrahl"
+        },
+        "effect": {
+          "en": "Does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 20 dégâts à 2 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 2 gegnerischen Pokémon auf der Bank (1 wenn nur 1 vorhanden ist) 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hard Plant",
+          "fr": "« Herbe forte »",
+          "de": "Steinharte Pflanze"
+        },
+        "effect": {
+          "en": "Venusaur can't use Hard Plant during your next turn.",
+          "fr": "Florizarre ne peut pas utiliser Herbe forte lors de votre prochain tour.",
+          "de": "Bisaflor kann Steinharte Pflanze in deinem nächsten Zug nicht benutzen."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277437,
+          "tcgplayer": 90317
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277437,
+          "tcgplayer": 90317
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop2-5",
+    "name": {
+      "en": "Tauros",
+      "fr": "Tauros",
+      "de": "Tauros"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      128
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rage",
+          "fr": "Frénésie",
+          "de": "Raserei"
+        },
+        "effect": {
+          "en": "Does 10 damage plus 10 more damage for each damage counter on Tauros.",
+          "fr": "Inflige 10 dégâts plus 10 dégâts supplémentaires pour chaque marqueur de dégât sur Tauros.",
+          "de": "Fügt 10 Schadenspunkte plus 10 weitere Schadenspunkte für jede Schadensmarke auf Tauros zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Take Down",
+          "fr": "Bélier",
+          "de": "Bodycheck"
+        },
+        "effect": {
+          "en": "Tauros does 10 damage to itself.",
+          "fr": "Tauros s'inflige 10 dégâts.",
+          "de": "Tauros fügt sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277436,
+          "tcgplayer": 89762
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277436,
+          "tcgplayer": 89762
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop2-4",
+    "name": {
+      "en": "Suicune",
+      "fr": "Suicune",
+      "de": "Suicune"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      245
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Mirror Coat",
+          "fr": "Voile miroir",
+          "de": "Spiegelcape"
+        },
+        "effect": {
+          "en": "If Suicune is Burned or Poisoned by an opponent's attack (even if Suicune is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1).",
+          "fr": "Si Suicune est Brûlé ou Empoisonné par une attaque de votre adversaire (même si Suicune est mis K.O.), le Pokémon Attaquant est maintenant affecté par les mêmes États Spéciaux (ou 1 s'il n'y en a qu'1).",
+          "de": "Wenn Suicune durch einen Angriff deines Gegners verbrannt oder vergiftet wird (auch wenn Suicune kampfunfähig wird), wird das Angreifende Pokémon jetzt auch von diesen Speziellen Zuständen betroffen (1 falls nur 1 vorhanden)."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bubblebeam",
+          "fr": "Bulles d'O",
+          "de": "Blubbstrahl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277435,
+          "tcgplayer": 89602
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277435,
+          "tcgplayer": 89602
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop2-3",
+    "name": {
+      "en": "Raikou",
+      "fr": "Raikou",
+      "de": "Raikou"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      243
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Roar",
+          "fr": "Hurlement",
+          "de": "Gebrüll"
+        },
+        "effect": {
+          "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any.",
+          "fr": "Si votre adversaire a des Pokémon sur son Banc, il choisit l'un d'eux et l'échange contre le Pokémon Défenseur.",
+          "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunder",
+          "fr": "Fatal-Foudre",
+          "de": "Donner"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, Raikou does 20 damage to itself.",
+          "fr": "Lancez une pièce. Si c'est pile, Raikou s'inflige 20 dégâts.",
+          "de": "Wirf eine Münze. Bei „Zahl“ fügt Raikou sich selbst 20 Schadenspunkte zu."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277434,
+          "tcgplayer": 88533
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277434,
+          "tcgplayer": 88533
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop2-2",
+    "name": {
+      "en": "Pidgeot",
+      "fr": "Roucarnage",
+      "de": "Tauboss"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      18
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Pidgeotto",
+      "fr": "Roucoups",
+      "de": "Tauboga"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Beating Wings",
+          "fr": "Badelaile",
+          "de": "Schlagende Flügel"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), if Pidgeot is your Active Pokémon, you may shuffle 1 of your Benched Pokémon and all cards attached to it into your deck. This power can't be used if Pidgeot is affected by a Special Condition.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), si Roucarnage est votre Pokémon Actif, vous pouvez mélanger un des Pokémon de votre Banc et toutes les cartes qui lui sont attachées à votre deck. Ce pouvoir ne peut être utilisé si Roucarnage est affecté par un État spécial.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, falls Tauboss dein Aktives Pokémon ist, 1 der Pokémon auf deiner Bank und alle daran angelegten Karten in dein Deck mischen. Diese Fähigkeit kann nicht verwendet werden, falls Tauboss von einem Speziellen Zustand betroffen ist."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sharp Beak",
+          "fr": "Bec-aiguisé",
+          "de": "Scharfschnabel"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts plus 30 dégâts supplémentaires.",
+          "de": "Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 30 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277433,
+          "tcgplayer": 88032
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277433,
+          "tcgplayer": 88032
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop2-17",
+    "name": {
+      "en": "Celebi ex",
+      "fr": "Celebi ex",
+      "de": "Celebi-ex"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      251
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Time Reversal",
+          "fr": "Remonter dans le temps",
+          "de": "Zeit Umkehrung"
+        },
+        "effect": {
+          "en": "Once during your turn, when you put Celebi ex from your hand onto your Bench, you may search your discard pile for a card, show it to your opponent, and put it on top of your deck.",
+          "fr": "Une seule fois pendant votre tour, lorsque vous placez Celebi ex de votre main sur votre Banc, vous pouvez chercher une carte dans votre pile de défausse. Montrez-la à votre adversaire et placez-la au dessus de votre deck.",
+          "de": "Während deines Zuges, wenn du Celebi ex auf die Bank legst, kannst du ein Mal deinen Ablagestapel nach 1 Karte durchsuchen, sie deinem Gegner zeigen und auf dein Deck legen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psychic Shield",
+          "fr": "Bouclier psychique",
+          "de": "Psychoschild"
+        },
+        "effect": {
+          "en": "Prevent all effects of attacks, including damage, done to Celebi ex by your opponent's Pokémon-ex during your opponent's next turn.",
+          "fr": "Prévenez tous les effets d'une attaque, dégâts inclus, infligés à Celebi ex par le Pokémon-ex de votre adversaire lors du prochain tour de votre adversaire.",
+          "de": "Verhindere während des nächsten Zuges deines Gegners alle Effekte von Angriffen, einschließlich Schaden, die Celebi ex von gegnerischen Pokémon-ex zugefügt werden."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277448,
+          "tcgplayer": 84151
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277448,
+          "tcgplayer": 97808
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "suffix": "EX",
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop2-16",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gnaw",
+          "fr": "Rogne",
+          "de": "Nagen"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunder Jolt",
+          "fr": "Secousse tonnerre",
+          "de": "Donnerrüttler"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, Pikachu does 10 damage to itself.",
+          "fr": "Lancez une pièce. Si c'est pile, Pikachu s'inflige 10 dégâts.",
+          "de": "Wirf eine Münze. Bei „Zahl“ fügt Pikachu sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277447,
+          "tcgplayer": 88081
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop2-15",
+    "name": {
+      "en": "Phanpy",
+      "fr": "Phanpy",
+      "de": "Phanpy"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      231
+    ],
+    "hp": 50,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Double Spin",
+          "fr": "Double tour",
+          "de": "Doppeldreher"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de faces.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "10×"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Body Slam",
+          "fr": "Plaquage",
+          "de": "Bodyslam"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277446,
+          "tcgplayer": 88000
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop2-14",
+    "name": {
+      "en": "Luvdisc",
+      "fr": "Lovdisc",
+      "de": "Liebiskus"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      370
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Paralyzing Kiss",
+          "fr": "Baiser paralysant",
+          "de": "Lähmender Kuss"
+        },
+        "effect": {
+          "en": "If there are 2 Defending Pokémon in play, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed. (If there is only 1 Defending Pokémon, this attack does nothing.)",
+          "fr": "S'il y a 2 Pokémon Défenseurs en jeu, choisissez-en un. Ce Pokémon est maintenant Paralysé. (S'il n'y a qu'1 Pokémon Défenseur, cette attaque est sans effet.)",
+          "de": "Wenn sich 2 Verteidigende Pokémon im Spiel befinden, wähle 1 von ihnen. Das gewählte Pokémon ist jetzt gelähmt. (Wenn nur 1 Verteidigendes Pokémon vorhanden ist, hat dieser Angriff keine Auswirkung.)"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fast Stream",
+          "fr": "Torrent",
+          "de": "Reißender Strom"
+        },
+        "effect": {
+          "en": "Move 1 Energy card attached to the Defending Pokémon to the other Defending Pokémon. (Ignore this effect if your opponent has only 1 Defending Pokémon.)",
+          "fr": "Prenez une carte Énergie attachée au Pokémon Défenseur et attachez-la à l'autre Pokémon Défenseur. (Ne tenez pas compte de cet effet si votre adversaire ne possède qu'un seul Pokémon Défenseur).",
+          "de": "Nimm 1 Energiekarte von dem Verteidigenden Pokémon und lege sie an das andere Verteidigende Pokémon an. (Dieser Effekt hat keine Auswirkung, wenn der Gegner nur 1 Verteidigendes Pokémon hat.)"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277445,
+          "tcgplayer": 86934
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop2-13",
+    "name": {
+      "en": "Cacnea",
+      "fr": "Cacnea",
+      "de": "Tuska"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      331
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sand Attack",
+          "fr": "Jet de Sable",
+          "de": "Sandangriff"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "fr": "Si le Pokémon Défenseur essaye d'attaquer lors du prochain tour de votre adversaire, celui-ci lance une pièce. Si c'est pile, cette attaque est sans effet.",
+          "de": "Wenn das Verteidigende Pokémon im nächsten Zug angreift, wirft dein Gegner 1 Münze. Bei „Zahl“ hat der entsprechende Angriff keine Auswirkungen."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277444,
+          "tcgplayer": 84072
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop2-12",
+    "name": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "de": "Bisasam"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      1
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure",
+          "de": "Biss"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "fr": "Tranch'herbe",
+          "de": "Rasierblatt"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277443,
+          "tcgplayer": 84031
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop2-11",
+    "name": {
+      "en": "TV Reporter",
+      "fr": "Journaliste télé",
+      "de": "TV Reporter"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card. Draw 3 cards. Then discard any 1 card from your hand.",
+      "fr": "Vous ne pouvez jouer qu'une seule carte Supporter par tour. Lorsque vous la jouez, placez-la à côté de votre Pokémon Actif. À la fin du tour, défaussez-la.\n\nPiochez 3 cartes. Ensuite, défaussez une carte de votre main.",
+      "de": "Du kannst in jedem Zug nur eine Unterstützerkarte spielen. Wenn du diese Karte ausspielst, lege sie neben dein Akives Pokémon. Lege diese Karte am Ende deines Zuges auf deinen Ablagestapel. Ziehe 3 Karten. Lege danach 1 Karte von deiner Hand auf deinen Ablagestapel."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277442,
+          "tcgplayer": 90084
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop2-10",
+    "name": {
+      "en": "Pokémon Park",
+      "fr": "Parc Pokémon",
+      "de": "Pokémon Park*"
+    },
+    "illustrator": "Kazuo Yazawa",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "en": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card. Once during each player's turn, when that player attaches an Energy card from his or her hand to 1 of his or her Benched Pokémon, he or she removes 1 damage counter from that Pokémon.",
+      "fr": "Cette carte reste en jeu lorsque vous la jouez. Défaussez-la si une autre carte Stade est mise en jeu.\n\nUne seule fois lors du tour de chaque joueur, lorsqu'un joueur attache une carte Énergie de sa main à 1 des Pokémon de son Banc, il retire à ce Pokémon 1 marqueur de dégât.",
+      "de": "Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadion-Karte ins Spiel kommt. Ein Mal während jedes seiner Züge entfernt ein Spieler, wenn er eine Energiekarte aus seiner Hand an 1 der Pokémon auf seiner Bank anlegt, 1 Schadensmarke von diesem Pokémon, falls vorhanden."
+    },
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277441,
+          "tcgplayer": 88231
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop2-1",
+    "name": {
+      "en": "Entei",
+      "fr": "Entei",
+      "de": "Entei"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      244
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Stomp",
+          "fr": "Écrasement",
+          "de": "Stampfer"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "fr": "Danseflamme",
+          "de": "Feuerwirbel"
+        },
+        "effect": {
+          "en": "Discard 2 Basic Energy cards attached to Entei or this attack does nothing.",
+          "fr": "Défaussez 2 cartes Énergie de base attachées à Entei ou cette attaque est sans effet.",
+          "de": "Entferne 2 Basis-Energiekarten von Entei und lege sie auf den Ablagestapel, sonst hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277432,
+          "tcgplayer": 85271
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277432,
+          "tcgplayer": 85271
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop2"
+    },
+    "cardNumber": "1"
+  }
+]

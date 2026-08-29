@@ -1,0 +1,8604 @@
+[
+  {
+    "id": "SC1b-171",
+    "name": {
+      "zh-tw": "瑪俐"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，從牌庫抽卡，自己抽出5張，對手抽出4張。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "171"
+  },
+  {
+    "id": "SC1b-170",
+    "name": {
+      "zh-tw": "老大的指令（坂木）"
+    },
+    "illustrator": "nagimiso",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "170"
+  },
+  {
+    "id": "SC1b-169",
+    "name": {
+      "zh-tw": "索妮亞"
+    },
+    "illustrator": "Yusuke Ohmura",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多2張【基礎】寶可夢卡，或者最多2張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "169"
+  },
+  {
+    "id": "SC1b-168",
+    "name": {
+      "zh-tw": "呐喊隊手下"
+    },
+    "illustrator": "nagimiso",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1個對手的場上寶可夢身上附加的能量，放回對手的手牌。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "168"
+  },
+  {
+    "id": "SC1b-167",
+    "name": {
+      "zh-tw": "古月鳥V"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "鳥嘴捕捉"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫任意選擇最多2張卡加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴吐射擊"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢身上附加的能量全部丟棄，對手的1隻寶可夢受到160點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "167"
+  },
+  {
+    "id": "SC1b-166",
+    "name": {
+      "zh-tw": "毛毛角羊V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "柔軟羊毛"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢受到招式的傷害「-30」點。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "復仇暴擊"
+        },
+        "effect": {
+          "zh-tw": "增加對手已經獲得的獎賞卡的張數×30點傷害。"
+        },
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "166"
+  },
+  {
+    "id": "SC1b-165",
+    "name": {
+      "zh-tw": "卡比獸V"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "吞下"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復對對手的戰鬥寶可夢造成的傷害相同數值的HP。"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "摔下"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢【睡眠】。"
+        },
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "165"
+  },
+  {
+    "id": "SC1b-164",
+    "name": {
+      "zh-tw": "烏賊王V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "拖出"
+        },
+        "effect": {
+          "zh-tw": "選擇對手的1隻備戰寶可夢，與戰鬥寶可夢互換。然後，新上場的寶可夢受到30點傷害。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "腦力震動"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "164"
+  },
+  {
+    "id": "SC1b-163",
+    "name": {
+      "zh-tw": "勾魂眼V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "搜尋礦脈"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇1張訓練家卡，在給對手看過後加入手牌。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "瘋狂銳爪"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上放置的傷害指示物的數量×60點傷害。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "163"
+  },
+  {
+    "id": "SC1b-162",
+    "name": {
+      "zh-tw": "千面避役V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "狙擊"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻寶可夢受到40點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水流傳達"
+        },
+        "effect": {
+          "zh-tw": "查看對手的手牌。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "162"
+  },
+  {
+    "id": "SC1b-161",
+    "name": {
+      "zh-tw": "美納斯V"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水流衝擊"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢【撤退】所需的能量的數量×50點傷害。"
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "昏睡飛濺"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "161"
+  },
+  {
+    "id": "SC1b-160",
+    "name": {
+      "zh-tw": "拉普拉斯V"
+    },
+    "illustrator": "Hasuno",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "迴流"
+        },
+        "effect": {
+          "zh-tw": "從自己的手牌選擇1張【水】能量卡，附於這隻寶可夢身上。然後，將這隻寶可夢與備戰寶可夢互換。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大洋閉環"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的【水】能量，放回手牌。"
+        },
+        "damage": 210
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "160"
+  },
+  {
+    "id": "SC1b-159",
+    "name": {
+      "zh-tw": "閃焰王牌V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "球場跑者"
+        },
+        "effect": {
+          "zh-tw": "若場上有競技場卡，則這隻寶可夢【撤退】所需的能量全部消除。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "紅蓮踢"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "159"
+  },
+  {
+    "id": "SC1b-158",
+    "name": {
+      "zh-tw": "煤炭龜V"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火焰柱"
+        },
+        "effect": {
+          "zh-tw": "將自己的牌庫上方1張卡丟棄，若那張卡為【火】能量卡，則增加90點傷害。"
+        },
+        "damage": "90+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "蒸汽粉碎"
+        },
+        "effect": {
+          "zh-tw": "選擇2個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "158"
+  },
+  {
+    "id": "SC1b-157",
+    "name": {
+      "zh-tw": "九尾V"
+    },
+    "illustrator": "Saki Hayashiro",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "九尾狐變化"
+        },
+        "effect": {
+          "zh-tw": "選擇對手的戰鬥寶可夢持有的1個招式，作為這個招式使用。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴射火焰"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "157"
+  },
+  {
+    "id": "SC1b-156",
+    "name": {
+      "zh-tw": "白蓬蓬V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "歡樂配對"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。從自己的棄牌區選擇1張支援者卡，在給對手看過後加入手牌。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飄舞"
+        },
+        "effect": {
+          "zh-tw": "若希望，將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "156"
+  },
+  {
+    "id": "SC1b-155",
+    "name": {
+      "zh-tw": "轟擂金剛猩V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "森林之宴"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張【草】屬性的【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "木槌"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "155"
+  },
+  {
+    "id": "SC1b-154",
+    "name": {
+      "zh-tw": "破破舵輪V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "惹毛船錨"
+        },
+        "effect": {
+          "zh-tw": "若在上個對手的回合，自己的【草】寶可夢因招式的傷害而【氣絕】了，則增加90點傷害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "兆幅鐵錘"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「兆幅鐵錘」。"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "154"
+  },
+  {
+    "id": "SC1b-153",
+    "name": {
+      "zh-tw": "雙子能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "D",
+    "effect": {
+      "zh-tw": "只要這張卡附於寶可夢身上，視為提供2個【無】能量。 若附於「寶可夢【V】・【GX】」身上，則視為提供1個【無】能量。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "153"
+  },
+  {
+    "id": "SC1b-152",
+    "name": {
+      "zh-tw": "捕獲能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "D",
+    "effect": {
+      "zh-tw": "只要這張卡附於寶可夢身上，視為提供1個【無】能量。 當從手牌將這張卡附於寶可夢身上時，從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "152"
+  },
+  {
+    "id": "SC1b-151",
+    "name": {
+      "zh-tw": "草路競技場"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Stadium",
+    "effect": {
+      "zh-tw": "雙方玩家在每個自己的回合時，可使用1次，可從自己的牌庫選擇1張【草】屬性的進化寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "151"
+  },
+  {
+    "id": "SC1b-150",
+    "name": {
+      "zh-tw": "伽勒爾礦山"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Stadium",
+    "effect": {
+      "zh-tw": "雙方的戰鬥寶可夢【撤退】所需的能量各增加2個。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "150"
+  },
+  {
+    "id": "SC1b-149",
+    "name": {
+      "zh-tw": "瑪俐"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，從牌庫抽卡，自己抽出5張，對手抽出4張。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "149"
+  },
+  {
+    "id": "SC1b-148",
+    "name": {
+      "zh-tw": "老大的指令（坂木）"
+    },
+    "illustrator": "nagimiso",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "148"
+  },
+  {
+    "id": "SC1b-147",
+    "name": {
+      "zh-tw": "鄧培"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出2張卡。與對手玩家猜拳，若己方獲勝，則再抽出2張卡。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "147"
+  },
+  {
+    "id": "SC1b-146",
+    "name": {
+      "zh-tw": "索妮亞"
+    },
+    "illustrator": "Yusuke Ohmura",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多2張【基礎】寶可夢卡，或者最多2張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "146"
+  },
+  {
+    "id": "SC1b-145",
+    "name": {
+      "zh-tw": "呐喊隊手下"
+    },
+    "illustrator": "nagimiso",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1個對手的場上寶可夢身上附加的能量，放回對手的手牌。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "145"
+  },
+  {
+    "id": "SC1b-144",
+    "name": {
+      "zh-tw": "木子果"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "144"
+  },
+  {
+    "id": "SC1b-143",
+    "name": {
+      "zh-tw": "燃燒圍巾"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "143"
+  },
+  {
+    "id": "SC1b-142",
+    "name": {
+      "zh-tw": "氣球"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "142"
+  },
+  {
+    "id": "SC1b-141",
+    "name": {
+      "zh-tw": "大護符"
+    },
+    "illustrator": "inose yukie",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "141"
+  },
+  {
+    "id": "SC1b-140",
+    "name": {
+      "zh-tw": "洛托姆自行車"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "若使用了這張卡，則自己的回合結束。 從牌庫抽卡直到自己的手牌滿6張為止。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "140"
+  },
+  {
+    "id": "SC1b-139",
+    "name": {
+      "zh-tw": "神奇糖果"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的手牌選擇1張【2階進化】寶可夢卡，放置於自己的場上的可進化成那隻寶可夢的【基礎】寶可夢身上，跳過【1階進化】完成進化。（無法對自己的最初回合與這個回合剛使出的寶可夢使用。）"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "139"
+  },
+  {
+    "id": "SC1b-138",
+    "name": {
+      "zh-tw": "足量水桶"
+    },
+    "illustrator": "sadaji",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多2張【水】能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "138"
+  },
+  {
+    "id": "SC1b-137",
+    "name": {
+      "zh-tw": "厲害傷藥"
+    },
+    "illustrator": "Ryo Ueda",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "選擇自己的1隻寶可夢，恢復「120」HP。然後，選擇2個那隻寶可夢身上附加的能量，將其丟棄。（無法對身上沒有附加2個能量的寶可夢使用。）"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "137"
+  },
+  {
+    "id": "SC1b-136",
+    "name": {
+      "zh-tw": "回收網"
+    },
+    "illustrator": "Ryo Ueda",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "選擇自己的1隻寶可夢（「寶可夢【V】・【GX】」除外），放回手牌。（寶可夢以外的卡全部丟棄。）"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "136"
+  },
+  {
+    "id": "SC1b-135",
+    "name": {
+      "zh-tw": "古月鳥V"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "鳥嘴捕捉"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫任意選擇最多2張卡加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴吐射擊"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢身上附加的能量全部丟棄，對手的1隻寶可夢受到160點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "135"
+  },
+  {
+    "id": "SC1b-134",
+    "name": {
+      "zh-tw": "毛毛角羊V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "柔軟羊毛"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢受到招式的傷害「-30」點。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "復仇暴擊"
+        },
+        "effect": {
+          "zh-tw": "增加對手已經獲得的獎賞卡的張數×30點傷害。"
+        },
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "134"
+  },
+  {
+    "id": "SC1b-133",
+    "name": {
+      "zh-tw": "毛毛角羊"
+    },
+    "illustrator": "You Iribi",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "棉花防守"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，這隻寶可夢受到招式的傷害「-30」點。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "捨身衝撞"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "用牠那彈力十足的毛織成的地毯就像是彈簧墊，可以站上去蹦蹦跳。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "133"
+  },
+  {
+    "id": "SC1b-132",
+    "name": {
+      "zh-tw": "毛辮羊"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "膨脹"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，這隻寶可夢受到招式的傷害「-10」點。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "捲捲的體毛彈性十足。就算從懸崖上掉下去，也不會受傷。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "132"
+  },
+  {
+    "id": "SC1b-131",
+    "name": {
+      "zh-tw": "智揮猩"
+    },
+    "illustrator": "Shigenori Negishi",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "小聰明"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。選擇1張自己的手牌，與牌庫上方的卡互換。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "擊倒"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "智揮猩能夠透過揮動由樹葉和體毛所製成的扇子，隨心所欲地指揮寶可夢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "131"
+  },
+  {
+    "id": "SC1b-130",
+    "name": {
+      "zh-tw": "穿著熊"
+    },
+    "illustrator": "Ryuta Fuse",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "臂錘"
+        },
+        "effect": {
+          "zh-tw": "將對手的牌庫上方1張卡丟棄。"
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "一擲千斤"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢與附加的卡全部丟棄。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "如果牠認定你是牠的夥伴，便會試著擁抱你來表示喜愛。但這會弄碎你的骨頭，非常危險。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "130"
+  },
+  {
+    "id": "SC1b-129",
+    "name": {
+      "zh-tw": "童偶熊"
+    },
+    "illustrator": "so-taro",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撞擊"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飛撲"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則增加40點傷害。"
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "毛茸茸的毛皮摸起來觸感超群，但粗心大意地向牠伸出手的人基本上都會遭到牠的劇烈反擊。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "129"
+  },
+  {
+    "id": "SC1b-128",
+    "name": {
+      "zh-tw": "摔角鷹人"
+    },
+    "illustrator": "tetsuya koizumi",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "風幡"
+        },
+        "effect": {
+          "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "高速攻擊"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "利用發揮輕盈體型優勢的戰法，在消耗了對手的體力之後使用華麗的絕招分出勝負。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "128"
+  },
+  {
+    "id": "SC1b-127",
+    "name": {
+      "zh-tw": "掘地兔"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "移山突進"
+        },
+        "effect": {
+          "zh-tw": "將自己的牌庫上方最多6張卡丟棄。然後，造成丟棄的張數×30點傷害。"
+        },
+        "damage": "30×"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "魯莽頭擊"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "力量不亞於挖掘機，連堅硬的岩盤也能挖掘。在隧道建設工程中十分活躍。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "127"
+  },
+  {
+    "id": "SC1b-126",
+    "name": {
+      "zh-tw": "掘掘兔"
+    },
+    "illustrator": "Yuka Morii",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "掘掘"
+        },
+        "effect": {
+          "zh-tw": "將對手的牌庫上方1張卡丟棄。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "魯莽頭擊"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "擅長用耳朵挖洞。只需一個晚上就能挖出深至地下１０公尺的巢穴。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "126"
+  },
+  {
+    "id": "SC1b-125",
+    "name": {
+      "zh-tw": "高傲雉雞"
+    },
+    "illustrator": "Naoyo Kimura",
+    "category": "Pokemon",
+    "hp": 150,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "膽怯"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢使用招式的傷害「-50」點。"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "空氣斬"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "擁有高度的飛行能力。雌性擅於持久，雄性擅長速度。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "125"
+  },
+  {
+    "id": "SC1b-124",
+    "name": {
+      "zh-tw": "咕咕鴿"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "銳利羽"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "起風"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "飛行速度不可小覷。無論飛到多遠的地方，都會記得自己的主人和巢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "124"
+  },
+  {
+    "id": "SC1b-123",
+    "name": {
+      "zh-tw": "豆豆鴿"
+    },
+    "illustrator": "Ryota Murayama",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "鳥笛"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張抵抗力為【鬥】屬性的寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "銳利羽"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會出現在人類生活的地方。一旦撒出飼料就會有好幾百隻豆豆鴿聚集而來，千萬要小心。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "123"
+  },
+  {
+    "id": "SC1b-122",
+    "name": {
+      "zh-tw": "聒噪鳥"
+    },
+    "illustrator": "ryoma uratsuka",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "幸運配對"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。擲1次硬幣若為正面，則從自己的棄牌區選擇1張支援者卡，在給對手看過後加入手牌。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "滑翔"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "學習人類的語言來鳴叫。當夥伴們聚集在同一個地方時，大家就會學會同樣的詞語。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "122"
+  },
+  {
+    "id": "SC1b-121",
+    "name": {
+      "zh-tw": "烈空坐"
+    },
+    "illustrator": "so-taro",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "緊咬不放"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "力量爆破"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "不斷在臭氧層飛行，吞食隕石作為食物。用儲存在體內的隕石能量來超級進化。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "121"
+  },
+  {
+    "id": "SC1b-120",
+    "name": {
+      "zh-tw": "卡比獸VMAX"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 340,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超極巨自由墜落"
+        },
+        "effect": {
+          "zh-tw": "增加自己的備戰寶可夢的數量×30點傷害。"
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "120"
+  },
+  {
+    "id": "SC1b-119",
+    "name": {
+      "zh-tw": "卡比獸V"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "吞下"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復對對手的戰鬥寶可夢造成的傷害相同數值的HP。"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "摔下"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢【睡眠】。"
+        },
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "119"
+  },
+  {
+    "id": "SC1b-118",
+    "name": {
+      "zh-tw": "伊布"
+    },
+    "illustrator": "You Iribi",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "進化預兆"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇1張從「伊布」進化而來的卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踹"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "伊布擁有著能夠為了適應周遭的環境而改變身體構造的能力。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "118"
+  },
+  {
+    "id": "SC1b-117",
+    "name": {
+      "zh-tw": "長毛巨魔"
+    },
+    "illustrator": "nagimiso",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "惡之制約"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在戰鬥場上，對手的戰鬥寶可夢使用招式所需的能量增加1個【無】能量。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "能量壓制"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上附加的能量的數量×30點傷害。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "透過用頭髮裹住全身，讓肌肉的力量向上提升。能發揮出足以壓倒怪力的力量。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "117"
+  },
+  {
+    "id": "SC1b-116",
+    "name": {
+      "zh-tw": "詐唬魔"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "咬住"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "假跪真撞"
+        },
+        "effect": {
+          "zh-tw": "這個招式的傷害不計算對手的戰鬥寶可夢身上的附加效果。"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會先裝成要下跪道歉的樣子，然後用後腦勺尖如長矛的頭髮刺向對手。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "116"
+  },
+  {
+    "id": "SC1b-115",
+    "name": {
+      "zh-tw": "搗蛋小妖"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "敲擊"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踩"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會用鼻子吸收人類或寶可夢情緒糟糕時產生的負能量，來為自己補充活力。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "115"
+  },
+  {
+    "id": "SC1b-114",
+    "name": {
+      "zh-tw": "狐大盜"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "小偷"
+        },
+        "effect": {
+          "zh-tw": "查看對手的手牌，選擇其中1張卡，放回對手的牌庫下方。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "暗之牙"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會偷偷在看中的獵物身上留下標記，追蹤目標的氣味，在對方放鬆警戒時偷盜。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "114"
+  },
+  {
+    "id": "SC1b-113",
+    "name": {
+      "zh-tw": "偷兒狐"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "唆使"
+        },
+        "effect": {
+          "zh-tw": "對手將對手自己的手牌全部翻回反面並重洗，放回對手的牌庫下方。然後，對手從牌庫抽出3張卡。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "靠搶奪其他寶可夢找到的食物為生。腳上長著軟乎乎的肉球，走路時不會發出絲毫聲響。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "113"
+  },
+  {
+    "id": "SC1b-112",
+    "name": {
+      "zh-tw": "烏賊王VMAX"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 310,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨擾亂"
+        },
+        "effect": {
+          "zh-tw": "查看對手的手牌，選擇其中1張卡，放回對手的牌庫下方。"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "112"
+  },
+  {
+    "id": "SC1b-111",
+    "name": {
+      "zh-tw": "烏賊王V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "拖出"
+        },
+        "effect": {
+          "zh-tw": "選擇對手的1隻備戰寶可夢，與戰鬥寶可夢互換。然後，新上場的寶可夢受到30點傷害。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "腦力震動"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "111"
+  },
+  {
+    "id": "SC1b-110",
+    "name": {
+      "zh-tw": "禿鷹娜"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "骨棒亂打"
+        },
+        "effect": {
+          "zh-tw": "擲硬幣直到出現反面，造成正面出現的次數×30點傷害。"
+        },
+        "damage": "30×"
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "暗中奇襲"
+        },
+        "effect": {
+          "zh-tw": "對手的身上放置有傷害指示物的1隻寶可夢受到100點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "雖然性情粗暴，如果遇到了迷路的禿鷹丫頭，便會細心照顧牠，直到牠長大離巢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "110"
+  },
+  {
+    "id": "SC1b-109",
+    "name": {
+      "zh-tw": "禿鷹丫頭"
+    },
+    "illustrator": "Shibuzoh.",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "啄食"
+        },
+        "effect": {
+          "zh-tw": "在造成傷害前，將對手的戰鬥寶可夢身上附加的「寶可夢道具」丟棄。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "穿上骸骨來保護屁股。會和夥伴互相爭搶穿起來舒服的骸骨。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "109"
+  },
+  {
+    "id": "SC1b-108",
+    "name": {
+      "zh-tw": "灰塵山"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "浸毒之地"
+        },
+        "effect": {
+          "zh-tw": "若場上有競技場卡，則在自己的回合時，可使用1次。將對手的戰鬥寶可夢【中毒】。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "污泥炸彈"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "吃掉的垃圾會在體內轉化為毒素。毒素的成分會隨著吃掉的垃圾而不同。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "108"
+  },
+  {
+    "id": "SC1b-107",
+    "name": {
+      "zh-tw": "破破袋"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒液衝擊"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢【中毒】，則增加50點傷害。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "喜歡不衛生的地方。如果不及時清理家裡的垃圾，破破袋就會過來居住。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "107"
+  },
+  {
+    "id": "SC1b-106",
+    "name": {
+      "zh-tw": "毒骷蛙"
+    },
+    "illustrator": "Ryuta Fuse",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "加強毒性"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，對手的戰鬥寶可夢因【中毒】而放置的傷害指示物的數量增加2個。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒之爪"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【中毒】。"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一躍而起接近敵人，用有毒的爪子狠抓對方！光是擦傷就能將對手ＫＯ。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "106"
+  },
+  {
+    "id": "SC1b-105",
+    "name": {
+      "zh-tw": "不良蛙"
+    },
+    "illustrator": "otumami",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踩"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撞倒"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會從自己臉頰上的毒囊發出聲音來威嚇對手，趁對手畏懼的時候使出毒擊。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "105"
+  },
+  {
+    "id": "SC1b-104",
+    "name": {
+      "zh-tw": "龍王蠍"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "堅硬壓制"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "猛毒攻擊"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "雖然擁有劇毒，但只有在極少數的情況下才會使用。會用能敲爛汽車的怪力亂打一通。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "104"
+  },
+  {
+    "id": "SC1b-103",
+    "name": {
+      "zh-tw": "鉗尾蠍"
+    },
+    "illustrator": "sowsow",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "毒針"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "利爪揮砍"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "將自己的身體埋在沙子裡，一聲不響地等待獵物。祖先和燒火蚣的祖先是近親。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "103"
+  },
+  {
+    "id": "SC1b-102",
+    "name": {
+      "zh-tw": "花岩怪"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "分擔怨恨"
+        },
+        "effect": {
+          "zh-tw": "將雙方的牌庫上方各1張卡丟棄。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "悔恨水滴"
+        },
+        "effect": {
+          "zh-tw": "將與自己的棄牌區的寶可夢的張數相同數量的傷害指示物，放置於對手的戰鬥寶可夢身上。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "因為５００年前作惡多端，導致身體被綁縛在楔石的裂縫裡。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "102"
+  },
+  {
+    "id": "SC1b-101",
+    "name": {
+      "zh-tw": "坦克臭鼬"
+    },
+    "illustrator": "sowsow",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "劈開"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒陣"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "會在肚子裡囤滿臭液，從尾巴噴出臭液攻擊敵人。臭味會依吃下的東西而不同。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "101"
+  },
+  {
+    "id": "SC1b-100",
+    "name": {
+      "zh-tw": "臭鼬噗"
+    },
+    "illustrator": "Shigenori Negishi",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒瓦斯"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "瞄準對手的臉，從屁股噴出奇臭無比的液體。液體能噴到５公尺外。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "100"
+  },
+  {
+    "id": "SC1b-099",
+    "name": {
+      "zh-tw": "勾魂眼V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "搜尋礦脈"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇1張訓練家卡，在給對手看過後加入手牌。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "瘋狂銳爪"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上放置的傷害指示物的數量×60點傷害。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "099"
+  },
+  {
+    "id": "SC1b-098",
+    "name": {
+      "zh-tw": "伽勒爾 堵攔熊"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "暴躁嚎叫"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。在對手的1隻寶可夢身上放置3個傷害指示物。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "攔堵"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，這隻寶可夢不會受到【基礎】寶可夢招式的傷害。"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "能夠發出驚人的音量。牠在大叫的同時威嚇對手的樣子被稱為「攔堵」。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "098"
+  },
+  {
+    "id": "SC1b-097",
+    "name": {
+      "zh-tw": "伽勒爾 直衝熊"
+    },
+    "illustrator": "nagimiso",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "暗襲要害"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "頭突"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會用長舌頭挑釁獵物。一旦獵物被自己激怒，便會猛烈地衝撞上去。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "097"
+  },
+  {
+    "id": "SC1b-096",
+    "name": {
+      "zh-tw": "伽勒爾 蛇紋熊"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "煩躁頭擊"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。在對手的1隻寶可夢身上放置1個傷害指示物。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "偷襲"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一直在奔跑，永遠靜不下來。如果發現了其他的寶可夢，就會故意撞上去挑起事端。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "096"
+  },
+  {
+    "id": "SC1b-095",
+    "name": {
+      "zh-tw": "伽勒爾 雙彈瓦斯"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "化學變化氣體"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在戰鬥場上，對手的場上寶可夢的特性（「化學變化氣體」除外）全部消除。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "惡棍猛毒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。因這個【中毒】而放置的傷害指示物的數量改為4個。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "會吸收大氣中的污染成分，然後吐出新鮮的空氣，這就是牠的排泄方式。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "095"
+  },
+  {
+    "id": "SC1b-094",
+    "name": {
+      "zh-tw": "瓦斯彈"
+    },
+    "illustrator": "Kyoko Umemoto",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-tw": "瓦斯包圍"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "身體裡充滿了毒氣。會為了尋求廚餘垃圾的腐敗氣味而來到垃圾場。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "094"
+  },
+  {
+    "id": "SC1b-093",
+    "name": {
+      "zh-tw": "冰砌鵝V"
+    },
+    "illustrator": "PLANETA Tsuji",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "寒氣吸收"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，每次從自己的手牌將【水】能量附於這隻寶可夢身上時，將這隻寶可夢恢復「30」HP。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "暴風雪"
+        },
+        "effect": {
+          "zh-tw": "對手的所有備戰寶可夢也各受到10點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "093"
+  },
+  {
+    "id": "SC1b-092",
+    "name": {
+      "zh-tw": "冰砌鵝"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "結凍頭"
+        },
+        "effect": {
+          "zh-tw": "若這隻寶可夢的HP是全滿的狀態，則這隻寶可夢受到對手的寶可夢招式的傷害「-60」點。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "暴風雪"
+        },
+        "effect": {
+          "zh-tw": "對手的所有備戰寶可夢也各受到10點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "從非常寒冷的地方漂流而來。隨時都用冰塊冰鎮著自己的臉。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "092"
+  },
+  {
+    "id": "SC1b-091",
+    "name": {
+      "zh-tw": "雪絨蛾"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "冰雪之舞"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可不限次數使用。從自己的手牌選擇1張【水】能量卡，附於備戰區的【水】寶可夢身上。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極光束"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "翅膀的溫度是零下１８０度。當牠飛過山野時，帶有冷氣的鱗粉會像下雪般地飄落下來。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "091"
+  },
+  {
+    "id": "SC1b-090",
+    "name": {
+      "zh-tw": "雪吞蟲"
+    },
+    "illustrator": "Mina Nakai",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝撞"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "能吐出帶著冷氣的絲。會用絲把自己掛在樹枝上，一邊裝成冰柱一邊睡覺。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "090"
+  },
+  {
+    "id": "SC1b-089",
+    "name": {
+      "zh-tw": "戽斗尖梭"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "啄"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "螺旋飛衝"
+        },
+        "effect": {
+          "zh-tw": "將自己的手牌的2張【水】能量卡丟棄。若無法丟棄2張，則這個招式失敗。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "像長矛一樣尖銳的下巴擁有鋼鐵般的硬度。據說牠的肉好吃得驚人。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "089"
+  },
+  {
+    "id": "SC1b-088",
+    "name": {
+      "zh-tw": "刺梭魚"
+    },
+    "illustrator": "Mina Nakai",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "潑水"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "尖銳的下巴是牠的驕傲。只要發現周圍有什麼小動作，就會一直線衝過去。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "088"
+  },
+  {
+    "id": "SC1b-087",
+    "name": {
+      "zh-tw": "古月鳥"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "潛水"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水炮"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【水】能量的數量×20點傷害。"
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "雖然擁有一擊定勝負的威力，但因為記性實在太差，對戰還沒結束就會忘記對手是誰。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "087"
+  },
+  {
+    "id": "SC1b-086",
+    "name": {
+      "zh-tw": "暴噬龜"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "虎鉗咬"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢【撤退】所需的能量的數量×30點傷害。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "緊咬不放"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "性情凶暴的寶可夢。會用能咬斷鐵棍的顎部大口咬住獵物。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "086"
+  },
+  {
+    "id": "SC1b-085",
+    "name": {
+      "zh-tw": "咬咬龜"
+    },
+    "illustrator": "Mina Nakai",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬住"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水槍"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "有著不管看到什麼都會咬上去的習性。這似乎是因為長門牙的時候會癢的緣故。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "085"
+  },
+  {
+    "id": "SC1b-084",
+    "name": {
+      "zh-tw": "千面避役VMAX"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "水炮狙擊"
+        },
+        "effect": {
+          "zh-tw": "若希望，選擇1個對手的戰鬥寶可夢身上附加的能量，放回對手的手牌。"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨子彈"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻備戰寶可夢也受到60點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "084"
+  },
+  {
+    "id": "SC1b-083",
+    "name": {
+      "zh-tw": "千面避役V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "狙擊"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻寶可夢受到40點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水流傳達"
+        },
+        "effect": {
+          "zh-tw": "查看對手的手牌。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "083"
+  },
+  {
+    "id": "SC1b-082",
+    "name": {
+      "zh-tw": "千面避役"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "諜報"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。從自己的牌庫選擇最多2張訓練家卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水子彈"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "身上隱藏著多種特殊能力，例如從手指噴射水流，以及用背部的翼膜滑翔等等。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "082"
+  },
+  {
+    "id": "SC1b-081",
+    "name": {
+      "zh-tw": "變澀蜥"
+    },
+    "illustrator": "Naoki Saito",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "諜報"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。從自己的牌庫選擇1張訓練家卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水漂"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "很有戰略頭腦，會把手掌分泌出的水分做成水彈攻擊敵人。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "081"
+  },
+  {
+    "id": "SC1b-080",
+    "name": {
+      "zh-tw": "淚眼蜥"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "水槍"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "害怕時流下的淚水中含有相當於１００顆洋蔥的催淚成分，能讓對手淚流不止。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "080"
+  },
+  {
+    "id": "SC1b-079",
+    "name": {
+      "zh-tw": "凱路迪歐V"
+    },
+    "illustrator": "PLANETA Igarashi",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "飛濺"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "神秘之劍"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【水】能量的數量×30點傷害。"
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "079"
+  },
+  {
+    "id": "SC1b-078",
+    "name": {
+      "zh-tw": "伽勒爾 達摩狒狒"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "暴風雪"
+        },
+        "effect": {
+          "zh-tw": "對手的所有備戰寶可夢也各受到10點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "碎冰頭擊"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「碎冰頭擊」。"
+        },
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "會把食物裝到頭頂的雪球裡帶回家。在暴風雪的日子會下山來到人類居住的村落。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "078"
+  },
+  {
+    "id": "SC1b-077",
+    "name": {
+      "zh-tw": "伽勒爾 火紅不倒翁"
+    },
+    "illustrator": "Akira Komayama",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "冰凍拳"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "由於居住在積雪深厚的地域，火囊也因受到冷卻而退化了。取而代之的是製造冷氣的器官。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "077"
+  },
+  {
+    "id": "SC1b-076",
+    "name": {
+      "zh-tw": "蟾蜍王"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "轉轉拳"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "共振"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢【混亂】，則增加120點傷害。"
+        },
+        "damage": "120+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "透過震動全身的瘤來引發地震般的晃動。與不良蛙是相近的物種。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "076"
+  },
+  {
+    "id": "SC1b-075",
+    "name": {
+      "zh-tw": "藍蟾蜍"
+    },
+    "illustrator": "MAHOU",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "轉轉標誌"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "透過發出足以造成頭痛的音波來充分削弱獵物之後，用黏糊糊的舌頭將其捉住。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "075"
+  },
+  {
+    "id": "SC1b-074",
+    "name": {
+      "zh-tw": "圓蝌蚪"
+    },
+    "illustrator": "Aya Kusube",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "團團轉"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "如果水面上擴散開美麗的波紋，就代表有圓蝌蚪正在水面下用高昂的聲音鳴叫。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "074"
+  },
+  {
+    "id": "SC1b-073",
+    "name": {
+      "zh-tw": "美納斯V"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水流衝擊"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢【撤退】所需的能量的數量×50點傷害。"
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "昏睡飛濺"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "073"
+  },
+  {
+    "id": "SC1b-072",
+    "name": {
+      "zh-tw": "大嘴鷗"
+    },
+    "illustrator": "Eri Yamaki",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "翅膀攻擊"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "能量旋風"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，改附於備戰寶可夢身上。"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "把小型寶可夢和蛋放進嘴裡，並運送到安全地方的空中送貨員。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "072"
+  },
+  {
+    "id": "SC1b-071",
+    "name": {
+      "zh-tw": "長翅鷗"
+    },
+    "illustrator": "0313",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼喚"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出1張卡。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飛濺"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "在陡峭的岩壁上築巢，會藉助海風，飛升到廣闊的天空中滑翔。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "071"
+  },
+  {
+    "id": "SC1b-070",
+    "name": {
+      "zh-tw": "巨翅飛魚"
+    },
+    "illustrator": "Jumpei Akasaka",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "積水"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多3張【水】能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "飛濺"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "游動時速度上來後，甚至會從波浪上飛起來，然後就這樣滑翔１００公尺。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "070"
+  },
+  {
+    "id": "SC1b-069",
+    "name": {
+      "zh-tw": "千針魚"
+    },
+    "illustrator": "Midori Harada",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "毒刺"
+        },
+        "effect": {
+          "zh-tw": "當這隻寶可夢在戰鬥場上受到對手的寶可夢招式的傷害時，將使用招式的寶可夢【中毒】。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "毒液衝擊"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢【中毒】，則增加60點傷害。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "對手的體型越是巨大，牠就會喝下越多的水使身體膨脹，彷彿馬上就要破裂一般。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "069"
+  },
+  {
+    "id": "SC1b-068",
+    "name": {
+      "zh-tw": "拉普拉斯VMAX"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超極巨高壓水泵"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【水】能量的數量×30點傷害。"
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "068"
+  },
+  {
+    "id": "SC1b-067",
+    "name": {
+      "zh-tw": "拉普拉斯V"
+    },
+    "illustrator": "Hasuno",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "迴流"
+        },
+        "effect": {
+          "zh-tw": "從自己的手牌選擇1張【水】能量卡，附於這隻寶可夢身上。然後，將這隻寶可夢與備戰寶可夢互換。"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大洋閉環"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的【水】能量，放回手牌。"
+        },
+        "damage": 210
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "067"
+  },
+  {
+    "id": "SC1b-066",
+    "name": {
+      "zh-tw": "暴鯉龍"
+    },
+    "illustrator": "hatachu",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "砸碎"
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大風暴"
+        },
+        "effect": {
+          "zh-tw": "將場上的競技場卡丟棄。"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "description": {
+      "zh-tw": "性情非常凶暴。從嘴裡發出的破壞光線能夠將一切燃燒殆盡。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "066"
+  },
+  {
+    "id": "SC1b-065",
+    "name": {
+      "zh-tw": "鯉魚王"
+    },
+    "illustrator": "kanahei",
+    "category": "Pokemon",
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "躍起逃走"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "力量和速度都不太行。是世界上最弱最可憐的寶可夢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "065"
+  },
+  {
+    "id": "SC1b-064",
+    "name": {
+      "zh-tw": "伽勒爾 踏冰人偶"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "除障"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，自己的所有身上附有能量的寶可夢，不會受到對手的寶可夢使用招式的效果的影響。（已經受到的效果無法消除。）"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "三重旋轉"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，造成正面出現的次數×50點傷害。"
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "踢踏舞的達人。會揮動手中的冰杖，向觀眾表演輕快的舞步。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "064"
+  },
+  {
+    "id": "SC1b-063",
+    "name": {
+      "zh-tw": "伽勒爾 魔牆人偶"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "冰凍之風"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "三重旋轉"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，造成正面出現的次數×20點傷害。"
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "擅長踢踏舞。會用冷氣製造出冰之地板並將其踢起，以此作為保護自己的障壁。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "063"
+  },
+  {
+    "id": "SC1b-062",
+    "name": {
+      "zh-tw": "金魚王"
+    },
+    "illustrator": "Shibuzoh.",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "角剝"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，選擇與正面出現的次數相同數量的對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "突刺"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "到了秋天，體內的脂肪會因為要求偶而增加，體色也會變得非常漂亮。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "062"
+  },
+  {
+    "id": "SC1b-061",
+    "name": {
+      "zh-tw": "角金魚"
+    },
+    "illustrator": "Suwama Chiaki",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "角撞"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會優雅地搖擺背鰭、胸鰭和尾鰭，所以被稱為水中的舞者。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "061"
+  },
+  {
+    "id": "SC1b-060",
+    "name": {
+      "zh-tw": "巨鉗蟹"
+    },
+    "illustrator": "tetsuya koizumi",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "沉甸鉗"
+        },
+        "effect": {
+          "zh-tw": "將對手的牌庫上方1張卡丟棄。"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "抓裂"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加60點傷害。"
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "雖然堅硬的鉗子有著１萬馬力的力量，但尺寸太大讓牠行動遲緩。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "060"
+  },
+  {
+    "id": "SC1b-059",
+    "name": {
+      "zh-tw": "大鉗蟹"
+    },
+    "illustrator": "ryoma uratsuka",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "水流浴"
+        },
+        "effect": {
+          "zh-tw": "對手的所有寶可夢各受到10點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "夾住"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "能在海邊找到牠。巨大的鉗子即使斷掉也會再長出來。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "059"
+  },
+  {
+    "id": "SC1b-058",
+    "name": {
+      "zh-tw": "焚焰蚣"
+    },
+    "illustrator": "Anesaki Dynamic",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "連列火焰"
+        },
+        "effect": {
+          "zh-tw": "將對手的牌庫上方與這隻寶可夢身上附加的【火】能量相同數量的卡丟棄。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "灼燒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "發熱時的體溫大約有８００度。會像鞭子那樣彎曲身體，朝著敵人彈跳過去。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "058"
+  },
+  {
+    "id": "SC1b-057",
+    "name": {
+      "zh-tw": "燒火蚣"
+    },
+    "illustrator": "Akira Komayama",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬住"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "烈焰"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "靠儲存在體內的可燃氣體來發熱。熱度最高的是腹部的黃色部分。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "057"
+  },
+  {
+    "id": "SC1b-056",
+    "name": {
+      "zh-tw": "閃焰王牌VMAX"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "雙倍奉還"
+        },
+        "effect": {
+          "zh-tw": "增加與在上個對手的回合這隻寶可夢受到的招式的傷害點相同數量的傷害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨烈焰球"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        },
+        "damage": 170
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "056"
+  },
+  {
+    "id": "SC1b-055",
+    "name": {
+      "zh-tw": "閃焰王牌V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "球場跑者"
+        },
+        "effect": {
+          "zh-tw": "若場上有競技場卡，則這隻寶可夢【撤退】所需的能量全部消除。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "紅蓮踢"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "055"
+  },
+  {
+    "id": "SC1b-054",
+    "name": {
+      "zh-tw": "閃焰王牌"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "自由者"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從備戰區將這隻寶可夢放置於戰鬥場時，可使用1次。從自己的棄牌區選擇最多2張【火】能量卡，附於這隻寶可夢身上。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "閃焰前鋒"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會將小石頭像足球般用腳挑起，製造出纏繞著火焰的足球。會用猛烈的踢射來燃燒對手。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "054"
+  },
+  {
+    "id": "SC1b-053",
+    "name": {
+      "zh-tw": "騰蹴小將"
+    },
+    "illustrator": "Mizue",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "蓄能焰襲"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇1張【火】能量卡，附於這隻寶可夢身上。並且重洗牌庫。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "增量踢"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "蓬鬆的體毛幫助牠增強了抵禦寒冷的能力，也使牠能夠使出溫度更高的火屬性招式。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "053"
+  },
+  {
+    "id": "SC1b-052",
+    "name": {
+      "zh-tw": "炎兔兒"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "火花"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "不斷奔跑使體溫升高後，火之能量會在牠體內循環，促使牠發揮出真正的力量。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "052"
+  },
+  {
+    "id": "SC1b-051",
+    "name": {
+      "zh-tw": "焰后蜥"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "灼燒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "紅蓮火焰"
+        },
+        "effect": {
+          "zh-tw": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "焰后蜥只有雌性。會釋放出費洛蒙氣體，讓雄性的夜盜火蜥為之著迷。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "051"
+  },
+  {
+    "id": "SC1b-050",
+    "name": {
+      "zh-tw": "夜盜火蜥"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "濁霧"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "用尾巴上的火焰燃燒毒囊裡製造出的體液，生成出毒氣。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "050"
+  },
+  {
+    "id": "SC1b-049",
+    "name": {
+      "zh-tw": "熔蟻獸"
+    },
+    "illustrator": "Satoshi Shirai",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "舌舔"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴射火焰"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "從尾部的孔洞吸入空氣，燃起火焰。如果孔洞被堵住了，身體就會不舒服。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "049"
+  },
+  {
+    "id": "SC1b-048",
+    "name": {
+      "zh-tw": "水晶燈火靈"
+    },
+    "illustrator": "Taira Akitsu",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "守護之燈火"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，自己的所有身上附有能量的寶可夢的弱點全部消除。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "幻想閃焰"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "住在古老的洋樓裡。詭異地搖晃手臂上的火焰，以此來催眠對手。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "048"
+  },
+  {
+    "id": "SC1b-047",
+    "name": {
+      "zh-tw": "燈火幽靈"
+    },
+    "illustrator": "Kyoko Umemoto",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "首發進場"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合開始，從牌庫抽出了這張卡時，若自己的備戰區有空位，則在加入手牌前可使用1次。將這張卡放置於自己的備戰區。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "再烤一次"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇1張【火】能量卡，附於自己的寶可夢身上。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "由於牠會在人類臨終時出現，人們因此認為牠是死神的使者，對牠畏懼不已。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "047"
+  },
+  {
+    "id": "SC1b-046",
+    "name": {
+      "zh-tw": "燭光靈"
+    },
+    "illustrator": "Sekio",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "焦焦"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "頭上燃燒著的燭光讓牠的身體保持微熱。會拉著迷路孩子的手，將他們帶向靈界。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "046"
+  },
+  {
+    "id": "SC1b-045",
+    "name": {
+      "zh-tw": "比克提尼V"
+    },
+    "illustrator": "PLANETA Tsuji",
+    "category": "Pokemon",
+    "hp": 190,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火焰鋪展"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇最多3張【火】能量卡，以任意方式附於自己的寶可夢身上。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "能量爆炸"
+        },
+        "effect": {
+          "zh-tw": "造成雙方的戰鬥寶可夢身上附加的能量的數量×30點傷害。"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "045"
+  },
+  {
+    "id": "SC1b-044",
+    "name": {
+      "zh-tw": "煤炭龜V"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火焰柱"
+        },
+        "effect": {
+          "zh-tw": "將自己的牌庫上方1張卡丟棄，若那張卡為【火】能量卡，則增加90點傷害。"
+        },
+        "damage": "90+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "蒸汽粉碎"
+        },
+        "effect": {
+          "zh-tw": "選擇2個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "044"
+  },
+  {
+    "id": "SC1b-043",
+    "name": {
+      "zh-tw": "火伊布"
+    },
+    "illustrator": "You Iribi",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "灼熱"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "熱辣熱辣"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。然後，選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "當火焰在體內積蓄時，火伊布的體溫也會隨之上升到最高９００度。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "SC1b-042",
+    "name": {
+      "zh-tw": "鴨嘴炎獸"
+    },
+    "illustrator": "Kazuma Koda",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "爆破拳"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【灼傷】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大地灼燒"
+        },
+        "effect": {
+          "zh-tw": "將雙方的牌庫上方各1張卡丟棄，增加其中能量卡的張數×100點傷害。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "棲息在火山口。據說１座火山只有一對鴨嘴炎獸。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "SC1b-041",
+    "name": {
+      "zh-tw": "鴨嘴火獸"
+    },
+    "illustrator": "Shigenori Negishi",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "出拳"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "高溫吐息"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則增加30點傷害。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "感到疲勞時會跳入火山口，浸泡在熔岩中讓身體舒緩疲勞。全身以１２００度燃燒著。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "SC1b-040",
+    "name": {
+      "zh-tw": "風速狗"
+    },
+    "illustrator": "Hasuno",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "熱身"
+        },
+        "effect": {
+          "zh-tw": "若這隻寶可夢身上附有「燃燒圍巾」，則這隻寶可夢的最大HP增加「100」。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火之鬃"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "只需要一晝夜時間就能跑完１００００公里的身影令許多人為之沉醉。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "SC1b-039",
+    "name": {
+      "zh-tw": "卡蒂狗"
+    },
+    "illustrator": "Ryota Murayama",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "氣味偵測"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則從自己的棄牌區任意選擇1張卡，在給對手看過後加入手牌。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火之爪"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "能毫不畏懼地去對抗比自己更強更大的對手。性格非常勇敢可靠。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "SC1b-038",
+    "name": {
+      "zh-tw": "九尾V"
+    },
+    "illustrator": "Saki Hayashiro",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "九尾狐變化"
+        },
+        "effect": {
+          "zh-tw": "選擇對手的戰鬥寶可夢持有的1個招式，作為這個招式使用。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "噴射火焰"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "038"
+  },
+  {
+    "id": "SC1b-037",
+    "name": {
+      "zh-tw": "九尾"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "禍不單行"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢處於特殊狀態，則增加90點傷害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "搖曳之火"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "每一根尾巴裡都蘊含著神通力。據說牠的壽命長達１０００年。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "SC1b-036",
+    "name": {
+      "zh-tw": "六尾"
+    },
+    "illustrator": "sui",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "奇異之光"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踢飛"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "雖然還是孩子，但已擁有美麗的６根尾巴。長大後尾巴會變得更多。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "SC1b-035",
+    "name": {
+      "zh-tw": "豐蜜龍"
+    },
+    "illustrator": "Akira Komayama",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "美味香氣"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。擲1次硬幣若為正面，則選擇對手的備戰區的1隻【基礎】寶可夢，與戰鬥寶可夢互換。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "日光束"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "啃果蟲吃了甜蘋果後進化而成。以蟲寶可夢為食，會從體內發出甜甜的香味引誘牠們上鉤。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "SC1b-034",
+    "name": {
+      "zh-tw": "蘋裹龍"
+    },
+    "illustrator": "Shin Nagasawa",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "蘋果墜擊"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。在對手的1隻寶可夢身上放置2個傷害指示物。然後，將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "酸液炸彈"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則選擇1個對手的戰鬥寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "啃果蟲吃了酸蘋果後進化而成。頰囊裡儲存著足以造成灼傷的強酸性液體。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "SC1b-033",
+    "name": {
+      "zh-tw": "啃果蟲"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "category": "Pokemon",
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "縮入殼中"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "終其一生都在蘋果裡度過。遇到天敵鳥寶可夢時，會裝成蘋果保護自己。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "SC1b-032",
+    "name": {
+      "zh-tw": "啃果蟲"
+    },
+    "illustrator": "Mizue",
+    "category": "Pokemon",
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "連續滾動"
+        },
+        "effect": {
+          "zh-tw": "擲硬幣直到出現反面，增加正面出現的次數×30點傷害。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "終其一生都在蘋果裡度過。遇到天敵鳥寶可夢時，會裝成蘋果保護自己。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "SC1b-031",
+    "name": {
+      "zh-tw": "白蓬蓬V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "歡樂配對"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。從自己的棄牌區選擇1張支援者卡，在給對手看過後加入手牌。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飄舞"
+        },
+        "effect": {
+          "zh-tw": "若希望，將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "031"
+  },
+  {
+    "id": "SC1b-030",
+    "name": {
+      "zh-tw": "白蓬蓬"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "恩澤棉絮"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多3張【草】能量卡，以任意方式附於備戰寶可夢身上。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "樹葉"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "棉絮的種子營養豐富。牠會藉由風散播種子，讓草木和寶可夢變得活力十足。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "030"
+  },
+  {
+    "id": "SC1b-029",
+    "name": {
+      "zh-tw": "幼棉棉"
+    },
+    "illustrator": "Naoki Saito",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "唱歌"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "當牠把單腳紮進地面裡，並且沐浴充分的陽光，花瓣就會染上鮮豔的顏色。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "SC1b-028",
+    "name": {
+      "zh-tw": "幼棉棉"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼朋引伴"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多3張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "飛葉快刀"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "當牠把單腳紮進地面裡，並且沐浴充分的陽光，花瓣就會染上鮮豔的顏色。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "SC1b-027",
+    "name": {
+      "zh-tw": "以歐路普"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "昆蟲雷達"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。查看對手的牌庫上方3張卡，以任意順序排列，放回牌庫上方。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "腦力波"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【超】能量的數量×30點傷害。"
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "以頭腦聰慧而聞名。大大的腦子是牠擁有出眾精神力量的證明。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "SC1b-026",
+    "name": {
+      "zh-tw": "天罩蟲"
+    },
+    "illustrator": "Misa Tsutsui",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "反射壁"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，這隻寶可夢受到招式的傷害「-40」點。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝撞"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "雖然幾乎從來不動但還是活著的。牠的超能力似乎是在縮在殼裡不吃不喝的過程中覺醒的。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "SC1b-025",
+    "name": {
+      "zh-tw": "索偵蟲"
+    },
+    "illustrator": "nagimiso",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "咬"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "總是孜孜不倦地收集情報，所以頭腦相當地聰明，但是力量方面就差了一些。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "SC1b-024",
+    "name": {
+      "zh-tw": "轟擂金剛猩VMAX"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 330,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "抓"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨連打"
+        },
+        "effect": {
+          "zh-tw": "若希望，選擇最多3張這隻寶可夢身上附加的【草】能量卡，將其丟棄。這個情況下，增加丟棄的張數×50點傷害。"
+        },
+        "damage": "130+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "SC1b-023",
+    "name": {
+      "zh-tw": "轟擂金剛猩V"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "森林之宴"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張【草】屬性的【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "木槌"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "023"
+  },
+  {
+    "id": "SC1b-022",
+    "name": {
+      "zh-tw": "轟擂金剛猩"
+    },
+    "illustrator": "Anesaki Dynamic",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "怒氣律動"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時，可使用1次。從自己的牌庫選擇最多2張【草】能量卡，附於自己的1隻寶可夢身上。並且重洗牌庫。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "頭突"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "能夠透過打鼓來控制特別的樹樁中的力量，操縱樹根進行戰鬥。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SC1b-021",
+    "name": {
+      "zh-tw": "啪咚猴"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "挑釁"
+        },
+        "effect": {
+          "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "二連擊"
+        },
+        "effect": {
+          "zh-tw": "擲2次硬幣，造成正面出現的次數×60點傷害。"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "越是能用２根木棒敲奏出激烈節拍的啪咚猴，越是能獲得夥伴們的尊敬。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SC1b-020",
+    "name": {
+      "zh-tw": "敲音猴"
+    },
+    "illustrator": "Naoki Saito",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "亂抓"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，造成正面出現的次數×10點傷害。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "當牠用特別的木棒敲奏時，能夠給予花草活力的力量就會變成音波擴散開來。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SC1b-019",
+    "name": {
+      "zh-tw": "破破舵輪V"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "惹毛船錨"
+        },
+        "effect": {
+          "zh-tw": "若在上個對手的回合，自己的【草】寶可夢因招式的傷害而【氣絕】了，則增加90點傷害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "兆幅鐵錘"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「兆幅鐵錘」。"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "019"
+  },
+  {
+    "id": "SC1b-018",
+    "name": {
+      "zh-tw": "朽木妖"
+    },
+    "illustrator": "kawayoo",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "種子炸彈"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "暗影囚室"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "人們懼怕牠，因為牠據說會吃掉砍倒森林裡樹木的人。但牠對住在森林裡的寶可夢很親切。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SC1b-017",
+    "name": {
+      "zh-tw": "小木靈"
+    },
+    "illustrator": "sui",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "黑暗導引"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇1張【基礎】寶可夢卡，放置於備戰區。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "種子炸彈"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "在森林中迷路死去的孩子的魂魄附在樹樁上，轉生成了寶可夢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SC1b-016",
+    "name": {
+      "zh-tw": "沙鈴仙人掌"
+    },
+    "illustrator": "Atsuko Nishida",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "刺痛"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "強力尖刺"
+        },
+        "effect": {
+          "zh-tw": "擲與這隻寶可夢身上附加的能量的數量相同次數的硬幣，造成正面出現的次數×60點傷害。"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會發出沙鈴般的聲音。鳥寶可夢會因那輕快的節奏而受驚飛走。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SC1b-015",
+    "name": {
+      "zh-tw": "暴雪王"
+    },
+    "illustrator": "Kazuma Koda",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "芳香催眠"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "百萬噸金勾臂"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "會像揮動鎚子般揮下自己大大的手臂，趕走要襲擊雪笠怪的火紅不倒翁群體。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SC1b-014",
+    "name": {
+      "zh-tw": "雪笠怪"
+    },
+    "illustrator": "Shibuzoh.",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "敲擊"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飛葉快刀"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "生活在積雪深厚的山上。會透過把腳踩進積雪中來吸收水分和冷氣。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SC1b-013",
+    "name": {
+      "zh-tw": "羅絲雷朵"
+    },
+    "illustrator": "chibi",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "麻痺毒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。擲1次硬幣若為正面，則再將其【麻痺】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超級吸取"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「30」HP。"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會用馥郁芬芳的花香迷惑敵人，並用荊棘上的鞭子猛力抽打對方。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SC1b-012",
+    "name": {
+      "zh-tw": "毒薔薇"
+    },
+    "illustrator": "sowsow",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "吸取"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「10」HP。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "只要聞到牠的花香，就能放鬆心情。濃郁的香味是毒薔薇有活力的證明。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SC1b-011",
+    "name": {
+      "zh-tw": "雨翅蛾"
+    },
+    "illustrator": "chibi",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "花紋恐嚇"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢，無法從手牌使出並附上能量。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "急速折返"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "用觸角上的眼珠花紋威嚇敵人。用４根翅膀前後左右靈活飛行。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SC1b-010",
+    "name": {
+      "zh-tw": "溜溜糖球"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "高速移動"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "在水面像滑行一樣移動。偶爾會為了爭奪食物而和滴蛛打架。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SC1b-009",
+    "name": {
+      "zh-tw": "樂天河童"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "洋洋突進"
+        },
+        "effect": {
+          "zh-tw": "造成自己已經獲得的獎賞卡的張數×60點傷害。"
+        },
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超級吸取"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「30」HP。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "快樂的音樂節奏會讓樂天河童的細胞活性化，使牠發揮出強大的力量。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SC1b-008",
+    "name": {
+      "zh-tw": "蓮帽小童"
+    },
+    "illustrator": "Miki Tanaka",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "首發進場"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合開始，從牌庫抽出了這張卡時，若自己的備戰區有空位，則在加入手牌前可使用1次。將這張卡放置於自己的備戰區。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "亂抓"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，造成正面出現的次數×40點傷害。"
+        },
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "傍晚時開始活動的夜行性寶可夢。喜歡吃河底的水苔。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SC1b-007",
+    "name": {
+      "zh-tw": "蓮葉童子"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "小吸取"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「10」HP。"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝撞"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會為了尋找清水而走動。如果長時間不喝水的話，頭上的葉子就會枯萎。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SC1b-006",
+    "name": {
+      "zh-tw": "時拉比V"
+    },
+    "illustrator": "PLANETA Igarashi",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "尋找朋友"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "隊列之力"
+        },
+        "effect": {
+          "zh-tw": "增加自己的備戰寶可夢的數量×20點傷害。"
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "suffix": "V",
+    "cardNumber": "006"
+  },
+  {
+    "id": "SC1b-005",
+    "name": {
+      "zh-tw": "赫拉克羅斯"
+    },
+    "illustrator": "otumami",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "推倒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "怪力角擊"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "手腳上的利爪會深深插入地面或樹幹，因此在用引以為傲的角將對手扔出去時，能夠用爪子牢牢抓穩。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SC1b-004",
+    "name": {
+      "zh-tw": "壺壺"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撿樹果"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇最多5張基本能量卡，在給對手看過後放回牌庫並重洗。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "綁緊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "甲殼裡儲存著樹果。為了避免受到襲擊，會一動不動地躲在岩石下面。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SC1b-003",
+    "name": {
+      "zh-tw": "巴大蝶"
+    },
+    "illustrator": "Taira Akitsu",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "恐慌毒"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】、【灼傷】與【混亂】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "利刃之風"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "當牠飛快地拍動翅膀，帶有劇毒的鱗粉就會隨著風向這裡飄過來。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SC1b-002",
+    "name": {
+      "zh-tw": "鐵甲蛹"
+    },
+    "illustrator": "Asako Ito",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "適應進化"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢就算在自己的最初回合或者剛使出的回合，也可進化。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝撞"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "正處於等待進化的狀態。除了變硬之外什麼都做不了，只能動也不動以免遭受攻擊。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SC1b-001",
+    "name": {
+      "zh-tw": "綠毛蟲"
+    },
+    "illustrator": "Uta",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "D",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "適應進化"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢就算在自己的最初回合或者剛使出的回合，也可進化。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會從頭部的觸角釋放出強烈的氣味來趕走敵人，藉此保護自己。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SC1b"
+    },
+    "cardNumber": "001"
+  }
+]

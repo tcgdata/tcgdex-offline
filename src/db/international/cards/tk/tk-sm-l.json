@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "tk-sm-l-5",
+    "name": {
+      "en": "Fighting Energy",
+      "fr": "Énergie Combat",
+      "es": "Energía Lucha",
+      "it": "Energia Lotta",
+      "pt": "Energia de Luta",
+      "de": "Kampf-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297235,
+          "tcgplayer": 152819
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "tk-sm-l-4",
+    "name": {
+      "en": "Trumbeak",
+      "fr": "Piclairon",
+      "es": "Trumbeak",
+      "it": "Trumbeak",
+      "pt": "Trumbeak",
+      "de": "Trompeck"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      732
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Pikipek",
+      "fr": "Picassaut",
+      "es": "Pikipek",
+      "it": "Pikipek",
+      "pt": "Pikipek",
+      "de": "Peppeck"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bullet Seed",
+          "de": "Kugelsaat"
+        },
+        "effect": {
+          "en": "Flip 4 coins. This attack does 20 damage for each heads.",
+          "de": "Wirf 4 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297241,
+          "tcgplayer": 152830
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "tk-sm-l-30",
+    "name": {
+      "en": "Lycanroc",
+      "fr": "Lougaroc",
+      "es": "Lycanroc",
+      "it": "Lycanroc",
+      "pt": "Lycanroc",
+      "de": "Wolwerock"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      745
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Rockruff",
+      "fr": "Rocabot",
+      "es": "Rockruff",
+      "it": "Rockruff",
+      "pt": "Rockruff",
+      "de": "Wuffels"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure",
+          "de": "Biss"
+        },
+        "damage": 20
+      },
+      {
+        "name": {
+          "en": "Claw Slash",
+          "fr": "Tranch'Griffe",
+          "de": "Klauenschlitzer"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 297261,
+          "tcgplayer": 152838
+        }
+      }
+    ],
+    "description": {
+      "en": "The more intimidating the opponent it faces, the more this Pokémon’s blood boils. It will attack with no regard for its own safety.",
+      "de": "Je gefährlicher sein Gegner, desto mehr kommt es in Fahrt. Im Kampf ist es bereit, alles aufs Spiel zu setzen, um den Sieg zu erringen."
+    },
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "30"
+  },
+  {
+    "id": "tk-sm-l-29",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot",
+      "es": "Rockruff",
+      "it": "Rockruff",
+      "pt": "Rockruff",
+      "de": "Wuffels"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      744
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Throw",
+          "de": "Steinwurf"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297260,
+          "tcgplayer": 152835
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "29"
+  },
+  {
+    "id": "tk-sm-l-27",
+    "name": {
+      "en": "Big Malasada",
+      "fr": "Malasada Maxi",
+      "es": "Malasada Maxi",
+      "it": "Malasada maxi",
+      "pt": "Sonho Recheado Grande",
+      "de": "Maxi-Malasada"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Heal 20 damage and remove a Special Condition from your Active Pokémon.",
+      "fr": "Soignez 20 dégâts et retirez un État Spécial de votre Pokémon Actif.",
+      "es": "Cura 20 puntos de daño y elimina 1 Condición Especial de tu Pokémon Activo.",
+      "it": "Cura il tuo Pokémon attivo da 20 danni e rimuovi una condizione speciale che lo influenza.",
+      "pt": "Cure 20 pontos de dano e remova 1 Condição Especial do seu Pokémon Ativo.",
+      "de": "Heile 20 Schadenspunkte und entferne 1 Speziellen Zustand von deinem Aktiven Pokémon. Du kannst während deines Zuges (bevor du angreifst) beliebig viele Itemkarten spielen."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297259,
+          "tcgplayer": 152849
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "27"
+  },
+  {
+    "id": "tk-sm-l-25",
+    "name": {
+      "en": "Great Ball",
+      "fr": "Super Ball",
+      "es": "Super Ball",
+      "it": "Mega Ball",
+      "pt": "Grande Bola",
+      "de": "Superball"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "fr": "Regardez les 7 cartes du dessus de votre deck. Vous pouvez montrer un Pokémon que vous y trouvez et l’ajouter à votre main. Mélangez les autres cartes avec votre deck.",
+      "es": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
+      "it": "Guarda le prime sette carte del tuo mazzo. Puoi mostrare un Pokémon che hai trovato e aggiungerlo alle carte che hai in mano. Poi rimischia le altre carte nel tuo mazzo.",
+      "pt": "Olhe as 7 primeiras cartas do seu baralho. Você poderá revelar 1 Pokémon que encontrar lá e colocá-lo em sua mão. Embaralhe as demais cartas de volta no seu baralho.",
+      "de": "Schau dir die obersten 7 Karten deines Decks an. Du kannst 1 Pokémon, das du dort findest, deinem Gegner zeigen und auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297258,
+          "tcgplayer": 152847
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "25"
+  },
+  {
+    "id": "tk-sm-l-23",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili",
+      "es": "Tilo",
+      "it": "Hau",
+      "pt": "Hibi",
+      "de": "Tali"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Draw 3 cards.",
+      "fr": "Piochez 3 cartes.",
+      "es": "Roba 3 cartas.",
+      "it": "Pesca tre carte.",
+      "pt": "Compre 3 cartas.",
+      "de": "Ziehe 3 Karten. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297257,
+          "tcgplayer": 152843
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "23"
+  },
+  {
+    "id": "tk-sm-l-22",
+    "name": {
+      "en": "Toucannon",
+      "fr": "Bazoucan",
+      "es": "Toucannon",
+      "it": "Toucannon",
+      "pt": "Toucannon",
+      "de": "Tukanon"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      733
+    ],
+    "hp": 140,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Trumbeak",
+      "fr": "Piclairon",
+      "es": "Trumbeak",
+      "it": "Trumbeak",
+      "pt": "Trumbeak",
+      "de": "Trompeck"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Echoed Voice",
+          "de": "Widerhall"
+        },
+        "effect": {
+          "en": "During your next turn, this Pokémon's Echoed Voice attack does 60 more damage (before applying Weakness and Resistance).",
+          "de": "Während deines nächsten Zuges fügt die Attacke Widerhall dieses Pokémon 60 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden)."
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Beak Blast",
+          "de": "Schnabelkanone"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+          "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verbrannt."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297256,
+          "tcgplayer": 152848
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "22"
+  },
+  {
+    "id": "tk-sm-l-21",
+    "name": {
+      "en": "Great Ball",
+      "fr": "Super Ball",
+      "es": "Super Ball",
+      "it": "Mega Ball",
+      "pt": "Grande Bola",
+      "de": "Superball"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "fr": "Regardez les 7 cartes du dessus de votre deck. Vous pouvez montrer un Pokémon que vous y trouvez et l’ajouter à votre main. Mélangez les autres cartes avec votre deck.",
+      "es": "Mira las 7 primeras cartas de tu baraja. Puedes enseñar 1 Pokémon que encuentres entre ellas y ponerlo en tu mano. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
+      "it": "Guarda le prime sette carte del tuo mazzo. Puoi mostrare un Pokémon che hai trovato e aggiungerlo alle carte che hai in mano. Poi rimischia le altre carte nel tuo mazzo.",
+      "pt": "Olhe as 7 primeiras cartas do seu baralho. Você poderá revelar 1 Pokémon que encontrar lá e colocá-lo em sua mão. Embaralhe as demais cartas de volta no seu baralho.",
+      "de": "Schau dir die obersten 7 Karten deines Decks an. Du kannst 1 Pokémon, das du dort findest, deinem Gegner zeigen und auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297255,
+          "tcgplayer": 152846
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "21"
+  },
+  {
+    "id": "tk-sm-l-19",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili",
+      "es": "Tilo",
+      "it": "Hau",
+      "pt": "Hibi",
+      "de": "Tali"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Draw 3 cards.",
+      "fr": "Piochez 3 cartes.",
+      "es": "Roba 3 cartas.",
+      "it": "Pesca tre carte.",
+      "pt": "Compre 3 cartas.",
+      "de": "Ziehe 3 Karten. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297254,
+          "tcgplayer": 152842
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "19"
+  },
+  {
+    "id": "tk-sm-l-18",
+    "name": {
+      "en": "Makuhita",
+      "fr": "Makuhita",
+      "es": "Makuhita",
+      "it": "Makuhita",
+      "pt": "Makuhita",
+      "de": "Makuhita"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      296
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Surprise Attack",
+          "de": "Überraschungsangriff"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "de": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Strength",
+          "de": "Stärke"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297253,
+          "tcgplayer": 152839
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "18"
+  },
+  {
+    "id": "tk-sm-l-16",
+    "name": {
+      "en": "Lycanroc",
+      "fr": "Lougaroc",
+      "es": "Lycanroc",
+      "it": "Lycanroc",
+      "pt": "Lycanroc",
+      "de": "Wolwerock"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      745
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Rockruff",
+      "fr": "Rocabot",
+      "es": "Rockruff",
+      "it": "Rockruff",
+      "pt": "Rockruff",
+      "de": "Wuffels"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure",
+          "de": "Biss"
+        },
+        "damage": 20
+      },
+      {
+        "name": {
+          "en": "Claw Slash",
+          "fr": "Tranch'Griffe",
+          "de": "Klauenschlitzer"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297247,
+          "tcgplayer": 152837
+        }
+      }
+    ],
+    "description": {
+      "en": "The more intimidating the opponent it faces, the more this Pokémon’s blood boils. It will attack with no regard for its own safety.",
+      "de": "Je gefährlicher sein Gegner, desto mehr kommt es in Fahrt. Im Kampf ist es bereit, alles aufs Spiel zu setzen, um den Sieg zu erringen."
+    },
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "tk-sm-l-15",
+    "name": {
+      "en": "Pikipek",
+      "fr": "Picassaut",
+      "es": "Pikipek",
+      "it": "Pikipek",
+      "pt": "Pikipek",
+      "de": "Peppeck"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      731
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Smash",
+          "de": "Zertrümmerer"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 more damage.",
+          "de": "Wirf 1 Münze. Bei Kopf fügt diese Attacke 10 Schadenspunkte mehr zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297246,
+          "tcgplayer": 152836
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "tk-sm-l-14",
+    "name": {
+      "en": "Rockruff",
+      "fr": "Rocabot",
+      "es": "Rockruff",
+      "it": "Rockruff",
+      "pt": "Rockruff",
+      "de": "Wuffels"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      744
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Throw",
+          "de": "Steinwurf"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297245,
+          "tcgplayer": 152834
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "tk-sm-l-13",
+    "name": {
+      "en": "Fletchinder",
+      "fr": "Braisillon",
+      "es": "Fletchinder",
+      "it": "Fletchinder",
+      "pt": "Fletchinder",
+      "de": "Dartignis"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      662
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Fletchling",
+      "fr": "Passerouge",
+      "es": "Fletchling",
+      "it": "Fletchling",
+      "pt": "Fletchling",
+      "de": "Dartiri"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flap",
+          "de": "Flattern"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Razor Wind",
+          "de": "Klingensturm"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "de": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297244,
+          "tcgplayer": 152833
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "tk-sm-l-12",
+    "name": {
+      "en": "Yungoos",
+      "fr": "Manglouton",
+      "es": "Yungoos",
+      "it": "Yungoos",
+      "pt": "Yungoos",
+      "de": "Mangunior"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      734
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "de": "Biss"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297243,
+          "tcgplayer": 152832
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "tk-sm-l-11",
+    "name": {
+      "en": "Fletchling",
+      "fr": "Passerouge",
+      "es": "Fletchling",
+      "it": "Fletchling",
+      "pt": "Fletchling",
+      "de": "Dartiri"
+    },
+    "illustrator": "You Iribi",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      661
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Growl",
+          "de": "Heuler"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance).",
+          "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon 20 Schadenspunkte weniger zu (bevor Schwäche und Resistenz verrechnet werden)."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flap",
+          "de": "Flattern"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297242,
+          "tcgplayer": 152831
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "tk-sm-l-1",
+    "name": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "es": "Caterpie",
+      "it": "Caterpie",
+      "pt": "Caterpie",
+      "de": "Raupy"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      10
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Nap",
+          "de": "Nickerchen"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "de": "Heile 20 Schadenspunkte bei diesem Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gnaw",
+          "de": "Nagen"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 297232,
+          "tcgplayer": 152816
+        }
+      }
+    ],
+    "series": {
+      "id": "tk"
+    },
+    "set": {
+      "id": "tk-sm-l"
+    },
+    "cardNumber": "1"
+  }
+]

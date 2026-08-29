@@ -1,0 +1,992 @@
+[
+  {
+    "id": "SVAM-GRA",
+    "name": {
+      "zh-tw": "基本【草】能量",
+      "th": "พลังงานพื้นฐาน[หญ้า]",
+      "id": "Energi Dasar Daun"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "GRA"
+  },
+  {
+    "id": "SVAM-FIG",
+    "name": {
+      "zh-tw": "基本【鬥】能量",
+      "th": "พลังงานพื้นฐาน[ต่อสู้]",
+      "id": "Energi Dasar Petarung"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "FIG"
+  },
+  {
+    "id": "SVAM-023",
+    "name": {
+      "zh-tw": "博士的研究(奧琳博士)",
+      "th": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์โอลิม)",
+      "id": "Penelitian Profesor (Profesor Olim)"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "th": "ทิ้งการ์ดบนมือฝ่ายเราทั้งหมดที่ตำแหน่งทิ้งการ์ด จั่วการ์ด 7 ใบจากสำรับการ์ด",
+      "id": "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "SVAM-022",
+    "name": {
+      "zh-tw": "妮莫",
+      "th": "เนโม",
+      "id": "Nemola"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "th": "จั่วการ์ด 3 ใบจากสำรับการ์ดฝ่ายเรา",
+      "id": "Ambil 3 kartu dari atas Deck sendiri."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SVAM-021",
+    "name": {
+      "zh-tw": "短褲小子",
+      "th": "เจ้าหนูกางเกงขาสั้น",
+      "id": "Bocah Bercelana Pendek"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "th": "นำการ์ดบนมือฝ่ายเราทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น จั่วการ์ด 5 ใบจากสำรับการ์ด",
+      "id": "Kocok kembali semua Kartu Pegangan sendiri ke Deck. Setelah itu, ambil 5 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SVAM-020",
+    "name": {
+      "zh-tw": "裁判",
+      "th": "ผู้ตัดสิน",
+      "id": "Judge"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各自將手牌全部放回牌庫並重洗。然後，各自從牌庫抽出4張卡。",
+      "th": "ผู้เล่นทั้งสองฝ่าย นำการ์ดบนมือของแต่ละฝ่ายทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น แต่ละฝ่ายจั่วการ์ด 4 ใบจากสำรับการ์ด",
+      "id": "Kedua pemain masing-masing mengocok kembali semua Kartu Pegangan ke Deck. Setelah itu, kedua pemain masing-masing mengambil 4 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SVAM-019",
+    "name": {
+      "zh-tw": "寶可夢捕捉器",
+      "th": "โปเกมอนแคชเชอร์",
+      "id": "Pokémon Catcher"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "擲1次硬幣若為正面，則選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว สลับกับโปเกมอนบนตำแหน่งต่อสู้",
+      "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SVAM-018",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "th": "สับเปลี่ยนโปเกมอน",
+      "id": "Tukar Pokémon"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "th": "สลับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายเรากับโปเกมอนบนเบนช์",
+      "id": "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SVAM-017",
+    "name": {
+      "zh-tw": "寶可裝置3.0",
+      "th": "โปเกเกีย 3.0",
+      "id": "Pokégear 3.0"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "查看自己的牌庫上方7張卡，從其中選擇1張支援者卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。",
+      "th": "ดูการ์ด 7 ใบจากด้านบนของสำรับการ์ดฝ่ายเรา เลือกการ์ดซัพพอร์ต 1 ใบจากในนั้น ให้ฝ่ายตรงข้ามดู นำขึ้นมือ การ์ดที่เหลือใส่กลับไปในสำรับการ์ดแล้วสับ",
+      "id": "Lihat 7 kartu dari atas Deck sendiri, pilih 1 lembar Supporter di antaranya, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kocok kembali sisa kartu ke Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SVAM-016",
+    "name": {
+      "zh-tw": "高級球",
+      "th": "ไฮเปอร์บอล",
+      "id": "Bola Ultra"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "การ์ดนี้ ถ้าไม่ทิ้งการ์ดบนมือฝ่ายเรา 2 ใบที่ตำแหน่งทิ้งการ์ดจะใช้ไม่ได้ เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash. Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SVAM-015",
+    "name": {
+      "zh-tw": "巢穴球",
+      "th": "เนสต์บอล",
+      "id": "Bola Nest"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอน[พื้นฐาน] 1 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SVAM-014",
+    "name": {
+      "zh-tw": "傷藥",
+      "th": "ยารักษาแผล",
+      "id": "Obat Luka"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的1隻寶可夢恢復「30」HP。",
+      "th": "ฟื้นฟู HP ของโปเกมอนฝ่ายเรา 1 ตัว [30]",
+      "id": "Pulihkan HP 1 Pokémon sendiri sejumlah 30."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SVAM-013",
+    "name": {
+      "zh-tw": "能量輸送",
+      "th": "ส่งต่อพลังงาน",
+      "id": "Transfer Energi"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "เลือกการ์ดพลังงานพื้นฐาน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Energi Dasar dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SVAM-012",
+    "name": {
+      "zh-tw": "能量轉移",
+      "th": "สลับการ์ดพลังงาน",
+      "id": "Pengalih Energi"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "選擇1個自己的場上寶可夢身上附加的基本能量，改附於自己的其他寶可夢身上。",
+      "th": "เลือกพลังงานพื้นฐานที่ติดอยู่กับโปเกมอนบนกระดานฝ่ายเรา 1 ลูก ย้ายไปติดกับโปเกมอนตัวอื่นของฝ่ายเรา",
+      "id": "Pilih 1 Energi Dasar yang dikenakan pada Pokémon di Arena sendiri, lalu pindahkan ke Pokémon sendiri lainnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SVAM-011",
+    "name": {
+      "zh-tw": "愛吃豚",
+      "th": "กูร์ตง",
+      "id": "Lechonk"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼喚",
+          "th": "รวบรวม",
+          "id": "Mengumpulkan"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出1張卡。",
+          "th": "จั่วการ์ด 1 ใบจากสำรับการ์ดฝ่ายเรา",
+          "id": "Ambil 1 kartu dari atas Deck sendiri."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撞擊",
+          "th": "พุ่งเข้าชน",
+          "id": "Serudukan"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一整天都在覓食。雖然擁有優秀的嗅覺， 但卻只被用在覓食上。",
+      "th": "หาอาหารตลอดวัน มีประสาทการรับกลิ่นที่ยอดเยี่ยมแต่จะไม่ใช้ไปกับเรื่องที่ไม่เกี่ยวข้องกับการหาอาหาร",
+      "id": "Lechonk mencari makanan seharian penuh. Meskipun memiliki indra penciuman yang sangat baik, Pokémon ini tidak menggunakannya selain untuk mencari makan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SVAM-010",
+    "name": {
+      "zh-tw": "巨石丁",
+      "th": "อิชิเฮนจิน",
+      "id": "Stonjourner"
+    },
+    "illustrator": "Yuka Morii",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "堅硬身軀",
+          "th": "ร่างแข็งแกร่ง",
+          "id": "Tubuh Keras"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢受到招式的傷害「-20」點。",
+          "th": "แดเมจของท่าต่อสู้ที่โปเกมอนนี้จะได้รับจะถูก [-20]",
+          "id": "Kerusakan akibat serangan yang diterima Pokémon ini berkurang sejumlah 20."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "百萬噸重踢",
+          "th": "เมกะตันคิก",
+          "id": "Tendangan Megaton"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "在距離牠棲息地很遠的地方，有岩盤和牠 身體的岩石成分一致。",
+      "th": "ส่วนประกอบของหินในร่างกายนั้นตรงกับพื้นหินของแผ่นดินที่อยู่ห่างไกลจากถิ่นที่อยู่",
+      "id": "Komponen batu dari tubuh Stonjourner cocok dengan batuan dasar yang berada di daerah jauh dari habitatnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SVAM-009",
+    "name": {
+      "zh-tw": "路卡利歐ex",
+      "th": "ลูคาริโอex",
+      "id": "Lucario ex"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 260,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "下盤踢",
+          "th": "เตะต่ำ",
+          "id": "Low Kick"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "波導彈",
+          "th": "กระสุนคลื่นพลัง",
+          "id": "Bola Aura"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻備戰寶可夢也受到50點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "โปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว ก็จะได้รับแดเมจ 50 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini juga memberikan kerusakan sejumlah 50 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "suffix": "EX",
+    "cardNumber": "009"
+  },
+  {
+    "id": "SVAM-008",
+    "name": {
+      "zh-tw": "利歐路",
+      "th": "ริโอลุ",
+      "id": "Riolu"
+    },
+    "illustrator": "Naoyo Kimura",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "拳",
+          "th": "หมัดแย็บ",
+          "id": "Jab"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踢倒",
+          "th": "เตะเลียด",
+          "id": "Tendangan Rendah"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "夥伴們之間會透過發出波導來與彼此溝通。 跑步可以跑上一整晚。",
+      "th": "ใช้คลื่นพลังในการสื่อสารกับพวกเดียวกัน สามารถวิ่งติดต่อกันได้ทั้งคืน",
+      "id": "Riolu mengeluarkan gelombang aura untuk berkomunikasi dengan kawannya. Pokémon ini dapat terus berlari sepanjang malam."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SVAM-007",
+    "name": {
+      "zh-tw": "團珠蛛",
+      "th": "ทามันทูล่า",
+      "id": "Tarountula"
+    },
+    "illustrator": "Tika Matsuno",
+    "category": "Pokemon",
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "線帶拉扯",
+          "th": "ดึงด้วยใย",
+          "id": "Benang Penghela"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว สลับกับโปเกมอนบนตำแหน่งต่อสู้",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "蟲咬",
+          "th": "แมลงกัด",
+          "id": "Gigitan Serangga"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "包裹著身體的線球擁有足以把天敵飛天螳螂 的鐮刀反彈回去的彈力。",
+      "th": "ก้อนเส้นใยที่พันหุ้มลำตัวมีความยืดหยุ่นที่สามารถดีดเคียวของสไตรค์ซึ่งเป็นศัตรูตามธรรมชาติกลับไปได้",
+      "id": "Bola benang yang melilit di tubuh Tarountula memiliki elastisitas yang dapat menangkis sabit tajam Scyther, musuh alaminya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SVAM-006",
+    "name": {
+      "zh-tw": "魔幻假面喵",
+      "th": "มาสเคอเนีย",
+      "id": "Meowscarada"
+    },
+    "illustrator": "Ryota Murayama",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "戲法斗篷",
+          "th": "ผ้าคลุมแสนกล",
+          "id": "Trick Mantle"
+        },
+        "effect": {
+          "zh-tw": "若希望，選擇1個對手的戰鬥寶可夢身上附加的能量，放回對手的手牌。",
+          "th": "หากต้องการ เลือกพลังงานที่ติดอยู่กับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม 1 ลูก นำกลับขึ้นมือฝ่ายตรงข้าม",
+          "id": "Pemain dapat memilih 1 Energi yang dikenakan pada Pokémon Bertarung lawan, lalu mengembalikannya ke Kartu Pegangan lawan."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "鮮花炸彈",
+          "th": "ฟลาวเวอร์บอมบ์",
+          "id": "Flower Bomb"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "看似浮在空中的花，是牠利用斗蓬內側的毛的反射 將莖隱藏後呈現出的假象。",
+      "th": "ภาพสะท้อนของขนที่ด้านหลังเสื้อคลุมอำพรางกิ่งก้านทำให้ดอกไม้ดูเหมือนลอยอยู่",
+      "id": "Bunga yang terlihat melayang adalah kamuflase tangkai bunga oleh pantulan bulu di balik jubah Meowscarada."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SVAM-005",
+    "name": {
+      "zh-tw": "蒂蕾喵",
+      "th": "เนียโรเต",
+      "id": "Floragato"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "劈開",
+          "th": "ฟันแหลก",
+          "id": "Menyayat"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "綠葉舞步",
+          "th": "ลีฟสเต็ป",
+          "id": "Leaf Step"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會靈巧操控長長的體毛下隱藏的藤蔓，將堅硬的 花苞甩向敵人猛打。",
+      "th": "ใช้เถาวัลย์ที่ซ่อนอยู่ภายใต้ขนตามร่างกายที่มีขนาดยาวได้อย่างคล่องแคล่ว และใช้ดอกตูมแข็ง ๆ ฟาดฟันศัตรู",
+      "id": "Floragato mengendalikan sulur ranting yang tersembunyi di bawah bulu panjangnya dengan mahir, lalu membanting kuncup keras ke lawan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SVAM-004",
+    "name": {
+      "zh-tw": "新葉喵",
+      "th": "เนียวฮะ",
+      "id": "Sprigatito"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "抓",
+          "th": "ข่วน",
+          "id": "Menggaruk"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "樹葉",
+          "th": "ใบไม้",
+          "id": "Dedaunan"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "毛茸茸的體毛有著近似於植物的成分。 會勤快地洗臉以防止乾燥。",
+      "th": "ขนตามร่างกายที่นุ่มฟูมีส่วนประกอบที่คล้ายกับพืช ล้างหน้าบ่อยครั้งเพื่อป้องกันไม่ให้หน้าแห้ง",
+      "id": "Bulu Sprigatito yang halus mengandung komponen yang dekat dengan tumbuhan. Pokémon ini rajin mencuci mukanya agar tidak kering."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SVAM-003",
+    "name": {
+      "zh-tw": "熱帶龍",
+      "th": "โทรพิอุส",
+      "id": "Tropius"
+    },
+    "illustrator": "aoki",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "現摘水果",
+          "th": "ผลไม้เก็บสด ๆ",
+          "id": "Buah-buahan Baru Dipetik"
+        },
+        "effect": {
+          "zh-tw": "將自己的1隻備戰寶可夢恢復「60」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนบนเบนช์ฝ่ายเรา 1 ตัว [60]",
+          "id": "Pulihkan HP 1 Pokémon Cadangan sendiri sejumlah 60."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飛葉快刀",
+          "th": "คัตเตอร์ใบไม้",
+          "id": "Daun Pemotong"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "棲息在熱帶叢林裡。脖子上的果實香甜美味。 每年會結果２次。",
+      "th": "อาศัยอยู่ในป่าเขตร้อน เครือผลที่คอรสชาติหวานอร่อย 1 ปีจะออกผลแค่ 2 ครั้ง",
+      "id": "Tropius hidup di hutan tropis. Tandan di leher Pokémon ini rasanya manis dan lezat, dan berbuah 2 kali dalam 1 tahun."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SVAM-002",
+    "name": {
+      "zh-tw": "斗笠菇",
+      "th": "คิโนกัซซา",
+      "id": "Breloom"
+    },
+    "illustrator": "Ryuta Fuse",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "音速直擊",
+          "th": "มัคสเตรท",
+          "id": "Mach Straight"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會撒出毒孢子，然後再讓因吸入孢子而痛苦不堪的 對手吃上一記重拳。",
+      "th": "จะโปรยสปอร์พิษแล้วปล่อยหมัดรุนแรงชกฝ่ายตรงข้ามที่เจ็บปวดจากการสูดดมสปอร์พิษเข้าไป",
+      "id": "Breloom menyebarkan spora racun dan menyarangkan pukulan kuat pada lawan yang menderita karena menghirup spora tersebut."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SVAM-001",
+    "name": {
+      "zh-tw": "蘑蘑菇",
+      "th": "คิโนโคโค",
+      "id": "Shroomish"
+    },
+    "illustrator": "kurumitsu",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "吸取",
+          "th": "ดูดซับ",
+          "id": "Menyerap"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「10」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนนี้ [10]",
+          "id": "Pulihkan HP Pokémon ini sejumlah 10."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "喜歡潮濕的地方，白天會動也不動地待在森林的樹蔭下。 會從頭上放出毒粉。",
+      "th": "ชอบพื้นที่เปียกชื้น ตอนกลางวันจะอยู่นิ่ง ๆ ใต้เงาไม้ในป่า ปล่อยผงพิษออกจากหัวได้",
+      "id": "Shroomish menyukai tempat lembap. Selama siang hari, ia hanya terdiam di balik bayangan pohon di hutan. Pokémon ini mengeluarkan bubuk beracun dari kepalanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAM"
+    },
+    "cardNumber": "001"
+  }
+]

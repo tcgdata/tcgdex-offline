@@ -1,0 +1,961 @@
+[
+  {
+    "id": "SVHM-PSY",
+    "name": {
+      "zh-tw": "基本【超】能量",
+      "th": "พลังงานพื้นฐาน[พลังจิต]",
+      "id": "Energi Dasar Psychic"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "PSY"
+  },
+  {
+    "id": "SVHM-LIG",
+    "name": {
+      "zh-tw": "基本【雷】能量",
+      "th": "พลังงานพื้นฐาน[สายฟ้า]",
+      "id": "Energi Dasar Listrik"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "LIG"
+  },
+  {
+    "id": "SVHM-022",
+    "name": {
+      "zh-tw": "老大的指令",
+      "th": "คำสั่งของบอส",
+      "id": "Perintah Bos (Ghetsis)"
+    },
+    "illustrator": "NC Empire",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "th": "เลือกโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว สลับกับโปเกมอนบนตำแหน่งต่อสู้",
+      "id": "Pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SVHM-021",
+    "name": {
+      "zh-tw": "弗圖博士的劇本",
+      "th": "แผนการของศาสตราจารย์ฟูทูร์",
+      "id": "Skenario Profesor Futu"
+    },
+    "illustrator": "hncl",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻自己的場上寶可夢，放回手牌。（寶可夢以外的卡全部丟棄。）",
+      "th": "เลือกโปเกมอนบนกระดานฝ่ายเรา 1 ตัว นำกลับขึ้นมือ (ทิ้งการ์ดทุกใบที่ไม่ใช่โปเกมอนที่ตำแหน่งทิ้งการ์ด)",
+      "id": "Pilih 1 Pokémon di Arena sendiri, lalu kembalikan ke Kartu Pegangan. (Buang semua kartu selain Pokémon ke Trash.)"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SVHM-020",
+    "name": {
+      "zh-tw": "博士的研究",
+      "th": "งานวิจัยของศาสตราจารย์",
+      "id": "Penelitian Profesor (Profesor Futu)"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "th": "ทิ้งการ์ดบนมือฝ่ายเราทั้งหมดที่ตำแหน่งทิ้งการ์ด จั่วการ์ด 7 ใบจากสำรับการ์ด",
+      "id": "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SVHM-019",
+    "name": {
+      "zh-tw": "妮莫",
+      "th": "เนโม",
+      "id": "Nemola"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "th": "จั่วการ์ด 3 ใบจากสำรับการ์ดฝ่ายเรา",
+      "id": "Ambil 3 kartu dari atas Deck sendiri."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SVHM-018",
+    "name": {
+      "zh-tw": "奇樹",
+      "th": "นันจาโม",
+      "id": "Mistika"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各將自己的手牌全部翻回反面並重洗，放回牌庫下方。然後，各從牌庫抽出與自己剩餘獎賞卡的張數相同數量的卡。",
+      "th": "ผู้เล่นทั้งสองฝ่าย แต่ละฝ่ายสับการ์ดบนมือฝ่ายตัวเองทั้งหมดโดยไม่ดูหน้าการ์ด ใส่กลับไปด้านล่างของสำรับการ์ด หลังจากนั้น แต่ละฝ่ายจั่วการ์ดจากสำรับการ์ด ตามจำนวนการ์ดรางวัลที่เหลือของฝ่ายตัวเอง",
+      "id": "Kedua pemain masing-masing mengocok semua Kartu Pegangan sendiri dengan sisi depan menghadap ke bawah, lalu mengembalikannya ke bawah Deck. Setelah itu, kedua pemain masing-masing mengambil kartu dari atas Deck untuk tiap lembar sisa Kartu Point sendiri."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SVHM-017",
+    "name": {
+      "zh-tw": "竹蘭的霸氣",
+      "th": "ความทะเยอทะยานของชิโรนะ",
+      "id": "Aspirasi Cynthia"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從牌庫抽卡直到自己的手牌滿5張為止。在上個對手的回合，若自己的寶可夢【昏厥】了，則抽卡直到滿8張為止。",
+      "th": "จั่วการ์ดจากสำรับการ์ด จนได้การ์ดบนมือฝ่ายเราเป็น 5 ใบ ในเทิร์นก่อนของฝ่ายตรงข้าม ถ้าโปเกมอนฝ่ายเรา[หมดสภาพ] ให้จั่วจนได้การ์ด 8 ใบ",
+      "id": "Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 5 lembar. Jika pada giliran lawan sebelumnya, ada Pokémon sendiri yang KO, ambil kartu hingga jumlah Kartu Pegangan sendiri menjadi 8 lembar."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SVHM-016",
+    "name": {
+      "zh-tw": "驅勁能量 未來",
+      "th": "บูสต์เอนเนอร์จี้ อนาคต",
+      "id": "Pemacu Energi Futur"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "附有這張卡的「未來」寶可夢【撤退】所需的能量全部消除，那隻寶可夢使用的招式，對對手的戰鬥寶可夢造成的傷害「+20」點。",
+      "th": "โปเกมอน [อนาคต] ที่ติดการ์ดนี้อยู่ พลังงานสำหรับ[หนี]ทั้งหมดจะหายไป แดเมจของท่าต่อสู้ที่โปเกมอนนั้น ใช้ทำกับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามจะถูก [+20]",
+      "id": "Pokémon Futur yang mengenakan kartu ini menjadi tidak membutuhkan Energi untuk Mundur dan kerusakan akibat serangan yang digunakan oleh Pokémon tersebut kepada Pokémon Bertarung lawan bertambah sejumlah 20."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SVHM-015",
+    "name": {
+      "zh-tw": "大師球",
+      "th": "มาสเตอร์บอล",
+      "id": "Bola Master"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "H",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SVHM-014",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "th": "สับเปลี่ยนโปเกมอน",
+      "id": "Tukar Pokémon"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "th": "สลับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายเรากับโปเกมอนบนเบนช์",
+      "id": "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SVHM-013",
+    "name": {
+      "zh-tw": "高級球",
+      "th": "ไฮเปอร์บอล",
+      "id": "Bola Ultra"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "การ์ดนี้ ถ้าไม่ทิ้งการ์ดบนมือฝ่ายเรา 2 ใบที่ตำแหน่งทิ้งการ์ดจะใช้ไม่ได้ เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash. Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SVHM-012",
+    "name": {
+      "zh-tw": "巢穴球",
+      "th": "เนสต์บอล",
+      "id": "Bola Nest"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอน[พื้นฐาน] 1 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SVHM-011",
+    "name": {
+      "zh-tw": "高科技雷達",
+      "th": "เทคโนเรดาร์",
+      "id": "Techno Radar"
+    },
+    "illustrator": "inose yukie",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的1張手牌丟棄才可使用。 從自己的牌庫選擇最多2張「未來」寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "การ์ดนี้ ถ้าไม่ทิ้งการ์ดบนมือฝ่ายเรา 1 ใบที่ตำแหน่งทิ้งการ์ดจะใช้ไม่ได้ เลือกการ์ดโปเกมอน [อนาคต] ได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Kartu ini dapat digunakan jika pemain membuang 1 lembar Kartu Pegangan sendiri ke Trash. Pilih paling banyak 2 lembar Pokémon Futur dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SVHM-010",
+    "name": {
+      "zh-tw": "鐵脖頸",
+      "th": "คอเหล็ก",
+      "id": "Iron Jugulis"
+    },
+    "illustrator": "KEIICHIRO ITO",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "自動用武",
+          "th": "ป้องกันตัวอัตโนมัติ",
+          "id": "Automartial"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢在戰鬥場受到對手的寶可夢招式的傷害時，在使用招式的寶可夢身上放置3個傷害指示物。",
+          "th": "เมื่อโปเกมอนนี้ อยู่บนตำแหน่งต่อสู้และได้รับแดเมจของท่าต่อสู้จากโปเกมอนฝ่ายตรงข้าม วางตัวนับแดเมจ 3 ตัวบนโปเกมอนที่ใช้ท่าต่อสู้",
+          "id": "Saat Pokémon ini ada di Arena Bertarung dan menerima kerusakan akibat serangan dari Pokémon lawan, letakkan 3 Token Kerusakan pada Pokémon yang telah menggunakan serangan."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "爆破之風",
+          "th": "บลาสต์วินด์",
+          "id": "Blast Wind"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "古書裡所記載的叫做鐵脖頸的物體， 說不定就是這隻寶可夢。",
+      "th": "วัตถุที่เรียกว่าคอเหล็กที่ระบุในบันทึกเก่าแก่อาจเป็นโปเกมอนตัวนี้",
+      "id": "Kemungkinan Pokémon ini adalah objek bernama Iron Jugulis yang tertera dalam buku kuno."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SVHM-009",
+    "name": {
+      "zh-tw": "密勒頓ex",
+      "th": "มิไรดอนex",
+      "id": "Miraidon ex"
+    },
+    "illustrator": "PLANETA Mochizuki",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Dragon"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "抵制伏特",
+          "th": "รีเจกต์โวลต์",
+          "id": "Reject Bolt"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢身上放置有傷害指示物，則增加100點傷害。",
+          "th": "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามมีตัวนับแดเมจวางอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 100",
+          "id": "Jika Pokémon Bertarung lawan memiliki Token Kerusakan, kerusakan yang diberikan bertambah sejumlah 100."
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "異度猛衝",
+          "th": "ไซเบอร์ไดรฟ์",
+          "id": "Cyberdrive"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「異度猛衝」。",
+          "th": "เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ [ไซเบอร์ไดรฟ์] ไม่ได้",
+          "id": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan Cyberdrive."
+        },
+        "damage": 220
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "suffix": "EX",
+    "cardNumber": "009"
+  },
+  {
+    "id": "SVHM-008",
+    "name": {
+      "zh-tw": "鐵武者",
+      "th": "นักรบเหล็ก",
+      "id": "Iron Valiant"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "雙生鐳射",
+          "th": "เจมิไนเลเซอร์",
+          "id": "Gemini Laser"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "โปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว ก็จะได้รับแดเมจ 20 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini juga memberikan kerusakan sejumlah 20 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "意念之刃",
+          "th": "คมดาบพลังจิต",
+          "id": "Pisau Spiritual"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「意念之刃」。",
+          "th": "เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ [คมดาบพลังจิต] ไม่ได้",
+          "id": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan Pisau Spiritual."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "牠有可能就是在某本探險記裡，以鐵武者這個 名字被記載下來的物體。",
+      "th": "มีโอกาสที่จะเป็นวัตถุที่เรียกว่านักรบเหล็กซึ่งระบุไว้ในบันทึกการสำรวจเล่มหนึ่ง",
+      "id": "Terdapat kemungkinan bahwa Pokémon ini adalah objek misterius bernama Iron Valiant yang tertera dalam suatu jurnal ekspedisi."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SVHM-007",
+    "name": {
+      "zh-tw": "大宇怪",
+      "th": "โอเบ็ม",
+      "id": "Beheeyem"
+    },
+    "illustrator": "Shinya Komatsu",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "H",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "宇宙律動",
+          "th": "คอสโมบีต",
+          "id": "Cosmobeat"
+        },
+        "effect": {
+          "zh-tw": "造成自己的場上寶可夢的數量×20點傷害。",
+          "th": "แดเมจจะเท่ากับจำนวนโปเกมอนบนกระดานฝ่ายเรา x20",
+          "id": "Serangan ini memberikan kerusakan sejumlah 20 untuk tiap Pokémon di Arena sendiri."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "如果大宇怪出現在牧場裡，那麼就會有１隻毛毛角羊 在不知不覺間消失。",
+      "th": "ไบวูลูจะหายไป 1 ตัวโดยไม่ทันรู้ตัวจากฟาร์มที่โอเบ็มปรากฏตัว",
+      "id": "Entah sejak kapan seekor Dubwool menghilang dari peternakan yang didatangi oleh Beheeyem."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SVHM-006",
+    "name": {
+      "zh-tw": "小灰怪",
+      "th": "ลีเกรย์",
+      "id": "Elgyem"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "躲藏",
+          "th": "ซ่อน",
+          "id": "Bersembunyi"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับแดเมจและเอฟเฟกต์ของท่าต่อสู้",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan dan efek akibat serangan."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "當牠站在電視機旁邊時，畫面上會出現奇怪的景色。 據說那是牠的故鄉。",
+      "th": "ถ้าอยู่ข้าง ๆ ทีวีตรงมอนิเตอร์จะฉายภาพทิวทัศน์ประหลาด ว่ากันว่ามันคือภาพบ้านเกิดของลีเกรย์",
+      "id": "Ketika berada di samping televisi, pemandangan aneh akan ditampilkan di layar. Dikatakan bahwa itu adalah tampilan kampung halaman Elgyem."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SVHM-005",
+    "name": {
+      "zh-tw": "拉帝亞斯",
+      "th": "ลาทิอาส",
+      "id": "Latias"
+    },
+    "illustrator": "Takumi Wada",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "吸引",
+          "th": "ยั่วยวน",
+          "id": "Mengambil"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出2張卡。",
+          "th": "จั่วการ์ด 2 ใบจากสำรับการ์ดฝ่ายเรา",
+          "id": "Ambil 2 kartu dari atas Deck sendiri."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "潟湖飛行",
+          "th": "ลากูนไฟลต์",
+          "id": "Lagoon Flight"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "能透過心靈感應交流情感。用能令光線折射的羽毛 包裹身體來隱藏自己的樣子。",
+      "th": "สื่อความรู้สึกด้วยพลังจิต ใช้ขนปีกที่ทำให้แสงหักเหได้ห่อหุ้มร่างเพื่อเร้นกายหายตัว",
+      "id": "Ia saling mengomunikasikan perasaannya dengan telepati. Pokémon ini menghilangkan wujudnya dengan membungkus tubuhnya menggunakan bulu yang membiaskan cahaya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SVHM-004",
+    "name": {
+      "zh-tw": "鐵臂膀",
+      "th": "แขนเหล็ก",
+      "id": "Iron Hands"
+    },
+    "illustrator": "Souichirou Gunjima",
+    "category": "Pokemon",
+    "hp": 140,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝擊波",
+          "th": "ช็อกเวฟ",
+          "id": "Shock Wave"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว จะทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[ชา]",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超合金之手",
+          "th": "ซูเปอร์อัลลอยแฮนด์",
+          "id": "Tangan Aloi Super"
+        },
+        "effect": {
+          "zh-tw": "若對手的戰鬥寶可夢為「寶可夢【ex】・【V】」，則增加80點傷害。",
+          "th": "ถ้าโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็น [โปเกมอน【ex】 /【V】] การโจมตีนี้จะเพิ่มแดเมจอีก 80",
+          "id": "Jika Pokémon Bertarung lawan adalah Pokémon {ex}/{V}, kerusakan yang diberikan bertambah sejumlah 80."
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "與某本探險記裡記載的一種叫做鐵臂膀的物體 有許多相似處的寶可夢。",
+      "th": "โปเกมอนที่มีความคล้ายคลึงกับวัตถุที่เรียกว่าแขนเหล็กที่ระบุไว้ในบันทึกการสำรวจเล่มหนึ่งหลายข้อ",
+      "id": "Pokémon yang memiliki banyak poin kemiripan dengan objek bernama Iron Hands yang tertera dalam sebuah jurnal ekspedisi."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SVHM-003",
+    "name": {
+      "zh-tw": "逐電犬",
+      "th": "พัลส์วัน",
+      "id": "Boltund"
+    },
+    "illustrator": "Oswaldo KATO",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "H",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "輸電衝刺",
+          "th": "ส่งกระแสไฟพุ่งพรวด",
+          "id": "Lari Kencang Mengirim Listrik"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多2張「基本【雷】能量」卡，以任意方式附於備戰寶可夢身上。並且重洗牌庫。",
+          "th": "เลือกการ์ด [พลังงานพื้นฐาน[สายฟ้า]] ได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ติดที่โปเกมอนบนเบนช์ตามชอบ แล้วสับสำรับการ์ด",
+          "id": "Pilih paling banyak 2 lembar Energi Dasar {Listrik} dari Deck sendiri, lalu kenakan sesukanya pada Pokémon Cadangan. Kemudian, kocok Deck."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會製造電能，並傳送到腳上作為奔跑時的輔助動力。 能不眠不休地奔跑三天三夜。",
+      "th": "ผลิตไฟฟ้าส่งไปที่อุ้งเท้าเพื่อช่วยในการวิ่ง สามารถวิ่งได้สามวันสามคืนโดยไม่ต้องหยุดพัก",
+      "id": "Boltund menghasilkan listrik yang dialirkan ke kakinya untuk dukungan saat berlari. Pokémon ini dapat terus berlari tanpa istirahat selama tiga hari tiga malam."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SVHM-002",
+    "name": {
+      "zh-tw": "來電汪",
+      "th": "วันปาจิ",
+      "id": "Yamper"
+    },
+    "illustrator": "kurumitsu",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "H",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "胡思亂撞",
+          "th": "โจมตีแปรปรวน",
+          "id": "Serudukan Semaunya"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกก้อย ท่าต่อสู้นี้จะล้มเหลว",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan ini gagal."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "奔跑的時候會從尾巴的根部製造出電能。在伽勒爾 是很受歡迎的牧羊犬。",
+      "th": "เมื่อวิ่งจะมีไฟฟ้าผลิตออกมาจากโคนหาง เป็นที่นิยมในกาลาร์ในฐานะสุนัขเลี้ยงแกะ",
+      "id": "Saat berlari, Yamper menghasilkan listrik pada bagian dasar ekornya. Populer sebagai anjing gembala di Galar."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SVHM-001",
+    "name": {
+      "zh-tw": "霓虹魚V",
+      "th": "เนโอแลนท์V",
+      "id": "Lumineon V"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "夜光標誌",
+          "th": "ลูมินัสไซน์",
+          "id": "Luminous Sign"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，從手牌將這張卡放置於備戰區時，可使用1次。從自己的牌庫選擇1張支援者卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "th": "ในเทิร์นฝ่ายเรา เมื่อนำการ์ดนี้จากบนมือวางบนเบนช์ ใช้ได้ 1 ครั้ง เลือกการ์ดซัพพอร์ต 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+          "id": "Dapat digunakan 1 kali pada giliran sendiri saat memasukkan kartu ini dari Kartu Pegangan ke Cadangan. Pilih 1 lembar Supporter dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水迴旋",
+          "th": "อควารีเทิร์น",
+          "id": "Aqua Return"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。",
+          "th": "นำโปเกมอนนี้ และการ์ดทั้งหมดที่ติดอยู่ ใส่กลับไปในสำรับการ์ดฝ่ายเราแล้วสับ",
+          "id": "Kocok kembali Pokémon ini dan semua kartu yang dikenakannya ke Deck sendiri."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVHM"
+    },
+    "suffix": "V",
+    "cardNumber": "001"
+  }
+]

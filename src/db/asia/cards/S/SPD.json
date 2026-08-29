@@ -1,0 +1,804 @@
+[
+  {
+    "id": "SPD-PSY",
+    "name": {
+      "ja": "基本超エネルギー"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "PSY"
+  },
+  {
+    "id": "SPD-020",
+    "name": {
+      "zh-tw": "老大的指令（赤日）",
+      "ja": "ボスの指令（アカギ）"
+    },
+    "illustrator": "GIDORA",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "ja": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SPD-019",
+    "name": {
+      "zh-tw": "冒險家的發現",
+      "ja": "冒険家の発見"
+    },
+    "illustrator": "Taira Akitsu",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多3張「寶可夢【V】」卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "自分の山札から「ポケモンV」を3枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SPD-018",
+    "name": {
+      "zh-tw": "博士的研究（山梨博士）",
+      "ja": "博士の研究（ナナカマド博士）"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "ja": "自分の手札をすべてトラッシュし、山札を7枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SPD-017",
+    "name": {
+      "zh-tw": "竹蘭的霸氣",
+      "ja": "シロナの覇気"
+    },
+    "illustrator": "Megumi Mizutani",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從牌庫抽卡直到自己的手牌滿5張為止。在上個對手的回合，若自己的寶可夢【氣絕】了，則抽卡直到滿8張為止。",
+      "ja": "自分の手札が5枚になるように、山札を引く。前の相手の番に、自分のポケモンがきぜつしていたなら、8枚になるように引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SPD-016",
+    "name": {
+      "zh-tw": "阿馴",
+      "ja": "ジュン"
+    },
+    "illustrator": "Ken Sugimori",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "ja": "自分の山札を3枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SPD-015",
+    "name": {
+      "zh-tw": "莎娜",
+      "ja": "サナ"
+    },
+    "illustrator": "Yuu Nishida",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "ja": "自分の手札をすべて山札にもどして切る。その後、山札を5枚引く。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SPD-014",
+    "name": {
+      "zh-tw": "克拉拉",
+      "ja": "クララ"
+    },
+    "illustrator": "Ken Sugimori",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的棄牌區選擇最多2張寶可夢卡與最多2張基本能量卡，在給對手看過後加入手牌。（可只選擇寶可夢卡或者只選擇基本能量卡。）",
+      "ja": "自分のトラッシュからポケモンを2枚までと、基本エネルギーを2枚まで選び、相手に見せて、手札に加える。（ポケモンまたは基本エネルギーのどちらかだけでもよい。）"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SPD-013",
+    "name": {
+      "zh-tw": "葉隱披風",
+      "ja": "葉隠れポンチョ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。",
+      "ja": "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SPD-012",
+    "name": {
+      "zh-tw": "講究腰帶",
+      "ja": "こだわりベルト"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "寶可夢道具卡，附於自己的寶可夢使用。1隻寶可夢只可附上1張寶可夢道具卡，並且保持附加狀態。",
+      "ja": "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SPD-011",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "ja": "ポケモンいれかえ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "ja": "自分のバトルポケモンをベンチポケモンと入れ替える。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SPD-010",
+    "name": {
+      "zh-tw": "高級球",
+      "ja": "ハイパーボール"
+    },
+    "illustrator": "sadaji",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "このカードは、自分の手札を2枚トラッシュしなければ使えない。\n\n自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SPD-009",
+    "name": {
+      "zh-tw": "霧之水晶",
+      "ja": "霧の水晶"
+    },
+    "illustrator": "sadaji",
+    "category": "Trainer",
+    "regulationMark": "E",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張【超】屬性的【基礎】寶可夢卡或者【超】能量卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "ja": "自分の山札からタイプのたねポケモンまたはエネルギーを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SPD-008",
+    "name": {
+      "zh-tw": "克雷色利亞",
+      "ja": "クレセリア"
+    },
+    "illustrator": "Tika Matsuno",
+    "category": "Pokemon",
+    "dexId": [
+      488
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "新月生長",
+          "ja": "クレセントグロウ"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇1張【超】能量卡，附於自己的寶可夢身上。並且重洗牌庫。若在後攻玩家的最初回合使用，則可附上的張數改為最多3張，附於自己的1隻寶可夢身上。",
+          "ja": "自分の山札からエネルギーを1枚選び、自分のポケモンにつける。そして山札を切る。後攻プレイヤーの最初の番なら、つけられる枚数は3枚までになり、自分のポケモン1匹につける。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "光子鐳射",
+          "ja": "フォトンレーザー"
+        },
+        "effect": {
+          "zh-tw": "若自己的場上的能量有5個以上，則增加90點傷害。",
+          "ja": "自分の場にエネルギーが5個以上あるなら、90ダメージ追加。"
+        },
+        "damage": "30＋"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "據說只要拿著克雷色利亞的羽毛入睡，就能作個美夢。 被稱為新月的化身。",
+      "ja": "クレセリアの 羽を 持って 寝ると 楽しい 夢が 見られると いう。 三日月の化身と 呼ばれている。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SPD-007",
+    "name": {
+      "zh-tw": "代歐奇希斯VSTAR",
+      "ja": "デオキシスVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "精神標槍",
+          "ja": "サイコジャベリン"
+        },
+        "effect": {
+          "zh-tw": "對手的備戰區的1隻「寶可夢【V】」也受到60點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "ja": "相手のベンチの「ポケモンV」1匹にも、60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 190
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "[VSTAR力量]星星神力",
+          "ja": "スターフォース"
+        },
+        "effect": {
+          "zh-tw": "造成雙方的戰鬥寶可夢身上附加的能量的數量×60點傷害。[對戰中，己方只可使用1次【VSTAR】力量。]",
+          "ja": "おたがいのバトルポケモンについているエネルギーの数×60ダメージ。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SPD-006",
+    "name": {
+      "zh-tw": "代歐奇希斯VMAX",
+      "ja": "デオキシスVMAX"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "category": "Pokemon",
+    "hp": 330,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "防護DNA",
+          "ja": "プロテクトDNA"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，自己的所有寶可夢受到對手的「寶可夢【VSTAR】」招式的傷害「-30」點。",
+          "ja": "このポケモンがいるかぎり、自分のポケモン全員が、相手の「ポケモンVSTAR」から受けるワザのダメージは「-30」される。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨吸取",
+          "ja": "ダイドレイン"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢恢復「30」HP。",
+          "ja": "このポケモンのHPを「30」回復する。"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SPD-005",
+    "name": {
+      "zh-tw": "代歐奇希斯V",
+      "ja": "デオキシスV"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "category": "Pokemon",
+    "hp": 210,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "精神強念",
+          "ja": "サイコキネシス"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上附加的能量的數量×30點傷害。",
+          "ja": "相手のバトルポケモンについているエネルギーの数×30ダメージ追加。"
+        },
+        "damage": "30＋"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "力量刀鋒",
+          "ja": "パワーエッジ"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "suffix": "V",
+    "cardNumber": "005"
+  },
+  {
+    "id": "SPD-004",
+    "name": {
+      "zh-tw": "麒麟奇",
+      "ja": "キリンリキ"
+    },
+    "illustrator": "Mina Nakai",
+    "category": "Pokemon",
+    "dexId": [
+      203
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "雙重抽出",
+          "ja": "ダブルドロー"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出2張卡。",
+          "ja": "自分の山札を2枚引く。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "幻象光線",
+          "ja": "サイケこうせん"
+        },
+        "effect": {
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。",
+          "ja": "相手のバトルポケモンをこんらんにする。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "尾巴上也有著小小的大腦。如果有誰靠近就會對氣味 產生反應並咬過來，要特別注意。",
+      "ja": "尻尾にも 小さな 脳がある。 近寄ると においに 反応して かみついて くるので 注意。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SPD-003",
+    "name": {
+      "zh-tw": "寶石海星",
+      "ja": "スターミー"
+    },
+    "illustrator": "Akira Komayama",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "精神強念",
+          "ja": "サイコキネシス"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上附加的能量的數量×30點傷害。",
+          "ja": "相手のバトルポケモンについているエネルギーの数×30ダメージ追加。"
+        },
+        "damage": "10＋"
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "力量寶石",
+          "ja": "パワージェム"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "zh-tw": "釋放強烈的精神力量時，被稱為核心的器官就會 閃爍七彩光芒。",
+      "ja": "強烈な サイコパワーを 放つとき コアと 呼ばれる 器官が 七色に きらめく。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SPD-002",
+    "name": {
+      "zh-tw": "霓虹魚V",
+      "ja": "ネオラントV"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "夜光標誌",
+          "ja": "ルミナスサイン"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合，當從手牌將這張卡放置於備戰區時，可使用1次。從自己的牌庫選擇1張支援者卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "ja": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の山札からサポートを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水迴旋",
+          "ja": "アクアリターン"
+        },
+        "effect": {
+          "zh-tw": "將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。",
+          "ja": "このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "suffix": "V",
+    "cardNumber": "002"
+  },
+  {
+    "id": "SPD-001",
+    "name": {
+      "zh-tw": "海星星",
+      "ja": "ヒトデマン"
+    },
+    "illustrator": "Yuka Morii",
+    "category": "Pokemon",
+    "dexId": [
+      120
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "雙重旋轉",
+          "ja": "ダブルスピン"
+        },
+        "effect": {
+          "zh-tw": "擲2次硬幣，造成正面出現的次數×10點傷害。",
+          "ja": "コインを2回投げ、オモテの数×10ダメージ。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "在夏天快結束時到海邊，就能看見成群的海星星 有規律地一閃一閃發光。",
+      "ja": "夏の終わりの 浜辺に 行くと 規則的な リズムで 光る ヒトデマンの 群れが 見られるよ。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "SPD"
+    },
+    "cardNumber": "001"
+  }
+]

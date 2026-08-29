@@ -1,0 +1,7129 @@
+[
+  {
+    "id": "SV2P-099",
+    "name": {
+      "ja": "基本水エネルギー"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707666,
+          "tcgplayer": 577563
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "099"
+  },
+  {
+    "id": "SV2P-098",
+    "name": {
+      "ja": "すごいつりざお"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のトラッシュからポケモンと基本エネルギーを合計3枚まで選び、相手に見せて、山札にもどして切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707665,
+          "tcgplayer": 567855
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "098"
+  },
+  {
+    "id": "SV2P-097",
+    "name": {
+      "ja": "パオジアンex"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "わななくれいき"
+        },
+        "effect": {
+          "ja": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から「基本エネルギー」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "ヘイルブレード"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンについているエネルギーを好きなだけトラッシュし、その枚数×60ダメージ。"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707664,
+          "tcgplayer": 567854
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "097"
+  },
+  {
+    "id": "SV2P-096",
+    "name": {
+      "ja": "ピーニャ"
+    },
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "相手のポケモン全員についている特殊エネルギーをそれぞれ1個ずつ選び、トラッシュする。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707663,
+          "tcgplayer": 567853
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "096"
+  },
+  {
+    "id": "SV2P-095",
+    "name": {
+      "ja": "グルーシャ"
+    },
+    "illustrator": "DOM",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札が5枚になるように、山札を引く。自分の場のポケモンにエネルギーが1枚もついていないなら、7枚になるように引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707662,
+          "tcgplayer": 567852
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "095"
+  },
+  {
+    "id": "SV2P-094",
+    "name": {
+      "ja": "イキリンコex"
+    },
+    "illustrator": "Amelicart",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "イキリテイク"
+        },
+        "effect": {
+          "ja": "最初の自分の番にだけ1回使える。自分の手札をすべてトラッシュし、山札を6枚引く。この番、すでに別の「イキリテイク」を使っていたなら、この特性は使えない。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きあいをいれる"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707661,
+          "tcgplayer": 567851
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "094"
+  },
+  {
+    "id": "SV2P-093",
+    "name": {
+      "ja": "パオジアンex"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "わななくれいき"
+        },
+        "effect": {
+          "ja": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から「基本エネルギー」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "ヘイルブレード"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンについているエネルギーを好きなだけトラッシュし、その枚数×60ダメージ。"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707660,
+          "tcgplayer": 567850
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "093"
+  },
+  {
+    "id": "SV2P-092",
+    "name": {
+      "ja": "チオンジェンex"
+    },
+    "illustrator": "takuyoa",
+    "category": "Pokemon",
+    "hp": 230,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むさぼるつた"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹に、相手がすでにとったサイドの枚数×60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フォレストバーン"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707659,
+          "tcgplayer": 567849
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "092"
+  },
+  {
+    "id": "SV2P-091",
+    "name": {
+      "ja": "ピーニャ"
+    },
+    "illustrator": "kantaro",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "相手のポケモン全員についている特殊エネルギーをそれぞれ1個ずつ選び、トラッシュする。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707658,
+          "tcgplayer": 567848
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "091"
+  },
+  {
+    "id": "SV2P-090",
+    "name": {
+      "ja": "グルーシャ"
+    },
+    "illustrator": "GIDORA",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札が5枚になるように、山札を引く。自分の場のポケモンにエネルギーが1枚もついていないなら、7枚になるように引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707657,
+          "tcgplayer": 567847
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "090"
+  },
+  {
+    "id": "SV2P-089",
+    "name": {
+      "ja": "イキリンコex"
+    },
+    "illustrator": "PLANETA Mochizuki",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "イキリテイク"
+        },
+        "effect": {
+          "ja": "最初の自分の番にだけ1回使える。自分の手札をすべてトラッシュし、山札を6枚引く。この番、すでに別の「イキリテイク」を使っていたなら、この特性は使えない。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きあいをいれる"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707656,
+          "tcgplayer": 567846
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "089"
+  },
+  {
+    "id": "SV2P-088",
+    "name": {
+      "ja": "ダイオウドウex"
+    },
+    "illustrator": "Eske Yoshinob",
+    "category": "Pokemon",
+    "hp": 300,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ブロンズボディ"
+        },
+        "effect": {
+          "ja": "このポケモンが受けるワザのダメージは「-30」される。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ノーズクエイク"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモン全員にも、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 260
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707655,
+          "tcgplayer": 567845
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "088"
+  },
+  {
+    "id": "SV2P-087",
+    "name": {
+      "ja": "コノヨザルex"
+    },
+    "illustrator": "PLANETA Hiiragi",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "アンガーグラッジ"
+        },
+        "effect": {
+          "ja": "このポケモンにダメカンを12個までのせ、のせた数×20ダメージ。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちきゅうなげ"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707654,
+          "tcgplayer": 567844
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "087"
+  },
+  {
+    "id": "SV2P-086",
+    "name": {
+      "ja": "ヤドキングex"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "うんちく"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "ウィズダムヘッド"
+        },
+        "effect": {
+          "ja": "のぞむなら、自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707653,
+          "tcgplayer": 567843
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "086"
+  },
+  {
+    "id": "SV2P-085",
+    "name": {
+      "ja": "パオジアンex"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "わななくれいき"
+        },
+        "effect": {
+          "ja": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から「基本エネルギー」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "ヘイルブレード"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンについているエネルギーを好きなだけトラッシュし、その枚数×60ダメージ。"
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707652,
+          "tcgplayer": 567842
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "085"
+  },
+  {
+    "id": "SV2P-084",
+    "name": {
+      "ja": "チオンジェンex"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 230,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むさぼるつた"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹に、相手がすでにとったサイドの枚数×60ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フォレストバーン"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707651,
+          "tcgplayer": 567841
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "084"
+  },
+  {
+    "id": "SV2P-083",
+    "name": {
+      "ja": "ノココッチ"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "dexId": [
+      982
+    ],
+    "hp": 140,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "どろかけ"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ほりにげフラッシュ"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをマヒにする。このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707650,
+          "tcgplayer": 567840
+        }
+      }
+    ],
+    "description": {
+      "ja": "硬い 尻尾で 地中 深くの 岩盤を くり抜き 巣を 作る。 巣穴は 長さ１０キロに およぶ。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "083"
+  },
+  {
+    "id": "SV2P-082",
+    "name": {
+      "ja": "ココガラ"
+    },
+    "illustrator": "GOSSAN",
+    "category": "Pokemon",
+    "dexId": [
+      821
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つきかえす"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707649,
+          "tcgplayer": 567839
+        }
+      }
+    ],
+    "description": {
+      "ja": "勇敢で 向こう見ずな 気質。 目の まわりの 白い 模様は 気弱な ポケモンを 怯ませる。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "082"
+  },
+  {
+    "id": "SV2P-081",
+    "name": {
+      "ja": "ミミズズ"
+    },
+    "illustrator": "OKACHEKE",
+    "category": "Pokemon",
+    "dexId": [
+      968
+    ],
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "えいようてつぶん"
+        },
+        "effect": {
+          "ja": "このポケモンにエネルギーが3個以上ついているなら、このポケモンの最大HPは「+100」される。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つきぬける"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "－30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707648,
+          "tcgplayer": 567838
+        }
+      }
+    ],
+    "description": {
+      "ja": "敵に 襲われると 体毛を こぶしのように 使い パンチの 嵐を お見舞いするのだ。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "081"
+  },
+  {
+    "id": "SV2P-080",
+    "name": {
+      "ja": "ウソッキー"
+    },
+    "illustrator": "Narumi Sato",
+    "category": "Pokemon",
+    "dexId": [
+      185
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "なぐってかくれる"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひじうち"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707647,
+          "tcgplayer": 567837
+        }
+      }
+    ],
+    "description": {
+      "ja": "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "080"
+  },
+  {
+    "id": "SV2P-079",
+    "name": {
+      "ja": "ベラカス"
+    },
+    "illustrator": "nagimiso",
+    "category": "Pokemon",
+    "dexId": [
+      954
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "さいきのいのり"
+        },
+        "effect": {
+          "ja": "自分のトラッシュからポケモンを1枚選び、ベンチに出す。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "サイケこうせん"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707646,
+          "tcgplayer": 567836
+        }
+      }
+    ],
+    "description": {
+      "ja": "玉を 支える 体は ほとんど 動かないため 本体は 玉の中にいると 考えられている。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "079"
+  },
+  {
+    "id": "SV2P-078",
+    "name": {
+      "ja": "ゴチミル"
+    },
+    "illustrator": "SIE NANAHARA",
+    "category": "Pokemon",
+    "dexId": [
+      575
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイコトリップ"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちょうねんりき"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "－30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707645,
+          "tcgplayer": 567835
+        }
+      }
+    ],
+    "description": {
+      "ja": "催眠術で 子どもを 眠らせ 連れ去ってしまう。 星明りが きらめく 夜には 注意しろ。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "078"
+  },
+  {
+    "id": "SV2P-077",
+    "name": {
+      "ja": "セグレイブ"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "dexId": [
+      998
+    ],
+    "hp": 160,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "きょくていおん"
+        },
+        "effect": {
+          "ja": "自分の番に何回でも使える。自分の手札から「基本エネルギー」を1枚選び、自分のポケモンにつける。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バスターテール"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707644,
+          "tcgplayer": 567834
+        }
+      }
+    ],
+    "description": {
+      "ja": "極低温の 冷気を 口から 噴射。 灼熱の マグマでも 瞬時に 凍りつかせてしまう。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "077"
+  },
+  {
+    "id": "SV2P-076",
+    "name": {
+      "ja": "セゴール"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "dexId": [
+      997
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "するどいひれ"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フロストスマッシュ"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707643,
+          "tcgplayer": 567833
+        }
+      }
+    ],
+    "description": {
+      "ja": "まわりの 空気を 凍らせて 氷のマスクで 顔を 守り 背びれを 氷の剣に 変える。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "076"
+  },
+  {
+    "id": "SV2P-075",
+    "name": {
+      "ja": "セビエ"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "category": "Pokemon",
+    "dexId": [
+      996
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たいあたり"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707642,
+          "tcgplayer": 567832
+        }
+      }
+    ],
+    "description": {
+      "ja": "背びれで 熱を 吸収して 氷エネルギーに 変換する。 高温ほど エネルギーが 溜まる。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "075"
+  },
+  {
+    "id": "SV2P-074",
+    "name": {
+      "ja": "コオリッポ"
+    },
+    "illustrator": "Nelnal",
+    "category": "Pokemon",
+    "dexId": [
+      875
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "ずつき"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "アイスブロック"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを、すべてトラッシュする。次の相手の番、このポケモンが受けるワザのダメージは「-100」される。"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707641,
+          "tcgplayer": 567831
+        }
+      }
+    ],
+    "description": {
+      "ja": "気温の 高い日は 仲間同士で 頭の 氷を くっつけて おたがいを 冷やしながら 過ごす。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "074"
+  },
+  {
+    "id": "SV2P-073",
+    "name": {
+      "ja": "マリル"
+    },
+    "illustrator": "Atsuya Uki",
+    "category": "Pokemon",
+    "dexId": [
+      183
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バブルドレイン"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「20」回復する。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707640,
+          "tcgplayer": 567830
+        }
+      }
+    ],
+    "description": {
+      "ja": "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "073"
+  },
+  {
+    "id": "SV2P-072",
+    "name": {
+      "ja": "アノクサ"
+    },
+    "illustrator": "sowsow",
+    "category": "Pokemon",
+    "dexId": [
+      946
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "ちょっとすいとる"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「10」回復する。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 707639,
+          "tcgplayer": 567829
+        }
+      }
+    ],
+    "description": {
+      "ja": "成仏できない 魂が 風に 吹かれているうち 枯草を 巻き込んで ポケモンになった。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "072"
+  },
+  {
+    "id": "SV2P-071",
+    "name": {
+      "ja": "リバーサルエネルギー",
+      "zh-tw": "反轉能量",
+      "th": "รีเวอร์ซัลเอนเนอร์จี้",
+      "id": "Energi Reversal"
+    },
+    "rarity": "Uncommon",
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "effect": {
+      "ja": "このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。\n\n自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、このカードは、進化ポケモン（「ルールを持つポケモン」をのぞく）についているかぎり、すべてのタイプのエネルギー3個ぶんとしてはたらく。",
+      "zh-tw": "只要這張卡附於寶可夢身上，視為提供1個【無】能量。 附於進化寶可夢（「擁有規則的寶可夢」除外）身上時，若自己剩餘獎賞卡的張數，比對手剩餘獎賞卡的張數多，則視為提供3個所有屬性的能量。",
+      "th": "การ์ดนี้ ตราบใดที่ติดอยู่กับโปเกมอน จะทำงานเทียบเท่าพลังงาน[ไร้สี] 1 ลูก ถ้าจำนวนการ์ดรางวัลที่เหลือของฝ่ายเรา มากกว่าจำนวนการ์ดรางวัลที่เหลือของฝ่ายตรงข้าม การ์ดนี้ ตราบใดที่ติดอยู่กับโปเกมอนวิวัฒนาการ (ยกเว้น [โปเกมอนที่มีกฎ]) จะทำงานเทียบเท่าพลังงานทุกประเภท 3 ลูก",
+      "id": "Kartu ini berlaku sebagai 1 Energi {Bening} selama dikenakan pada Pokémon. Jika sisa Kartu Point sendiri lebih banyak dari sisa Kartu Point lawan, kartu ini berlaku sebagai 3 Energi semua tipe selama dikenakan pada Pokémon Evolusi (selain Pokémon yang memiliki Peraturan)."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705304,
+          "tcgplayer": 567828
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "071"
+  },
+  {
+    "id": "SV2P-070",
+    "name": {
+      "ja": "災いの雪山",
+      "zh-tw": "災禍雪山",
+      "th": "ภูเขาหิมะหายนะ",
+      "id": "Gunung Bersalju Malapetaka"
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Stadium",
+    "effect": {
+      "ja": "おたがいのプレイヤーは、それぞれ、自分の手札からエネルギーをたねポケモン（ポケモンをのぞく）につけるたび、そのポケモンにダメカンを2個のせる。",
+      "zh-tw": "雙方玩家每次從自己的手牌將能量卡附於【基礎】寶可夢（【水】寶可夢除外）身上時，在那隻寶可夢身上放置2個傷害指示物。",
+      "th": "ทุกครั้งที่ผู้เล่นทั้งสองฝ่าย แต่ละฝ่าย ติดการ์ดพลังงานจากบนมือฝ่ายตัวเองที่โปเกมอน[พื้นฐาน] (ยกเว้นโปเกมอน[น้ำ]) ให้วางตัวนับแดเมจ 2 ตัวบนโปเกมอนนั้น",
+      "id": "Tiap kali kedua pemain mengenakan Energi dari Kartu Pegangan sendiri pada Pokémon Basic (selain Pokémon {Air}) masing-masing, letakkan 2 Token Kerusakan pada Pokémon tersebut untuk tiap lembar Energi."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705303,
+          "tcgplayer": 567827
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "070"
+  },
+  {
+    "id": "SV2P-069",
+    "name": {
+      "ja": "ピーニャ",
+      "zh-tw": "皮拿",
+      "th": "ปิญญา",
+      "id": "Nanio"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "相手のポケモン全員についている特殊エネルギーをそれぞれ1個ずつ選び、トラッシュする。",
+      "zh-tw": "選擇對手的所有寶可夢身上各自附加的特殊能量各1個，將其丟棄。",
+      "th": "เลือกพลังงานพิเศษที่ติดอยู่กับโปเกมอนฝ่ายตรงข้ามทุกตัว แต่ละตัวตัวละ 1 ลูก ทิ้งที่ตำแหน่งทิ้งการ์ด",
+      "id": "Pilih Energi Spesial yang dikenakan pada semua Pokémon lawan masing-masing 1, lalu buang ke Trash."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705302,
+          "tcgplayer": 567826
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "069"
+  },
+  {
+    "id": "SV2P-068",
+    "name": {
+      "ja": "グルーシャ",
+      "zh-tw": "古魯夏",
+      "th": "กรูชา",
+      "id": "Grusha"
+    },
+    "illustrator": "GIDORA",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札が5枚になるように、山札を引く。自分の場のポケモンにエネルギーが1枚もついていないなら、7枚になるように引く。",
+      "zh-tw": "從牌庫抽卡直到自己的手牌滿5張為止。若自己的場上寶可夢身上1張能量卡都沒有附加，則抽卡直到滿7張為止。",
+      "th": "จั่วการ์ดจากสำรับการ์ด จนได้การ์ดบนมือฝ่ายเราเป็น 5 ใบ ถ้าโปเกมอนบนกระดานฝ่ายเราไม่มีการ์ดพลังงานติดอยู่เลยแม้แต่ 1 ใบ ให้จั่วจนได้การ์ด 7 ใบ",
+      "id": "Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi 5 lembar. Jika Pokémon di Arena sendiri tidak mengenakan Energi 1 lembar pun, ambil kartu hingga jumlah Kartu Pegangan sendiri menjadi 7 lembar."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705301,
+          "tcgplayer": 567825
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "068"
+  },
+  {
+    "id": "SV2P-067",
+    "name": {
+      "ja": "ファイトオレ",
+      "zh-tw": "戰鬥牛奶",
+      "th": "นมชูกำลัง",
+      "id": "Fight Au Lait"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "このカードは、自分のサイドの残り枚数が、相手のサイドの残り枚数より多いときにしか使えない。\n\n自分のポケモン1匹のHPを「60」回復する。",
+      "zh-tw": "這張卡只有在自己剩餘獎賞卡的張數比對手剩餘獎賞卡的張數多時才可使用。 將自己的1隻寶可夢恢復「60」HP。",
+      "th": "การ์ดนี้ จะใช้ได้แค่ตอนที่จำนวนการ์ดรางวัลที่เหลือของฝ่ายเรา มากกว่าจำนวนการ์ดรางวัลที่เหลือของฝ่ายตรงข้าม ฟื้นฟู HP ของโปเกมอนฝ่ายเรา 1 ตัว [60]",
+      "id": "Kartu ini hanya dapat digunakan saat sisa Kartu Point sendiri lebih banyak dari sisa Kartu Point lawan. Pulihkan HP 1 Pokémon sendiri sejumlah 60."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705300,
+          "tcgplayer": 567824
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "067"
+  },
+  {
+    "id": "SV2P-066",
+    "name": {
+      "ja": "すごいつりざお",
+      "zh-tw": "厲害釣竿",
+      "th": "คันเบ็ดชั้นยอด",
+      "id": "Kail Hiper"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のトラッシュからポケモンと基本エネルギーを合計3枚まで選び、相手に見せて、山札にもどして切る。",
+      "zh-tw": "從自己的棄牌區選擇寶可夢卡與基本能量卡合計最多3張，在給對手看過後放回牌庫並重洗。",
+      "th": "เลือกการ์ดโปเกมอนและการ์ดพลังงานพื้นฐานรวมกันได้สูงสุด 3 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู ใส่กลับไปในสำรับการ์ดแล้วสับ",
+      "id": "Pilih paling banyak total 3 lembar Pokémon dan Energi Dasar dari Trash sendiri, perlihatkan ke lawan, lalu kocok kembali ke Deck."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705299,
+          "tcgplayer": 567823
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "066"
+  },
+  {
+    "id": "SV2P-065",
+    "name": {
+      "ja": "イキリンコex",
+      "zh-tw": "怒鸚哥ex",
+      "th": "อิคิริงโกะex",
+      "id": "Squawkabilly ex"
+    },
+    "illustrator": "PLANETA Mochizuki",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "イキリテイク",
+          "zh-tw": "裝酷重抽",
+          "th": "อิคิรีเทก",
+          "id": "Ambil Ulang Penuh Lagak"
+        },
+        "effect": {
+          "ja": "最初の自分の番にだけ1回使える。自分の手札をすべてトラッシュし、山札を6枚引く。この番、すでに別の「イキリテイク」を使っていたなら、この特性は使えない。",
+          "zh-tw": "只有在自己的最初回合可使用1次。將自己的手牌全部丟棄，從牌庫抽出6張卡。在這個回合，若已經使出了其他的「裝酷重抽」，則這個特性無法使用。",
+          "th": "ใช้ได้ 1 ครั้งในเทิร์นแรกสุดของฝ่ายเราเท่านั้น ทิ้งการ์ดบนมือฝ่ายเราทั้งหมดที่ตำแหน่งทิ้งการ์ด จั่วการ์ด 6 ใบจากสำรับการ์ด เทิร์นนี้ ถ้าใช้ [อิคิรีเทก] ใบอื่นไปแล้ว จะใช้ความสามารถนี้ไม่ได้",
+          "id": "Hanya dapat digunakan 1 kali pada giliran pertama sendiri. Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 6 kartu dari atas Deck. Jika pada giliran ini, Ambil Ulang Penuh Lagak lainnya telah digunakan, Ability ini tidak dapat digunakan."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きあいをいれる",
+          "zh-tw": "鼓足幹勁",
+          "th": "ปลุกพลังใจ",
+          "id": "Membulatkan Tekad"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。",
+          "zh-tw": "從自己的棄牌區選擇最多2張基本能量卡，附於1隻備戰寶可夢身上。",
+          "th": "เลือกการ์ดพลังงานพื้นฐานได้สูงสุด 2 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ติดที่โปเกมอนบนเบนช์ 1 ตัว",
+          "id": "Pilih paling banyak 2 lembar Energi Dasar dari Trash sendiri, lalu kenakan pada 1 Pokémon Cadangan."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705298,
+          "tcgplayer": 567822
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "065"
+  },
+  {
+    "id": "SV2P-064",
+    "name": {
+      "ja": "アオガラス",
+      "zh-tw": "藍鴉",
+      "th": "อาโอการาสึ",
+      "id": "Corvisquire"
+    },
+    "illustrator": "sui",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      822
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かっくう",
+          "zh-tw": "滑翔",
+          "th": "ถลาลม",
+          "id": "Melayang Rendah"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "わしづかみ",
+          "zh-tw": "緊抓",
+          "th": "โฉบเหยื่อ",
+          "id": "Mencengkeram"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、にげられない。",
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。",
+          "th": "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ จะหนีไม่ได้",
+          "id": "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak dapat Mundur."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705297,
+          "tcgplayer": 567821
+        }
+      }
+    ],
+    "description": {
+      "ja": "高い 知能を 有するのは 脳みそが ほかの 鳥ポケモンに 比べて 大きいためと 言われる。",
+      "zh-tw": "人們認為牠會擁有高度智慧，是因為相較於其他鳥寶可夢， 牠的腦子是比較大的。",
+      "th": "ว่ากันว่าที่ฉลาดมากเพราะมีสมองใหญ่เมื่อเทียบกับโปเกมอนนกตัวอื่น ๆ",
+      "id": "Dikatakan bahwa Corvisquire memiliki kecerdasan yang tinggi karena ukuran otaknya lebih besar dibandingkan Pokémon burung lainnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "064"
+  },
+  {
+    "id": "SV2P-063",
+    "name": {
+      "ja": "ココガラ",
+      "zh-tw": "稚山雀",
+      "th": "โคโคการะ",
+      "id": "Rookidee"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      821
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つきかえす",
+          "zh-tw": "送回",
+          "th": "ส่งกลับไป",
+          "id": "Kirim Balik"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "zh-tw": "將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]",
+          "th": "สลับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามกับโปเกมอนบนเบนช์ {ฝ่ายตรงข้ามเลือกโปเกมอนที่จะวางบนตำแหน่งต่อสู้}",
+          "id": "Tukar Pokémon Bertarung lawan dengan Pokémon Cadangan. [Pokémon yang akan dimasukkan ke Arena Bertarung dipilih oleh lawan.]"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705296,
+          "tcgplayer": 567820
+        }
+      }
+    ],
+    "description": {
+      "ja": "勇敢で 向こう見ずな 気質。 目の まわりの 白い 模様は 気弱な ポケモンを 怯ませる。",
+      "zh-tw": "性情勇敢，魯莽衝動。眼睛周圍的白色花紋 會讓懦弱的寶可夢感到畏懼。",
+      "th": "มีนิสัยกล้าหาญบุ่มบ่าม ลายสีขาวรอบดวงตาจะข่มขวัญโปเกมอนที่ใจเสาะ",
+      "id": "Rookidee bersifat pemberani dan nekat. Pola putih di sekitar matanya digunakan untuk menakut-nakuti Pokémon yang penakut."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "063"
+  },
+  {
+    "id": "SV2P-062",
+    "name": {
+      "ja": "ケッキング",
+      "zh-tw": "請假王",
+      "th": "เค็คคิง",
+      "id": "Slaking"
+    },
+    "illustrator": "Yuya Oka",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      289
+    ],
+    "hp": 180,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "にどね",
+          "zh-tw": "回籠覺",
+          "th": "นอนต่อรอบสอง",
+          "id": "Tidur Lagi"
+        },
+        "effect": {
+          "ja": "ポケモンチェックのとき、このポケモンのねむりで投げるコインは2回になり、すべてオモテが出ないと回復しない。",
+          "zh-tw": "在寶可夢檢查時，因這隻寶可夢的【睡眠】的擲硬幣次數改為2次，若沒有全部為正面則無法恢復。",
+          "th": "ตอนตรวจสอบโปเกมอน จำนวนครั้งที่ต้องทอยเหรียญเมื่อโปเกมอนนี้เป็นสภาวะ[หลับ]จะเป็น 2 ครั้ง ถ้าไม่ออกหัวทั้งหมดจะไม่หายจากสภาวะ[หลับ]",
+          "id": "Saat Pokémon Check, jumlah lemparan koin yang harus dilakukan akibat kondisi Tidur Pokémon ini menjadi 2 kali dan kondisi ini tidak pulih jika semuanya bukan sisi depan."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぐうたらヘッドバット",
+          "zh-tw": "懶散頭撞",
+          "th": "เฮดบัตเอื่อยเฉื่อย",
+          "id": "Sundulan Pemalas"
+        },
+        "effect": {
+          "ja": "このポケモンをねむりにする。",
+          "zh-tw": "將這隻寶可夢【睡眠】。",
+          "th": "ทำให้โปเกมอนนี้เป็นสภาวะ[หลับ]",
+          "id": "Ubah kondisi Pokémon ini menjadi Tidur."
+        },
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705295,
+          "tcgplayer": 567819
+        }
+      }
+    ],
+    "description": {
+      "ja": "世界一の ぐうたらだが 溜まった エネルギーを 一気に 出すことで 恐ろしい パワーを 発揮する。",
+      "zh-tw": "雖然是世界上最懶散的寶可夢，但能藉由把積蓄的能量一次釋放， 發揮出驚人的力量。",
+      "th": "เป็นโปเกมอนที่เอื่อยเฉื่อยที่สุดในโลก แต่จะแสดงพลังอันน่ากลัวให้เห็นโดยการปล่อยพลังงานที่เก็บสะสมไว้ออกมาหมดในทีเดียว",
+      "id": "Slaking paling malas sedunia, tapi dengan mengeluarkan sekaligus energi yang telah dihimpun olehnya, Pokémon ini mengeluarkan kekuatan yang menakutkan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "062"
+  },
+  {
+    "id": "SV2P-061",
+    "name": {
+      "ja": "ヤルキモノ",
+      "zh-tw": "過動猿",
+      "th": "ยารุคิโมโนะ",
+      "id": "Vigoroth"
+    },
+    "illustrator": "GIDORA",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      288
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "がちんこ",
+          "zh-tw": "正面對決",
+          "th": "ตั้งใจสู้",
+          "id": "Menentang"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "するどいツメ",
+          "zh-tw": "銳利之爪",
+          "th": "กรงเล็บคม",
+          "id": "Cakar Tajam"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、60ダメージ追加。",
+          "zh-tw": "擲1次硬幣若為正面，則增加60點傷害。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 60",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 60."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705294,
+          "tcgplayer": 567818
+        }
+      }
+    ],
+    "description": {
+      "ja": "体を 動かしていないと ストレスが 溜まりすぎて 具合が 悪くなってしまうのだ。",
+      "zh-tw": "如果不活動身體，就會累積過多的壓力， 使身體狀況變糟。",
+      "th": "ถ้าไม่ได้ขยับร่างกายความเครียดจะสะสมมากเกินไปจนรู้สึกไม่สบาย",
+      "id": "Jika Vigoroth tidak menggerakkan tubuhnya, Pokémon ini mengalami stres berlebihan dan kondisi tubuhnya memburuk."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "061"
+  },
+  {
+    "id": "SV2P-060",
+    "name": {
+      "ja": "ナマケロ",
+      "zh-tw": "懶人獺",
+      "th": "นามาเคโร",
+      "id": "Slakoth"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      287
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "あくび",
+          "zh-tw": "哈欠",
+          "th": "หาว",
+          "id": "Menguap"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをねむりにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[หลับ]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705293,
+          "tcgplayer": 567817
+        }
+      }
+    ],
+    "description": {
+      "ja": "１日のうち ２０時間 眠る。 見ている 相手の 眠気を 誘うのも 能力の ひとつ。",
+      "zh-tw": "１天會睡上２０個小時。使看著自己的對手睡意漸濃 也是牠的能力之一。",
+      "th": "ใน 1 วันจะนอน 20 ชั่วโมง การทำให้คนที่มองมันง่วงนอนได้ก็เป็นความสามารถอย่างหนึ่ง",
+      "id": "Slakoth tidur 20 jam dalam 1 hari. Mengundang kantuk terhadap lawan yang melihatnya adalah salah satu kemampuan Pokémon ini."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "060"
+  },
+  {
+    "id": "SV2P-059",
+    "name": {
+      "ja": "ペリッパー",
+      "zh-tw": "大嘴鷗",
+      "th": "เพลิปเปอร์",
+      "id": "Pelipper"
+    },
+    "illustrator": "Shinya Komatsu",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      279
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "かぜのたより",
+          "zh-tw": "傳言",
+          "th": "เสียงลือจากสายลม",
+          "id": "Kabar Angin"
+        },
+        "effect": {
+          "ja": "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札またはトラッシュのどちらかを選ぶ。その中からサポートを1枚選び、相手に見せて、手札に加える。山札を見たなら、山札を切る。",
+          "zh-tw": "在自己的回合，從手牌使出這張卡並完成進化時，可使用1次。選擇自己的牌庫或者棄牌區任一方。從其中選擇1張支援者卡，在給對手看過後加入手牌。若看過牌庫，則重洗牌庫。",
+          "th": "ในเทิร์นฝ่ายเรา เมื่อนำการ์ดนี้จากบนมือออกมาวิวัฒนาการแล้ว ใช้ได้ 1 ครั้ง เลือกสำรับการ์ดหรือตำแหน่งทิ้งการ์ดฝ่ายเราตำแหน่งใดตำแหน่งหนึ่ง เลือกการ์ดซัพพอร์ต 1 ใบจากในนั้น ให้ฝ่ายตรงข้ามดู นำขึ้นมือ ถ้าดูสำรับการ์ด ให้สับสำรับการ์ด",
+          "id": "Dapat digunakan 1 kali pada giliran sendiri saat memasukkan kartu ini dari Kartu Pegangan untuk melakukan evolusi. Pilih salah satu antara Deck atau Trash sendiri. Pilih 1 lembar Supporter yang ada di dalamnya, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Jika melihat Deck, kocok Deck."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つばさでうつ",
+          "zh-tw": "翅膀攻擊",
+          "th": "โจมตีด้วยปีก",
+          "id": "Pukulan Sayap"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705292,
+          "tcgplayer": 567816
+        }
+      }
+    ],
+    "description": {
+      "ja": "くちばしに 小さな ポケモンを 入れて 飛ぶ 空の 配達屋。 海に 浮かんで 羽を 休める。",
+      "zh-tw": "把小型寶可夢裝在鳥嘴裡飛翔的空中送貨員。 會漂浮在海上讓翅膀休息。",
+      "th": "นักขนส่งทางอากาศ โดยจะใส่โปเกมอนขนาดเล็กไว้ในจะงอย ลอยตัวในทะเลเพื่อพักปีก",
+      "id": "Pelipper adalah kurir udara yang mengangkut Pokémon kecil di dalam paruhnya. Pokémon ini mengapung di laut untuk mengistirahatkan sayapnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "059"
+  },
+  {
+    "id": "SV2P-058",
+    "name": {
+      "ja": "キャモメ",
+      "zh-tw": "長翅鷗",
+      "th": "คาโมเมะ",
+      "id": "Wingull"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      278
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かぜおこし",
+          "zh-tw": "起風",
+          "th": "เรียกลม",
+          "id": "Hembusan Angin"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705291,
+          "tcgplayer": 567815
+        }
+      }
+    ],
+    "description": {
+      "ja": "上昇 気流に 乗って グライダーのように 大空を 舞い くちばしに 挟んだ エサを運ぶ。",
+      "zh-tw": "會乘著上升氣流，如同滑翔機般地飛在空中 輸送鳥嘴銜著的食物。",
+      "th": "คาบอาหารไว้ในปากแล้วอาศัยกระแสลมไหลขึ้นเพื่อบินสูงขึ้นไปบนฟ้ากว้างราวเครื่องร่อน",
+      "id": "Wingull menggunakan aliran angin untuk terbang ke langit layaknya pesawat luncur. Pokémon ini menjepit dan membawa makanannya dengan paruhnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "058"
+  },
+  {
+    "id": "SV2P-057",
+    "name": {
+      "ja": "ノココッチ",
+      "zh-tw": "土龍節節",
+      "th": "โนโกก็อจจิ",
+      "id": "Dudunsparce"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      982
+    ],
+    "hp": 140,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "どろかけ",
+          "zh-tw": "擲泥",
+          "th": "สาดโคลน",
+          "id": "Semprotan Lumpur"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ほりにげフラッシュ",
+          "zh-tw": "挖逃閃光",
+          "th": "ขุดหนีสายฟ้าแลบ",
+          "id": "Kilat Gali Kabur"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをマヒにする。このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。",
+          "zh-tw": "將對手的戰鬥寶可夢【麻痺】。將這隻寶可夢與附加的卡，全部放回自己的牌庫並重洗。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[ชา] นำโปเกมอนนี้ และการ์ดทั้งหมดที่ติดอยู่ ใส่กลับไปในสำรับการ์ดฝ่ายเราแล้วสับ",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh. Kocok kembali Pokémon ini dan semua kartu yang dikenakannya ke Deck sendiri."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705290,
+          "tcgplayer": 567814
+        }
+      }
+    ],
+    "description": {
+      "ja": "硬い 尻尾で 地中 深くの 岩盤を くり抜き 巣を 作る。 巣穴は 長さ１０キロに およぶ。",
+      "zh-tw": "會用堅硬的尾巴挖穿地下深處的岩盤來築巢。 巢穴可以長達１０公里。",
+      "th": "ขุดพื้นหินที่อยู่ลึกลงไปในดินด้วยหางสุดแข็งแล้วทำรัง โพรงมีความยาวกว่า 10 กิโลเมตร",
+      "id": "Dudunsparce membuat sarangnya dengan melubangi batuan dasar ke dalam menggunakan ekor kerasnya. Panjang sarangnya mencapai 10 kilometer."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "057"
+  },
+  {
+    "id": "SV2P-056",
+    "name": {
+      "ja": "ノコッチ",
+      "zh-tw": "土龍弟弟",
+      "th": "โนก็อจจิ",
+      "id": "Dunsparce"
+    },
+    "illustrator": "Nagomi Nijo",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      206
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ともだちをさがす",
+          "zh-tw": "尋找朋友",
+          "th": "หาพรรคพวก",
+          "id": "Mencari Teman"
+        },
+        "effect": {
+          "ja": "自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。",
+          "zh-tw": "從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "th": "เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+          "id": "Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かみつく",
+          "zh-tw": "咬住",
+          "th": "กัดติด",
+          "id": "Menggigit"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705289,
+          "tcgplayer": 567813
+        }
+      }
+    ],
+    "description": {
+      "ja": "暗い場所に 迷路を 作る。 だれかに みられると 尻尾で 地面を 掘って 逃げようとする。",
+      "zh-tw": "會在陰暗處做出迷宮。只要被誰看見就會 用尾巴挖掘地面逃走。",
+      "th": "สร้างทางวงกตในที่มืด พอมีคนเจอก็จะใช้หางขุดมุดดินหนี",
+      "id": "Dunsparce membuat labirin di tempat gelap. Jika ada yang melihatnya, Pokémon ini akan melarikan diri dengan menggali lubang menggunakan ekornya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "056"
+  },
+  {
+    "id": "SV2P-055",
+    "name": {
+      "ja": "ミミズズ",
+      "zh-tw": "拖拖蚓",
+      "th": "มิมิซึซึ",
+      "id": "Orthworm"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      968
+    ],
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "えいようてつぶん",
+          "zh-tw": "營養鐵質",
+          "th": "ธาตุเหล็กบำรุงร่างกาย",
+          "id": "Unsur Besi Bernutrisi"
+        },
+        "effect": {
+          "ja": "このポケモンにエネルギーが3個以上ついているなら、このポケモンの最大HPは「+100」される。",
+          "zh-tw": "若這隻寶可夢身上附有3個以上【鋼】能量，則這隻寶可夢的最大HP「+100」。",
+          "th": "ถ้าโปเกมอนนี้มีพลังงาน[โลหะ]มากกว่าหรือเท่ากับ 3 ลูกติดอยู่ HP สูงสุดของโปเกมอนนี้จะถูก [+100]",
+          "id": "Jika Pokémon ini mengenakan 3 Energi {Logam} atau lebih, HP maksimal Pokémon ini bertambah sejumlah 100."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つきぬける",
+          "zh-tw": "穿通",
+          "th": "แทงทะลุ",
+          "id": "Menusuk Tembus"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "zh-tw": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "โปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว ก็จะได้รับแดเมจ 30 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini juga memberikan kerusakan sejumlah 30 kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705288,
+          "tcgplayer": 567812
+        }
+      }
+    ],
+    "description": {
+      "ja": "敵に 襲われると 体毛を こぶしのように 使い パンチの 嵐を お見舞いするのだ。",
+      "zh-tw": "遭到攻擊的時候，會把體毛如拳頭般地使用， 朝著敵人奉上拳擊風暴。",
+      "th": "เมื่อโดนศัตรูโจมตี จะใช้ขนตามร่างกายราวกับกำปั้นปล่อยพายุหมัดใส่ศัตรู",
+      "id": "Jika diserang musuh, Orthworm menggunakan bulu badannya seperti kepalan tangan dan menyarangkan badai pukulan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "055"
+  },
+  {
+    "id": "SV2P-054",
+    "name": {
+      "ja": "ダイオウドウex",
+      "zh-tw": "大王銅象ex",
+      "th": "ไดโอโดex",
+      "id": "Copperajah ex"
+    },
+    "illustrator": "Uta",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 300,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ブロンズボディ",
+          "zh-tw": "青銅之軀",
+          "th": "บรอนซ์บอดี้",
+          "id": "Bronze Body"
+        },
+        "effect": {
+          "ja": "このポケモンが受けるワザのダメージは「-30」される。",
+          "zh-tw": "這隻寶可夢受到招式的傷害「-30」點。",
+          "th": "แดเมจของท่าต่อสู้ที่โปเกมอนนี้จะได้รับจะถูก [-30]",
+          "id": "Kerusakan akibat serangan yang diterima Pokémon ini berkurang sejumlah 30."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ノーズクエイク",
+          "zh-tw": "鼻震",
+          "th": "โนสเควก",
+          "id": "Nose Quake"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモン全員にも、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "zh-tw": "自己的所有備戰寶可夢也各受到30點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "โปเกมอนบนเบนช์ฝ่ายเราทุกตัว ก็จะได้รับแดเมจตัวละ 30 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini juga memberikan kerusakan masing-masing sejumlah 30 kepada semua Pokémon Cadangan sendiri. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        },
+        "damage": 260
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705287,
+          "tcgplayer": 567811
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "054"
+  },
+  {
+    "id": "SV2P-053",
+    "name": {
+      "ja": "ゾウドウ",
+      "zh-tw": "銅象",
+      "th": "โซโด",
+      "id": "Cufant"
+    },
+    "illustrator": "Oswaldo KATO",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      878
+    ],
+    "hp": 100,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ふむ",
+          "zh-tw": "踩",
+          "th": "เหยียบ",
+          "id": "Menginjak"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705286,
+          "tcgplayer": 567810
+        }
+      }
+    ],
+    "description": {
+      "ja": "尖った 鼻先で 硬い 岩を 削り取って 食べる。 温厚で 人の 力仕事を 手伝う。",
+      "zh-tw": "尖尖的鼻尖能削斷堅硬的岩石來作為糧食。性情溫馴， 會幫助人類做粗重的工作。",
+      "th": "ใช้ปลายจมูกที่แหลมคมในการขูดก้อนหินแข็ง ๆ แล้วนำมากิน มีนิสัยอ่อนโยนมักช่วยมนุษย์ทำงานที่ใช้แรง",
+      "id": "Cufant menggunakan ujung hidung lancipnya untuk mengikis batu dan memakannya. Sifatnya lemah lembut dan membantu pekerjaan berat manusia."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "053"
+  },
+  {
+    "id": "SV2P-052",
+    "name": {
+      "ja": "アーマーガア",
+      "zh-tw": "鋼鎧鴉",
+      "th": "อาร์เมอร์การ์",
+      "id": "Corviknight"
+    },
+    "illustrator": "Scav",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      823
+    ],
+    "hp": 170,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "アクセレート",
+          "zh-tw": "增速",
+          "th": "เร่งสปีด",
+          "id": "Accelerate"
+        },
+        "effect": {
+          "ja": "このワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "zh-tw": "若對手的寶可夢因這個招式的傷害而【昏厥】了，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。",
+          "th": "ถ้าโปเกมอนฝ่ายตรงข้าม[หมดสภาพ] ด้วยแดเมจของท่าต่อสู้นี้แล้ว เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับแดเมจและเอฟเฟกต์ของท่าต่อสู้",
+          "id": "Jika Pokémon lawan KO karena kerusakan akibat serangan ini, pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan dan efek akibat serangan."
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピニングバード",
+          "zh-tw": "旋轉鳥擊",
+          "th": "สปินนิ่งเบิร์ด",
+          "id": "Spinning Bird"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを2個選び、トラッシュする。",
+          "zh-tw": "選擇2個這隻寶可夢身上附加的能量，將其丟棄。",
+          "th": "เลือกพลังงานที่ติดอยู่กับโปเกมอนนี้ 2 ลูก ทิ้งที่ตำแหน่งทิ้งการ์ด",
+          "id": "Pilih 2 Energi yang dikenakan pada Pokémon ini, lalu buang ke Trash."
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705285,
+          "tcgplayer": 567809
+        }
+      }
+    ],
+    "description": {
+      "ja": "飛行中 天敵に 狙われて 客も 危険なので パルデアでは タクシーの 仕事が できないのだ。",
+      "zh-tw": "如果在飛行中遭到天敵的襲擊，也會給乘客帶來危險，因此在 帕底亞無法從事計程車的工作。",
+      "th": "ถ้าถูกศัตรูทางธรรมชาติโจมตีตอนที่กำลังบิน ผู้โดยสารก็จะตกอยู่ในอันตรายด้วยเลยทำงานแท็กซี่ที่พัลเดียไม่ได้",
+      "id": "Karena diincar oleh musuh alaminya saat terbang dan dapat membahayakan penumpangnya, Corviknight tidak dapat melakukan pekerjaannya sebagai taksi di Paldea."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "052"
+  },
+  {
+    "id": "SV2P-051",
+    "name": {
+      "ja": "ドータクン",
+      "zh-tw": "青銅鐘",
+      "th": "โดทาคุน",
+      "id": "Bronzong"
+    },
+    "illustrator": "Nobuhiro Imagawa",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      437
+    ],
+    "hp": 140,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "オラクルプレス",
+          "zh-tw": "神諭壓制",
+          "th": "ออราเคิลเพรส",
+          "id": "Oracle Press"
+        },
+        "effect": {
+          "ja": "次の相手の番、このポケモンは相手のポケモンが使うワザの効果を受けない。",
+          "zh-tw": "在下個對手的回合，這隻寶可夢不會受到對手的寶可夢使用招式的效果的影響。",
+          "th": "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับเอฟเฟกต์ของท่าต่อสู้ที่โปเกมอนฝ่ายตรงข้ามใช้",
+          "id": "Pada giliran lawan berikutnya, Pokémon ini tidak menerima efek akibat serangan yang digunakan oleh Pokémon lawan."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "name": {
+          "ja": "じんつうりき",
+          "zh-tw": "神通力",
+          "th": "สัมผัสพิเศษ",
+          "id": "Kekuatan Gaib"
+        },
+        "effect": {
+          "ja": "自分の手札と相手の手札が同じ枚数なら、90ダメージ追加。",
+          "zh-tw": "若自己的手牌與對手的手牌張數相同，則增加90點傷害。",
+          "th": "ถ้าจำนวนการ์ดบนมือฝ่ายเรากับจำนวนการ์ดบนมือฝ่ายตรงข้ามเท่ากัน การโจมตีนี้จะเพิ่มแดเมจอีก 90",
+          "id": "Jika jumlah Kartu Pegangan sendiri dan jumlah Kartu Pegangan lawan sama, kerusakan yang diberikan bertambah sejumlah 90."
+        },
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705284,
+          "tcgplayer": 567808
+        }
+      }
+    ],
+    "description": {
+      "ja": "雨雲を 呼べる ポケモンとして 大昔から 祀られていた。 ときどき 地面に 埋められている。",
+      "zh-tw": "從遙遠的過去開始就被人當成能召喚雨雲的寶可夢而供奉著。 有時候會被埋進地下。",
+      "th": "ได้รับการบูชาในฐานะโปเกมอนผู้เรียกเมฆฝนมาตั้งแต่อดีตกาล บางครั้งถูกฝังอยู่ในพื้นดิน",
+      "id": "Bronzong dipuja sejak zaman dulu sebagai Pokémon pemanggil awan hujan. Kadang Pokémon ini dikubur di dalam tanah."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "051"
+  },
+  {
+    "id": "SV2P-050",
+    "name": {
+      "ja": "ドーミラー",
+      "zh-tw": "銅鏡怪",
+      "th": "โดมิเรอร์",
+      "id": "Bronzor"
+    },
+    "illustrator": "Shinji Kanda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      436
+    ],
+    "hp": 70,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "ミラードロー",
+          "zh-tw": "鏡面抽出",
+          "th": "มิเรอร์ดรอว์",
+          "id": "Mirror Draw"
+        },
+        "effect": {
+          "ja": "自分の手札が、相手の手札と同じ枚数になるように、山札を引く。",
+          "zh-tw": "從牌庫抽卡直到自己的手牌與對手的手牌張數相同為止。",
+          "th": "จั่วการ์ดจากสำรับการ์ด จนได้การ์ดบนมือฝ่ายเรา เป็นจำนวนเท่ากับการ์ดบนมือฝ่ายตรงข้าม",
+          "id": "Ambil kartu dari atas Deck hingga jumlah Kartu Pegangan sendiri menjadi sama dengan jumlah Kartu Pegangan lawan."
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "name": {
+          "ja": "スピードひこう",
+          "zh-tw": "高速飛行",
+          "th": "บินเร็วจี๋",
+          "id": "Terbang Cepat"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705283,
+          "tcgplayer": 567807
+        }
+      }
+    ],
+    "description": {
+      "ja": "ドーミラーの 背中の 模様には 神秘的な 力が 宿ると 昔の 人たちは 信じていた。",
+      "zh-tw": "過去的人們相信，銅鏡怪背上的花紋裡 蘊藏著神秘的力量。",
+      "th": "ผู้คนในอดีตเชื่อกันว่าลายที่หลังโดมิเรอร์มีพลังลึกลับซ่อนอยู่",
+      "id": "Orang-orang dahulu percaya bahwa pola di punggung Bronzor mengandung kekuatan misterius."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "050"
+  },
+  {
+    "id": "SV2P-049",
+    "name": {
+      "ja": "マフィティフ",
+      "zh-tw": "獒教父",
+      "th": "มาฟีทิฟ",
+      "id": "Mabosstiff"
+    },
+    "illustrator": "Souichirou Gunjima",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      943
+    ],
+    "hp": 140,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ほうふく",
+          "zh-tw": "復仇",
+          "th": "ตอบโต้เอาคืน",
+          "id": "Ganjaran"
+        },
+        "effect": {
+          "ja": "次の相手の番、このポケモンがワザのダメージを受けたとき、受けたダメージぶんのダメカンを、ワザを使ったポケモンにのせる。",
+          "zh-tw": "在下個對手的回合，這隻寶可夢受到招式的傷害時，將與受到的傷害相同數值的傷害指示物，放置於使用招式的寶可夢身上。",
+          "th": "เทิร์นถัดไปของฝ่ายตรงข้าม เมื่อโปเกมอนนี้ได้รับแดเมจของท่าต่อสู้ วางตัวนับแดเมจบนโปเกมอนที่ใช้ท่าต่อสู้ ตามจำนวนแดเมจที่ได้รับมา",
+          "id": "Pada giliran lawan berikutnya, saat Pokémon ini menerima kerusakan akibat serangan, letakkan Token Kerusakan sejumlah kerusakan yang diterima pada Pokémon yang telah menggunakan serangan."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "やみのキバ",
+          "zh-tw": "暗之牙",
+          "th": "เขี้ยวแห่งความมืด",
+          "id": "Taring Kegelapan"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705282,
+          "tcgplayer": 567806
+        }
+      }
+    ],
+    "description": {
+      "ja": "大きな のど袋に エネルギーを 蓄えることができる。 一気に 放出して 敵を 吹き飛ばす。",
+      "zh-tw": "大大的喉囊裡可以儲存能量。會一口氣 釋放出去把敵人轟飛。",
+      "th": "สามารถเก็บสะสมพลังงานไว้ในถุงขนาดใหญ่ที่คอได้ เป่าศัตรูให้กระเด็นได้ด้วยการปล่อยพลังงานออกไปในคราวเดียว",
+      "id": "Mabosstiff dapat menyimpan energi di dalam kantong tenggorokannya yang besar. Pokémon ini dengan sekaligus melepaskan seluruh energinya, lalu menghempaskan musuhnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "049"
+  },
+  {
+    "id": "SV2P-048",
+    "name": {
+      "ja": "オラチフ",
+      "zh-tw": "偶叫獒",
+      "th": "โอราทิฟ",
+      "id": "Maschiff"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      942
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "けとばす",
+          "zh-tw": "踢飛",
+          "th": "ดีด",
+          "id": "Tendangan Penghempas"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "するどいキバ",
+          "zh-tw": "銳利之牙",
+          "th": "เขี้ยวคม",
+          "id": "Taring Tajam"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705281,
+          "tcgplayer": 567805
+        }
+      }
+    ],
+    "description": {
+      "ja": "相手に 嘗められないように いつも しかめっ面をしているが 泣いている 子どもは その顔で 笑いだす。",
+      "zh-tw": "為了不被對手看扁而總是皺著的那張臉，卻反而會 讓哭泣的孩子破涕為笑。",
+      "th": "มักจะทำหน้านิ่วคิ้วขมวดเพื่อไม่ให้โดนอีกฝ่ายดูถูก แต่เด็กที่ร้องไห้จะหัวเราะเมื่อเห็นใบหน้านั้น",
+      "id": "Agar tidak diremehkan oleh musuhnya, Maschiff selalu memasang wajah seram, tetapi anak-anak yang menangis malah tertawa melihatnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "048"
+  },
+  {
+    "id": "SV2P-047",
+    "name": {
+      "ja": "オラチフ",
+      "zh-tw": "偶叫獒",
+      "th": "โอราทิฟ",
+      "id": "Maschiff"
+    },
+    "illustrator": "DOM",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      942
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "おそいかかる",
+          "zh-tw": "伏擊",
+          "th": "ซุ่มโจมตี",
+          "id": "Menyergap"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、20ダメージ追加。",
+          "zh-tw": "擲1次硬幣若為正面，則增加20點傷害。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 20",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 20."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705280,
+          "tcgplayer": 567804
+        }
+      }
+    ],
+    "description": {
+      "ja": "相手に 嘗められないように いつも しかめっ面をしているが 泣いている 子どもは その顔で 笑いだす。",
+      "zh-tw": "為了不被對手看扁而總是皺著的那張臉，卻反而會 讓哭泣的孩子破涕為笑。",
+      "th": "มักจะทำหน้านิ่วคิ้วขมวดเพื่อไม่ให้โดนอีกฝ่ายดูถูก แต่เด็กที่ร้องไห้จะหัวเราะเมื่อเห็นใบหน้านั้น",
+      "id": "Agar tidak diremehkan oleh musuhnya, Maschiff selalu memasang wajah seram, tetapi anak-anak yang menangis malah tertawa melihatnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "047"
+  },
+  {
+    "id": "SV2P-046",
+    "name": {
+      "ja": "ドンカラス",
+      "zh-tw": "烏鴉頭頭",
+      "th": "ดอนคาราซึ",
+      "id": "Honchkrow"
+    },
+    "illustrator": "Nisota Niso",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      430
+    ],
+    "hp": 130,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "はばたく",
+          "zh-tw": "羽擊",
+          "th": "ตีปีก",
+          "id": "Mengepak"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダーティスロー",
+          "zh-tw": "惡劣投擲",
+          "th": "เดอร์ตี้โธรว์",
+          "id": "Dirty Throw"
+        },
+        "effect": {
+          "ja": "自分の手札を1枚トラッシュする。トラッシュできないなら、このワザは失敗。",
+          "zh-tw": "將自己的1張手牌丟棄。若無法丟棄，則這個招式失敗。",
+          "th": "ทิ้งการ์ดบนมือฝ่ายเรา 1 ใบที่ตำแหน่งทิ้งการ์ด ถ้าทิ้งการ์ดไม่ได้ ท่าต่อสู้นี้จะล้มเหลว",
+          "id": "Buang 1 lembar Kartu Pegangan sendiri ke Trash. Jika tidak dapat membuangnya ke Trash, serangan ini gagal."
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705279,
+          "tcgplayer": 567803
+        }
+      }
+    ],
+    "description": {
+      "ja": "情け容赦ない 性格。 子分の ヤミカラスの 失敗は 絶対に 許さないと 言われる。",
+      "zh-tw": "性格冷酷，不留情面。據說絕不會容許手下的 黑暗鴉有任何的失敗。",
+      "th": "นิสัยโหดเหี้ยม ว่ากันว่าจะไม่ยอมยกโทษให้กับความผิดพลาดของยามิคาราซึที่เป็นลูกน้องเด็ดขาด",
+      "id": "Honchkrow memiliki kepribadian yang tidak kenal ampun. Dikatakan bahwa ia tidak akan memaafkan kegagalan Murkrow, para anak buahnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "046"
+  },
+  {
+    "id": "SV2P-045",
+    "name": {
+      "ja": "ヤミカラス",
+      "zh-tw": "黑暗鴉",
+      "th": "ยามิคาราซึ",
+      "id": "Murkrow"
+    },
+    "illustrator": "Teeziro",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      198
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピンターン",
+          "zh-tw": "旋轉迴旋",
+          "th": "สปินเทิร์น",
+          "id": "Spin Turn"
+        },
+        "effect": {
+          "ja": "このポケモンをベンチポケモンと入れ替える。",
+          "zh-tw": "將這隻寶可夢與備戰寶可夢互換。",
+          "th": "สลับโปเกมอนนี้กับโปเกมอนบนเบนช์",
+          "id": "Tukar Pokémon ini dengan Pokémon Cadangan."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "だんけつのつばさ",
+          "zh-tw": "團結之翼",
+          "th": "ปีกสามัคคี",
+          "id": "Sayap Bersatu Padu"
+        },
+        "effect": {
+          "ja": "自分のトラッシュにある、ワザ「だんけつのつばさ」を持つポケモンの枚数×20ダメージ。",
+          "zh-tw": "造成自己的棄牌區的，持有「團結之翼」招式的寶可夢卡的張數×20點傷害。",
+          "th": "แดเมจจะเท่ากับจำนวนการ์ดโปเกมอนที่มีท่าต่อสู้ [ปีกสามัคคี] ที่อยู่บนตำแหน่งทิ้งการ์ดฝ่ายเรา x20",
+          "id": "Serangan ini memberikan kerusakan sejumlah 20 untuk tiap lembar Pokémon yang memiliki serangan Sayap Bersatu Padu yang ada di Trash sendiri."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705278,
+          "tcgplayer": 567802
+        }
+      }
+    ],
+    "description": {
+      "ja": "夜 姿を 見かけると 不吉なことが 起きると 信じられ 忌み嫌われている ポケモン。",
+      "zh-tw": "人們相信晚上看到牠就會發生不吉利的事， 這讓牠成了人見人厭的寶可夢。",
+      "th": "เป็นโปเกมอนที่ผู้คนเกลียดเพราะเชื่อกันว่าหากเห็นตอนกลางคืนจะเกิดเรื่องไม่ดีขึ้น",
+      "id": "Murkrow adalah Pokémon yang dibenci banyak orang karena dipercaya akan membawa kesialan kepada siapa pun yang melihatnya pada malam hari."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "045"
+  },
+  {
+    "id": "SV2P-044",
+    "name": {
+      "ja": "キラフロル",
+      "zh-tw": "晶光花",
+      "th": "คิราฟลอร์",
+      "id": "Glimmora"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      970
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "くだけるけっしょう",
+          "zh-tw": "碎裂結晶",
+          "th": "ผลึกแตก",
+          "id": "Kristal Remuk"
+        },
+        "effect": {
+          "ja": "このポケモンがきぜつしたとき、自分はコインを1回投げる。オモテなら、相手はサイドをとれない。",
+          "zh-tw": "這隻寶可夢【昏厥】時，自己擲1次硬幣。若為正面，則對手無法獲得獎賞卡。",
+          "th": "เมื่อโปเกมอนนี้[หมดสภาพ]แล้ว ฝ่ายเราทอยเหรียญ 1 ครั้ง ถ้าออกหัว ฝ่ายตรงข้ามไม่สามารถหยิบการ์ดรางวัลได้",
+          "id": "Saat Pokémon ini KO, pemain melempar koin 1 kali. Jika hasilnya sisi depan, lawan tidak dapat mengambil Kartu Point."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "どくのかべん",
+          "zh-tw": "毒花瓣",
+          "th": "กลีบพิษ",
+          "id": "Petal Racun"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをどくにする。このどくでのせるダメカンの数は6個になる。",
+          "zh-tw": "將對手的戰鬥寶可夢【中毒】。因這個【中毒】而放置的傷害指示物的數量改為6個。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[พิษ] จำนวนตัวนับแดเมจที่วางด้วยสภาวะ[พิษ]นี้จะเป็น 6 ตัว",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Racun. Jumlah Token Kerusakan yang diletakkan akibat kondisi Racun ini adalah 6."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705277,
+          "tcgplayer": 567801
+        }
+      }
+    ],
+    "description": {
+      "ja": "危険を 察知すると 結晶の 花びらを 開いて 円錐形の 体から ビームを 発射する。",
+      "zh-tw": "只要察覺到危險，就會張開結晶的花瓣， 從圓錐形的身體發射光束。",
+      "th": "เมื่อรับรู้ถึงอันตราย ผลึกกลีบดอกไม้จะบานออก และจะยิงลำแสงออกมาจากร่างกายรูปทรงกรวย",
+      "id": "Jika mendeteksi adanya bahaya, Glimmora membuka kelopak bunga kristalnya dan menembakkan sinar laser dari tubuhnya yang berbentuk kerucut."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "044"
+  },
+  {
+    "id": "SV2P-043",
+    "name": {
+      "ja": "キラーメ",
+      "zh-tw": "晶光芽",
+      "th": "คิราเมะ",
+      "id": "Glimmet"
+    },
+    "illustrator": "Sekio",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      969
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "いわおとし",
+          "zh-tw": "落石",
+          "th": "หินผาถล่ม",
+          "id": "Lemparan Batu"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705276,
+          "tcgplayer": 567800
+        }
+      }
+    ],
+    "description": {
+      "ja": "洞窟の 壁から 栄養分を 吸収。 毒の 結晶で できた 花びらを 身にまとう。",
+      "zh-tw": "會從洞窟的壁上吸取養分。包覆在身上的花瓣 是用毒的結晶做成的。",
+      "th": "ดูดซับสารอาหารจากผนังถ้ำ ร่างกายห่อหุ้มด้วยกลีบดอกไม้ที่เป็นผลึกพิษ",
+      "id": "Glimmet menyerap nutrisi dari dinding gua. Kelopak bunga yang terbuat dari kristal beracun menyelimuti tubuh Pokémon ini."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "SV2P-042",
+    "name": {
+      "ja": "キラーメ",
+      "zh-tw": "晶光芽",
+      "th": "คิราเมะ",
+      "id": "Glimmet"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      969
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "かくせい",
+          "zh-tw": "覺醒",
+          "th": "ปลุกพลัง",
+          "id": "Kebangkitan"
+        },
+        "effect": {
+          "ja": "このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。",
+          "zh-tw": "從自己的牌庫選擇1張從這隻寶可夢進化而來的卡，放置於這隻寶可夢身上完成進化。並且重洗牌庫。",
+          "th": "เลือกการ์ดที่จะวิวัฒนาการจากโปเกมอนนี้ 1 ใบจากสำรับการ์ดฝ่ายเรา วางบนโปเกมอนนี้เพื่อวิวัฒนาการ แล้วสับสำรับการ์ด",
+          "id": "Pilih 1 kartu dari Deck sendiri yang merupakan evolusi dari Pokémon ini, lalu letakkan pada Pokémon ini untuk melakukan evolusi. Kemudian, kocok Deck."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705275,
+          "tcgplayer": 567799
+        }
+      }
+    ],
+    "description": {
+      "ja": "洞窟の 壁から 栄養分を 吸収。 毒の 結晶で できた 花びらを 身にまとう。",
+      "zh-tw": "會從洞窟的壁上吸取養分。包覆在身上的花瓣 是用毒的結晶做成的。",
+      "th": "ดูดซับสารอาหารจากผนังถ้ำ ร่างกายห่อหุ้มด้วยกลีบดอกไม้ที่เป็นผลึกพิษ",
+      "id": "Glimmet menyerap nutrisi dari dinding gua. Kelopak bunga yang terbuat dari kristal beracun menyelimuti tubuh Pokémon ini."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "SV2P-041",
+    "name": {
+      "ja": "ウソッキー",
+      "zh-tw": "樹才怪",
+      "th": "อุซกกี",
+      "id": "Sudowoodo"
+    },
+    "illustrator": "Jerky",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      185
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "なぐってかくれる",
+          "zh-tw": "打擊躲藏",
+          "th": "ทุบตีแล้วหนีซ่อน",
+          "id": "Memukul dan Bersembunyi"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนนี้จะไม่ได้รับแดเมจและเอฟเฟกต์ของท่าต่อสู้",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pada giliran lawan berikutnya, Pokémon ini tidak menerima kerusakan dan efek akibat serangan."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひじうち",
+          "zh-tw": "肘擊",
+          "th": "ตีศอก",
+          "id": "Menyikut"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705274,
+          "tcgplayer": 567798
+        }
+      }
+    ],
+    "description": {
+      "ja": "いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。",
+      "zh-tw": "總是偽裝成樹的樣子。身體構造比起植物來， 好像更接近石頭或岩石之類的東西。",
+      "th": "แสร้งเป็นต้นไม้ตลอดเวลา โครงสร้างร่างกายเหมือนหินมากกว่าพืช",
+      "id": "Sudowoodo selalu berpura-pura menjadi pohon. Struktur tubuh Pokémon ini lebih mirip dengan batu dan bebatuan lainnya daripada tumbuhan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "SV2P-040",
+    "name": {
+      "ja": "コノヨザルex",
+      "zh-tw": "棄世猴ex",
+      "th": "โคโนะโยซารุex",
+      "id": "Annihilape ex"
+    },
+    "illustrator": "PLANETA Hiiragi",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 320,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "アンガーグラッジ",
+          "zh-tw": "憤懣恨怨",
+          "th": "พิโรธโกรธแค้น",
+          "id": "Anger Grudge"
+        },
+        "effect": {
+          "ja": "このポケモンにダメカンを12個までのせ、のせた数×20ダメージ。",
+          "zh-tw": "在這隻寶可夢身上放置最多12個傷害指示物，造成放置的數量×20點傷害。",
+          "th": "วางตัวนับแดเมจได้สูงสุด 12 ตัวบนโปเกมอนนี้ แดเมจจะเท่ากับจำนวนที่วาง x20",
+          "id": "Letakkan paling banyak 12 Token Kerusakan pada Pokémon ini, serangan ini memberikan kerusakan sejumlah 20 untuk tiap Token Kerusakan yang diletakkan."
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちきゅうなげ",
+          "zh-tw": "地球上投",
+          "th": "ขว้างใส่โลก",
+          "id": "Bantingan Keras"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705273,
+          "tcgplayer": 567797
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "040"
+  },
+  {
+    "id": "SV2P-039",
+    "name": {
+      "ja": "オコリザル",
+      "zh-tw": "火爆猴",
+      "th": "โอโคริซารุ",
+      "id": "Primeape"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      57
+    ],
+    "hp": 110,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "けたぐり",
+          "zh-tw": "踢倒",
+          "th": "เตะเลียด",
+          "id": "Tendangan Rendah"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぶんなぐる",
+          "zh-tw": "狂毆",
+          "th": "ชกเปรี้ยง",
+          "id": "Hantam"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、60ダメージ追加。",
+          "zh-tw": "擲1次硬幣若為正面，則增加60點傷害。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว การโจมตีนี้จะเพิ่มแดเมจอีก 60",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, kerusakan yang diberikan bertambah sejumlah 60."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705272,
+          "tcgplayer": 567796
+        }
+      }
+    ],
+    "description": {
+      "ja": "だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。",
+      "zh-tw": "光是感覺到他方的視線都會暴怒起來，然後去追 和牠對到眼的傢伙。",
+      "th": "แค่รู้สึกว่ามีใครมองก็โกรธเคืองรุนแรง แล้วไล่ล่าสิ่งที่สบตาด้วย",
+      "id": "Primeape akan mengamuk besar ketika merasakan ada yang melihatnya. Lalu, ia akan mengejar siapa pun yang bertemu mata dengannya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "SV2P-038",
+    "name": {
+      "ja": "マンキー",
+      "zh-tw": "猴怪",
+      "th": "แมนคี",
+      "id": "Mankey"
+    },
+    "illustrator": "kurumitsu",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      56
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "けたぐり",
+          "zh-tw": "踢倒",
+          "th": "เตะเลียด",
+          "id": "Tendangan Rendah"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぶらさがる",
+          "zh-tw": "垂吊",
+          "th": "ห้อยโตงเตง",
+          "id": "Bergantung"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705271,
+          "tcgplayer": 567795
+        }
+      }
+    ],
+    "description": {
+      "ja": "木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。",
+      "zh-tw": "在樹上群居的寶可夢。和夥伴走散的猴怪會因為 按捺不住寂寞而動不動就生氣。",
+      "th": "อาศัยอยู่กันเป็นฝูงบนต้นไม้ แมนคีที่พลัดจากฝูงจะเหงาจนโกรธขึ้นมา",
+      "id": "Pokémon ini hidup berkelompok di atas pohon. Mankey yang terpisah dari kawanannya langsung mengamuk karena kesepian."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "SV2P-037",
+    "name": {
+      "ja": "ベラカス",
+      "zh-tw": "蟲甲聖",
+      "th": "เบราคาสุ",
+      "id": "Rabsca"
+    },
+    "illustrator": "Oswaldo KATO",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      954
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "さいきのいのり",
+          "zh-tw": "復生祈禱",
+          "th": "พรแห่งการฟื้นคืน",
+          "id": "Doa Kebangkitan"
+        },
+        "effect": {
+          "ja": "自分のトラッシュからポケモンを1枚選び、ベンチに出す。",
+          "zh-tw": "從自己的棄牌區選擇1張寶可夢卡，放置於備戰區。",
+          "th": "เลือกการ์ดโปเกมอน 1 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา วางบนเบนช์",
+          "id": "Pilih 1 lembar Pokémon dari Trash sendiri, lalu masukkan ke Cadangan."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "サイケこうせん",
+          "zh-tw": "幻象光線",
+          "th": "ลำแสงพลังจิต",
+          "id": "Sinar Psikedelik"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705270,
+          "tcgplayer": 567794
+        }
+      }
+    ],
+    "description": {
+      "ja": "玉を 支える 体は ほとんど 動かないため 本体は 玉の中にいると 考えられている。",
+      "zh-tw": "支撐球的身體幾乎不動，因此人們認為牠的本體 其實是在球裡面。",
+      "th": "เนื่องจากร่างกายที่แบกรับลูกบอลนั้นแทบจะไม่ขยับเลย จึงเชื่อกันว่าร่างหลักของมันอยู่ภายในลูกบอล",
+      "id": "Karena tubuh yang menyokong bolanya hampir tidak pernah bergerak, diduga tubuh asli Rabsca berada di dalam bolanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "SV2P-036",
+    "name": {
+      "ja": "ポットデス",
+      "zh-tw": "怖思壺",
+      "th": "พอตเดธ",
+      "id": "Polteageist"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      855
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "こっとうあつめ",
+          "zh-tw": "集古董",
+          "th": "สะสมของโบราณ",
+          "id": "Mengumpulkan Barang Antik"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから「グッズ」と「ポケモンのどうぐ」を合計2枚まで選び、相手に見せて、手札に加える。",
+          "zh-tw": "從自己的棄牌區選擇「物品」卡與「寶可夢道具」卡合計最多2張，在給對手看過後加入手牌。",
+          "th": "เลือกการ์ด [ไอเท็ม] และ การ์ด [ไอเท็มติดโปเกมอน] รวมกันได้สูงสุด 2 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ",
+          "id": "Pilih paling banyak total 2 lembar Item dan Pokémon Tool dari Trash sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan."
+        }
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "おちゃをそそぐ",
+          "zh-tw": "倒茶",
+          "th": "รินชา",
+          "id": "Menuangkan Teh"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンに、ダメカンを5個のせる。",
+          "zh-tw": "在對手的戰鬥寶可夢身上放置5個傷害指示物。",
+          "th": "วางตัวนับแดเมจ 5 ตัว บนโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม",
+          "id": "Letakkan 5 Token Kerusakan pada Pokémon Bertarung lawan."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705269,
+          "tcgplayer": 567793
+        }
+      }
+    ],
+    "description": {
+      "ja": "紅茶で できた 体は クセは あるものの 美味しいが 飲みすぎると 死んでしまうことも。",
+      "zh-tw": "以紅茶構成的身體風味獨特卻不失美味， 但飲用過量可能致死。",
+      "th": "ร่างกายที่เป็นชานั้นมีความเป็นเอกลักษณ์และรสชาติดี แต่หากดื่มมากไปอาจตายได้",
+      "id": "Tubuh Polteageist yang terbuat dari teh yang enak namun memiliki rasa yang kuat, terkadang mematikan jika diminum terlalu banyak."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "SV2P-035",
+    "name": {
+      "ja": "ヤバチャ",
+      "zh-tw": "來悲茶",
+      "th": "ยาบาฉะ",
+      "id": "Sinistea"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      854
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "さめたおちゃ",
+          "zh-tw": "冷茶",
+          "th": "ชาเย็นชืด",
+          "id": "Teh Dingin"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว จะทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[ชา]",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705268,
+          "tcgplayer": 567792
+        }
+      }
+    ],
+    "description": {
+      "ja": "寂しく 死んだ者の 魂が 飲み残しの 紅茶に 取り憑いた。 ホテルや 民家に 現れる。",
+      "zh-tw": "死於孤獨的死者之魂附在了喝剩的紅茶上。 會在旅館或民宅出現。",
+      "th": "วิญญาณของสิ่งที่ตายอย่างเหงาหงอยเข้าไปสิงสู่ในน้ำชาที่เหลืออยู่ มักปรากฏตัวตามบ้านเรือนหรือโรงแรม",
+      "id": "Arwah seseorang yang meninggal dalam kesendirian merasuki teh yang belum habis diminum. Biasanya Sinistea muncul di hotel atau kediaman manusia."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "SV2P-034",
+    "name": {
+      "ja": "ミミッキュ",
+      "zh-tw": "謎擬Ｑ",
+      "th": "มิมิคคิว",
+      "id": "Mimikyu"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      778
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "しんぴのまもり",
+          "zh-tw": "神秘守護",
+          "th": "พลังคุ้มภัย",
+          "id": "Proteksi Mistis"
+        },
+        "effect": {
+          "ja": "このポケモンは、相手の「ポケモンex・V」からワザのダメージを受けない。",
+          "zh-tw": "這隻寶可夢不會受到對手的「寶可夢【ex】・【V】」招式的傷害。",
+          "th": "โปเกมอนนี้ จะไม่ได้รับแดเมจของท่าต่อสู้จาก [โปเกมอน【ex】 /【V】] ฝ่ายตรงข้าม",
+          "id": "Pokémon ini tidak menerima kerusakan akibat serangan dari Pokémon {ex}/{V} lawan."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ゴーストアイ",
+          "zh-tw": "幽靈之眼",
+          "th": "โกสต์อาย",
+          "id": "Ghost Eye"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンに、ダメカンを7個のせる。",
+          "zh-tw": "在對手的戰鬥寶可夢身上放置7個傷害指示物。",
+          "th": "วางตัวนับแดเมจ 7 ตัว บนโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม",
+          "id": "Letakkan 7 Token Kerusakan pada Pokémon Bertarung lawan."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705267,
+          "tcgplayer": 567791
+        }
+      }
+    ],
+    "description": {
+      "ja": "陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。",
+      "zh-tw": "棲息在陽光照射不到的陰暗處。在人們面前現身時會用 看似皮卡丘的布來隱藏全身。",
+      "th": "อาศัยอยู่ในที่มืดไร้แสงแดด เวลาปรากฏตัวให้คนเห็นจะสวมผ้าคล้ายพิคาชูปกปิดตัวเอง",
+      "id": "Pokémon ini hidup di dalam kegelapan yang tidak terkena cahaya matahari. Mimikyu mengenakan kain berbentuk Pikachu untuk menyembunyikan dirinya saat keluar di hadapan umum."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "SV2P-033",
+    "name": {
+      "ja": "ゴチルゼル",
+      "zh-tw": "哥德小姐",
+      "th": "โกธิรูเซล",
+      "id": "Gothitelle"
+    },
+    "illustrator": "Shiburingaru",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      576
+    ],
+    "hp": 150,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ほしよみ",
+          "zh-tw": "讀星",
+          "th": "อ่านดวงดาว",
+          "id": "Membaca Bintang"
+        },
+        "effect": {
+          "ja": "自分の番に1回使える。相手の山札を上から2枚見て、どちらか1枚を選び、山札の上にもどす。残りのカードは、山札の下にもどす。",
+          "zh-tw": "在自己的回合時可使用1次。查看對手的牌庫上方2張卡，選擇其中1張，放回牌庫上方。將剩餘卡放回牌庫下方。",
+          "th": "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา ดูการ์ด 2 ใบจากด้านบนของสำรับการ์ดฝ่ายตรงข้าม เลือกใบใดใบหนึ่ง 1 ใบ ใส่กลับไปด้านบนของสำรับการ์ด การ์ดที่เหลือ ใส่กลับไปด้านล่างของสำรับการ์ด",
+          "id": "Dapat digunakan 1 kali pada giliran sendiri. Lihat 2 kartu dari atas Deck lawan, pilih salah satu, lalu kembalikan ke atas Deck. Kembalikan sisa kartu ke bawah Deck."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイコアウト",
+          "zh-tw": "精神出局",
+          "th": "ไซโคเอาต์",
+          "id": "Psyout"
+        },
+        "effect": {
+          "ja": "相手の手札からオモテを見ないで1枚選び、トラッシュする。",
+          "zh-tw": "在不看正面的情況下，選擇1張對手的手牌，將其丟棄。",
+          "th": "เลือกการ์ด 1 ใบจากบนมือฝ่ายตรงข้ามโดยไม่ดูหน้าการ์ด ทิ้งที่ตำแหน่งทิ้งการ์ด",
+          "id": "Pilih 1 kartu dari Kartu Pegangan lawan tanpa melihat sisi depan, lalu buang ke Trash."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705266,
+          "tcgplayer": 567790
+        }
+      }
+    ],
+    "description": {
+      "ja": "サイコパワーを 放ち 相手に 宇宙が 終わる 夢を 見せる。 それは 儚く 美しいらしい。",
+      "zh-tw": "會釋放出精神力量，讓對手夢見宇宙終結的夢。 內容似乎既虛幻又美麗。",
+      "th": "ใช้พลังจิตทำให้อีกฝ่ายฝันเห็นวันสิ้นสุดของจักรวาล เหมือนจะเป็นฝันแสนสั้นที่งดงาม",
+      "id": "Gothitelle mengeluarkan kekuatan psikokinesis untuk memperlihatkan mimpi berakhirnya ruang angkasa. Kabarnya, mimpi tersebut tidak kekal dan indah."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "SV2P-032",
+    "name": {
+      "ja": "ゴチミル",
+      "zh-tw": "哥德小童",
+      "th": "โกธิมิรุ",
+      "id": "Gothorita"
+    },
+    "illustrator": "Aya Kusube",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      575
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイコトリップ",
+          "zh-tw": "精神歪曲",
+          "th": "ไซโคทริป",
+          "id": "Psychotrip"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちょうねんりき",
+          "zh-tw": "超念力",
+          "th": "ซูเปอร์โทรจิต",
+          "id": "Psikokinesis Super"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705265,
+          "tcgplayer": 567789
+        }
+      }
+    ],
+    "description": {
+      "ja": "催眠術で 子どもを 眠らせ 連れ去ってしまう。 星明りが きらめく 夜には 注意しろ。",
+      "zh-tw": "一定要小心星光閃閃的夜晚。因為牠會帶走被牠施了 催眠術而睡著的小孩。",
+      "th": "จะสะกดจิตให้เด็กหลับแล้วพาตัวไป เพราะฉะนั้นให้ระวังคืนที่ดาวระยิบระยับให้ดี",
+      "id": "Gothorita menghipnotis anak-anak agar tertidur lalu menculik mereka. Berhati-hatilah pada malam saat bintang bersinar."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "SV2P-031",
+    "name": {
+      "ja": "ゴチム",
+      "zh-tw": "哥德寶寶",
+      "th": "โกธิมู",
+      "id": "Gothita"
+    },
+    "illustrator": "0313",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      574
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はたく",
+          "zh-tw": "拍擊",
+          "th": "ปัด",
+          "id": "Tumbuk"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぶきみなねんぱ",
+          "zh-tw": "不祥波動",
+          "th": "คลื่นแปลกประหลาด",
+          "id": "Telepati Menyeramkan"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705264,
+          "tcgplayer": 567788
+        }
+      }
+    ],
+    "description": {
+      "ja": "いつもは とっても 無邪気。 見えない なにかを 見ているときは 瞬きも せずに ずっと 無言。",
+      "zh-tw": "總是一副天真無邪的樣子。看見肉眼看不見的東西時， 就會眼都不眨地一語不發。",
+      "th": "ปกติดูไร้เดียงสามาก ตอนที่มองดูอะไรที่มองไม่เห็นอยู่จะนิ่งเงียบ ไม่แม้แต่จะกะพริบตา",
+      "id": "Biasanya Gothita bertingkah sangat polos. Pokémon ini akan terus diam tanpa berkedip saat melihat sesuatu yang tak kasat mata."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "SV2P-030",
+    "name": {
+      "ja": "ヤドキングex",
+      "zh-tw": "呆呆王ex",
+      "th": "ยาโดคิงex",
+      "id": "Slowking ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "うんちく",
+          "zh-tw": "博學",
+          "th": "ความรู้สั่งสม",
+          "id": "Pengetahuan Mendalam"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【混亂】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[สับสน]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Pusing."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "ウィズダムヘッド",
+          "zh-tw": "才智頭擊",
+          "th": "วิสดอมเฮด",
+          "id": "Wisdom Headbutt"
+        },
+        "effect": {
+          "ja": "のぞむなら、自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。",
+          "zh-tw": "若希望，從自己的牌庫任意選擇最多2張卡加入手牌。並且重洗牌庫。",
+          "th": "หากต้องการ เลือกการ์ดที่ชอบได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา นำขึ้นมือ แล้วสับสำรับการ์ด",
+          "id": "Pemain dapat memilih paling banyak 2 kartu sesukanya dari Deck sendiri, lalu menambahkannya ke Kartu Pegangan. Kemudian, kocok Deck."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705263,
+          "tcgplayer": 567787
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "030"
+  },
+  {
+    "id": "SV2P-029",
+    "name": {
+      "ja": "ヤドン",
+      "zh-tw": "呆呆獸",
+      "th": "ยาดง",
+      "id": "Slowpoke"
+    },
+    "illustrator": "sowsow",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      79
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "しっぽづり",
+          "zh-tw": "尾釣",
+          "th": "หางตกเบ็ด",
+          "id": "Ekor Pancing"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。ウラなら、自分の手札を1枚選び、トラッシュする。",
+          "zh-tw": "擲1次硬幣若為正面，則從自己的牌庫任意選擇1張卡加入手牌。並且重洗牌庫。若為反面，則選擇1張自己的手牌，將其丟棄。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกการ์ดที่ชอบ 1 ใบจากสำรับการ์ดฝ่ายเรา นำขึ้นมือ แล้วสับสำรับการ์ด ถ้าออกก้อย เลือกการ์ดบนมือฝ่ายเรา 1 ใบ ทิ้งที่ตำแหน่งทิ้งการ์ด",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 kartu sesukanya dari Deck sendiri, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck. Jika hasilnya sisi belakang, pilih 1 lembar Kartu Pegangan sendiri, lalu buang ke Trash."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "しねんのずつき",
+          "zh-tw": "意念頭錘",
+          "th": "ท่าโขกหัวพลังจิต",
+          "id": "Sundulan Spiritual"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705262,
+          "tcgplayer": 567786
+        }
+      }
+    ],
+    "description": {
+      "ja": "動きが のろく 間抜け。 叩かれても ５秒 たってから 痛さを 感じるほどだ。",
+      "zh-tw": "動作遲鈍且呆頭呆腦。就算挨打也得花上５秒 才會感受到疼痛。",
+      "th": "อืดอาดและซื่อบื้อ ถึงขั้นว่าถูกตีไป 5 วินาทีถึงเพิ่งรู้สึกเจ็บ",
+      "id": "Slowpoke lamban dan lemot. Pokémon ini baru merasakan rasa sakit akibat dipukul setelah 5 detik berlalu."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "SV2P-028",
+    "name": {
+      "ja": "パオジアンex",
+      "zh-tw": "古劍豹ex",
+      "th": "เป้าเจี้ยนex",
+      "id": "Chien-Pao ex"
+    },
+    "illustrator": "aky CG Works",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "わななくれいき",
+          "zh-tw": "戰慄寒氣",
+          "th": "ไอเย็นสะท้าน",
+          "id": "Hawa Dingin Menggigil"
+        },
+        "effect": {
+          "ja": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から「基本エネルギー」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
+          "zh-tw": "若這隻寶可夢在戰鬥場上，則在自己的回合時可使用1次。從自己的牌庫選擇最多2張「基本【水】能量」卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "th": "ถ้าโปเกมอนนี้อยู่บนตำแหน่งต่อสู้ ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา เลือกการ์ด [พลังงานพื้นฐาน[น้ำ]] ได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+          "id": "Dapat digunakan 1 kali pada giliran sendiri jika Pokémon ini ada di Arena Bertarung. Pilih paling banyak 2 lembar Energi Dasar {Air} dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "ヘイルブレード",
+          "zh-tw": "冰雹利刃",
+          "th": "ดาบลูกเห็บ",
+          "id": "Hail Blade"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンについているエネルギーを好きなだけトラッシュし、その枚数×60ダメージ。",
+          "zh-tw": "將自己的場上寶可夢身上附加的任意數量的【水】能量卡丟棄，造成其張數×60點傷害。",
+          "th": "ทิ้งพลังงาน[น้ำ]ที่ติดอยู่กับโปเกมอนบนกระดานฝ่ายเราตามจำนวนที่ชอบที่ตำแหน่งทิ้งการ์ด แดเมจจะเท่ากับจำนวนการ์ดนั้น x60",
+          "id": "Buang sesukanya Energi {Air} yang dikenakan pada Pokémon di Arena sendiri ke Trash, serangan ini memberikan kerusakan sejumlah 60 untuk tiap lembarnya."
+        },
+        "damage": "60×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705261,
+          "tcgplayer": 567785
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "028"
+  },
+  {
+    "id": "SV2P-027",
+    "name": {
+      "ja": "セグレイブ",
+      "zh-tw": "戟脊龍",
+      "th": "เซเกลฟ",
+      "id": "Baxcalibur"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      998
+    ],
+    "hp": 160,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "きょくていおん",
+          "zh-tw": "極低溫",
+          "th": "อุณหภูมิต่ำสุดขั้ว",
+          "id": "Suhu Rendah Ekstrem"
+        },
+        "effect": {
+          "ja": "自分の番に何回でも使える。自分の手札から「基本エネルギー」を1枚選び、自分のポケモンにつける。",
+          "zh-tw": "在自己的回合時，可不限次數使用。從自己的手牌選擇1張「基本【水】能量」卡，附於自己的寶可夢身上。",
+          "th": "ใช้กี่ครั้งก็ได้ในเทิร์นฝ่ายเรา เลือกการ์ด [พลังงานพื้นฐาน[น้ำ]] 1 ใบจากบนมือฝ่ายเรา ติดที่โปเกมอนฝ่ายเรา",
+          "id": "Dapat digunakan berkali-kali pada giliran sendiri. Pilih 1 lembar Energi Dasar {Air} dari Kartu Pegangan sendiri, lalu kenakan pada Pokémon sendiri."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バスターテール",
+          "zh-tw": "光炮尾",
+          "th": "บัสเตอร์เทล",
+          "id": "Buster Tail"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705260,
+          "tcgplayer": 567784
+        }
+      }
+    ],
+    "description": {
+      "ja": "極低温の 冷気を 口から 噴射。 灼熱の マグマでも 瞬時に 凍りつかせてしまう。",
+      "zh-tw": "會從嘴裡噴射極低溫的冷氣。即使是灼熱的熔岩也能 使其在一瞬間變成冰塊。",
+      "th": "พ่นไอเย็นที่อุณหภูมิต่ำมากออกมาจากปาก แม้แต่แม็กมาที่ร้อนระอุก็สามารถแช่แข็งได้ในชั่วพริบตา",
+      "id": "Baxcalibur menyemburkan hawa dingin yang bersuhu sangat rendah dari mulutnya. Magma panas membara pun akan membeku dalam sekejap."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "SV2P-026",
+    "name": {
+      "ja": "セゴール",
+      "zh-tw": "凍脊龍",
+      "th": "เซโกล",
+      "id": "Arctibax"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      997
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "するどいひれ",
+          "zh-tw": "銳利鰭",
+          "th": "ครีบแหลมคม",
+          "id": "Sirip Tajam"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フロストスマッシュ",
+          "zh-tw": "冰霜粉碎",
+          "th": "ฟรอสต์สแมช",
+          "id": "Frost Smash"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705259,
+          "tcgplayer": 567783
+        }
+      }
+    ],
+    "description": {
+      "ja": "まわりの 空気を 凍らせて 氷のマスクで 顔を 守り 背びれを 氷の剣に 変える。",
+      "zh-tw": "凍結周圍的空氣，以冰之面罩保護臉部， 並將背鰭變成冰劍。",
+      "th": "ทำให้อากาศโดยรอบเย็นยะเยือก ปกป้องใบหน้าด้วยหน้ากากน้ำแข็งและเปลี่ยนครีบหลังเป็นดาบน้ำแข็ง",
+      "id": "Arctibax membekukan udara di sekitarnya, menggunakan masker es untuk melindungi wajahnya, dan mengubah sirip punggungnya menjadi pedang es."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "SV2P-025",
+    "name": {
+      "ja": "セビエ",
+      "zh-tw": "涼脊龍",
+      "th": "เซบิเอะ",
+      "id": "Frigibax"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      996
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "ひんやり",
+          "zh-tw": "寒意",
+          "th": "เย็นยะเยือก",
+          "id": "Sejuk"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かみつく",
+          "zh-tw": "咬住",
+          "th": "กัดติด",
+          "id": "Menggigit"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705258,
+          "tcgplayer": 567782
+        }
+      }
+    ],
+    "description": {
+      "ja": "背びれで 熱を 吸収して 氷エネルギーに 変換する。 高温ほど エネルギーが 溜まる。",
+      "zh-tw": "會用背鰭吸收熱能以轉換成冰之能量。 溫度越高，累積的能量就越多。",
+      "th": "ดูดซับความร้อนด้วยครีบหลังแล้วแปลงเป็นพลังงานน้ำแข็ง ยิ่งอุณหภูมิสูงก็ยิ่งสะสมพลังงานได้มากขึ้น",
+      "id": "Frigibax menyerap panas menggunakan sirip punggungnya dan mengubahnya menjadi energi es. Makin panas suhunya, makin banyak energi yang terkumpul."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "SV2P-024",
+    "name": {
+      "ja": "セビエ",
+      "zh-tw": "涼脊龍",
+      "th": "เซบิเอะ",
+      "id": "Frigibax"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      996
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たいあたり",
+          "zh-tw": "撞擊",
+          "th": "พุ่งเข้าชน",
+          "id": "Serudukan"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705257,
+          "tcgplayer": 567781
+        }
+      }
+    ],
+    "description": {
+      "ja": "背びれで 熱を 吸収して 氷エネルギーに 変換する。 高温ほど エネルギーが 溜まる。",
+      "zh-tw": "會用背鰭吸收熱能以轉換成冰之能量。 溫度越高，累積的能量就越多。",
+      "th": "ดูดซับความร้อนด้วยครีบหลังแล้วแปลงเป็นพลังงานน้ำแข็ง ยิ่งอุณหภูมิสูงก็ยิ่งสะสมพลังงานได้มากขึ้น",
+      "id": "Frigibax menyerap panas menggunakan sirip punggungnya dan mengubahnya menjadi energi es. Makin panas suhunya, makin banyak energi yang terkumpul."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "SV2P-023",
+    "name": {
+      "ja": "ミガルーサ",
+      "zh-tw": "輕身鱈",
+      "th": "มิกาลูซา",
+      "id": "Veluza"
+    },
+    "illustrator": "Anesaki Dynamic",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      976
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "ぶつかる",
+          "zh-tw": "衝撞",
+          "th": "กระแทก",
+          "id": "Menyeruduk"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スリムスクリュー",
+          "zh-tw": "纖細螺旋",
+          "th": "สลิมสกรู",
+          "id": "Slim Screw"
+        },
+        "effect": {
+          "ja": "このワザは、自分の手札が1枚もないなら、エネルギー1個で使える。",
+          "zh-tw": "若自己1張手牌都沒有，則這個招式只需要1個【水】能量即可使用。",
+          "th": "ท่าต่อสู้นี้ ถ้าบนมือฝ่ายเราไม่มีการ์ดเลยแม้แต่ 1 ใบ สามารถใช้ได้ด้วยพลังงาน[น้ำ] 1 ลูก",
+          "id": "Jika Kartu Pegangan sendiri tidak tersisa 1 lembar pun, serangan ini dapat digunakan dengan 1 Energi {Air}."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705256,
+          "tcgplayer": 567780
+        }
+      }
+    ],
+    "description": {
+      "ja": "無駄な 肉を 捨て去ると 心が 研ぎ澄まされ サイコパワーが 上がる。 贅肉は 淡白だが 美味しい。",
+      "zh-tw": "捨棄不必要的肉，能使其心靈受到磨練，精神力量得以提升。 贅肉滋味清淡，但卻相當可口。",
+      "th": "จิตใจจะถูกขัดเกลาและพลังจิตจะสูงขึ้นเมื่อละทิ้งกายเนื้อที่ไม่จำเป็น ไขมันส่วนเกินสีขาวอ่อนนั้นมีรสชาติดี",
+      "id": "Begitu membuang daging yang tidak dibutuhkan, hati Veluza menjadi terasah, dan kekuatan psikokinesisnya meningkat. Daging berlebih Pokémon ini hambar namun lezat."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "SV2P-022",
+    "name": {
+      "ja": "ハルクジラ",
+      "zh-tw": "浩大鯨",
+      "th": "ฮัลค์จิระ",
+      "id": "Cetitan"
+    },
+    "illustrator": "Pani Kobayashi",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      975
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つららミサイル",
+          "zh-tw": "冰柱飛彈",
+          "th": "มิสไซล์แท่งน้ำแข็ง",
+          "id": "Misil Pilar Es"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スペシャルホーン",
+          "zh-tw": "特殊角擊",
+          "th": "สเปเชียลฮอร์น",
+          "id": "Special Horn"
+        },
+        "effect": {
+          "ja": "このポケモンに特殊エネルギーがついているなら、140ダメージ追加。",
+          "zh-tw": "若這隻寶可夢身上附有特殊能量卡，則增加140點傷害。",
+          "th": "ถ้าโปเกมอนนี้มีพลังงานพิเศษติดอยู่ การโจมตีนี้จะเพิ่มแดเมจอีก 140",
+          "id": "Jika Pokémon ini mengenakan Energi Spesial, kerusakan yang diberikan bertambah sejumlah 140."
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705255,
+          "tcgplayer": 567779
+        }
+      }
+    ],
+    "description": {
+      "ja": "氷雪地帯を 回遊する。 強靭な 筋肉と ぶ厚い 皮下脂肪で 体を 守る。",
+      "zh-tw": "迴游在冰雪地帶的寶可夢。會用強韌的肌肉和厚實的 皮下脂肪保護自己的身體。",
+      "th": "เดินท่องไปในพื้นที่ที่ปกคลุมด้วยหิมะและน้ำแข็ง กล้ามเนื้อที่แข็งแรงและไขมันหนาใต้ผิวหนังนั้นจะช่วยปกป้องร่างกาย",
+      "id": "Cetitan bermigrasi ke daerah salju dan es. Pokémon ini melindungi tubuhnya dengan otot yang kuat dan lemak tebal di bawah kulit."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SV2P-021",
+    "name": {
+      "ja": "アルクジラ",
+      "zh-tw": "走鯨",
+      "th": "อารุคุจิระ",
+      "id": "Cetoddle"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      974
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ねむる",
+          "zh-tw": "睡覺",
+          "th": "นิทรา",
+          "id": "Tidur"
+        },
+        "effect": {
+          "ja": "このポケモンをねむりにする。このポケモンのHPを「60」回復する。",
+          "zh-tw": "將這隻寶可夢【睡眠】。將這隻寶可夢恢復「60」HP。",
+          "th": "ทำให้โปเกมอนนี้เป็นสภาวะ[หลับ] ฟื้นฟู HP ของโปเกมอนนี้ [60]",
+          "id": "Ubah kondisi Pokémon ini menjadi Tidur. Pulihkan HP Pokémon ini sejumlah 60."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "すてみタックル",
+          "zh-tw": "捨身衝撞",
+          "th": "กระแทกสุดแรง",
+          "id": "Serudukan Nekat"
+        },
+        "effect": {
+          "ja": "このポケモンにも10ダメージ。",
+          "zh-tw": "這隻寶可夢也受到10點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 10 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 10."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705254,
+          "tcgplayer": 567778
+        }
+      }
+    ],
+    "description": {
+      "ja": "遥か 昔に 海から 上がって 陸地で 暮らすようになった。 ホエルコに 近い 種類らしい。",
+      "zh-tw": "遠古時代自大海上岸後，就開始在陸地上生活。 似乎與吼吼鯨是相近的物種。",
+      "th": "ขึ้นจากทะเลมาอาศัยอยู่บนบกตั้งแต่อดีตอันไกลโพ้น ดูเหมือนว่าจะเป็นสายพันธุ์ใกล้เคียงกับเวลโกะ",
+      "id": "Pada zaman dahulu, Cetoddle naik dari laut dan hidup di daratan. Tampaknya spesies Pokémon ini dekat dengan Wailmer."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SV2P-020",
+    "name": {
+      "ja": "アルクジラ",
+      "zh-tw": "走鯨",
+      "th": "อารุคุจิระ",
+      "id": "Cetoddle"
+    },
+    "illustrator": "Sekio",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      974
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ゆきなだれ",
+          "zh-tw": "雪崩",
+          "th": "หิมะถล่ม",
+          "id": "Longsoran Salju"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "zh-tw": "對手的所有備戰寶可夢也各受到10點傷害。 [在備戰區不計算弱點・抵抗力。]",
+          "th": "โปเกมอนบนเบนช์ฝ่ายตรงข้ามทุกตัว ก็จะได้รับแดเมจตัวละ 10 ด้วย {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini juga memberikan kerusakan masing-masing sejumlah 10 kepada semua Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705253,
+          "tcgplayer": 567777
+        }
+      }
+    ],
+    "description": {
+      "ja": "遥か 昔に 海から 上がって 陸地で 暮らすようになった。 ホエルコに 近い 種類らしい。",
+      "zh-tw": "遠古時代自大海上岸後，就開始在陸地上生活。 似乎與吼吼鯨是相近的物種。",
+      "th": "ขึ้นจากทะเลมาอาศัยอยู่บนบกตั้งแต่อดีตอันไกลโพ้น ดูเหมือนว่าจะเป็นสายพันธุ์ใกล้เคียงกับเวลโกะ",
+      "id": "Pada zaman dahulu, Cetoddle naik dari laut dan hidup di daratan. Tampaknya spesies Pokémon ini dekat dengan Wailmer."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SV2P-019",
+    "name": {
+      "ja": "コオリッポ",
+      "zh-tw": "冰砌鵝",
+      "th": "โคโอริปโปะ",
+      "id": "Eiscue"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      875
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "ずつき",
+          "zh-tw": "頭錘",
+          "th": "พุ่งหัวชน",
+          "id": "Tandukan Kepala"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "ja": "アイスブロック",
+          "zh-tw": "冰之障礙",
+          "th": "ไอซ์บล็อก",
+          "id": "Ice Block"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを、すべてトラッシュする。次の相手の番、このポケモンが受けるワザのダメージは「-100」される。",
+          "zh-tw": "將這隻寶可夢身上附加的能量卡全部丟棄。在下個對手的回合，這隻寶可夢受到招式的傷害「-100」點。",
+          "th": "ทิ้งพลังงานที่ติดอยู่กับโปเกมอนนี้ ทั้งหมดที่ตำแหน่งทิ้งการ์ด เทิร์นถัดไปของฝ่ายตรงข้าม แดเมจของท่าต่อสู้ที่โปเกมอนนี้จะได้รับจะถูก [-100]",
+          "id": "Buang semua Energi yang dikenakan pada Pokémon ini ke Trash. Pada giliran lawan berikutnya, kerusakan akibat serangan yang diterima Pokémon ini berkurang sejumlah 100."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705252,
+          "tcgplayer": 567776
+        }
+      }
+    ],
+    "description": {
+      "ja": "気温の 高い日は 仲間同士で 頭の 氷を くっつけて おたがいを 冷やしながら 過ごす。",
+      "zh-tw": "在氣溫高的日子裡，會把頭的冰塊和夥伴們的緊貼 在一起，冰鎮彼此來度日。",
+      "th": "ในวันที่อากาศร้อน จะเอาหัวน้ำแข็งของตนไปแปะติดกับพวกพ้องเพื่อช่วยคลายร้อนให้กันและกัน",
+      "id": "Pada hari bersuhu tinggi, Eiscue menempelkan es kepalanya dengan sesamanya dan saling mendinginkan satu sama lain."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SV2P-018",
+    "name": {
+      "ja": "ラブカス",
+      "zh-tw": "愛心魚",
+      "th": "เลิฟคัส",
+      "id": "Luvdisc"
+    },
+    "illustrator": "ryoma uratsuka",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      370
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マッチング",
+          "zh-tw": "匹配",
+          "th": "จับคู่",
+          "id": "Matching"
+        },
+        "effect": {
+          "ja": "自分の山札からサポートを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
+          "zh-tw": "從自己的牌庫選擇最多2張支援者卡，在給對手看過後加入手牌。並且重洗牌庫。",
+          "th": "เลือกการ์ดซัพพอร์ตได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+          "id": "Pilih paling banyak 2 lembar Supporter dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+        }
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "みずのはどう",
+          "zh-tw": "水之波動",
+          "th": "คลื่นน้ำ",
+          "id": "Aura Air"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをねむりにする。",
+          "zh-tw": "將對手的戰鬥寶可夢【睡眠】。",
+          "th": "ทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[หลับ]",
+          "id": "Ubah kondisi Pokémon Bertarung lawan menjadi Tidur."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705251,
+          "tcgplayer": 567775
+        }
+      }
+    ],
+    "description": {
+      "ja": "ハートの 形が 大人気。 好きな 人に ラブカスを 贈る 風習の 残る 土地が ある。",
+      "zh-tw": "心形的外型很受歡迎。有些地方仍留有送愛心魚 給心上人的習俗。",
+      "th": "ลำตัวทรงหัวใจเป็นที่นิยมมาก บางพื้นที่ยังมีธรรมเนียมส่งเลิฟคัสให้คนที่ชอบหลงเหลืออยู่",
+      "id": "Tubuhnya yang berbentuk hati sangat populer. Ada beberapa daerah yang masih menganut adat untuk mengirim Luvdisc ke orang yang disukai."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SV2P-017",
+    "name": {
+      "ja": "マリルリ",
+      "zh-tw": "瑪力露麗",
+      "th": "มาริลลิ",
+      "id": "Azumarill"
+    },
+    "illustrator": "En Morikura",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      184
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バブルドレイン",
+          "zh-tw": "泡沫吸取",
+          "th": "บับเบิลเดรน",
+          "id": "Bubble Drain"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「30」回復する。",
+          "zh-tw": "將這隻寶可夢恢復「30」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนนี้ [30]",
+          "id": "Pulihkan HP Pokémon ini sejumlah 30."
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たたきつける",
+          "zh-tw": "摔打",
+          "th": "ฟาดผัวะ",
+          "id": "Membanting"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、オモテの数×100ダメージ。",
+          "zh-tw": "擲2次硬幣，造成正面出現的次數×100點傷害。",
+          "th": "ทอยเหรียญ 2 ครั้ง แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x100",
+          "id": "Lempar koin 2 kali. Serangan ini memberikan kerusakan sejumlah 100 untuk tiap lemparan dengan hasil sisi depan."
+        },
+        "damage": "100×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705250,
+          "tcgplayer": 567774
+        }
+      }
+    ],
+    "description": {
+      "ja": "長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。",
+      "zh-tw": "長長的耳朵是靈敏的感應器。能夠藉著聆聽水中的聲音 來分辨出是什麼在動。",
+      "th": "หูยาว ๆ เป็นเซนเซอร์ชั้นเยี่ยม สามารถแยกแยะเสียงในน้ำและระบุได้ว่าอะไรกำลังเคลื่อนไหว",
+      "id": "Telinga panjang Azumarill adalah sensor yang luar biasa. Dengan mendengar suara di dalam air, Pokémon ini mengetahui apa yang bergerak di situ."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SV2P-016",
+    "name": {
+      "ja": "マリル",
+      "zh-tw": "瑪力露",
+      "th": "มาริล",
+      "id": "Marill"
+    },
+    "illustrator": "saino misaki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      183
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バブルドレイン",
+          "zh-tw": "泡沫吸取",
+          "th": "บับเบิลเดรน",
+          "id": "Bubble Drain"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「20」回復する。",
+          "zh-tw": "將這隻寶可夢恢復「20」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนนี้ [20]",
+          "id": "Pulihkan HP Pokémon ini sejumlah 20."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705249,
+          "tcgplayer": 567773
+        }
+      }
+    ],
+    "description": {
+      "ja": "全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。",
+      "zh-tw": "全身的體毛有著能將水彈開的特性， 所以就算碰到水也不會弄濕。",
+      "th": "ขนทั่วตัวมีคุณสมบัติที่ไม่ดูดซึมน้ำ ถึงอาบน้ำตัวก็ยังแห้ง",
+      "id": "Bulu Marill bersifat menangkal air. Bulu tersebut tetap kering meskipun Pokémon ini terguyur air."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SV2P-015",
+    "name": {
+      "ja": "チオンジェンex",
+      "zh-tw": "古簡蝸ex",
+      "th": "ฉงเจี่ยนex",
+      "id": "Wo-Chien ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "hp": 230,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むさぼるつた",
+          "zh-tw": "追擊蔦",
+          "th": "ไม้เลื้อยไม่รู้จักพอ",
+          "id": "Sulur Pelahap"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹に、相手がすでにとったサイドの枚数×60ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "zh-tw": "對手的1隻備戰寶可夢受到對手已經獲得的獎賞卡的張數×60點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "ทำแดเมจกับโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว เท่ากับจำนวนการ์ดรางวัลที่ฝ่ายตรงข้ามหยิบไปแล้ว x60 {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini memberikan kerusakan sejumlah 60 untuk tiap lembar Kartu Point yang telah diambil lawan kepada 1 Pokémon Cadangan lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フォレストバーン",
+          "zh-tw": "森林灼燒",
+          "th": "ฟอเรสต์เบิร์น",
+          "id": "Forest Burn"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705248,
+          "tcgplayer": 567772
+        }
+      }
+    ],
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "suffix": "EX",
+    "cardNumber": "015"
+  },
+  {
+    "id": "SV2P-014",
+    "name": {
+      "ja": "シガロコ",
+      "zh-tw": "蟲滾泥",
+      "th": "ชิกาโรโค",
+      "id": "Rellor"
+    },
+    "illustrator": "Anesaki Dynamic",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      953
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たまころがり",
+          "zh-tw": "滾球",
+          "th": "กลิ้งบอล",
+          "id": "Menggelindingkan Bola"
+        },
+        "effect": {
+          "ja": "ウラが出るまでコインを投げ、オモテの数×30ダメージ。",
+          "zh-tw": "擲硬幣直到出現反面，造成正面出現的次數×30點傷害。",
+          "th": "ทอยเหรียญจนกว่าจะออกก้อย แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x30",
+          "id": "Lempar koin hingga hasilnya sisi belakang. Serangan ini memberikan kerusakan sejumlah 30 untuk tiap lemparan dengan hasil sisi depan."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705247,
+          "tcgplayer": 567771
+        }
+      }
+    ],
+    "description": {
+      "ja": "エスパーエネルギーを 混ぜこみながら 土と 砂で 泥玉を 作る。 泥玉は 命より 大切。",
+      "zh-tw": "會將超能力混進泥土和沙子裡製作出泥球。 泥球比自己的命還重要。",
+      "th": "สร้างก้อนโคลนจากดินและทรายผสมพลังงานพลังจิต ให้ความสำคัญกับก้อนโคลนยิ่งกว่าชีวิต",
+      "id": "Rellor membuat bola lumpur dengan tanah dan pasir sambil mencampurkan energi psikokinesisnya. Bola lumpur tersebut lebih penting daripada nyawanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SV2P-013",
+    "name": {
+      "ja": "シガロコ",
+      "zh-tw": "蟲滾泥",
+      "th": "ชิกาโรโค",
+      "id": "Rellor"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      953
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むしくい",
+          "zh-tw": "蟲咬",
+          "th": "แมลงกัด",
+          "id": "Gigitan Serangga"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705246,
+          "tcgplayer": 567770
+        }
+      }
+    ],
+    "description": {
+      "ja": "エスパーエネルギーを 混ぜこみながら 土と 砂で 泥玉を 作る。 泥玉は 命より 大切。",
+      "zh-tw": "會將超能力混進泥土和沙子裡製作出泥球。 泥球比自己的命還重要。",
+      "th": "สร้างก้อนโคลนจากดินและทรายผสมพลังงานพลังจิต ให้ความสำคัญกับก้อนโคลนยิ่งกว่าชีวิต",
+      "id": "Rellor membuat bola lumpur dengan tanah dan pasir sambil mencampurkan energi psikokinesisnya. Bola lumpur tersebut lebih penting daripada nyawanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SV2P-012",
+    "name": {
+      "ja": "アノホラグサ",
+      "zh-tw": "怖納噬草",
+      "th": "อาโนะโฮรากุสะ",
+      "id": "Brambleghast"
+    },
+    "illustrator": "KEIICHIRO ITO",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      947
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "いのちをすいとる",
+          "zh-tw": "生命吸取",
+          "th": "ดูดซับพลังชีวิต",
+          "id": "Menyerap Nyawa"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「30」回復する。",
+          "zh-tw": "將這隻寶可夢恢復「30」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนนี้ [30]",
+          "id": "Pulihkan HP Pokémon ini sejumlah 30."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かれきのろうごく",
+          "zh-tw": "枯木牢獄",
+          "th": "เรือนจำซากไม้",
+          "id": "Penjara Pohon Kering"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーが、エネルギー2個ぶん多くなる。",
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢使用招式所需的能量增加2個【無】能量。",
+          "th": "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ พลังงานสำหรับใช้ท่าต่อสู้ จะใช้พลังงาน[ไร้สี]เพิ่มขึ้น 2 ลูก",
+          "id": "Pada giliran lawan berikutnya, Energi yang dibutuhkan oleh Pokémon yang menerima serangan ini untuk menggunakan serangan bertambah 2 Energi {Bening}."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705245,
+          "tcgplayer": 567769
+        }
+      }
+    ],
+    "description": {
+      "ja": "頭の 枝を 開いて 獲物を 飲みこむ。 生気を 存分に 吸い取ると 吐き出して 捨てるのだ。",
+      "zh-tw": "會張開頭的樹枝吞沒獵物。把精氣吸得淋漓盡致後， 就會吐出來丟掉。",
+      "th": "เปิดกิ่งก้านบนหัวเพื่อกลืนกินเหยื่อลงไป เมื่อสูบพลังชีวิตของอีกฝ่ายไปเต็มที่แล้วก็จะคายทิ้ง",
+      "id": "Brambleghast membuka ranting di kepalanya dan menelan bulat-bulat mangsanya. Pokémon ini memuntahkan dan membuang mangsanya begitu saja setelah mengisap habis vitalitasnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SV2P-011",
+    "name": {
+      "ja": "アノクサ",
+      "zh-tw": "納噬草",
+      "th": "อาโนะคุสะ",
+      "id": "Bramblin"
+    },
+    "illustrator": "Miki Tanaka",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      946
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "ちょっとすいとる",
+          "zh-tw": "吸取一下",
+          "th": "ซับพลัง",
+          "id": "Menyerap Sedikit"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「10」回復する。",
+          "zh-tw": "將這隻寶可夢恢復「10」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนนี้ [10]",
+          "id": "Pulihkan HP Pokémon ini sejumlah 10."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705244,
+          "tcgplayer": 567768
+        }
+      }
+    ],
+    "description": {
+      "ja": "成仏できない 魂が 風に 吹かれているうち 枯草を 巻き込んで ポケモンになった。",
+      "zh-tw": "無法升天的靈魂在風的吹拂下被捲進枯草裡， 變成了寶可夢。",
+      "th": "ขณะที่วิญญาณที่ไปสู่สุคติไม่ได้ถูกลมพัดปลิวไปก็เข้าไปปนเปกับหญ้าที่แห้งเหี่ยวและกลายเป็นโปเกมอน",
+      "id": "Bramblin adalah arwah gentayangan diterbangkan oleh angin, lalu terjerat oleh rumput kering dan berubah menjadi Pokémon."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SV2P-010",
+    "name": {
+      "ja": "アノクサ",
+      "zh-tw": "納噬草",
+      "th": "อาโนะคุสะ",
+      "id": "Bramblin"
+    },
+    "illustrator": "Pani Kobayashi",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      946
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かぜにのる",
+          "zh-tw": "乘風",
+          "th": "ลอยตามลม",
+          "id": "Menaiki Angin"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、このポケモンをベンチポケモンと入れ替える。",
+          "zh-tw": "擲1次硬幣若為正面，則將這隻寶可夢與備戰寶可夢互換。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว สลับโปเกมอนนี้กับโปเกมอนบนเบนช์",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, tukar Pokémon ini dengan Pokémon Cadangan."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705243,
+          "tcgplayer": 567767
+        }
+      }
+    ],
+    "description": {
+      "ja": "成仏できない 魂が 風に 吹かれているうち 枯草を 巻き込んで ポケモンになった。",
+      "zh-tw": "無法升天的靈魂在風的吹拂下被捲進枯草裡， 變成了寶可夢。",
+      "th": "ขณะที่วิญญาณที่ไปสู่สุคติไม่ได้ถูกลมพัดปลิวไปก็เข้าไปปนเปกับหญ้าที่แห้งเหี่ยวและกลายเป็นโปเกมอน",
+      "id": "Bramblin adalah arwah gentayangan diterbangkan oleh angin, lalu terjerat oleh rumput kering dan berubah menjadi Pokémon."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SV2P-009",
+    "name": {
+      "ja": "アマージョ",
+      "zh-tw": "甜冷美后",
+      "th": "อมาโจ",
+      "id": "Tsareena"
+    },
+    "illustrator": "Atsushi Furusawa",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      763
+    ],
+    "hp": 160,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "じょおうのかかと",
+          "zh-tw": "女王的腳跟",
+          "th": "ส้นเท้าของราชินี",
+          "id": "Tumit Ratu"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、手札から出すポケモンに進化できない。",
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法進化成從手牌使出的寶可夢。",
+          "th": "เทิร์นถัดไปของฝ่ายตรงข้าม โปเกมอนที่ได้รับท่าต่อสู้นี้ จะวิวัฒนาการเป็นโปเกมอนที่จะนำออกมาจากบนมือไม่ได้",
+          "id": "Pada giliran lawan berikutnya, Pokémon yang menerima serangan ini tidak dapat melakukan evolusi menjadi Pokémon yang dimasukkan dari Kartu Pegangan."
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "ja": "スピニングキック",
+          "zh-tw": "旋轉踢",
+          "th": "สปินนิงคิก",
+          "id": "Spinning Kick"
+        },
+        "effect": {
+          "ja": "このポケモンにも20ダメージ。",
+          "zh-tw": "這隻寶可夢也受到20點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 20 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 20."
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705242,
+          "tcgplayer": 567766
+        }
+      }
+    ],
+    "description": {
+      "ja": "気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。",
+      "zh-tw": "雖然性情高傲且攻擊性強，但據說只要摸摸牠果蒂的冠， 牠立刻會變得很溫順。",
+      "th": "หยิ่งและก้าวร้าว แต่ถ้ามีคนมาจับขั้วมงกุฎ ก็จะสงบเสงี่ยมขึ้นทันที",
+      "id": "Dikabarkan meskipun Tsareena agresif dan memiliki harga diri yang tinggi, ia akan segera menjadi tenang jika mahkota di sepalnya disentuh."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SV2P-008",
+    "name": {
+      "ja": "アママイコ",
+      "zh-tw": "甜舞妮",
+      "th": "อมามาอิโกะ",
+      "id": "Steenee"
+    },
+    "illustrator": "nagimiso",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      762
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "アロマセラピー",
+          "zh-tw": "芳香治療",
+          "th": "อโรมาเทอราปี",
+          "id": "Aromatherapy"
+        },
+        "effect": {
+          "ja": "自分のポケモン全員のHPを、それぞれ「30」回復する。",
+          "zh-tw": "將自己的所有寶可夢各恢復「30」HP。",
+          "th": "ฟื้นฟู HP ของโปเกมอนฝ่ายเราทุกตัว ตัวละ [30]",
+          "id": "Pulihkan HP semua Pokémon sendiri masing-masing sejumlah 30."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "ja": "はっぱカッター",
+          "zh-tw": "飛葉快刀",
+          "th": "คัตเตอร์ใบไม้",
+          "id": "Daun Pemotong"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705241,
+          "tcgplayer": 567765
+        }
+      }
+    ],
+    "description": {
+      "ja": "元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。",
+      "zh-tw": "會散發出能振奮心情的香甜氣味。作為止汗劑 的香味擁有極高的人氣。",
+      "th": "โปรยกลิ่นหอมหวานที่ทำให้รู้สึกสดชื่น ผลิตภัณฑ์ระงับเหงื่อที่ใช้กลิ่นนี้ได้รับความนิยมสูงมาก",
+      "id": "Steenee menyebarkan aroma manis yang dapat membuat perasaan menjadi semangat. Aroma tersebut sangat populer sebagai aroma perasa antiperspiran."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SV2P-007",
+    "name": {
+      "ja": "アマカジ",
+      "zh-tw": "甜竹竹",
+      "th": "อมาคาจิ",
+      "id": "Bounsweet"
+    },
+    "illustrator": "Kurata So",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      761
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "ふむ",
+          "zh-tw": "踩",
+          "th": "เหยียบ",
+          "id": "Menginjak"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "ja": "とつげき",
+          "zh-tw": "突擊",
+          "th": "ประจัญบาน",
+          "id": "Menyerang"
+        },
+        "effect": {
+          "ja": "このポケモンにも10ダメージ。",
+          "zh-tw": "這隻寶可夢也受到10點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 10 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 10."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705240,
+          "tcgplayer": 567764
+        }
+      }
+    ],
+    "description": {
+      "ja": "果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。",
+      "zh-tw": "汗水帶著像是經過熬煮的水果甜味，在過去甜食尚少 的時代相當受到人們珍視。",
+      "th": "เพราะเหงื่อหวานราวกับน้ำผลไม้ที่เคี่ยว เลยมีค่ามากในอดีตที่ขนมยังมีน้อย",
+      "id": "Bounsweet sangat bermanfaat pada zaman dahulu ketika pemanis masih sedikit karena ia mengeluarkan keringat manis yang rasanya seperti buah yang dimasak."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SV2P-006",
+    "name": {
+      "ja": "ユキノオー",
+      "zh-tw": "暴雪王",
+      "th": "ยูกิโนะโอ",
+      "id": "Abomasnow"
+    },
+    "illustrator": "Ryuta Fuse",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      460
+    ],
+    "hp": 150,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "いてつくわざわい",
+          "zh-tw": "嚴寒降災",
+          "th": "หายนะเยือกแข็ง",
+          "id": "Malapetaka Pembeku"
+        },
+        "effect": {
+          "ja": "このポケモンがいるかぎり、おたがいのポケモン全員のHPは、回復しない。",
+          "zh-tw": "只要這隻寶可夢在場上，雙方的所有寶可夢的HP無法恢復。",
+          "th": "ตราบใดที่โปเกมอนนี้ยังอยู่ จะฟื้นฟู HP ของโปเกมอนของทั้งสองฝ่ายทุกตัวไม่ได้",
+          "id": "Selama Pokémon ini ada di Arena, HP semua Pokémon kedua pemain tidak dapat dipulihkan."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マグナムパンチ",
+          "zh-tw": "增量拳",
+          "th": "แมกนัมพันช์",
+          "id": "Magnum Punch"
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 705239,
+          "tcgplayer": 567763
+        }
+      }
+    ],
+    "description": {
+      "ja": "万年雪が 積もる 山脈で 静かに 暮らす。 ブリザードを 発生させて 姿を 隠す。",
+      "zh-tw": "在萬年積雪的山脈靜靜生活。會引發 暴風雪來隱藏自己。",
+      "th": "อาศัยอยู่ในเทือกเขาที่ปกคลุมไปด้วยหิมะหมื่นปีอย่างเงียบ ๆ จะก่อพายุหิมะขึ้นมาเพื่อซ่อนตัว",
+      "id": "Abomasnow tinggal di pegunungan yang diselimuti oleh salju abadi. Pokémon ini menciptakan badai salju untuk menyembunyikan wujudnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SV2P-005",
+    "name": {
+      "ja": "ユキカブリ",
+      "zh-tw": "雪笠怪",
+      "th": "ยูกิคาบูริ",
+      "id": "Snover"
+    },
+    "illustrator": "Taira Akitsu",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      459
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "どつく",
+          "zh-tw": "推擊",
+          "th": "ต่อยตี",
+          "id": "Menohok"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705238,
+          "tcgplayer": 567762
+        }
+      }
+    ],
+    "description": {
+      "ja": "寒い 季節は 山の ふもとまで 降りてくるが 春に なると 雪が 残る 山頂に 戻っていく。",
+      "zh-tw": "在寒冷的季節裡會移動到山腳下，一到春天就會 返回積雪尚存的山頂。",
+      "th": "ในฤดูหนาวจะลงมาจนถึงตีนเขา เมื่อถึงฤดูใบไม้ผลิจะกลับขึ้นไปยังยอดเขาที่ยังมีหิมะเหลืออยู่",
+      "id": "Selama musim dingin, Snover turun ke kaki gunung dan kembali ke puncak yang tertutup salju di musim semi."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SV2P-004",
+    "name": {
+      "ja": "ビークイン",
+      "zh-tw": "蜂女王",
+      "th": "บีควิน",
+      "id": "Vespiquen"
+    },
+    "illustrator": "Megumi Higuchi",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      416
+    ],
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "にどづき",
+          "zh-tw": "二連撞",
+          "th": "พุ่งชนสองครั้ง",
+          "id": "Menusuk Dua Kali"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、オモテの数×30ダメージ。",
+          "zh-tw": "擲2次硬幣，造成正面出現的次數×30點傷害。",
+          "th": "ทอยเหรียญ 2 ครั้ง แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x30",
+          "id": "Lempar koin 2 kali. Serangan ini memberikan kerusakan sejumlah 30 untuk tiap lemparan dengan hasil sisi depan."
+        },
+        "damage": "30×"
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "しゅうげきしれい",
+          "zh-tw": "襲擊指令",
+          "th": "สั่งโจมตีสายฟ้าแลบ",
+          "id": "Perintah Menggempur"
+        },
+        "effect": {
+          "ja": "自分のベンチの「ミツハニー」を1匹選び、そのポケモンと、ついているすべてのカードを、山札にもどして切る。山札にもどせないなら、このワザは失敗。",
+          "zh-tw": "選擇1隻自己的備戰區的「三蜜蜂」，將那隻寶可夢與附加的卡全部放回牌庫並重洗。若無法放回牌庫，則這個招式失敗。",
+          "th": "เลือก [มิทซึฮันนี] บนเบนช์ฝ่ายเรา 1 ตัว นำโปเกมอนนั้น และการ์ดทั้งหมดที่ติดอยู่ ใส่กลับไปในสำรับการ์ดแล้วสับ ถ้าใส่กลับไปในสำรับการ์ดไม่ได้ ท่าต่อสู้นี้จะล้มเหลว",
+          "id": "Pilih 1 Combee di Cadangan sendiri, lalu kocok kembali Pokémon tersebut dan semua kartu yang dikenakannya ke Deck. Jika tidak dapat mengembalikannya ke Deck, serangan ini gagal."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705237,
+          "tcgplayer": 567761
+        }
+      }
+    ],
+    "description": {
+      "ja": "胴体は 子どもたちの 巣穴。 いろんな フェロモンを 出して 子どもたちを 自由に 操る。",
+      "zh-tw": "身體是孩子們的巢穴。會釋放出各式各樣的費洛蒙， 自由自在地控制孩子們。",
+      "th": "ลำตัวของมันคือรังของเหล่าลูก ๆ มันจะปล่อยฟีโรโมนหลากหลายชนิดออกมาเพื่อควบคุมบรรดาลูก ๆ ให้ทำตามที่มันต้องการ",
+      "id": "Tubuh Vespiquen merupakan sarang bagi anak-anaknya. Pokémon ini dapat menghasilkan berbagai macam feromon untuk mengendalikan anak-anaknya sesukanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SV2P-003",
+    "name": {
+      "ja": "ミツハニー",
+      "zh-tw": "三蜜蜂",
+      "th": "มิทซึฮันนี",
+      "id": "Combee"
+    },
+    "illustrator": "Yoriyuki Ikegami",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      415
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ダブルスピン",
+          "zh-tw": "雙重旋轉",
+          "th": "ดับเบิ้ลสปิน",
+          "id": "Double Spin"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、オモテの数×10ダメージ。",
+          "zh-tw": "擲2次硬幣，造成正面出現的次數×10點傷害。",
+          "th": "ทอยเหรียญ 2 ครั้ง แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x10",
+          "id": "Lempar koin 2 kali. Serangan ini memberikan kerusakan sejumlah 10 untuk tiap lemparan dengan hasil sisi depan."
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705236,
+          "tcgplayer": 567760
+        }
+      }
+    ],
+    "description": {
+      "ja": "夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。",
+      "zh-tw": "到了晚上就會有１００隻左右的三蜜蜂集聚成堆， 依偎著彼此睡覺。",
+      "th": "มิทซึฮันนีกว่า 100 ตัวจะซุกตัวนอนกันเป็นก้อนใหญ่ ๆ ในตอนกลางคืน",
+      "id": "Saat malam, sekitar 100 Combee berkumpul dan tidur bersama membentuk gumpalan besar."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SV2P-002",
+    "name": {
+      "ja": "アメモース",
+      "zh-tw": "雨翅蛾",
+      "th": "อาเมมอธ",
+      "id": "Masquerain"
+    },
+    "illustrator": "Haru Akasaka",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      284
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "パニックもよう",
+          "zh-tw": "恐慌花紋",
+          "th": "ลายตื่นตระหนก",
+          "id": "Pola Panik"
+        },
+        "effect": {
+          "ja": "ウラが出るまでコインを投げ、オモテの数ぶん、相手の手札からオモテを見ないで選び、トラッシュする。",
+          "zh-tw": "擲硬幣直到出現反面，在不看手牌正面的情況下，選擇與正面出現的次數相同數量的對手的手牌，將其丟棄。",
+          "th": "ทอยเหรียญจนกว่าจะออกก้อย เลือกการ์ดจากบนมือฝ่ายตรงข้ามโดยไม่ดูหน้าการ์ด ตามจำนวนครั้งที่ออกหัว ทิ้งที่ตำแหน่งทิ้งการ์ด",
+          "id": "Lempar koin hingga hasilnya sisi belakang. Pilih kartu dari Kartu Pegangan lawan tanpa melihat sisi depan untuk tiap lemparan dengan hasil sisi depan, lalu buang ke Trash."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むしのさざめき",
+          "zh-tw": "蟲鳴",
+          "th": "เสียงฮัมของแมลง",
+          "id": "Dengungan Serangga"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705235,
+          "tcgplayer": 567759
+        }
+      }
+    ],
+    "description": {
+      "ja": "４枚の 羽で 浮かび上がり 前後 左右 自由自在に 飛びまわることが できる。",
+      "zh-tw": "能用４片翅膀浮在空中，並前後左右自在地飛來飛去。",
+      "th": "สามารถบินไปรอบ ๆ ขึ้นลงซ้ายขวาได้อย่างอิสระด้วยปีกทั้งสี่",
+      "id": "Masquerain dapat melayang dan terbang ke segala arah secara bebas dengan keempat sayapnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SV2P-001",
+    "name": {
+      "ja": "アメタマ",
+      "zh-tw": "溜溜糖球",
+      "th": "อาเมทามะ",
+      "id": "Surskit"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      283
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "とびかかる",
+          "zh-tw": "猛撲",
+          "th": "กระโจนใส่",
+          "id": "Terjangan"
+        },
+        "effect": {
+          "ja": "コインを1回投げウラなら、このワザは失敗。",
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกก้อย ท่าต่อสู้นี้จะล้มเหลว",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi belakang, serangan ini gagal."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 705234,
+          "tcgplayer": 567758
+        }
+      }
+    ],
+    "description": {
+      "ja": "普段は 池に 棲んでいるが 夕立の 後には 街中の 水たまりに 姿を 現す。",
+      "zh-tw": "平時住在池塘裡，午後下過雷陣雨時， 會出現在街上的小水窪中。",
+      "th": "ปกติจะอาศัยอยู่ในบ่อน้ำ แต่จะปรากฏตัวตามแอ่งน้ำในเมืองหลังฝนยามเย็น",
+      "id": "Biasanya Surskit hidup di kolam, namun ia muncul pada genangan air di tengah kota sesaat setelah hujan malam reda."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SV2P"
+    },
+    "cardNumber": "001"
+  }
+]

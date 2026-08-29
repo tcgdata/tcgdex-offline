@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "pop3-9",
+    "name": {
+      "en": "Forretress",
+      "fr": "Foretress",
+      "de": "Forstellka"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      205
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Toxic",
+          "fr": "Toxik",
+          "de": "Toxin"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns.",
+          "fr": "Le Pokémon Défenseur est maintenant Empoisonné. Placez 2 marqueurs de dégât au lieu d'1 sur le Pokémon Défenseur entre deux tours.",
+          "de": "Das Verteidigende Pokémon ist jetzt vergiftet. Lege zwischen den Zügen 2 Schadensmarken anstelle von 1 Schadensmarke auf das Verteidigende Pokémon."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277457,
+          "tcgplayer": 85549
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop3-8",
+    "name": {
+      "en": "Donphan",
+      "fr": "Donphan",
+      "de": "Donphan"
+    },
+    "illustrator": "Tomoaki Imakuni",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      232
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sniff Out",
+          "fr": "Flairer",
+          "de": "Rumschnüffeln"
+        },
+        "effect": {
+          "en": "Put any 1 card from your discard pile into your hand.",
+          "fr": "Placez n'importe quelle carte de votre pile de défausse dans votre main.",
+          "de": "Wähle 1 Karte aus deinem Ablagestapel und nimm sie auf deine Hand."
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fury Attack",
+          "fr": "Furie",
+          "de": "Furienschlag"
+        },
+        "effect": {
+          "en": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+          "fr": "Lancez 3 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 3 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277456,
+          "tcgplayer": 84874
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop3-7",
+    "name": {
+      "en": "Combusken",
+      "fr": "Galifeu",
+      "de": "Jungglut"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      256
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe",
+          "de": "Kratzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flamethrower",
+          "fr": "Lance-flamme",
+          "de": "Flammenwurf"
+        },
+        "effect": {
+          "en": "Discard a Fire Energy attached to Combusken.",
+          "fr": "Défaussez une Énergie  attachée à Galifeu.",
+          "de": "Entferne eine {R}-Energie von Jungglut und lege sie auf den Ablagestapel."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277455,
+          "tcgplayer": 84405
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop3-6",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali",
+      "de": "Aquana"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Evoli",
+      "de": "Evoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure",
+          "de": "Biss"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Gun",
+          "fr": "Pistolet à O",
+          "de": "Aquaknarre"
+        },
+        "effect": {
+          "en": "Does 30 damage plus 20 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way.",
+          "fr": "Inflige 30 dégâts plus 20 dégâts supplémentaires pour chaque Énergie  attachée à Aquali en plus du coût en Énergie de cette attaque. Vous ne pouvez pas ajouter plus de 40 dégâts de cette façon.",
+          "de": "Dieser Angriff fügt 30 Schadenspunkte plus 20 weitere Schadenspunkte für jede an Aquana angelegte {W}-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde. Es lassen sich so nicht mehr als 40 Schadenspunkte hinzufügen."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277454,
+          "tcgplayer": 90283
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277454,
+          "tcgplayer": 90283
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop3-5",
+    "name": {
+      "en": "Plusle",
+      "fr": "Posipi",
+      "de": "Plusle"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      311
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Cheer Up",
+          "fr": "Courage !",
+          "de": "Aufmuntern"
+        },
+        "effect": {
+          "en": "Draw a card. If you have Minun in play, draw 2 cards instead.",
+          "fr": "Piochez une carte. Si vous avez Négapi en jeu, piochez 2 cartes à la place.",
+          "de": "Ziehe 1 Karte. Wenn du Minun im Spiel hast, ziehe 2 Karten."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Positive Ion",
+          "fr": "Ion positif",
+          "de": "Positives Ion"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Body Bolt",
+          "fr": "« Boulon corporel »",
+          "de": "Bodybolzen"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Pokémon that has any Poké-Bodies. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Choisissez 1 des Pokémon de votre adversaire qui a un Poké-Body. Cette attaque inflige 30 dégâts à ce Pokémon. (N'appliquez pas la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Wähle 1 Pokémon deines Gegners aus, das einen Poké-Body besitzt. Dieser Angriff fügt dem gewählten Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277453,
+          "tcgplayer": 88167
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277453,
+          "tcgplayer": 88167
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop3-4",
+    "name": {
+      "en": "Minun",
+      "fr": "Négapi",
+      "de": "Minun"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      312
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Cheer Up",
+          "fr": "Courage !",
+          "de": "Aufmuntern"
+        },
+        "effect": {
+          "en": "Draw a card. If you have Plusle in play, draw 2 cards instead.",
+          "fr": "Piochez une carte. Si vous avez Posipi en jeu, piochez 2 cartes à la place.",
+          "de": "Ziehe 1 Karte. Wenn du Plusle im Spiel hast, ziehe 2 Karten."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Negative Ion",
+          "fr": "Ion négatif",
+          "de": "Negatives Ion"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance).",
+          "fr": "Lors du prochain tour de votre adversaire, tous dégâts infligés par des attaques du Pokémon Défenseur sont réduits de 10 (avant application de la Faiblesse et de la Résistance).",
+          "de": "Während des nächsten Zuges deines Gegners werden alle Schadenspunkte, die vom Verteidigenden Pokémon zugefügt werden, um 10 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden)."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Power Bolt",
+          "fr": "« Boulon d'alimentation »",
+          "de": "Powerbolzen"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Pokémon that has any Poké-Powers. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Choisissez 1 des Pokémon de votre adversaire qui a un Poké-Power. Cette attaque inflige 30 dégâts à ce Pokémon. (N'appliquez pas la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Wähle 1 Pokémon deines Gegners aus, das eine Poké-Power besitzt. Dieser Angriff fügt dem gewählten Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277452,
+          "tcgplayer": 87487
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277452,
+          "tcgplayer": 87487
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop3-3",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali",
+      "de": "Blitza"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Evoli",
+      "de": "Evoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thundershock",
+          "fr": "Éclair",
+          "de": "Donnerschock"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pin Missile",
+          "fr": "Dard-nuée",
+          "de": "Nadelrakete"
+        },
+        "effect": {
+          "en": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "fr": "Lancez 4 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de faces.",
+          "de": "Wirf 4 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277451,
+          "tcgplayer": 86342
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277451,
+          "tcgplayer": 86342
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop3-2",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli",
+      "de": "Flamara"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Evoli",
+      "de": "Evoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "fr": "Danseflamme",
+          "de": "Feuerwirbel"
+        },
+        "effect": {
+          "en": "Discard 2 basic Energy cards attached to Flareon or this attack does nothing.",
+          "fr": "Défaussez 2 cartes Énergie de base attachées à Pyroli ou cette attaque est sans effet.",
+          "de": "Entferne 2 Basis-Energiekarten von Flamara und lege sie auf den Ablagestapel, sonst hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277450,
+          "tcgplayer": 85495
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277450,
+          "tcgplayer": 85495
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop3-17",
+    "name": {
+      "en": "Ho-Oh ex",
+      "fr": "Ho-Oh ex",
+      "de": "Ho-oh-ex"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      250
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Golden Wing",
+          "fr": "Aile dorée",
+          "de": "Goldener Flügel"
+        },
+        "effect": {
+          "en": "If Ho-Oh ex would be Knocked Out by damage from an opponent's attack, you may move up to 2 Energy attached to Ho-Oh ex to your Pokémon in any way you like.",
+          "fr": "Si Ho-Oh ex doit être mis K.O par les dégâts d'une attaque de votre adversaire, vous pouvez déplacer jusqu'à 2 Énergies attachées à Ho-Oh ex sur vos Pokémon, de la façon que vous voulez.",
+          "de": "Wenn Ho-Oh ex durch die Schadenspunkte eines gegnerischen Angriffs kampfunfähig gemacht würde, kannst du bis zu 2 Energiekarten, die an Ho-Oh ex angelegt sind, auf beliebige Weise an deine Pokémon anlegen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rainbow Burn",
+          "fr": "Brûlure arcenciel",
+          "de": "Regenbogenfeuer"
+        },
+        "effect": {
+          "en": "Does 10 damage plus 20 more damage for each type of basic Energy card attached to Ho-Oh ex.",
+          "fr": "Inflige 10 dégâts plus 20 dégâts supplémentaires pour chaque type de carte Énergie de base attaché à Ho-Oh ex.",
+          "de": "Dieser Angriff fügt 10 Schadenspunkte plus 20 weitere Schadenspunkte für jede unterschiedliche Sorte Basis-Energiekarten, die an Ho-Oh ex angelegt sind, zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277465,
+          "tcgplayer": 86129
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277465,
+          "tcgplayer": 97809
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "suffix": "EX",
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop3-16",
+    "name": {
+      "en": "Pichu Bros.",
+      "fr": "Pichu Bros.",
+      "de": "Gebrüder Pichu"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      172
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Bustle",
+          "fr": "Remue-ménage",
+          "de": "Hetzen"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 20 damage times the number of heads. If either coin is heads, the Defending Pokémon is now Confused.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de faces. Si vous obtenez au moins 1 face, le Pokémon Défenseur est maintenant Confus.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu. Wenn mindestens einer der Würfe „Kopf“ zeigt, ist das Verteidigende Pokémon jetzt verwirrt."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277464,
+          "tcgplayer": 88024
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop3-15",
+    "name": {
+      "en": "Marshtomp",
+      "fr": "Flobio",
+      "de": "Moorabbel"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      259
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Mudkip",
+      "fr": "Gobou",
+      "de": "Hydropi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Mud Slap",
+          "fr": "Coud'boue",
+          "de": "Lehmschelle"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double-edge",
+          "fr": "Damoclès",
+          "de": "Austeiler"
+        },
+        "effect": {
+          "en": "Marshtomp does 10 damage to itself.",
+          "fr": "Flobio s'inflige 10 dégâts.",
+          "de": "Moorabbel fügt sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277463,
+          "tcgplayer": 87236
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop3-14",
+    "name": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre",
+      "de": "Bisaknosp"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      2
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gouge",
+          "fr": "Griffes rétractiles",
+          "de": "Klauen ausfahren"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Poisonpowder",
+          "fr": "Poudre Toxik",
+          "de": "Giftpuder"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Poisoned.",
+          "fr": "Le Pokémon Défenseur est maintenant Empoisonné.",
+          "de": "Das Verteidigende Pokémon ist jetzt vergiftet."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277462,
+          "tcgplayer": 86299
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop3-13",
+    "name": {
+      "en": "Eevee",
+      "fr": "Evoli",
+      "de": "Evoli"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Take Down",
+          "fr": "Bélier",
+          "de": "Bodycheck"
+        },
+        "effect": {
+          "en": "Eevee does 10 damage to itself.",
+          "fr": "Evoli s'inflige 10 dégâts.",
+          "de": "Evoli fügt sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277461,
+          "tcgplayer": 85083
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop3-12",
+    "name": {
+      "en": "Ditto",
+      "fr": "Métamorph",
+      "de": "Ditto"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      132
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Duplicate",
+          "fr": "Duplicata",
+          "de": "Duplizieren"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can’t use more than 1 Duplicate Poké-Power each turn.",
+          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez chercher dans votre deck un autre Metamorph et l'échanger avec Metamorph. (Toutes les cartes attachées à Metamorph, marqueurs de dégât, États Spéciaux et autres effets se trouvent maintenant sur le nouveau Pokémon.) Placez alors Metamorph au dessus de votre deck. Ensuite, mélangez votre deck. Vous ne pouvez pas utiliser plus d'1 Poké-Power Duplicata par tour.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du dein Deck nach einer anderen Ditto Karte durchsuchen und diese gegen Ditto austauschen. (Alle an Ditto angelegten Karten sowie Schadensmarken, Spezielle Zustände und Effekte auf Ditto werden auf das neue Ditto übertragen.) Wenn du dies machst, lege Ditto auf dein Deck. Mische dein Deck danach. Du kannst nicht mehr als 1 Duplizieren Poké-Power pro Zug einsetzen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psybeam",
+          "fr": "Rafale psy",
+          "de": "Psystrahl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277460,
+          "tcgplayer": 84842
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop3-11",
+    "name": {
+      "en": "Low Pressure System",
+      "fr": "Système à basse pression",
+      "de": "Tiefdrucksystem"
+    },
+    "illustrator": "Shin-ichi Yoshikawa",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "en": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card. Each Grass and Lightning Pokémon in play (both yours and your opponent's) gets +10 HP.",
+      "fr": "Cette carte reste en jeu lorsque vous la jouez. Défaussez-la si une autre carte Stade est mise en jeu. Si une autre carte comportant le même nom est en jeu, vous ne pouvez pas jouer cette carte.\n\nChaque Pokémon  et  en jeu (les vôtres et ceux de votre adversaire) obtient 10 PV de plus.",
+      "de": "Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadion-Karte ins Spiel kommt. Wenn sich bereits eine Karte mit diesem Namen im Spiel befindet, kannst du diese Karte nicht spielen. Alle {G} und {L} Pokémon im Spiel (deine und die deines Gegners) erhalten + 10 KP."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277459,
+          "tcgplayer": 86847
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop3-10",
+    "name": {
+      "en": "High Pressure System",
+      "fr": "Système à haute pression",
+      "de": "Hochdrucksystem"
+    },
+    "illustrator": "Ken Ikuji",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "en": "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card. Each player pays Colorless less to retreat his or her Fire and Water Pokémon.",
+      "fr": "Cette carte reste en jeu lorsque vous la jouez. Défaussez-la si une autre carte Stade est mise en jeu. Si une autre carte comportant le même nom est en jeu, vous ne pouvez pas jouer cette carte.\n\nChaque joueur ne paye pas de  pour faire battre en retraite ses Pokémon  et .",
+      "de": "Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadion-Karte ins Spiel kommt. Wenn sich bereits eine Karte mit diesem Namen im Spiel befindet, kannst du diese Karte nicht spielen. Jeder Spieler bezahlt {C} weniger, um seine {R} und {W} Pokémon zurückzuziehen."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277458,
+          "tcgplayer": 86077
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop3-1",
+    "name": {
+      "en": "Blastoise",
+      "fr": "Tortank",
+      "de": "Turtok"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      9
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Wartortle",
+      "fr": "Carabaffe",
+      "de": "Schillok"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Smash Turn",
+          "fr": "Tour fracassant",
+          "de": "Abdrehender Schmetterer"
+        },
+        "effect": {
+          "en": "After your attack, you may switch Blastoise with 1 of your Benched Pokémon.",
+          "fr": "Après votre attaque, vous pouvez échanger Tortank avec 1 des Pokémon de votre Banc.",
+          "de": "Nach deinem Angriff kannst du Turtok gegen 1 Pokémon auf deiner Bank austauschen."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rocket Tackle",
+          "fr": "Lance roquette",
+          "de": "Raketenstart"
+        },
+        "effect": {
+          "en": "Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Blastoise by attacks during your opponent's next turn.",
+          "fr": "Tortank s'inflige 10 dégâts. Lancez une pièce. Si c'est face, prévenez tous les dégâts infligés à Tortank par des attaques lors du prochain tour de votre adversaire.",
+          "de": "Turtok fügt sich selbst 10 Schadenspunkte zu. Wirf 1 Münze. Verhindere bei „Kopf“ allen Schaden, der Turtok während des nächsten Zuges durch Angriffe deines Gegners zugefügt wird."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277449,
+          "tcgplayer": 83891
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277449,
+          "tcgplayer": 83891
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop3"
+    },
+    "cardNumber": "1"
+  }
+]

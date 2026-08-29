@@ -1,0 +1,3986 @@
+[
+  {
+    "id": "sm115-9",
+    "name": {
+      "en": "Charizard GX",
+      "fr": "Dracaufeu-GX",
+      "de": "Glurak-GX"
+    },
+    "illustrator": "aky CG Works",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      6
+    ],
+    "hp": 250,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charmeleon",
+      "fr": "Reptincel",
+      "de": "Glutexo"
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flamethrower",
+          "fr": "Lance-Flammes",
+          "de": "Flammenwurf"
+        },
+        "damage": 140
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare Blitz GX",
+          "fr": "Boutefeu-GX",
+          "de": "Flammenblitz-GX"
+        },
+        "effect": {
+          "en": "(You can’t use more than 1 GX attack in a game.)",
+          "fr": "(Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 300
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 381243,
+      "tcgplayer": 197651
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "sm115-8",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel",
+      "de": "Glutexo"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      5
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "de": "Glumanda"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slash",
+          "fr": "Tranche",
+          "de": "Schlitzer"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flamethrower",
+          "fr": "Lance-Flammes",
+          "de": "Flammenwurf"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+      "de": "Es schlägt im Kampf mit seinem Schwanz nach seinen Gegnern. Anschließend zerfetzt es die Gegner mit seinen scharfen Klauen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394802,
+      "tcgplayer": 197650
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "sm115-7",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "de": "Glumanda"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Gnaw",
+          "fr": "Ronge",
+          "de": "Nagen"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare",
+          "fr": "Flamboiement",
+          "de": "Flackern"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "de": "Die Flamme auf seiner Schweifspitze zeigt die Lebensenergie an. Ist es gesund, leuchtet sie hell."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394692,
+      "tcgplayer": 197649
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "sm115-69",
+    "name": {
+      "en": "Moltres & Zapdos & Articuno GX",
+      "fr": "Sulfura, Électhor et Artikodin-GX",
+      "de": "Lavados & Zapdos & Arktos-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Trinity Burn",
+          "fr": "Triple Brûlure",
+          "de": "Dreiheitsbrand"
+        },
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky Legends GX",
+          "fr": "Légendes Célestes GX",
+          "de": "Legenden der Lüfte GX"
+        },
+        "effect": {
+          "en": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck. Si au moins une Énergie Fire, Water et Lightning supplémentaire sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 110 dégâts à 3 des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Mische dieses Pokémon und alle an es angelegten Karten in dein Deck. Wenn an dieses Pokémon mindestens 1 extra {R}-, {W}- und {L}-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 3 Pokémon deines Gegners 110 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "TAG TEAM-GX",
+    "thirdParty": {
+      "cardmarket": 396687,
+      "tcgplayer": 197728
+    },
+    "cardNumber": "69"
+  },
+  {
+    "id": "sm115-68",
+    "name": {
+      "en": "Jessie & James",
+      "fr": "Jessie et James",
+      "de": "Jessie & James"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Chaque joueur défausse 2 cartes de sa main. Votre adversaire défausse en premier.",
+      "en": "Each player discards 2 cards from their hand. Your opponent discards first.",
+      "de": "Jeder Spieler legt 2 Karten aus seiner Hand auf seinen Ablagestapel. Dein Gegner legt als Erster ab. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396682,
+      "tcgplayer": 197732
+    },
+    "cardNumber": "68"
+  },
+  {
+    "id": "sm115-67",
+    "name": {
+      "en": "Giovanni’s Exile",
+      "fr": "Exil de Giovanni",
+      "de": "Giovannis Exil"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Défaussez jusqu’à 2 de vos Pokémon de Banc qui n’ont pas de marqueurs de dégâts, ainsi que toutes les cartes qui leur sont attachées.",
+      "en": "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+      "de": "Lege bis zu 2 Pokémon auf deiner Bank, auf denen keine Schadensmarken liegen, und alle an sie angelegten Karten auf deinen Ablagestapel. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "67"
+  },
+  {
+    "id": "sm115-66",
+    "name": {
+      "en": "Moltres & Zapdos & Articuno GX",
+      "fr": "Sulfura, Électhor et Artikodin-GX",
+      "de": "Lavados & Zapdos & Arktos-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Trinity Burn",
+          "fr": "Triple Brûlure",
+          "de": "Dreiheitsbrand"
+        },
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky Legends GX",
+          "fr": "Légendes Célestes GX",
+          "de": "Legenden der Lüfte GX"
+        },
+        "effect": {
+          "en": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck. Si au moins une Énergie Fire, Water et Lightning supplémentaire sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 110 dégâts à 3 des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Mische dieses Pokémon und alle an es angelegten Karten in dein Deck. Wenn an dieses Pokémon mindestens 1 extra {R}-, {W}- und {L}-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 3 Pokémon deines Gegners 110 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "TAG TEAM-GX",
+    "thirdParty": {
+      "cardmarket": 396672,
+      "tcgplayer": 197726
+    },
+    "cardNumber": "66"
+  },
+  {
+    "id": "sm115-65",
+    "name": {
+      "en": "Sabrina’s Suggestion",
+      "fr": "Suggestion de Morgane",
+      "de": "Sabrinas Vorschlag"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Votre adversaire dévoile sa main. Vous pouvez choisir une carte Supporter que vous y trouvez et utiliser son effet en tant qu’effet de cette carte.",
+      "en": "Your opponent reveals their hand. You may choose a Supporter card you find there and use the effect of that card as the effect of this card.",
+      "de": "Dein Gegner zeigt dir seine Handkarten. Du kannst 1 Unterstützerkarte, die du dort findest, wählen und den Effekt jener Karte als Effekt dieser Karte einsetzen. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "65"
+  },
+  {
+    "id": "sm115-64",
+    "name": {
+      "en": "Pokémon Center Lady",
+      "fr": "Dame du Centre Pokémon",
+      "de": "Pokémon-Center-Dame"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Soignez 60 dégâts et retirez tous les États Spéciaux de l’un de vos Pokémon.",
+      "en": "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
+      "de": "Heile 60 Schadenspunkte bei 1 deiner Pokémon. Alle Speziellen Zustände auf diesem Pokémon verlieren ihre Wirkung. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394612
+    },
+    "cardNumber": "64"
+  },
+  {
+    "id": "sm115-63",
+    "name": {
+      "en": "Misty’s Water Command",
+      "fr": "Maîtrise Aquatique d’Ondine",
+      "de": "Mistys Wasserkontrolle"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Déplacez autant d’Énergies Water que vous le voulez de vos Pokémon vers vos Psykokwak, Hypotrempe, Stari, Staross-GX, Magicarpe, Léviator ou Lokhlass, de la manière que vous voulez.",
+      "en": "Move any number of Water Energy from your Pokémon to your Psyduck, Horsea, Staryu, Starmie-GX, Magikarp, Gyarados, or Lapras in any way you like.",
+      "de": "Verschiebe beliebig viele {W}-Energien von deinen Pokémon beliebig auf deine Enton, Seeper, Sterndu, Starmie-GX, Karpador, Garados oder Lapras. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "63"
+  },
+  {
+    "id": "sm115-62",
+    "name": {
+      "en": "Misty’s Determination",
+      "fr": "Détermination d’Ondine",
+      "de": "Mistys Entschlossenheit"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Défaussez une carte de votre main. Dans ce cas, regardez les 8 cartes du dessus de votre deck, puis ajoutez l’une d’entre elles à votre main. Mélangez les autres cartes avec votre deck.",
+      "en": "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+      "de": "Lege 1 Karte von deiner Hand auf deinen Ablagestapel. Wenn du das machst, schau dir die obersten 8 Karten deines Decks an und nimm 1 davon auf deine Hand. Mische die anderen Karten anschließend in dein Deck. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "62"
+  },
+  {
+    "id": "sm115-61",
+    "name": {
+      "en": "Misty’s Cerulean City Gym",
+      "fr": "Arène d’Azuria d’Ondine",
+      "de": "Mistys Azuria-Arena"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "fr": "Les attaques des Staross-GX (les vôtres et ceux de votre adversaire) infligent 40 dégâts supplémentaires au Pokémon Actif de l’adversaire (avant application de la Faiblesse et de la Résistance).",
+      "en": "The attacks of Starmie-GX (both yours and your opponent’s) do 40 more damage to the opponent’s Active Pokémon (before applying Weakness and Resistance).",
+      "de": "Die Attacken von Starmie-GX (deinen und denen deines Gegners) fügen dem Aktiven Pokémon des Gegners 40 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden). Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadionkarte ins Spiel kommt. Wenn eine andere Karte mit dem gleichen Namen im Spiel ist, kannst du diese Karte nicht spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "61"
+  },
+  {
+    "id": "sm115-60",
+    "name": {
+      "en": "Lt. Surge’s Strategy",
+      "fr": "Stratégie de Major Bob",
+      "de": "Major Bobs Strategie"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Vous ne pouvez jouer cette carte que s’il vous reste plus de cartes Récompense qu’à votre adversaire.\n\nPendant ce tour, vous pouvez jouer 3 cartes Supporter (y compris cette carte).",
+      "en": "You can play this card only if you have more Prize cards remaining than your opponent.\n\nDuring this turn, you can play 3 Supporter cards (including this card).",
+      "de": "Du kannst diese Karte nur spielen, wenn du mehr verbleibende Preiskarten hast als dein Gegner. Du kannst während dieses Zuges 3 Unterstützerkarten (einschließlich dieser Karte) spielen. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "60"
+  },
+  {
+    "id": "sm115-6",
+    "name": {
+      "en": "Pinsir GX",
+      "fr": "Scarabrute-GX",
+      "de": "Pinsir-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      127
+    ],
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Superpowered Horns",
+          "fr": "Cornes Surpuissantes",
+          "de": "Superstarke Hörner"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Guillotine GX",
+          "fr": "Guillotine-GX",
+          "de": "Guillotine-GX"
+        },
+        "effect": {
+          "en": "(You can’t use more than 1 GX attack in a game.)",
+          "fr": "(Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 394787,
+      "tcgplayer": 197648
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "sm115-59",
+    "name": {
+      "en": "Koga’s Trap",
+      "fr": "Piège de Koga",
+      "de": "Kogas Falle"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus et Empoisonné.",
+      "en": "Your opponent’s Active Pokémon is now Confused and Poisoned.",
+      "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt und vergiftet. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "59"
+  },
+  {
+    "id": "sm115-58",
+    "name": {
+      "en": "Jessie & James",
+      "fr": "Jessie et James",
+      "de": "Jessie & James"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Chaque joueur défausse 2 cartes de sa main. Votre adversaire défausse en premier.",
+      "en": "Each player discards 2 cards from their hand. Your opponent discards first.",
+      "de": "Jeder Spieler legt 2 Karten aus seiner Hand auf seinen Ablagestapel. Dein Gegner legt als Erster ab. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 381225,
+      "tcgplayer": 197711
+    },
+    "cardNumber": "58"
+  },
+  {
+    "id": "sm115-57",
+    "name": {
+      "en": "Giovanni’s Exile",
+      "fr": "Exil de Giovanni",
+      "de": "Giovannis Exil"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Défaussez jusqu’à 2 de vos Pokémon de Banc qui n’ont pas de marqueurs de dégâts, ainsi que toutes les cartes qui leur sont attachées.",
+      "en": "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+      "de": "Lege bis zu 2 Pokémon auf deiner Bank, auf denen keine Schadensmarken liegen, und alle an sie angelegten Karten auf deinen Ablagestapel. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "57"
+  },
+  {
+    "id": "sm115-56",
+    "name": {
+      "en": "Erika’s Hospitality",
+      "fr": "Hospitalité d’Erika",
+      "de": "Erikas Gastfreundschaft"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Vous ne pouvez jouer cette carte que si vous avez 4 autres cartes ou moins dans votre main.\n\nPiochez une carte pour chacun des Pokémon en jeu de votre adversaire.",
+      "en": "You can play this card only if you have 4 or fewer other cards in your hand.\n\nDraw a card for each of your opponent’s Pokémon in play.",
+      "de": "Du kannst diese Karte nur spielen, wenn du 4 oder weniger andere Karten auf deiner Hand hast. Ziehe 1 Karte für jedes Pokémon deines Gegners im Spiel. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "56"
+  },
+  {
+    "id": "sm115-55",
+    "name": {
+      "en": "Brock’s Training",
+      "fr": "Entraînement de Pierre",
+      "de": "Rockos Training"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Attachez une carte Énergie de votre main à l’un de vos Racaillou, Gravalanch, Grolem, Onix-GX, Osselait, Rhinocorne, Rhinoféros ou Simularbre.",
+      "en": "Attach an Energy card from your hand to 1 of your Geodude, Graveler, Golem, Onix-GX, Cubone, Rhyhorn, Rhydon, or Sudowoodo.",
+      "de": "Lege 1 Energiekarte aus deiner Hand an 1 deiner Kleinstein, Georok, Geowaz, Onix-GX, Tragosso, Rihorn, Rizeros oder Mogelbaum an. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "55"
+  },
+  {
+    "id": "sm115-54",
+    "name": {
+      "en": "Brock’s Pewter City Gym",
+      "fr": "Arène d’Argenta de Pierre",
+      "de": "Rockos Marmoria-Arena"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "fr": "Les Onix-GX (les vôtres et ceux de votre adversaire) subissent 40 dégâts de moins des attaques de l’adversaire (après application de la Faiblesse et de la Résistance).",
+      "en": "Onix-GX (both yours and your opponent’s) take 40 less damage from the opponent’s attacks (after applying Weakness and Resistance).",
+      "de": "Onix-GX (deinen und denen deines Gegners) werden durch Attacken des Gegners 40 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden). Diese Karte bleibt im Spiel, wenn du sie spielst. Lege diese Karte ab, sobald eine weitere Stadionkarte ins Spiel kommt. Wenn eine andere Karte mit dem gleichen Namen im Spiel ist, kannst du diese Karte nicht spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "54"
+  },
+  {
+    "id": "sm115-53",
+    "name": {
+      "en": "Brock’s Grit",
+      "fr": "Vaillance de Pierre",
+      "de": "Rockos Durchhaltevermögen"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Choisissez une combinaison de 6 cartes Pokémon et cartes Énergie de base dans votre pile de défausse et mélangez-les avec votre deck.",
+      "en": "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+      "de": "Mische eine beliebige Kombination aus 6 Pokémon und Basis-Energiekarten aus deinem Ablagestapel in dein Deck. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "53"
+  },
+  {
+    "id": "sm115-52",
+    "name": {
+      "en": "Blaine’s Last Stand",
+      "fr": "Dernière Chance d’Auguste",
+      "de": "Pyros letzter Widerstand"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Vous ne pouvez jouer cette carte que si c’est votre dernière carte en main.\n\nPiochez 2 cartes pour chacun de vos Pokémon Fire en jeu.",
+      "en": "You can play this card only when it is the last card in your hand.\n\nDraw 2 cards for each Fire Pokémon you have in play.",
+      "de": "Du kannst diese Karte nur spielen, wenn sie die letzte Karte auf deiner Hand ist. Ziehe 2 Karten für jedes {R}-Pokémon, das du im Spiel hast. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "52"
+  },
+  {
+    "id": "sm115-51",
+    "name": {
+      "en": "Bill’s Analysis",
+      "fr": "Analyse de Léo",
+      "de": "Bills Analyse"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Regardez les 7 cartes du dessus de votre deck. Vous pouvez montrer jusqu’à 2 cartes Dresseur que vous y trouvez, puis les ajouter à votre main. Mélangez les autres cartes avec votre deck.",
+      "en": "Look at the top 7 cards of your deck. You may reveal up to 2 Trainer cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+      "de": "Schau dir die obersten 7 Karten deines Decks an. Du kannst bis zu 2 Trainerkarten, die du dort findest, deinem Gegner zeigen und auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck. Du kannst während deines Zuges (bevor du angreifst) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "51"
+  },
+  {
+    "id": "sm115-50",
+    "name": {
+      "en": "Snorlax",
+      "fr": "Ronflex",
+      "de": "Relaxo"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      143
+    ],
+    "hp": 150,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Incredible Snore",
+          "fr": "Ronflement Incroyable",
+          "de": "Lautes Schnarchen"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It doesn't do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+      "de": "Wenn es nicht gerade frisst, dann schläft es. Macht es aber einmal Ernst, ist Schluss mit lustig."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396652,
+      "tcgplayer": 197696
+    },
+    "cardNumber": "50"
+  },
+  {
+    "id": "sm115-5",
+    "name": {
+      "en": "Scyther",
+      "fr": "Insécateur",
+      "de": "Sichlor"
+    },
+    "illustrator": "Hasuno",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      123
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Slash",
+          "fr": "Tranche",
+          "de": "Schlitzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sharp Scythe",
+          "fr": "Faucille Acérée",
+          "de": "Scharfe Sense"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+      "de": "Seine scharfen Sicheln sind nicht nur Waffen. Vor einer Mahlzeit filetiert es damit auch geschickt seine Beute."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394672,
+      "tcgplayer": 197647
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "sm115-49",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "de": "Evoli"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gnaw",
+          "fr": "Ronge",
+          "de": "Nagen"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
+      "de": "Nach derzeitigem Forschungsstand kann es sich zu acht verschiedenen Pokémon entwickeln."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396647,
+      "tcgplayer": 197694
+    },
+    "cardNumber": "49"
+  },
+  {
+    "id": "sm115-48",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "de": "Evoli"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Curiosity",
+          "fr": "Curiosité",
+          "de": "Neugier"
+        },
+        "effect": {
+          "en": "Your opponent reveals their hand.",
+          "fr": "Votre adversaire dévoile sa main.",
+          "de": "Dein Gegner zeigt dir seine Handkarten."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spin Tackle",
+          "fr": "Charge Tournoyante",
+          "de": "Dreh-Tackle"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this Pokémon does 10 damage to itself.",
+          "fr": "Lancez une pièce. Si c’est pile, ce Pokémon s’inflige 10 dégâts.",
+          "de": "Wirf 1 Münze. Bei Zahl fügt sich dieses Pokémon selbst 10 Schadenspunkte zu."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The question of why only Eevee has such unstable genes has still not been solved.",
+      "de": "Evoli ist das einzige Pokémon mit einem höchst instabilen Erbmaterial. Die Ursache dafür ist nach wie vor unklar."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394587,
+      "tcgplayer": 197693
+    },
+    "cardNumber": "48"
+  },
+  {
+    "id": "sm115-47",
+    "name": {
+      "en": "Kangaskhan",
+      "fr": "Kangourex",
+      "de": "Kangama"
+    },
+    "illustrator": "You Iribi",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      115
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Parental Fury",
+          "fr": "Fureur Maternelle",
+          "de": "Mütterliche Rage"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. This attack does 40 damage for each heads.",
+          "fr": "Lancez une pièce jusqu’à ce que vous obteniez un côté pile. Cette attaque inflige 40 dégâts pour chaque côté face.",
+          "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu."
+        },
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
+      "de": "Sein Junges beschützt es in seinem Beutel. Wer dieses verwundet, den erwarten Kangamas Groll und eine rücksichtslose Tracht Prügel."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396642,
+      "tcgplayer": 197692
+    },
+    "cardNumber": "47"
+  },
+  {
+    "id": "sm115-46",
+    "name": {
+      "en": "Chansey",
+      "fr": "Leveinard",
+      "de": "Chaneira"
+    },
+    "illustrator": "sowsow",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      113
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double-Edge",
+          "fr": "Damoclès",
+          "de": "Risikotackle"
+        },
+        "effect": {
+          "en": "This Pokémon does 20 damage to itself.",
+          "fr": "Ce Pokémon s’inflige 20 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 20 Schadenspunkte zu."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It seems that other Pokémon's efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+      "de": "Es hat gelernt, rasch davonzulaufen, da es viele Pokémon auf die nahrhaften und köstlichen Eier abgesehen haben, die es legt."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394712,
+      "tcgplayer": 197691
+    },
+    "cardNumber": "46"
+  },
+  {
+    "id": "sm115-45",
+    "name": {
+      "en": "Farfetch’d",
+      "fr": "Canarticho",
+      "de": "Porenta"
+    },
+    "illustrator": "Eri Yamaki",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      83
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leek Slap",
+          "fr": "Coup d’Oignon",
+          "de": "Lauchschlag"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+      "de": "Dieses Pokémon nutzt eine Lauchstange als Waffe. Es setzt sie wie ein Schwert ein."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "cardNumber": "45"
+  },
+  {
+    "id": "sm115-44",
+    "name": {
+      "en": "Moltres & Zapdos & Articuno GX",
+      "fr": "Sulfura, Électhor et Artikodin-GX",
+      "de": "Lavados & Zapdos & Arktos-GX"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      146,
+      145,
+      144
+    ],
+    "hp": 300,
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Trinity Burn",
+          "fr": "Triple Brûlure",
+          "de": "Dreiheitsbrand"
+        },
+        "damage": 210
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky Legends GX",
+          "fr": "Légendes Célestes GX",
+          "de": "Legenden der Lüfte GX"
+        },
+        "effect": {
+          "en": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack’s cost), this attack does 110 damage to 3 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.) (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck. Si au moins une Énergie Fire, Water et Lightning supplémentaire sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 110 dégâts à 3 des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Mische dieses Pokémon und alle an es angelegten Karten in dein Deck. Wenn an dieses Pokémon mindestens 1 extra {R}-, {W}- und {L}-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 3 Pokémon deines Gegners 110 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "TAG TEAM-GX",
+    "thirdParty": {
+      "cardmarket": 381222,
+      "tcgplayer": 197688
+    },
+    "cardNumber": "44"
+  },
+  {
+    "id": "sm115-43",
+    "name": {
+      "en": "Mr. Mime",
+      "fr": "M. Mime",
+      "de": "Pantimos"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      122
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Happy Mime",
+          "fr": "Mime Heureux",
+          "de": "Fröhlicher Pantomime"
+        },
+        "effect": {
+          "en": "Each player draws a card.",
+          "fr": "Chaque joueur pioche une carte.",
+          "de": "Jeder Spieler zieht 1 Karte."
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy"
+        ],
+        "name": {
+          "en": "Double Slap",
+          "fr": "Torgnoles",
+          "de": "Duplexhieb"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 40 damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts pour chaque côté face.",
+          "de": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu."
+        },
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+      "de": "Sein Können als Pantomime ist verblüffend. Vor lauter Bewunderung merkt man gar nicht, wie plötzlich eine echte Wand vor einem erscheint."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396637,
+      "tcgplayer": 197687
+    },
+    "cardNumber": "43"
+  },
+  {
+    "id": "sm115-42",
+    "name": {
+      "en": "Wigglytuff GX",
+      "fr": "Grodoudou-GX",
+      "de": "Knuddeluff-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      40
+    ],
+    "hp": 210,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou",
+      "de": "Pummeluff"
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rolling Rush",
+          "fr": "Ruée-Boulée",
+          "de": "Rollender Ansturm"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "fr": "Lancez une pièce jusqu’à ce que vous obteniez un côté pile. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis Zahl kommt. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu."
+        },
+        "damage": "100+"
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Lovely Star GX",
+          "fr": "Belle Étoile-GX",
+          "de": "Lieblicher Star GX"
+        },
+        "effect": {
+          "en": "Heal all damage from this Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Soignez tous les dégâts de ce Pokémon. (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Heile allen Schaden bei diesem Pokémon. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 396632,
+      "tcgplayer": 197686
+    },
+    "cardNumber": "42"
+  },
+  {
+    "id": "sm115-41",
+    "name": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou",
+      "de": "Pummeluff"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      39
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Singing Voice",
+          "fr": "Voix Harmonieuse",
+          "de": "Gesangsstimme"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rollout",
+          "fr": "Roulade",
+          "de": "Walzer"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Recordings of Jigglypuff's strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+      "de": "In der Bettenabteilung von Kaufhäusern erhält man auch CDs mit Pummeluffs wundersam einlullendem Gesang."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394602,
+      "tcgplayer": 197685
+    },
+    "cardNumber": "41"
+  },
+  {
+    "id": "sm115-40",
+    "name": {
+      "en": "Clefable",
+      "fr": "Mélodelfe",
+      "de": "Pixi"
+    },
+    "illustrator": "sui",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      36
+    ],
+    "hp": 120,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "de": "Piepi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras’Face",
+          "de": "Pfund"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Moon Impact",
+          "fr": "Impact Lunaire",
+          "de": "Mondeinschlag"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It can't help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren't many people or Pokémon.",
+      "de": "Es hört eine fallende Nadel aus 1 km Entfernung und lebt daher tief in den Bergen, weit weg vom Lärm der Menschen und anderer Pokémon."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394667,
+      "tcgplayer": 197684
+    },
+    "cardNumber": "40"
+  },
+  {
+    "id": "sm115-4",
+    "name": {
+      "en": "Paras",
+      "fr": "Paras",
+      "de": "Paras"
+    },
+    "illustrator": "OOYAMA",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      46
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe",
+          "de": "Kratzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slash",
+          "fr": "Tranche",
+          "de": "Schlitzer"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Whether it's due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don't grow up quite right.",
+      "de": "In Alola sind Paras’ Pilze etwas unterentwickelt. Vielleicht mangelt es ihm hier an Feuchtigkeit oder Nährstoffen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394687,
+      "tcgplayer": 197646
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "sm115-39",
+    "name": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "de": "Piepi"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras’Face",
+          "de": "Pfund"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Moon Dance",
+          "fr": "Danse à la Lune",
+          "de": "Mondtanz"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+      "de": "Dieses beliebte Pokémon hat Seltenheitswert. Wer leichtsinnig damit prahlt, eins zu haben, könnte in das Visier von Dieben geraten."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394597,
+      "tcgplayer": 197683
+    },
+    "cardNumber": "39"
+  },
+  {
+    "id": "sm115-38",
+    "name": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "de": "Piepi"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Lead",
+          "fr": "Mentor",
+          "de": "Führen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "fr": "Lancez une pièce. Si c’est face, cherchez une carte Supporter dans votre deck, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+          "de": "Wirf 1 Münze. Durchsuche bei Kopf dein Deck nach 1 Unterstützerkarte, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras’Face",
+          "de": "Pfund"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+      "de": "Dieses beliebte Pokémon hat Seltenheitswert. Wer leichtsinnig damit prahlt, eins zu haben, könnte in das Visier von Dieben geraten."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394597,
+      "tcgplayer": 197682
+    },
+    "cardNumber": "38"
+  },
+  {
+    "id": "sm115-37",
+    "name": {
+      "en": "Cubone",
+      "fr": "Osselait",
+      "de": "Tragosso"
+    },
+    "illustrator": "Hasuno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      104
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sharpshooting",
+          "fr": "Tir de Précision",
+          "de": "Scharfschuss"
+        },
+        "effect": {
+          "en": "This attack does 20 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 20 dégâts à l’un des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Diese Attacke fügt 1 Pokémon deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+      "de": "Der Schädel auf seinem Kopf gehörte seiner verstorbenen Mutter. Überwindet es diesen Verlust, setzt angeblich die Entwicklung ein."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394657,
+      "tcgplayer": 197681
+    },
+    "cardNumber": "37"
+  },
+  {
+    "id": "sm115-36",
+    "name": {
+      "en": "Onix GX",
+      "fr": "Onix-GX",
+      "de": "Onix-GX"
+    },
+    "illustrator": "PLANETA Igarashi",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      95
+    ],
+    "hp": 200,
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Bind",
+          "fr": "Étreinte",
+          "de": "Klammergriff"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c’est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heavy Impact",
+          "fr": "Gros Impact",
+          "de": "Schwerer Einschlag"
+        },
+        "damage": 150
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rocky Avalanche GX",
+          "fr": "Avalanche Rocheuse-GX",
+          "de": "Felslawine-GX"
+        },
+        "effect": {
+          "en": "During your opponent’s next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance). (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon subit 100 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance). (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 100 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden). (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 396627,
+      "tcgplayer": 197680
+    },
+    "cardNumber": "36"
+  },
+  {
+    "id": "sm115-35",
+    "name": {
+      "en": "Golem",
+      "fr": "Grolem",
+      "de": "Geowaz"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      76
+    ],
+    "hp": 170,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "de": "Georok"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Slide",
+          "fr": "Éboulement",
+          "de": "Steinhagel"
+        },
+        "effect": {
+          "en": "This attack does 20 damage to 3 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 20 dégâts à 3 des Pokémon de Banc de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Diese Attacke fügt 3 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Land Crush",
+          "fr": "Écras’Terre",
+          "de": "Schollenbrecher"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "description": {
+      "en": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+      "de": "Im Alter hört es auf, sich zu häuten. Der Panzer betagter Geowaz ist mit dichtem, grünem Moos bewachsen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394697,
+      "tcgplayer": 197679
+    },
+    "cardNumber": "35"
+  },
+  {
+    "id": "sm115-34",
+    "name": {
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "de": "Georok"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      75
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "de": "Kleinstein"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mudslide",
+          "fr": "Coulée de Boue",
+          "de": "Schlammlawine"
+        },
+        "effect": {
+          "en": "Discard 2 Fighting Energy from this Pokémon. This attack does 80 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Défaussez 2 Énergies Fighting de ce Pokémon. Cette attaque inflige 80 dégâts à l’un des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Lege 2 {F}-Energien von diesem Pokémon auf deinen Ablagestapel. Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+      "de": "Es klettert Berghänge bis zum Gipfel empor. Einmal oben angekommen, rollt es über den Bergpfad sogleich wieder hinunter."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394682,
+      "tcgplayer": 197678
+    },
+    "cardNumber": "34"
+  },
+  {
+    "id": "sm115-33",
+    "name": {
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "de": "Kleinstein"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      74
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.",
+      "de": "Mit dem Alter verliert es zunehmend seine Kantigkeit, bis es vollkommen rund und auch charakterlich immer ausgeglichener wird."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394647,
+      "tcgplayer": 197677
+    },
+    "cardNumber": "33"
+  },
+  {
+    "id": "sm115-32",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew",
+      "de": "Mew"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Psyshot",
+          "fr": "Piqûre Psy",
+          "de": "Psychoschuss"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "de": "Es beherrscht alle möglichen Attacken, daher sieht man in ihm den Vorfahren aller Pokémon."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394812,
+      "tcgplayer": 197676
+    },
+    "cardNumber": "32"
+  },
+  {
+    "id": "sm115-31",
+    "name": {
+      "en": "Mewtwo GX",
+      "fr": "Mewtwo-GX",
+      "de": "Mewtu-GX"
+    },
+    "illustrator": "aky CG Works",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 180,
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Super Psy Bolt",
+          "fr": "Super Psy",
+          "de": "Super-Psischlag"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psycrush GX",
+          "fr": "Écrasement Psy-GX",
+          "de": "Psibrecher-GX"
+        },
+        "effect": {
+          "en": "Discard all Energy from your opponent’s Active Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Défaussez toute l’Énergie du Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Lege alle Energien vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 381234,
+      "tcgplayer": 197675
+    },
+    "cardNumber": "31"
+  },
+  {
+    "id": "sm115-30",
+    "name": {
+      "en": "Jynx",
+      "fr": "Lippoutou",
+      "de": "Rossana"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      124
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Slap",
+          "fr": "Gifle",
+          "de": "Hieb"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Lovely Kiss",
+          "fr": "Grobisou",
+          "de": "Todeskuss"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+      "de": "Es bewegt seine Hüften in einem eigentümlichen Rhythmus. Rossana in Alola beherrschen einen besonders anmutigen Hüftschwung."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394677,
+      "tcgplayer": 197674
+    },
+    "cardNumber": "30"
+  },
+  {
+    "id": "sm115-3",
+    "name": {
+      "en": "Butterfree",
+      "fr": "Papilusion",
+      "de": "Smettbo"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      12
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Metapod",
+      "fr": "Chrysacier",
+      "de": "Safcon"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade",
+          "de": "Windstoß"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+      "de": "Sieht es ein Raupy, das von Vogel-Pokémon angegriffen wird, schlägt es diese mit seinem hochgiftigen Flügelstaub in die Flucht."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394797,
+      "tcgplayer": 197645
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "sm115-29",
+    "name": {
+      "en": "Weezing",
+      "fr": "Smogogo",
+      "de": "Smogmog"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      110
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Koffing",
+      "fr": "Smogo",
+      "de": "Smogon"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Surrender Now",
+          "fr": "Rendez-Vous Tous",
+          "de": "Gib lieber auf"
+        },
+        "effect": {
+          "en": "Once during your turn, if this Pokémon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)",
+          "fr": "Une seule fois pendant votre tour, si ce Pokémon est défaussé du fait de l'effet de la carte Jessie et James, vous pouvez demander à votre adversaire de défausser une carte de sa main. (Cette carte est défaussée après l'effet de Jessie et James.)",
+          "de": "Einmal während deines Zuges, wenn dieses Pokémon durch den Effekt von Jessie & James auf deinen Ablagestapel gelegt wird, kannst du deinen Gegner dazu veranlassen, 1 Karte aus seiner Hand auf seinen Ablagestapel zu legen. (Er legt jene Karte nach dem Effekt von Jessie & James auf seinen Ablagestapel.)"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "de": "Pumpt sich eines der zwei Smogon auf, lässt das andere Luft ab. So findet ein Giftgasaustausch statt."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 381228,
+      "tcgplayer": 197673
+    },
+    "cardNumber": "29"
+  },
+  {
+    "id": "sm115-28",
+    "name": {
+      "en": "Koffing",
+      "fr": "Smogo",
+      "de": "Smogon"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      109
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+      "de": "Sein dünner, ballonartiger Körper ist mit schrecklichem Giftgas gefüllt. Es verbreitet einen heftigen Gestank, wenn es in der Nähe ist."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394762,
+      "tcgplayer": 197672
+    },
+    "cardNumber": "28"
+  },
+  {
+    "id": "sm115-27",
+    "name": {
+      "en": "Arbok",
+      "fr": "Arbok",
+      "de": "Arbok"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      24
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Ekans",
+      "fr": "Abo",
+      "de": "Rettan"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Last Pattern",
+          "fr": "Dernier Motif",
+          "de": "Letztes Muster"
+        },
+        "effect": {
+          "en": "If this Pokémon is Knocked Out by damage from an opponent’s attack, discard 2 random cards from your opponent’s hand.",
+          "fr": "Si ce Pokémon est mis K.O. par les dégâts d’une attaque de votre adversaire, défaussez 2 cartes au hasard de la main de votre adversaire.",
+          "de": "Wenn dieses Pokémon durch Schaden einer Attacke deines Gegners kampfunfähig wird, lege 2 zufällige Karten aus der Hand deines Gegners auf seinen Ablagestapel."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rocket Tail",
+          "fr": "Queue Rocket",
+          "de": "Rocket-Schweif"
+        },
+        "effect": {
+          "en": "If Jessie & James is in your discard pile, this attack does 80 more damage.",
+          "fr": "Si la carte Jessie et James est dans votre pile de défausse, cette attaque inflige 80 dégâts supplémentaires.",
+          "de": "Wenn sich Jessie & James in deinem Ablagestapel befindet, fügt diese Attacke 80 Schadenspunkte mehr zu."
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+      "de": "Jüngsten Forschungsergebnissen zufolge gibt es mehr als 20 verschiedene Musterungen, die Arboks Bauch aufweisen kann."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 381231,
+      "tcgplayer": 197671
+    },
+    "cardNumber": "27"
+  },
+  {
+    "id": "sm115-26",
+    "name": {
+      "en": "Ekans",
+      "fr": "Abo",
+      "de": "Rettan"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tail Whap",
+          "fr": "Queue Battoir",
+          "de": "Schweifvertrimmer"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+      "de": "Es hängt seinen Kiefer aus und verschlingt so selbst größere Beute am Stück. Danach rollt es sich zusammen und ruht sich aus."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394767,
+      "tcgplayer": 197670
+    },
+    "cardNumber": "26"
+  },
+  {
+    "id": "sm115-25",
+    "name": {
+      "en": "Ekans",
+      "fr": "Abo",
+      "de": "Rettan"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Wrap",
+          "fr": "Ligotage",
+          "de": "Wickel"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, discard an Energy from your opponent’s Active Pokémon.",
+          "fr": "Lancez une pièce. Si c’est face, défaussez une Énergie du Pokémon Actif de votre adversaire.",
+          "de": "Wirf 1 Münze. Lege bei Kopf 1 Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+      "de": "Es hängt seinen Kiefer aus und verschlingt so selbst größere Beute am Stück. Danach rollt es sich zusammen und ruht sich aus."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394722,
+      "tcgplayer": 197669
+    },
+    "cardNumber": "25"
+  },
+  {
+    "id": "sm115-24",
+    "name": {
+      "en": "Zapdos",
+      "fr": "Électhor",
+      "de": "Zapdos"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      145
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hurricane Call",
+          "fr": "Appel à l’Ouragan",
+          "de": "Sturmruf"
+        },
+        "effect": {
+          "en": "Flip 4 coins. For each heads, search your deck for a Lightning Energy card and attach it to 1 of your Pokémon-GX or Pokémon-EX. Then, shuffle your deck.",
+          "fr": "Lancez 4 pièces. Pour chaque côté face, cherchez une carte Énergie Lightning dans votre deck et attachez-la à l’un de vos Pokémon-GX ou Pokémon-EX. Mélangez ensuite votre deck.",
+          "de": "Wirf 4 Münzen. Durchsuche pro Kopf dein Deck nach 1 {L}-Energiekarte und lege sie an 1 deiner Pokémon-GX oder Pokémon-EX an. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky-High Claws",
+          "fr": "Griffes Gratte-Ciel",
+          "de": "Himmelhohe Klauen"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+      "de": "Ein Legendäres Vogel-Pokémon, das im Sturzflug aus den Wolken bricht und Blitze schleudert."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394747,
+      "tcgplayer": 197668
+    },
+    "cardNumber": "24"
+  },
+  {
+    "id": "sm115-23",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali",
+      "de": "Blitza"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "de": "Evoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Electromagnetic Wall",
+          "fr": "Mur Électromagnétique",
+          "de": "Elektromagnetischer Wall"
+        },
+        "effect": {
+          "en": "As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+          "fr": "Tant que ce Pokémon est votre Pokémon Actif, chaque fois que votre adversaire attache une carte Énergie de sa main à l’un de ses Pokémon, placez 2 marqueurs de dégâts sur ce Pokémon-là.",
+          "de": "Solang dieses Pokémon dein Aktives Pokémon ist, lege jedes Mal, wenn dein Gegner 1 Energiekarte aus seiner Hand an 1 seiner Pokémon anlegt, 2 Schadensmarken auf jenes Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt",
+          "fr": "Tonnerre",
+          "de": "Donnerblitz"
+        },
+        "effect": {
+          "en": "Discard all Energy from this Pokémon.",
+          "fr": "Défaussez toute l’Énergie de ce Pokémon.",
+          "de": "Lege alle Energien von diesem Pokémon auf deinen Ablagestapel."
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "Its lungs contain an organ that creates electricity. The crackling sound of electricity can be heard when it exhales.",
+      "de": "Blitza verfügt über ein Organ in der Lunge, das Elektrizität erzeugt. Wenn dieses Pokémon ausatmet, hört man ein elektrisches Knistern."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396622,
+      "tcgplayer": 197667
+    },
+    "cardNumber": "23"
+  },
+  {
+    "id": "sm115-22",
+    "name": {
+      "en": "Electrode",
+      "fr": "Électrode",
+      "de": "Lektrobal"
+    },
+    "illustrator": "Anesaki Dynamic",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      101
+    ],
+    "hp": 100,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Voltorb",
+      "fr": "Voltorbe",
+      "de": "Voltobal"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Lightning Ball",
+          "fr": "Boule Éclair",
+          "de": "Kugelblitz"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Electroblast",
+          "fr": "Électro-Explosion",
+          "de": "Elektrokracher"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 30 more damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte mehr pro Kopf zu."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+      "de": "Es explodiert schon bei kleinsten Reizen. Sein Spitzname „Die Bombenkugel“ spiegelt die Furcht der Menschen wider."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394782,
+      "tcgplayer": 197666
+    },
+    "cardNumber": "22"
+  },
+  {
+    "id": "sm115-21",
+    "name": {
+      "en": "Voltorb",
+      "fr": "Voltorbe",
+      "de": "Voltobal"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      100
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Lightning Ball",
+          "fr": "Boule Éclair",
+          "de": "Kugelblitz"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+      "de": "Es wurde entdeckt, als man Pokébälle einführte. Es scheint, als gäbe es da einen Zusammenhang."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394642,
+      "tcgplayer": 197665
+    },
+    "cardNumber": "21"
+  },
+  {
+    "id": "sm115-20",
+    "name": {
+      "en": "Raichu GX",
+      "fr": "Raichu-GX",
+      "de": "Raichu-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 210,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt",
+          "fr": "Tonnerre",
+          "de": "Donnerblitz"
+        },
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spark Ball GX",
+          "fr": "Boule Étincelles-GX",
+          "de": "Zündball-GX"
+        },
+        "effect": {
+          "en": "(You can’t use more than 1 GX attack in a game.)",
+          "fr": "(Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 396612,
+      "tcgplayer": 197664
+    },
+    "cardNumber": "20"
+  },
+  {
+    "id": "sm115-2",
+    "name": {
+      "en": "Metapod",
+      "fr": "Chrysacier",
+      "de": "Safcon"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      11
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "de": "Raupy"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+      "de": "Sein Panzer birgt ein dickflüssiges Inneres. In Vorbereitung auf seine Entwicklung wird seine Zellstruktur vollständig umgestaltet."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396592,
+      "tcgplayer": 197644
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "sm115-19",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-Attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Electro Ball",
+          "fr": "Boule Élek",
+          "de": "Elektroball"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
+      "de": "Es liegt in seiner Natur, konstant Elektrizität zu speichern. Die Wälder, in denen Pikachu leben, bergen stets die Gefahr eines Blitzgewitters."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394592,
+      "tcgplayer": 197663
+    },
+    "cardNumber": "19"
+  },
+  {
+    "id": "sm115-18",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali",
+      "de": "Aquana"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "de": "Evoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Gun",
+          "fr": "Pistolet à O",
+          "de": "Aquaknarre"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bubble Drain",
+          "fr": "Vide Bulle",
+          "de": "Blasengully"
+        },
+        "effect": {
+          "en": "Heal 30 damage from this Pokémon.",
+          "fr": "Soignez 30 dégâts à ce Pokémon.",
+          "de": "Heile 30 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
+      "de": "Es lebt meist an klaren Gewässern. Wittert es einen feindlichen Angriff, verschwindet es ins Wasser und macht sich unsichtbar."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 396607,
+      "tcgplayer": 197662
+    },
+    "cardNumber": "18"
+  },
+  {
+    "id": "sm115-17",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass",
+      "de": "Lapras"
+    },
+    "illustrator": "kodama",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      131
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Aqua Wave",
+          "fr": "Aqua-Vague",
+          "de": "Aquawoge"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It likes swimming around with people on its back. In the Alola region, it's an important means of transportation over water.",
+      "de": "Da es liebend gerne beim Schwimmen Menschen auf seinem Rücken trägt, gilt es in Alola als bedeutendes Transportmittel."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394702,
+      "tcgplayer": 197661
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "sm115-16",
+    "name": {
+      "en": "Gyarados GX",
+      "fr": "Léviator-GX",
+      "de": "Garados-GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 230,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Magikarp",
+      "fr": "Magicarpe",
+      "de": "Karpador"
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dragon Rage",
+          "fr": "Draco-Rage",
+          "de": "Drachenwut"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hyper Beam GX",
+          "fr": "Ultralaser-GX",
+          "de": "Hyperstrahl-GX"
+        },
+        "effect": {
+          "en": "(You can’t use more than 1 GX attack in a game.)",
+          "fr": "(Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "(Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 396602,
+      "tcgplayer": 197660
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "sm115-15",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe",
+      "de": "Karpador"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Splash",
+          "fr": "Trempette",
+          "de": "Platscher"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+      "de": "Vor langer, langer Zeit war es anscheinend ziemlich stark, doch es wurde zusehends schwächer und schwächer."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394732,
+      "tcgplayer": 197659
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "sm115-14",
+    "name": {
+      "en": "Starmie GX",
+      "fr": "Staross-GX",
+      "de": "Starmie-GX"
+    },
+    "illustrator": "PLANETA Otani",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      121
+    ],
+    "hp": 190,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Staryu",
+      "fr": "Stari",
+      "de": "Sterndu"
+    },
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Star Stream",
+          "fr": "Flot Stellaire",
+          "de": "Sternenfluss"
+        },
+        "effect": {
+          "en": "Attach 2 Water Energy cards from your discard pile to 1 of your Pokémon.",
+          "fr": "Attachez 2 cartes Énergie Water de votre pile de défausse à l’un de vos Pokémon.",
+          "de": "Lege 2 {W}-Energiekarten aus deinem Ablagestapel an 1 deiner Pokémon an."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spinning Attack",
+          "fr": "Attaque Tournante",
+          "de": "Rundumangriff"
+        },
+        "damage": 100
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hydro Pump GX",
+          "fr": "Hydrocanon-GX",
+          "de": "Hydropumpe-GX"
+        },
+        "effect": {
+          "en": "This attack does 40 more damage times the amount of Water Energy attached to this Pokémon. (You can’t use more than 1 GX attack in a game.)",
+          "fr": "Cette attaque inflige 40 dégâts supplémentaires multipliés par le nombre d’Énergies Water attachées à ce Pokémon. (Vous ne pouvez utiliser qu’une attaque GX par partie.)",
+          "de": "Diese Attacke fügt 40 Schadenspunkte mehr mal der Anzahl der an dieses Pokémon angelegten {W}-Energien zu. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 396597,
+      "tcgplayer": 197658
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "sm115-13",
+    "name": {
+      "en": "Staryu",
+      "fr": "Stari",
+      "de": "Sterndu"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      120
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Numbing Water",
+          "fr": "Eau Paralysante",
+          "de": "Betäubendes Wasser"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c’est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+      "de": "Einer weitverbreiteten Volkssage zufolge ist Sterndu aus Sternennebel entstanden, der ins Meer gefallen war."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394777,
+      "tcgplayer": 197657
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "sm115-12",
+    "name": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "de": "Flegmon"
+    },
+    "illustrator": "Misa Tsutsui",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      79
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Yawn",
+          "fr": "Bâillement",
+          "de": "Gähner"
+        },
+        "effect": {
+          "en": "Your opponent’s Active Pokémon is now Asleep.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+          "de": "Das Aktive Pokémon deines Gegners schläft jetzt."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Alolan home cooking involves drying Slowpoke tails and then simmering them into a salty stew.",
+      "de": "In Alola bereiten viele Familien Flegmon-Ruten zu, indem sie diese zuerst trocknen und dann in Salzwasser kochen."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394662,
+      "tcgplayer": 197654
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "sm115-11",
+    "name": {
+      "en": "Psyduck",
+      "fr": "Psykokwak",
+      "de": "Enton"
+    },
+    "illustrator": "nagimiso",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      54
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Headache",
+          "fr": "Migraine",
+          "de": "Kopfweh"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+      "de": "Wenn es seine Psycho-Kräfte einsetzt, bekommt es Kopfschmerzen. Deshalb steht es lieber untätig und geistesabwesend herum."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394772,
+      "tcgplayer": 197653
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "sm115-10",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar",
+      "de": "Magmar"
+    },
+    "illustrator": "Satoshi Shirai",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      126
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Fire Punch",
+          "fr": "Poing de Feu",
+          "de": "Feuerschlag"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
+      "de": "Mit seinem brennenden Körper und glühenden Atem heizt es seine Umgebung auf. Beim Niesen stößt es Flammen aus."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394822,
+      "tcgplayer": 197652
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "sm115-1",
+    "name": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "de": "Raupy"
+    },
+    "illustrator": "tetsuya koizumi",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      10
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
+      "de": "Das nimmersatte Raupy verschlingt 100 Blätter am Tag. Vermutlich strebt es so ein schnelleres Wachstum an."
+    },
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm115"
+    },
+    "thirdParty": {
+      "cardmarket": 394607,
+      "tcgplayer": 197643
+    },
+    "cardNumber": "1"
+  }
+]
