@@ -1,0 +1,58 @@
+name: Update DB
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_recompile:
+        description: 'Force recompile'
+        type: boolean
+        required: false
+        default: false
+# TODO: uncomment
+#  schedule:
+#    - cron: '0 0 * * *'
+
+env:
+  FORCE_RECOMPILE: ${{ inputs.force_recompile }}
+
+jobs:
+  update-db:
+    name: Update DB
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout existing DB update branch
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false # avoid cache poisoning
+      - name: Install dependencies
+        run: npm ci
+      - name: Update DB
+        id: update_db
+        run: |
+          UPDATE_DB_RESULT=$(npm run update-db)
+          echo "has_changes=$(echo "${UPDATE_DB_RESULT}" | jq ".hasUncommittedChanges")" >> $GITHUB_OUTPUT
+          echo "commit_message=$(echo "${UPDATE_DB_RESULT}" | jq ".message")" >> $GITHUB_OUTPUT
+      - name: Update test snapshots
+        if: steps.update_db.outputs.has_changes == 'true'
+        run: npm test -- --update
+      - name: Create changeset
+        if: steps.update_db.outputs.has_changes == 'true'
+        run: |
+          npm run delete-stale-changesets
+          npx changeset add -m "${MESSAGE}" --patch @tcgdata/tcgdex-offline
+      - name: Create or Update Pull Request
+        if: steps.update_db.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: ${{ steps.update_db.outputs.message }}'
+          branch: update-db
+          base: main
+          title: ${{ steps.update_db.outputs.message }}
+          body: 'This PR was automatically created or updated by a GitHub Action.'
+          delete-branch: true

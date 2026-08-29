@@ -1,0 +1,49 @@
+{
+  "name": "@tcgdata/tcgdex-offline",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/index.mjs",
+  "types": "dist/index.d.mts",
+  "sideEffects": false,
+  "repository": {
+    "url": "https://github.com/tcgdata/tcgdex-offline"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc && tsdown",
+    "lint": "eslint . --max-warnings=0",
+    "lint:fix": "eslint . --max-warnings=0 --fix",
+    "prettier": "npx prettier -c .",
+    "prettier:fix": "npx prettier -w .",
+    "test": "vitest run",
+    "update-db": "tsx ./scripts/update-db.ts",
+    "delete-stale-changesets": "tsx ./scripts/delete-stale-changesets.ts"
+  },
+  "include": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@changesets/changelog-github": "^1.0.0",
+    "@changesets/cli": "^3.0.1",
+    "@eslint/js": "^10.0.1",
+    "@faker-js/faker": "^10.6.0",
+    "@types/node": "^26.4.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "@vitest/eslint-plugin": "^1.6.27",
+    "eslint": "^10.9.1",
+    "execa": "^10.0.1",
+    "glob": "^13.0.6",
+    "prettier": "^3.9.6",
+    "tsdown": "^0.22.14",
+    "tsx": "^4.23.12",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.68.0",
+    "vitest": "^4.1.11"
+  },
+  "dependencies": {
+    "sanitize-filename": "^1.6.4",
+    "zod": "^4.4.3"
+  }
+}
