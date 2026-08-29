@@ -8,6 +8,11 @@ on:
         type: boolean
         required: false
         default: false
+      branch:
+        description: 'Name of branch to create'
+        type: string
+        required: true
+        default: update-db
 # TODO: uncomment
 #  schedule:
 #    - cron: '0 0 * * *'
@@ -32,6 +37,10 @@ jobs:
         with:
           node-version: 24
           package-manager-cache: false # avoid cache poisoning
+      - name: Try switching to ${{ inputs.branch }}
+        run: |
+          git fetch origin
+          git checkout "${{ inputs.branch }}" 2>/dev/null || git checkout main
       - name: Install dependencies
         run: npm ci
       - name: Update DB
@@ -57,7 +66,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: ${{ steps.update_db.outputs.message }}'
-          branch: update-db
+          branch: ${{ inputs.branch }}
           base: main
           title: ${{ steps.update_db.outputs.message }}
           body: 'This PR was automatically created or updated by a GitHub Action.'
