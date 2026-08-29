@@ -39,8 +39,8 @@ jobs:
         run: |
           UPDATE_DB_RESULT=$(npm run update-db -s)
           echo "Result: ${UPDATE_DB_RESULT}"
-          echo "has_changes=$(echo "${UPDATE_DB_RESULT}" | jq ".hasChanges")" >> $GITHUB_OUTPUT
-          echo "message=$(echo "${UPDATE_DB_RESULT}" | jq ".message")" >> $GITHUB_OUTPUT
+          echo "has_changes=$(echo "${UPDATE_DB_RESULT}" | jq -r ".hasChanges")" >> $GITHUB_OUTPUT
+          echo "message=$(echo "${UPDATE_DB_RESULT}" | jq -r ".message")" >> $GITHUB_OUTPUT
       - name: Update test snapshots
         if: steps.update_db.outputs.has_changes == 'true'
         run: npm test -- --update
@@ -51,7 +51,7 @@ jobs:
           npx changeset add -m "${MESSAGE}" --patch @tcgdata/tcgdex-offline
       - name: Create or Update Pull Request
         if: steps.update_db.outputs.has_changes == 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: ${{ steps.update_db.outputs.message }}'
