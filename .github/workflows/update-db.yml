@@ -19,6 +19,9 @@ jobs:
   update-db:
     name: Update DB
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # to push db changes
+      pull-requests: write # to create pull request
     steps:
       - name: Checkout existing DB update branch
         uses: actions/checkout@v7
