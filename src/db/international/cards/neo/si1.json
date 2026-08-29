@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "si1-9",
+    "name": {
+      "en": "Butterfree"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      12
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Metapod"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fly"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Butterfree. If tails, this attack does nothing (not even damage)."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rainbow Powder"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275639,
+          "tcgplayer": 46483
+        }
+      }
+    ],
+    "description": {
+      "en": "The poison scales on its wings are waterproof, allowing this Pokémon to be active even on rainy days."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "si1-8",
+    "name": {
+      "en": "Jigglypuff"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      39
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tempting Eyes"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sing"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275638,
+          "tcgplayer": 46482
+        }
+      }
+    ],
+    "description": {
+      "en": "After lulling its enemies with its large eyes, this Pokémon sings them to sleep with a relaxing melody."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "si1-7",
+    "name": {
+      "en": "Ledyba"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      165
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gnaw"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Agility"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Ledyba."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275637,
+          "tcgplayer": 46481
+        }
+      }
+    ],
+    "description": {
+      "en": "When it senses enemies approaching, this Pokémon releases an orange fluid from the joints in its legs and flees."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "si1-6",
+    "name": {
+      "en": "Raticate"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      20
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Rattata"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sharp Teeth"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage; if tails, this attack does 10 damage."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275636,
+          "tcgplayer": 46480
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon sometimes hunts for food in rivers, swimming using the small webs between the toes on its rear legs."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "si1-5",
+    "name": {
+      "en": "Ivysaur"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      2
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Bulbasaur"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Strange Scent"
+        },
+        "effect": {
+          "en": "Each player flips a coin. Each player who gets heads chooses a total of 3 damage counters from among his or her Pokémon and removes them. (If the player's Pokémon have fewer total damage counters than that, he or she removes all of them.)"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Razor Leaf"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275635,
+          "tcgplayer": 46479
+        }
+      }
+    ],
+    "description": {
+      "en": "A sure sign spring is on its way is when the seed on this Pokémon's back flowers."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "si1-4",
+    "name": {
+      "en": "Togepi"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      175
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bawl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        "damage": 10
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275634,
+          "tcgplayer": 46478
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon is still immature. When threatened, it releases poison from its head and tries to drive its enemies away."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "si1-3",
+    "name": {
+      "en": "Onix"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      95
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slam"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Body Slam"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275633,
+          "tcgplayer": 46477
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon burrows through the earth at high speed, looking for food. The tunnels it digs are used by Diglett as nests."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "si1-2",
+    "name": {
+      "en": "Pidgeot"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      18
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Pidgeotto"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Supersonic Flight"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slicing Wind"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275632,
+          "tcgplayer": 46476
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon searches for food while flying at Mach 2. Its large claws make fearsome weapons."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "si1-18",
+    "name": {
+      "en": "Primeape"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      57
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Mankey"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Low Kick"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Rampage"
+        },
+        "effect": {
+          "en": "Does 20 damage plus 10 more damage for each damage counter on Primeape. Flip a coin. If tails, Primeape is now Confused (after doing damage)."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275648,
+          "tcgplayer": 46475
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon only calms down when there are no other animals or people around—which means no one has ever seen it when it's not angry."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "18"
+  },
+  {
+    "id": "si1-17",
+    "name": {
+      "en": "Vileplume"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      45
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Gloom"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Paradise Pollen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, remove 2 damage counters from Vileplume (1 if it only has 1). Then, if you have any Benched Pokémon with damage counters on them, choose 1 of them and remove 2 damage counters from it (1 if it only has 1)."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Horrid Pollen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Confused."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275647,
+          "tcgplayer": 46474
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon makes a loud jangling noise when it shakes its petals to spread poison powder."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "si1-16",
+    "name": {
+      "en": "Lickitung"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      108
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Lick Wounds"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, choose 1 Pokémon (yours or your opponent's) with damage counters on it and remove 2 damage counters from it (1 if it only has 1)."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tongue Stretch"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275646,
+          "tcgplayer": 46473
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon uses its six-foot tongue as if it were a hand. The origin of its anaesthetic properties is still a mystery."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "si1-15",
+    "name": {
+      "en": "Wartortle"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      8
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Squirtle"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Water Gun"
+        },
+        "effect": {
+          "en": "Does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275645,
+          "tcgplayer": 46472
+        }
+      }
+    ],
+    "description": {
+      "en": "When attacked, this Pokémon withdraws into its shell, although it can't quite pull in all of its long tail."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "si1-14",
+    "name": {
+      "en": "Slowking"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      199
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Slowpoke"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Revelation"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psychic"
+        },
+        "effect": {
+          "en": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275644,
+          "tcgplayer": 46471
+        }
+      }
+    ],
+    "description": {
+      "en": "Its nonchalant reaction to everything somehow gives this Pokémon an imposing presence."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "si1-13",
+    "name": {
+      "en": "Exeggutor"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      103
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Exeggcute"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Sharpshooter"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Pokémon. Flip a number of coins equal to the number of Grass Energy attached to Exeggutor. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275643,
+          "tcgplayer": 46470
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon has a unique cry, as all three of its heads are always talking independently of one another."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "si1-12",
+    "name": {
+      "en": "Lapras"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      131
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gentle Song"
+        },
+        "effect": {
+          "en": "If Lapras has any damage counters on it, remove 2 of them from it (1 if it only has 1). If the Defending Pokémon has any damage counters on it, remove 2 of them from it (1 if it only has 1). The Defending Pokémon is now Asleep."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Ice Beam"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275642,
+          "tcgplayer": 46469
+        }
+      }
+    ],
+    "description": {
+      "en": "This gentle Pokémon can understand human language and allows people to ride on its back."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "si1-11",
+    "name": {
+      "en": "Marill"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      183
+    ],
+    "hp": 40,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275641,
+          "tcgplayer": 46468
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon's fur repels water like a duck's feathers, allowing it to stay dry and fluffy even in water."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "si1-10",
+    "name": {
+      "en": "Tentacruel"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      73
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Tentacool"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Tentacle Grip"
+        },
+        "effect": {
+          "en": "Flip a number of coins equal to the number of Water Energy cards attached to Tentacruel. For each heads, draw 2 cards."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Poison Sting"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Tentacle Grip"
+        },
+        "effect": {
+          "en": "Flip a number of coins equal to the number of Water Energy cards attached to Tentacruel. For each heads, draw 2 cards."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Poison Sting"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 275640,
+          "tcgplayer": 46467
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon attacks its prey with its eighty toxin-producing tentacles."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "si1-1",
+    "name": {
+      "en": "Mew"
+    },
+    "illustrator": "Keiko Fukuyama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Rainbow Wave"
+        },
+        "effect": {
+          "en": "Choose a type of Energy other than Colorless attached to Mew. This attack does 20 damage to each of your opponent's Pokémon of that type (including Benched Pokémon). Don't apply Weakness and Resistance."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "variants": [
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 275631,
+          "tcgplayer": 46466
+        }
+      }
+    ],
+    "description": {
+      "en": "This Pokémon's body is covered by fine hairs that can be seen only under a microscope."
+    },
+    "series": {
+      "id": "neo"
+    },
+    "set": {
+      "id": "si1"
+    },
+    "cardNumber": "1"
+  }
+]

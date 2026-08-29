@@ -1,0 +1,5666 @@
+[
+  {
+    "id": "A3b-107",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "rarity": "Crown",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+      "fr": "Choisissez un de ces effets :"
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "107"
+  },
+  {
+    "id": "A3b-106",
+    "name": {
+      "en": "Gallade ex",
+      "fr": "Gallame-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      475
+    ],
+    "hp": 170,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Energized Blade",
+          "fr": "Lame Énergisée"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "106"
+  },
+  {
+    "id": "A3b-105",
+    "name": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex"
+    },
+    "illustrator": "PLANETA Saito",
+    "rarity": "Two Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      145
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Peck",
+          "fr": "Picpic"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thundering Hurricane",
+          "fr": "Rafale d'Éclairs"
+        },
+        "effect": {
+          "en": "Flip 4 coins. This attack does 50 damage for each heads.",
+          "fr": "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "105"
+  },
+  {
+    "id": "A3b-104",
+    "name": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex"
+    },
+    "illustrator": "PLANETA Saito",
+    "rarity": "Two Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      144
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ice Wing",
+          "fr": "Aile Glace"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Blizzard",
+          "fr": "Blizzard"
+        },
+        "effect": {
+          "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+          "fr": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "104"
+  },
+  {
+    "id": "A3b-103",
+    "name": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex"
+    },
+    "illustrator": "PLANETA Saito",
+    "rarity": "Two Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      146
+    ],
+    "hp": 140,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Inferno Dance",
+          "fr": "Danse Infernale"
+        },
+        "effect": {
+          "en": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like.",
+          "fr": "Lancez 3 pièces. Prenez le même nombre d'Énergie {R} de votre zone Énergie que le nombre de côté face obtenu et attachez-les à vos Pokémon  de Banc comme il vous plaît."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heat Blast",
+          "fr": "Explosion de Chaleur"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "103"
+  },
+  {
+    "id": "A3b-102",
+    "name": {
+      "en": "Farfetch'd",
+      "fr": "Canarticho"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      83
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leek Slap",
+          "fr": "Coup d'Oignon"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+      "fr": "Il tranche ses adversaires avec sa tige, qu'il manie comme une épée. Quand la situation l'exige, il s'en nourrit."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "102"
+  },
+  {
+    "id": "A3b-101",
+    "name": {
+      "en": "Arbok",
+      "fr": "Arbok"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      24
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Ekans",
+      "fr": "Abo"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Corner",
+          "fr": "Coinçage"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "fr": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
+      "fr": "Une étude récente aurait recensé plus de vingt motifs différents pouvant orner le devant du capuchon des Arbok."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "101"
+  },
+  {
+    "id": "A3b-100",
+    "name": {
+      "en": "Ekans",
+      "fr": "Abo"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      23
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+      "fr": "Il peut se déboîter la mâchoire pour avaler tout rond des proies plus grosses que lui. Il se replie ensuite sur lui-même pour digérer."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "100"
+  },
+  {
+    "id": "A3b-099",
+    "name": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      282
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Psy Shadow",
+          "fr": "Ombre Psy"
+        },
+        "effect": {
+          "en": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot.",
+          "fr": "Une fois pendant votre tour, vous pouvez prendre une Énergie {P} de votre zone Énergie et l'attacher au Pokémon  sur le Poste Actif."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psyshot",
+          "fr": "Piqûre Psy"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+      "fr": "Prêt à tout pour protéger son Dresseur, il peut aller jusqu'à épuiser sa force mentale pour créer un mini trou noir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "099"
+  },
+  {
+    "id": "A3b-098",
+    "name": {
+      "en": "Kirlia",
+      "fr": "Kirlia"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      281
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slap",
+          "fr": "Gifle"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+      "fr": "Grâce à ses pouvoirs psychiques, il peut distordre l'espace-temps et ainsi voir l'avenir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "098"
+  },
+  {
+    "id": "A3b-097",
+    "name": {
+      "en": "Ralts",
+      "fr": "Tarsal"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      280
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Teleport",
+          "fr": "Téléport"
+        },
+        "effect": {
+          "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "fr": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The horns on its head provide a strong power\nthat enables it to sense people's emotions.",
+      "fr": "Il perçoit très précisément les émotions humaines grâce aux cornes rouges sur sa tête."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "097"
+  },
+  {
+    "id": "A3b-096",
+    "name": {
+      "en": "Electrode",
+      "fr": "Électrode"
+    },
+    "illustrator": "Scav",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      101
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Voltorb",
+      "fr": "Voltorbe"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Rolling Attack",
+          "fr": "Attaque Qui Roule"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+      "fr": "Plus il accumule de l'énergie de type Électrik, plus il est rapide. Mais il a aussi davantage de chances d'exploser."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "096"
+  },
+  {
+    "id": "A3b-095",
+    "name": {
+      "en": "Voltorb",
+      "fr": "Voltorbe"
+    },
+    "illustrator": "Scav",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      100
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Big Explosion",
+          "fr": "Grosse Explosion"
+        },
+        "effect": {
+          "en": "This Pokémon also does 10 damage to itself.",
+          "fr": "Ce Pokémon s'inflige aussi 10 dégâts."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+      "fr": "Il se déplace en roulant. Si le sol est cabossé, les chocs le font exploser."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "095"
+  },
+  {
+    "id": "A3b-094",
+    "name": {
+      "en": "Lapras",
+      "fr": "Lokhlass"
+    },
+    "illustrator": "Nelnal",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      131
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Hydro Pump",
+          "fr": "Hydrocanon"
+        },
+        "effect": {
+          "en": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+          "fr": "Si ce Pokémon a au moins 3 Énergies {W} supplémentaires, cette attaque inflige 70 dégâts de plus."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+      "fr": "C'est un Pokémon doux et intelligent. Il vogue sur la mer en émettant un chant magnifique."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "094"
+  },
+  {
+    "id": "A3b-093",
+    "name": {
+      "en": "Pinsir",
+      "fr": "Scarabrute"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "One Shiny",
+    "category": "Pokemon",
+    "dexId": [
+      127
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Guillotine Rush",
+          "fr": "Charge Guillotine"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+          "fr": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+      "fr": "Ses cornes déterminent son rang au sein du groupe. Plus elles sont imposantes, plus les membres du sexe opposé l'apprécient."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "093"
+  },
+  {
+    "id": "A3b-092",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
+    "illustrator": "kurumitsu",
+    "rarity": "Three Star",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Veevee 'volve",
+          "fr": "Volivolution"
+        },
+        "effect": {
+          "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+          "fr": "Ce Pokémon peut évoluer en n'importe quel  si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "092"
+  },
+  {
+    "id": "A3b-091",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
+    "illustrator": "Mékayu",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Full-Mouth Manner",
+          "fr": "Bouche Pleine"
+        },
+        "effect": {
+          "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+          "fr": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flop-Down Punch",
+          "fr": "Poing Torpide"
+        },
+        "effect": {
+          "en": "This Pokémon is now Asleep.",
+          "fr": "Ce Pokémon est maintenant Endormi."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "091"
+  },
+  {
+    "id": "A3b-090",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
+    "illustrator": "Mori Yuu",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Giga Impact",
+          "fr": "Giga Impact"
+        },
+        "effect": {
+          "en": "During your next turn, this Pokémon can't attack.",
+          "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+        },
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "090"
+  },
+  {
+    "id": "A3b-089",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
+    "illustrator": "Yuu Nishida",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Happy Ribbon",
+          "fr": "Ruban du Bonheur"
+        },
+        "effect": {
+          "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+          "fr": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fairy Wind",
+          "fr": "Vent Féérique"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "089"
+  },
+  {
+    "id": "A3b-088",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
+    "illustrator": "DOM",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Hydro Pump",
+          "fr": "Hydrocanon"
+        },
+        "effect": {
+          "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+          "fr": "Si ce Pokémon a au moins une Énergie {W} de plus, cette attaque inflige 40 dégâts supplémentaires."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Sparkling Aria",
+          "fr": "Aria de l'Écume"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "fr": "Soignez 20 dégâts à ce Pokémon."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "088"
+  },
+  {
+    "id": "A3b-087",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
+    "illustrator": "Kuroimori",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Combust",
+          "fr": "Ignition"
+        },
+        "effect": {
+          "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+          "fr": "Une fois pendant votre tour, vous pouvez attacher une Énergie {R} de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "fr": "Danse Flammes"
+        },
+        "effect": {
+          "en": "Discard 2 {R} Energy from this Pokémon.",
+          "fr": "Défaussez 2 Énergies {R} de ce Pokémon."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "087"
+  },
+  {
+    "id": "A3b-086",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
+    "illustrator": "Susumu Maeya",
+    "rarity": "Two Star",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+      "fr": "Regardez une des cartes Supporter du deck de votre adversaire au hasard qui n'est pas Pania et mélangez-la avec son deck. Utilisez son effet en tant qu'effet de cette carte."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "086"
+  },
+  {
+    "id": "A3b-085",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili"
+    },
+    "illustrator": "Yuu Nishida",
+    "rarity": "Two Star",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+      "fr": "Pendant ce tour, les attaques de votre , votre  ou votre  infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "085"
+  },
+  {
+    "id": "A3b-084",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Full-Mouth Manner",
+          "fr": "Bouche Pleine"
+        },
+        "effect": {
+          "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+          "fr": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flop-Down Punch",
+          "fr": "Poing Torpide"
+        },
+        "effect": {
+          "en": "This Pokémon is now Asleep.",
+          "fr": "Ce Pokémon est maintenant Endormi."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "084"
+  },
+  {
+    "id": "A3b-083",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Veevee 'volve",
+          "fr": "Volivolution"
+        },
+        "effect": {
+          "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+          "fr": "Ce Pokémon peut évoluer en n'importe quel  si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "083"
+  },
+  {
+    "id": "A3b-082",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
+    "illustrator": "PLANETA Mochizuki",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Giga Impact",
+          "fr": "Giga Impact"
+        },
+        "effect": {
+          "en": "During your next turn, this Pokémon can't attack.",
+          "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+        },
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "082"
+  },
+  {
+    "id": "A3b-081",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Happy Ribbon",
+          "fr": "Ruban du Bonheur"
+        },
+        "effect": {
+          "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+          "fr": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fairy Wind",
+          "fr": "Vent Féérique"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "081"
+  },
+  {
+    "id": "A3b-080",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Hydro Pump",
+          "fr": "Hydrocanon"
+        },
+        "effect": {
+          "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+          "fr": "Si ce Pokémon a au moins une Énergie {W} de plus, cette attaque inflige 40 dégâts supplémentaires."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Sparkling Aria",
+          "fr": "Aria de l'Écume"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "fr": "Soignez 20 dégâts à ce Pokémon."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "080"
+  },
+  {
+    "id": "A3b-079",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Two Star",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Combust",
+          "fr": "Ignition"
+        },
+        "effect": {
+          "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+          "fr": "Une fois pendant votre tour, vous pouvez attacher une Énergie {R} de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "fr": "Danse Flammes"
+        },
+        "effect": {
+          "en": "Discard 2 {R} Energy from this Pokémon.",
+          "fr": "Défaussez 2 Énergies {R} de ce Pokémon."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "079"
+  },
+  {
+    "id": "A3b-078",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "illustrator": "Narumi Sato",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Collect",
+          "fr": "Collecte"
+        },
+        "effect": {
+          "en": "Draw a card.",
+          "fr": "Piochez une carte."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+      "fr": "Ses multiples évolutions lui permettent de s'adapter à tout type de milieu naturel."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "078"
+  },
+  {
+    "id": "A3b-077",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Dark Binding",
+          "fr": "Entrave Sombre"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "fr": "Si le Pokémon Défenseur est un Pokémon de base, il ne peut pas attaquer pendant le prochain tour de votre adversaire."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+      "fr": "Quand il s'expose aux ondes lunaires, ses anneaux brillent légèrement et il acquiert un mystérieux pouvoir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "077"
+  },
+  {
+    "id": "A3b-076",
+    "name": {
+      "en": "Sylveon",
+      "fr": "Nymphali"
+    },
+    "illustrator": "saino misaki",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Evoharmony",
+          "fr": "Harmonie Évolutive"
+        },
+        "effect": {
+          "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+          "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+      "fr": "Ses antennes en forme de ruban émettent des ondes apaisantes en direction de ses adversaires et neutralisent toute hostilité."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "076"
+  },
+  {
+    "id": "A3b-075",
+    "name": {
+      "en": "Espeon",
+      "fr": "Mentali"
+    },
+    "illustrator": "rika",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Energy Crush",
+          "fr": "Écras'Énergie"
+        },
+        "effect": {
+          "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+      "fr": "Quand il prédit la prochaine attaque de son adversaire, l'extrémité fourchue de sa queue frémit."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "075"
+  },
+  {
+    "id": "A3b-074",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali"
+    },
+    "illustrator": "Nisota Niso",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Beginning Bolt",
+          "fr": "Premier Éclair"
+        },
+        "effect": {
+          "en": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+          "fr": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+      "fr": "Il concentre la faible charge électrique générée par chacune de ses cellules pour projeter de puissants éclairs."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "074"
+  },
+  {
+    "id": "A3b-073",
+    "name": {
+      "en": "Glaceon",
+      "fr": "Givrali"
+    },
+    "illustrator": "Fujimoto Gold",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      471
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Ice Blade",
+          "fr": "Lame de Glace"
+        },
+        "effect": {
+          "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+          "fr": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+      "fr": "Il peut contrôler la température de son corps à volonté et créer des cristaux de glace en gelant l'humidité de l'air."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "073"
+  },
+  {
+    "id": "A3b-072",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
+    "illustrator": "chibi",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hyper Whirlpool",
+          "fr": "Hyper Tourbillon"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "fr": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+      "fr": "Il vit au bord de l'eau. Sa queue semblable à celle d'un poisson lui donne l'apparence d'une sirène."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "072"
+  },
+  {
+    "id": "A3b-071",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
+    "illustrator": "Teeziro",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Assisting Heater",
+          "fr": "Assistant Thermique"
+        },
+        "effect": {
+          "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+          "fr": "Prenez une Énergie {R} de votre zone Énergie et attachez-la à l'un de vos Pokémon de Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+      "fr": "Sa glande enflammée chauffe l'air qu'il inspire. Il l'exhale ensuite sous forme de flamme atteignant les 1 700 °C."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "071"
+  },
+  {
+    "id": "A3b-070",
+    "name": {
+      "en": "Leafeon",
+      "fr": "Phyllali"
+    },
+    "illustrator": "Ryota Murayama",
+    "rarity": "One Star",
+    "category": "Pokemon",
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leaf Blast",
+          "fr": "Explosion de Feuilles"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie {G} attachée à ce Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+      "fr": "Un Phyllali qui dort par beau temps produit un air frais et pur par photosynthèse."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "070"
+  },
+  {
+    "id": "A3b-069",
+    "name": {
+      "en": "Penny",
+      "fr": "Pania"
+    },
+    "illustrator": "Susumu Maeya",
+    "rarity": "Two Diamond",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+      "fr": "Regardez une des cartes Supporter du deck de votre adversaire au hasard qui n'est pas Pania et mélangez-la avec son deck. Utilisez son effet en tant qu'effet de cette carte."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "069"
+  },
+  {
+    "id": "A3b-068",
+    "name": {
+      "en": "Hau",
+      "fr": "Tili"
+    },
+    "illustrator": "Yuu Nishida",
+    "rarity": "Two Diamond",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+      "fr": "Pendant ce tour, les attaques de votre , votre  ou votre  infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "068"
+  },
+  {
+    "id": "A3b-067",
+    "name": {
+      "en": "Leftovers",
+      "fr": "Restes"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "rarity": "Two Diamond",
+    "category": "Trainer",
+    "trainerType": "Tool",
+    "effect": {
+      "en": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+      "fr": "À la fin de votre tour, si le Pokémon auquel cette carte est attachée est sur le Poste Actif, soignez 10 dégâts à ce Pokémon."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "067"
+  },
+  {
+    "id": "A3b-066",
+    "name": {
+      "en": "Eevee Bag",
+      "fr": "Sac Évoli"
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "rarity": "Two Diamond",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+      "fr": "Choisissez un de ces effets :"
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "066"
+  },
+  {
+    "id": "A3b-065",
+    "name": {
+      "en": "Greedent",
+      "fr": "Rongrigou"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      820
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Skwovet",
+      "fr": "Rongourmand"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Enhanced Fang",
+          "fr": "Croc Amélioré"
+        },
+        "effect": {
+          "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+          "fr": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
+      "fr": "Sa queue, qui est environ deux fois plus longue que son corps, lui permet d'emmagasiner et de transporter les Baies tombées des arbres."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "065"
+  },
+  {
+    "id": "A3b-064",
+    "name": {
+      "en": "Skwovet",
+      "fr": "Rongourmand"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      819
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings.",
+      "fr": "Il emmagasine des Baies dans ses joues. Lorsqu'il n'en a plus, il essaie de compenser en accumulant des cailloux à la place."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "064"
+  },
+  {
+    "id": "A3b-063",
+    "name": {
+      "en": "Cinccino",
+      "fr": "Pashmilla"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      573
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Minccino",
+      "fr": "Chinchidou"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slap",
+          "fr": "Gifle"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",
+      "fr": "Il ne supporte pas de voir le moindre grain de poussière. Il utilise l'huile qu'il sécrète pour recouvrir son nid d'un revêtement protecteur."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "063"
+  },
+  {
+    "id": "A3b-062",
+    "name": {
+      "en": "Minccino",
+      "fr": "Chinchidou"
+    },
+    "illustrator": "Sekio",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      572
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras'Face"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+      "fr": "Il époussette les saletés avec sa queue. Il est d'une aide précieuse pour faire le ménage, mais il est très tatillon sur la propreté."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "062"
+  },
+  {
+    "id": "A3b-061",
+    "name": {
+      "en": "Audino",
+      "fr": "Nanméouïe"
+    },
+    "illustrator": "sui",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      531
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Do the Wave",
+          "fr": "Faites la Vague"
+        },
+        "effect": {
+          "en": "This attack does 20 damage for each of your Benched Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts pour chacun de vos Pokémon de Banc."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
+      "fr": "Ce Pokémon gentil est capable de deviner les émotions et l'état de santé des autres rien qu'en les touchant avec ses antennes."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "061"
+  },
+  {
+    "id": "A3b-060",
+    "name": {
+      "en": "Chatot",
+      "fr": "Pijako"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      441
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tone-Deaf",
+          "fr": "Dur d'Oreille"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Confused.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It mimics the cries of other Pokémon to trick them\ninto thinking it's one of them. This way they won't\nattack it.",
+      "fr": "Il reproduit le cri de ses ennemis pour faire croire qu'il est des leurs et éviter d'être attaqué."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "060"
+  },
+  {
+    "id": "A3b-059",
+    "name": {
+      "en": "Ambipom",
+      "fr": "Capidextre"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      424
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Aipom",
+      "fr": "Capumain"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Catching Tail",
+          "fr": "Queue Farfouilleuse"
+        },
+        "effect": {
+          "en": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand.",
+          "fr": "Une fois pendant votre tour, vous pouvez ajouter au hasard une carte Outil Pokémon de votre deck à votre main."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Corkscrew Punch",
+          "fr": "Poing Tire-Bouchon"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
+      "fr": "Il utilise toujours ses deux queues pour faire la moindre tâche. Il s'en sert aussi pour enlacer les gens qu'il affectionne tout particulièrement."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "059"
+  },
+  {
+    "id": "A3b-058",
+    "name": {
+      "en": "Aipom",
+      "fr": "Capumain"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      190
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double Hit",
+          "fr": "Coup Double"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 20 damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+      "fr": "À force d'utiliser sa queue à tort et à travers, elle est devenue plus habile que ses mains. Il l'utilise pour faire son nid en haut des arbres."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "058"
+  },
+  {
+    "id": "A3b-057",
+    "name": {
+      "en": "Snorlax ex",
+      "fr": "Ronflex-ex"
+    },
+    "illustrator": "PLANETA Tsuji",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      143
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Full-Mouth Manner",
+          "fr": "Bouche Pleine"
+        },
+        "effect": {
+          "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+          "fr": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flop-Down Punch",
+          "fr": "Poing Torpide"
+        },
+        "effect": {
+          "en": "This Pokémon is now Asleep.",
+          "fr": "Ce Pokémon est maintenant Endormi."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "057"
+  },
+  {
+    "id": "A3b-056",
+    "name": {
+      "en": "Eevee ex",
+      "fr": "Évoli-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Veevee 'volve",
+          "fr": "Volivolution"
+        },
+        "effect": {
+          "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+          "fr": "Ce Pokémon peut évoluer en n'importe quel  si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "056"
+  },
+  {
+    "id": "A3b-055",
+    "name": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Collect",
+          "fr": "Collecte"
+        },
+        "effect": {
+          "en": "Draw a card.",
+          "fr": "Piochez une carte."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+      "fr": "Ses multiples évolutions lui permettent de s'adapter à tout type de milieu naturel."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "055"
+  },
+  {
+    "id": "A3b-054",
+    "name": {
+      "en": "Drampa",
+      "fr": "Draïeul"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      780
+    ],
+    "hp": 100,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dragon Breath",
+          "fr": "Draco-Souffle"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+        },
+        "damage": 70
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
+      "fr": "Il vit dans les montagnes culminant à plus de 3 000 m d'altitude. Il se rend parfois en ville pour jouer avec les petits enfants."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "054"
+  },
+  {
+    "id": "A3b-053",
+    "name": {
+      "en": "Dragonite ex",
+      "fr": "Dracolosse-ex"
+    },
+    "illustrator": "PLANETA Igarashi",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      149
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Giga Impact",
+          "fr": "Giga Impact"
+        },
+        "effect": {
+          "en": "During your next turn, this Pokémon can't attack.",
+          "fr": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+        },
+        "damage": 180
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "053"
+  },
+  {
+    "id": "A3b-052",
+    "name": {
+      "en": "Dragonair",
+      "fr": "Draco"
+    },
+    "illustrator": "sui",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      148
+    ],
+    "hp": 90,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Waterfall",
+          "fr": "Cascade"
+        },
+        "damage": 60
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+      "fr": "On dit que lorsque tout son corps émet une aura, les conditions climatiques se mettent à changer à vue d'œil."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "052"
+  },
+  {
+    "id": "A3b-051",
+    "name": {
+      "en": "Dratini",
+      "fr": "Minidraco"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      147
+    ],
+    "hp": 60,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Beat",
+          "fr": "Bataille"
+        },
+        "damage": 20
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
+      "fr": "Ce Pokémon grandit en muant à répétition. Lors de ce processus, il s'abrite derrière une puissante cascade."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "051"
+  },
+  {
+    "id": "A3b-050",
+    "name": {
+      "en": "Melmetal",
+      "fr": "Melmetal"
+    },
+    "illustrator": "NC Empire",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      809
+    ],
+    "hp": 140,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "en": "Meltan",
+      "fr": "Meltan"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "name": {
+          "en": "Mega Punch",
+          "fr": "Ultimapoing"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 4,
+    "description": {
+      "en": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
+      "fr": "En fin de vie, son corps rouille et se brise en mille morceaux. Ces derniers renaissent ensuite sous forme de Meltan."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "050"
+  },
+  {
+    "id": "A3b-049",
+    "name": {
+      "en": "Meltan",
+      "fr": "Meltan"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      808
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "en": "Headbutt",
+          "fr": "Coup d'Boule"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+      "fr": "Il se nourrit du métal qu'il fait fondre, et produit de l'énergie en faisant circuler du métal liquide dans son corps."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "049"
+  },
+  {
+    "id": "A3b-048",
+    "name": {
+      "en": "Togedemaru",
+      "fr": "Togedemaru"
+    },
+    "illustrator": "Oswaldo KATO",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      777
+    ],
+    "hp": 80,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "name": {
+          "en": "Bristling Spikes",
+          "fr": "Épines Hérissées"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+          "fr": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque, le Pokémon Attaquant subit 30 dégâts."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
+      "fr": "Grâce à sa longue épine dorsale, il capte le tonnerre et les attaques des Pokémon Électrik, puis stocke leur courant dans sa poche électrique."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "048"
+  },
+  {
+    "id": "A3b-047",
+    "name": {
+      "en": "Mawile",
+      "fr": "Mysdibule"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      303
+    ],
+    "hp": 70,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Powerful Vise",
+          "fr": "Étau Costaud"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+      "fr": "Trompés par son visage innocent, ses ennemis se font happer par ses énormes mâchoires et ne peuvent plus s'échapper."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "047"
+  },
+  {
+    "id": "A3b-046",
+    "name": {
+      "en": "Liepard",
+      "fr": "Léopardus"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      510
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "en": "Slashing Claw",
+          "fr": "Griffe Taillante"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+      "fr": "On se laisse facilement éblouir par son pelage magnifique et son allure élégante, mais gare à son caractère imprévisible et agressif."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "046"
+  },
+  {
+    "id": "A3b-045",
+    "name": {
+      "en": "Purrloin",
+      "fr": "Chacripan"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      509
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Playful Knockdown",
+          "fr": "Fausse Maladresse"
+        },
+        "effect": {
+          "en": "Discard all Pokémon Tools from your opponent's Active Pokémon.",
+          "fr": "Défaussez toutes les cartes Outil Pokémon du Pokémon Actif de votre adversaire."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
+      "fr": "Malheur à qui se laisse berner par ses gestes adorables : une fois les gens à sa portée, il les griffe sans crier gare, en ricanant."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "045"
+  },
+  {
+    "id": "A3b-044",
+    "name": {
+      "en": "Sableye",
+      "fr": "Ténéfix"
+    },
+    "illustrator": "Yukiko Baba",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      302
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals.",
+      "fr": "Les éléments présents dans les gemmes qu'il mange remontent à la surface de son corps, formant des motifs d'une infinie variété."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "044"
+  },
+  {
+    "id": "A3b-043",
+    "name": {
+      "en": "Umbreon",
+      "fr": "Noctali"
+    },
+    "illustrator": "Ryota Murayama",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Dark Binding",
+          "fr": "Entrave Sombre"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "fr": "Si le Pokémon Défenseur est un Pokémon de base, il ne peut pas attaquer pendant le prochain tour de votre adversaire."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+      "fr": "Quand il s'expose aux ondes lunaires, ses anneaux brillent légèrement et il acquiert un mystérieux pouvoir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "A3b-042",
+    "name": {
+      "en": "Carbink",
+      "fr": "Strassie"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      703
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hard Roll",
+          "fr": "Roulade Endurcie"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body.",
+      "fr": "Ce Pokémon élimine les ennemis qui l'attaquent en projetant un laser d'énergie généré par les pierres précieuses incrustées dans son corps."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "A3b-041",
+    "name": {
+      "en": "Mienshao",
+      "fr": "Shaofouine"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      620
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Mienfoo",
+      "fr": "Kungfouine"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Low Kick",
+          "fr": "Balayage"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
+      "fr": "Lorsqu'il fait face à un adversaire vraiment redoutable, il coupe les poils de sa main avec les dents pour améliorer son agilité."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "A3b-040",
+    "name": {
+      "en": "Mienfoo",
+      "fr": "Kungfouine"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      619
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Kick Shot",
+          "fr": "Coup d'Ergots"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
+      "fr": "Les Kungfouine bien entraînés sont capables d'asséner plus de cent coups par minute du tranchant de la main."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "A3b-039",
+    "name": {
+      "en": "Whiscash",
+      "fr": "Barbicha"
+    },
+    "illustrator": "Shinji Kanda",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      340
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Barboach",
+      "fr": "Barloche"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Earthquake",
+          "fr": "Séisme"
+        },
+        "effect": {
+          "en": "This attack also does 10 damage to each of your Benched Pokémon.",
+          "fr": "Cette attaque inflige aussi 10 dégâts à chacun de vos Pokémon de Banc."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
+      "fr": "Il est très protecteur vis-à-vis de son territoire. Si des ennemis approchent, il le défend en déclenchant des secousses terribles."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "A3b-038",
+    "name": {
+      "en": "Barboach",
+      "fr": "Barloche"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      339
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mud Shot",
+          "fr": "Tir de Boue"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey's location.",
+      "fr": "Il se sert de ses barbillons comme d'un radar ultrasophistiqué. Ils lui permettent de détecter ses proies même dans l'eau boueuse."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "A3b-037",
+    "name": {
+      "en": "Alcremie",
+      "fr": "Charmilly"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      869
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Milcery",
+      "fr": "Crèmy"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sweets Overload",
+          "fr": "Avalanche Sucrée"
+        },
+        "effect": {
+          "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+          "fr": "Cette attaque inflige 40 dégâts pour chaque utilisation de  par vos Pokémon pendant cette partie."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
+      "fr": "Il offre aux Dresseurs auxquels il accorde toute sa confiance des Baies décorées avec de la crème."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "A3b-036",
+    "name": {
+      "en": "Milcery",
+      "fr": "Crèmy"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      868
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
+      "fr": "Son corps de crème s'est composé à partir de particules au parfum sucré flottant dans l'air."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "A3b-035",
+    "name": {
+      "en": "Mimikyu",
+      "fr": "Mimiqui"
+    },
+    "illustrator": "Eri Yamaki",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      778
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Try to Imitate",
+          "fr": "Tentative d'Imitation"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+          "fr": "Lancez une pièce. Si c'est face, choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+      "fr": "Il vit dans les lieux sombres, à l'abri du soleil. Lorsqu'il se montre, il dissimule tout son corps sous un déguisement qui rappelle Pikachu."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "A3b-034",
+    "name": {
+      "en": "Sylveon ex",
+      "fr": "Nymphali-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Happy Ribbon",
+          "fr": "Ruban du Bonheur"
+        },
+        "effect": {
+          "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+          "fr": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fairy Wind",
+          "fr": "Vent Féérique"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "034"
+  },
+  {
+    "id": "A3b-033",
+    "name": {
+      "en": "Sylveon",
+      "fr": "Nymphali"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Evoharmony",
+          "fr": "Harmonie Évolutive"
+        },
+        "effect": {
+          "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+          "fr": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+      "fr": "Ses antennes en forme de ruban émettent des ondes apaisantes en direction de ses adversaires et neutralisent toute hostilité."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "A3b-032",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille"
+    },
+    "illustrator": "Kyoko Umemoto",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      685
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 60 dégâts supplémentaires."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications.",
+      "fr": "Il peut diagnostiquer l'état de santé mentale et physique de quelqu'un rien qu'à l'odorat. Un tel don pourrait avoir des applications en médecine."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "A3b-031",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It eats its own weight in sugar every day.\nIf it doesn't get enough sugar, it becomes\nincredibly grumpy.",
+      "fr": "Il mange son propre poids en sucre chaque jour. S'il n'a pas sa dose de sucreries, il devient horriblement grognon."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "A3b-030",
+    "name": {
+      "en": "Swoobat",
+      "fr": "Rhinolove"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      528
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Woobat",
+      "fr": "Chovsourir"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Psyshot",
+          "fr": "Piqûre Psy"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while.",
+      "fr": "Émettre des ondes sonores ultra-puissantes le fatigue tellement qu'il n'a plus de forces pour voler."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "030"
+  },
+  {
+    "id": "A3b-029",
+    "name": {
+      "en": "Woobat",
+      "fr": "Chovsourir"
+    },
+    "illustrator": "match",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      527
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it's\nevidence that Woobat live there.",
+      "fr": "La présence de marques en forme de cœur sur les parois des grottes indique la présence de Chovsourir à l'intérieur."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "A3b-028",
+    "name": {
+      "en": "Espeon",
+      "fr": "Mentali"
+    },
+    "illustrator": "Ryota Murayama",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Energy Crush",
+          "fr": "Écras'Énergie"
+        },
+        "effect": {
+          "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+      "fr": "Quand il prédit la prochaine attaque de son adversaire, l'extrémité fourchue de sa queue frémit."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "A3b-027",
+    "name": {
+      "en": "Galvantula",
+      "fr": "Mygavolt"
+    },
+    "illustrator": "otumami",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      596
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Joltik",
+      "fr": "Statitik"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Electric Shock",
+          "fr": "Choc Électrique"
+        },
+        "effect": {
+          "en": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Défaussez toutes les Énergies attachées à ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Paralysé."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
+      "fr": "Il attaque en projetant les poils de son abdomen chargés en électricité. La victime reste alors paralysée pendant trois jours et trois nuits."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "A3b-026",
+    "name": {
+      "en": "Joltik",
+      "fr": "Statitik"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      595
+    ],
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Jolt",
+          "fr": "Secousse"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Joltik can be found clinging to other Pokémon.\nIt's soaking up static electricity because it can't\nproduce a charge on its own.",
+      "fr": "Il s'accroche au corps des autres Pokémon pour absorber leur électricité statique. Il est incapable d'en produire tout seul."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "A3b-025",
+    "name": {
+      "en": "Jolteon",
+      "fr": "Voltali"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Beginning Bolt",
+          "fr": "Premier Éclair"
+        },
+        "effect": {
+          "en": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+          "fr": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+      "fr": "Il concentre la faible charge électrique générée par chacune de ses cellules pour projeter de puissants éclairs."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "A3b-024",
+    "name": {
+      "en": "Primarina ex",
+      "fr": "Oratoria-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      730
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Hydro Pump",
+          "fr": "Hydrocanon"
+        },
+        "effect": {
+          "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+          "fr": "Si ce Pokémon a au moins une Énergie {W} de plus, cette attaque inflige 40 dégâts supplémentaires."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Sparkling Aria",
+          "fr": "Aria de l'Écume"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "fr": "Soignez 20 dégâts à ce Pokémon."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "024"
+  },
+  {
+    "id": "A3b-023",
+    "name": {
+      "en": "Brionne",
+      "fr": "Otarlette"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      729
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Gun",
+          "fr": "Pistolet à O"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It gets excited when it sees a dance it\ndoesn't know. This hard worker practices\ndiligently until it can learn that dance.",
+      "fr": "Il est tout excité quand il est témoin d'une danse qu'il ne connaît pas. Il s'entraîne alors comme un forcené jusqu'à la maîtriser à la perfection."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "A3b-022",
+    "name": {
+      "en": "Popplio",
+      "fr": "Otaquin"
+    },
+    "illustrator": "match",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      728
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Watering",
+          "fr": "Arrosage"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+      "fr": "Grâce à son entraînement quotidien, les ballons qu'il gonfle avec son nez sont de plus en plus gros."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "A3b-021",
+    "name": {
+      "en": "Alomomola",
+      "fr": "Mamanbo"
+    },
+    "illustrator": "Miki Tanaka",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      594
+    ],
+    "hp": 110,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Pulse",
+          "fr": "Vibraqua"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Asleep.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
+      "fr": "Il berce les Pokémon blessés ou affaiblis dans ses nageoires et les guérit grâce à la membrane dont il est recouvert."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "A3b-020",
+    "name": {
+      "en": "Vanilluxe",
+      "fr": "Sorbouboul"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      584
+    ],
+    "hp": 140,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Vanillish",
+      "fr": "Sorboul"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double Spin",
+          "fr": "Double Tour"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 80 damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 80 dégâts pour chaque côté face."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
+      "fr": "Lorsqu'il a les nerfs en boule, il provoque un blizzard qui gèle tout le monde, alliés comme adversaires."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "A3b-019",
+    "name": {
+      "en": "Vanillish",
+      "fr": "Sorboul"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      583
+    ],
+    "hp": 80,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Vanillite",
+      "fr": "Sorbébé"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
+      "fr": "Il boit de l'eau pure pour gonfler son corps de glace. On le voit rarement les jours ensoleillés."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "A3b-018",
+    "name": {
+      "en": "Vanillite",
+      "fr": "Sorbébé"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      582
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+      "fr": "Il ne peut pas vivre dans les contrées chaudes. Il souffle un air glacial pour faire tomber la neige, puis s'y plonge pour dormir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "A3b-017",
+    "name": {
+      "en": "Glaceon",
+      "fr": "Givrali"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      471
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Ice Blade",
+          "fr": "Lame de Glace"
+        },
+        "effect": {
+          "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+          "fr": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+      "fr": "Il peut contrôler la température de son corps à volonté et créer des cristaux de glace en gelant l'humidité de l'air."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "A3b-016",
+    "name": {
+      "en": "Vaporeon",
+      "fr": "Aquali"
+    },
+    "illustrator": "sui",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hyper Whirlpool",
+          "fr": "Hyper Tourbillon"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "fr": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+      "fr": "Il vit au bord de l'eau. Sa queue semblable à celle d'un poisson lui donne l'apparence d'une sirène."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "A3b-015",
+    "name": {
+      "en": "Salazzle",
+      "fr": "Malamandre"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      758
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Combustion",
+          "fr": "Fournaise"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+      "fr": "Il étourdit ses adversaires avec son gaz toxique, puis il les asservit en exécutant une danse envoûtante."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "A3b-014",
+    "name": {
+      "en": "Salandit",
+      "fr": "Tritox"
+    },
+    "illustrator": "tetsuya koizumi",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      757
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Ember",
+          "fr": "Flammèche"
+        },
+        "effect": {
+          "en": "Discard a {R} Energy from this Pokémon.",
+          "fr": "Défaussez une Énergie {R} de ce Pokémon."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+      "fr": "Il provoque ses proies afin de les attirer dans d'étroites zones rocheuses, puis il les étourdit avec son gaz toxique avant de les achever."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "A3b-013",
+    "name": {
+      "en": "Incineroar",
+      "fr": "Félinferno"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      727
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Darkest Lariat",
+          "fr": "Dark Lariat"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 100 damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque côté face."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "Although it's rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
+      "fr": "Un Pokémon brutal qui n'en fait qu'à sa tête. Selon son humeur du moment, il lui arrive parfois d'ignorer sciemment les ordres de son Dresseur."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "A3b-012",
+    "name": {
+      "en": "Torracat",
+      "fr": "Matoufeu"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      726
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Claw Slash",
+          "fr": "Tranch'Griffe"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
+      "fr": "Il faut d'abord gagner sa confiance pour pouvoir le câliner. Mais attention, il est puissant et ses griffes acérées peuvent causer des égratignures."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "A3b-011",
+    "name": {
+      "en": "Litten",
+      "fr": "Flamiaou"
+    },
+    "illustrator": "0313",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      725
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flare",
+          "fr": "Flamboiement"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "If you try too hard to get close to it, it won't\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
+      "fr": "Il se renferme sur lui-même si on lui accorde trop d'attention. Mieux vaut éviter de beaucoup le caresser, même s'il devient affectueux."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "A3b-010",
+    "name": {
+      "en": "Torkoal",
+      "fr": "Chartor"
+    },
+    "illustrator": "sui",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      324
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "name": {
+          "en": "Flamethrower",
+          "fr": "Lance-Flammes"
+        },
+        "effect": {
+          "en": "Discard a {R} Energy from this Pokémon.",
+          "fr": "Défaussez une Énergie {R} de ce Pokémon."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered.",
+      "fr": "Ce Pokémon brûle du charbon dans sa carapace. Quand on l'attaque, il crache de la fumée noire pour pouvoir s'enfuir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "A3b-009",
+    "name": {
+      "en": "Flareon ex",
+      "fr": "Pyroli-ex"
+    },
+    "illustrator": "PLANETA CG Works",
+    "rarity": "Four Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 150,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Combust",
+          "fr": "Ignition"
+        },
+        "effect": {
+          "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+          "fr": "Une fois pendant votre tour, vous pouvez attacher une Énergie {R} de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "fr": "Danse Flammes"
+        },
+        "effect": {
+          "en": "Discard 2 {R} Energy from this Pokémon.",
+          "fr": "Défaussez 2 Énergies {R} de ce Pokémon."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "suffix": "EX",
+    "cardNumber": "009"
+  },
+  {
+    "id": "A3b-008",
+    "name": {
+      "en": "Flareon",
+      "fr": "Pyroli"
+    },
+    "illustrator": "Eri Yamaki",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Assisting Heater",
+          "fr": "Assistant Thermique"
+        },
+        "effect": {
+          "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+          "fr": "Prenez une Énergie {R} de votre zone Énergie et attachez-la à l'un de vos Pokémon de Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+      "fr": "Sa glande enflammée chauffe l'air qu'il inspire. Il l'exhale ensuite sous forme de flamme atteignant les 1 700 °C."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "A3b-007",
+    "name": {
+      "en": "Appletun",
+      "fr": "Dratatin"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      842
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Applin",
+      "fr": "Verpom"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Sweets Relay",
+          "fr": "Saupoudrage Sucré"
+        },
+        "effect": {
+          "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage.",
+          "fr": "Si un de vos Pokémon a utilisé  lors de votre dernier tour, cette attaque inflige 30 dégâts supplémentaires."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
+      "fr": "Il se nourrit principalement de pommes sucrées, mais il peut aussi manger de petits Pokémon Insecte, attirés par son miel onctueux."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "A3b-006",
+    "name": {
+      "en": "Applin",
+      "fr": "Verpom"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      840
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Ram",
+          "fr": "Collision"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple's skin and prevent it from rotting.",
+      "fr": "Il grandit en mangeant la chair d'une pomme. Grâce à une substance qu'il sécrète, il solidifie la peau de cette pomme et l'empêche de pourrir."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "A3b-005",
+    "name": {
+      "en": "Tsareena",
+      "fr": "Sucreine"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      763
+    ],
+    "hp": 140,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Steenee",
+      "fr": "Candine"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Kick Down",
+          "fr": "Coup Séparateur"
+        },
+        "effect": {
+          "en": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+          "fr": "Votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
+      "fr": "Ce Pokémon est aussi fier qu'agressif. On dit néanmoins qu'il se calme instantanément quand on touche la couronne sur sa tête."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "A3b-004",
+    "name": {
+      "en": "Steenee",
+      "fr": "Candine"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      762
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Bounsweet",
+      "fr": "Croquine"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Leaf Step",
+          "fr": "Enjambée de Feuillage"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
+      "fr": "Il dégage un doux parfum qui a le pouvoir de redonner du tonus, et qui est très populaire en odeur de déodorant."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "A3b-003",
+    "name": {
+      "en": "Bounsweet",
+      "fr": "Croquine"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "One Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      761
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flop",
+          "fr": "Flop"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
+      "fr": "Sa sueur est aussi sucrée qu'un jus de fruits. Elle était donc très appréciée autrefois, quand les édulcorants étaient rares."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "A3b-002",
+    "name": {
+      "en": "Leafeon",
+      "fr": "Phyllali"
+    },
+    "illustrator": "chibi",
+    "rarity": "Three Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Eevee",
+      "fr": "Évoli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leaf Blast",
+          "fr": "Explosion de Feuilles"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie {G} attachée à ce Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+      "fr": "Un Phyllali qui dort par beau temps produit un air frais et pur par photosynthèse."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "A3b-001",
+    "name": {
+      "en": "Tropius",
+      "fr": "Tropius"
+    },
+    "illustrator": "Oswaldo KATO",
+    "rarity": "Two Diamond",
+    "category": "Pokemon",
+    "dexId": [
+      357
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Cutting Wind",
+          "fr": "Vent Glacial"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
+      "fr": "Tropius vit dans les jungles tropicales. Les fruits sur son cou sont sucrés et succulents. Ils poussent deux fois par an."
+    },
+    "series": {
+      "id": "tcgp"
+    },
+    "set": {
+      "id": "A3b"
+    },
+    "cardNumber": "001"
+  }
+]

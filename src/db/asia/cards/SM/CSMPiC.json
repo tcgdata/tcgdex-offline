@@ -1,0 +1,2215 @@
+[
+  {
+    "id": "CSMPiC-048",
+    "name": {
+      "zh-cn": "超梦GX"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 190,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-cn": "全力爆发"
+        },
+        "effect": {
+          "zh-cn": "造成这只宝可梦身上所附能量的数量×30点伤害。"
+        },
+        "damage": "30×"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "超级吸收"
+        },
+        "effect": {
+          "zh-cn": "恢复这只宝可梦的HP「30」点。"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "zh-cn": "精神击破GX"
+        },
+        "effect": {
+          "zh-cn": "这个招式的伤害不受对手战斗宝可梦身上的效果影响。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "048"
+  },
+  {
+    "id": "CSMPiC-047",
+    "name": {
+      "zh-cn": "班基拉斯GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      248
+    ],
+    "hp": 250,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "zh-cn": "沙基拉斯"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-cn": "送入迷失区"
+        },
+        "effect": {
+          "zh-cn": "若对手的宝可梦因这只宝可梦的招式的伤害而【昏厥】，则将那只宝可梦与附于其身上的全部卡放置于迷失区，而不是弃牌区。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "尘土骚动"
+        },
+        "effect": {
+          "zh-cn": "对手的所有后备基础宝可梦各受到30点伤害。【后备宝可梦不计算弱点・抵抗力。】"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "重压制裁GX"
+        },
+        "effect": {
+          "zh-cn": "这个招式的伤害不受对手战斗宝可梦身上的效果影响。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "047"
+  },
+  {
+    "id": "CSMPiC-046",
+    "name": {
+      "zh-cn": "路卡利欧GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 210,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "zh-cn": "利欧路"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-cn": "波导打击"
+        },
+        "effect": {
+          "zh-cn": "若这只宝可梦是在这个回合由「利欧路」进化而来，则增加90点伤害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "旋风踢"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "倔强猛击GX"
+        },
+        "effect": {
+          "zh-cn": "造成这只宝可梦身上所放置的伤害指示物的数量×30点伤害。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "046"
+  },
+  {
+    "id": "CSMPiC-045",
+    "name": {
+      "zh-cn": "诅咒娃娃GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      354
+    ],
+    "hp": 190,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "zh-cn": "怨影娃娃"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-cn": "阴影移动"
+        },
+        "effect": {
+          "zh-cn": "这个特性在这只宝可梦是你的战斗宝可梦时，在自己的回合可以使用1次。选择1只宝可梦身上的1个伤害指示物，改放到另一只宝可梦身上。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-cn": "暗影咏唱"
+        },
+        "effect": {
+          "zh-cn": "增加自己的弃牌区的支援者卡的张数×10点伤害。以这个方式最多增加100点伤害。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-cn": "墓地搜寻GX"
+        },
+        "effect": {
+          "zh-cn": "从自己的弃牌区选择3张卡加入手牌。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "045"
+  },
+  {
+    "id": "CSMPiC-044",
+    "name": {
+      "zh-cn": "超梦GX"
+    },
+    "illustrator": "MPC Film",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 190,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "念力移动"
+        },
+        "effect": {
+          "zh-cn": "对手的1只宝可梦受到50点伤害。这个伤害不计算弱点・抵抗力。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "支配脉冲"
+        },
+        "effect": {
+          "zh-cn": "将对手的战斗宝可梦【混乱】。"
+        },
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "精神新星GX"
+        },
+        "effect": {
+          "zh-cn": "在对手的下个回合，这只宝可梦不会受到招式的伤害。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "044"
+  },
+  {
+    "id": "CSMPiC-043",
+    "name": {
+      "zh-cn": "基本妖精能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "CSMPiC-042",
+    "name": {
+      "zh-cn": "基本金属能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "CSMPiC-041",
+    "name": {
+      "zh-cn": "基本恶能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "CSMPiC-040",
+    "name": {
+      "zh-cn": "基本斗能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "CSMPiC-039",
+    "name": {
+      "zh-cn": "基本超能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "CSMPiC-038",
+    "name": {
+      "zh-cn": "基本雷能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "CSMPiC-037",
+    "name": {
+      "zh-cn": "基本水能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "CSMPiC-036",
+    "name": {
+      "zh-cn": "基本火能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "CSMPiC-035",
+    "name": {
+      "zh-cn": "基本草能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "CSMPiC-034",
+    "name": {
+      "zh-cn": "赤红的挑战"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "这张卡只有在将自己的另外2张手牌丢弃时才可使用。从自己的牌库选择1张卡加入手牌。并且重洗牌库。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "CSMPiC-033",
+    "name": {
+      "zh-cn": "碧蓝的探索"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "这张卡只有在自己的场上没有拥有特性的宝可梦时才可使用。从自己的牌库选择最多2张训练家卡，给对手看过后加入手牌。并且重洗牌库。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "CSMPiC-032",
+    "name": {
+      "zh-cn": "青绿的策略"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "在这个回合结束时，抽卡直到自己的手牌变为8张。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "CSMPiC-031",
+    "name": {
+      "zh-cn": "竹兰"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "将自己的手牌全部放回牌库并重洗。然后，抽6张卡。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "CSMPiC-030",
+    "name": {
+      "zh-cn": "空木博士的指导"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "从自己的牌库选择最多3只HP为60以下的宝可梦，给对手看过后加入手牌。并且重洗牌库。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "030"
+  },
+  {
+    "id": "CSMPiC-029",
+    "name": {
+      "zh-cn": "正辉的维修"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "将自己的1张手牌放回牌库并重洗。若如此做，则抽3张卡。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "CSMPiC-028",
+    "name": {
+      "zh-cn": "希嘉娜"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "这张卡只有在对手的上个回合，自己的1只宝可梦【昏厥】了才可使用。从自己的手牌选择最多2张基本能量卡，附于自己的1只龙宝可梦身上。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "CSMPiC-027",
+    "name": {
+      "zh-cn": "露莎米奈"
+    },
+    "illustrator": "You Iribi",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "从自己的弃牌区选择合计2张支援者卡与场地卡加入手牌。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "CSMPiC-026",
+    "name": {
+      "zh-cn": "古兹马"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-cn": "将对手的1只后备宝可梦与战斗宝可梦互换。若如此做，则将自己的战斗宝可梦与1只后备宝可梦互换。"
+    },
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "CSMPiC-025",
+    "name": {
+      "zh-cn": "超梦GX"
+    },
+    "illustrator": "MPC Film",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 190,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "念力移动"
+        },
+        "effect": {
+          "zh-cn": "对手的1只宝可梦受到50点伤害。这个伤害不计算弱点・抵抗力。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "支配脉冲"
+        },
+        "effect": {
+          "zh-cn": "将对手的战斗宝可梦【混乱】。"
+        },
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "精神新星GX"
+        },
+        "effect": {
+          "zh-cn": "在对手的下个回合，这只宝可梦不会受到招式的伤害。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "025"
+  },
+  {
+    "id": "CSMPiC-024",
+    "name": {
+      "zh-cn": "基本妖精能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "CSMPiC-023",
+    "name": {
+      "zh-cn": "基本金属能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "CSMPiC-022",
+    "name": {
+      "zh-cn": "基本恶能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "CSMPiC-021",
+    "name": {
+      "zh-cn": "基本斗能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "CSMPiC-020",
+    "name": {
+      "zh-cn": "基本超能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "CSMPiC-019",
+    "name": {
+      "zh-cn": "基本雷能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "CSMPiC-018",
+    "name": {
+      "zh-cn": "基本水能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "CSMPiC-017",
+    "name": {
+      "zh-cn": "基本火能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "CSMPiC-016",
+    "name": {
+      "zh-cn": "基本草能量"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "CSMPiC-015",
+    "name": {
+      "zh-cn": "烈咬陆鲨"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      445
+    ],
+    "hp": 150,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "zh-cn": "尖牙陆鲨"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "快速俯冲"
+        },
+        "effect": {
+          "zh-cn": "对手的1只宝可梦受到50点伤害。【后备宝可梦不计算弱点・抵抗力。】"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "皇家利刃"
+        },
+        "effect": {
+          "zh-cn": "若在这个回合从手牌使出了「竹兰」，则增加100点伤害。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "CSMPiC-014",
+    "name": {
+      "zh-cn": "尖牙陆鲨"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      444
+    ],
+    "hp": 80,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "zh-cn": "圆陆鲨"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-cn": "升阶"
+        },
+        "effect": {
+          "zh-cn": "从自己的牌库选择1张由这只宝可梦进化而来的卡，放置于这只宝可梦身上完成进化。并且重洗牌库。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "劈开"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "CSMPiC-013",
+    "name": {
+      "zh-cn": "圆陆鲨"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      443
+    ],
+    "hp": 50,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "zh-cn": "升阶"
+        },
+        "effect": {
+          "zh-cn": "从自己的牌库选择1张由这只宝可梦进化而来的卡，放置于这只宝可梦身上完成进化。并且重洗牌库。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "CSMPiC-012",
+    "name": {
+      "zh-cn": "龙卷云GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      641
+    ],
+    "hp": 180,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "起风"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "狂野怒火"
+        },
+        "effect": {
+          "zh-cn": "投掷硬币直到出现反面，增加正面出现的次数×30点伤害。"
+        },
+        "damage": "90+"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "破坏气旋GX"
+        },
+        "effect": {
+          "zh-cn": "将对手的战斗宝可梦身上的全部能量丢弃。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "012"
+  },
+  {
+    "id": "CSMPiC-011",
+    "name": {
+      "zh-cn": "帕路奇亚GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      484
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-cn": "空间控制"
+        },
+        "effect": {
+          "zh-cn": "将自己的后备宝可梦身上的任意数量的能量转移到这只宝可梦身上。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "水压"
+        },
+        "effect": {
+          "zh-cn": "增加这只宝可梦身上所附水能量的数量×20点伤害。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "零度消失GX"
+        },
+        "effect": {
+          "zh-cn": "将对手所有宝可梦身上的全部能量放回对手牌库并重洗。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "011"
+  },
+  {
+    "id": "CSMPiC-010",
+    "name": {
+      "zh-cn": "帝牙卢卡GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 180,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "zh-cn": "超频"
+        },
+        "effect": {
+          "zh-cn": "抽卡直到自己的手牌变为6张。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "撕裂"
+        },
+        "effect": {
+          "zh-cn": "这个招式的伤害不受对手战斗宝可梦身上的效果影响。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "永恒GX"
+        },
+        "effect": {
+          "zh-cn": "在这个回合结束后，再进行自己的1个回合。（跳过回合间的步骤。）【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "010"
+  },
+  {
+    "id": "CSMPiC-009",
+    "name": {
+      "zh-cn": "仙子伊布GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 200,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "zh-cn": "伊布"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "zh-cn": "魔法缎带"
+        },
+        "effect": {
+          "zh-cn": "从自己的牌库选择最多3张卡加入手牌。并且重洗牌库。"
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "妖精之风"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "祈求GX"
+        },
+        "effect": {
+          "zh-cn": "将对手的2只后备宝可梦与附于它们身上的全部卡放回对手手牌。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "009"
+  },
+  {
+    "id": "CSMPiC-008",
+    "name": {
+      "zh-cn": "月亮伊布GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 200,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "zh-cn": "伊布"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "zh-cn": "扫射"
+        },
+        "effect": {
+          "zh-cn": "可将这只宝可梦与自己的1只后备宝可梦互换。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "暗影子弹"
+        },
+        "effect": {
+          "zh-cn": "对手的1只后备宝可梦也受到30点伤害。【后备宝可梦不计算弱点・抵抗力。】"
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "暗夜呼唤GX"
+        },
+        "effect": {
+          "zh-cn": "将对手的宝可梦身上的能量丢弃2个。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "008"
+  },
+  {
+    "id": "CSMPiC-007",
+    "name": {
+      "zh-cn": "太阳伊布GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 200,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "zh-cn": "伊布"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-cn": "幻想光线"
+        },
+        "effect": {
+          "zh-cn": "将对手的战斗宝可梦【混乱】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "精神强念"
+        },
+        "effect": {
+          "zh-cn": "增加对手的战斗宝可梦身上所附能量的数量×30点伤害。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "分配GX"
+        },
+        "effect": {
+          "zh-cn": "以任意方式在对手的宝可梦身上放置10个伤害指示物。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "007"
+  },
+  {
+    "id": "CSMPiC-006",
+    "name": {
+      "zh-cn": "魔墙人偶GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      122
+    ],
+    "hp": 150,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-cn": "魔法偶数"
+        },
+        "effect": {
+          "zh-cn": "对手的攻击对这只宝可梦造成的伤害若正好为20、40、60、80、100、120、140、160、180、200、220、240或260，则防止那些伤害。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "崩解"
+        },
+        "effect": {
+          "zh-cn": "根据对手的手牌数量，在对手的战斗宝可梦身上放置相同数量的伤害指示物。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "生命戏法GX"
+        },
+        "effect": {
+          "zh-cn": "恢复这只宝可梦的全部HP。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "006"
+  },
+  {
+    "id": "CSMPiC-005",
+    "name": {
+      "zh-cn": "雷电云GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      642
+    ],
+    "hp": 180,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-cn": "充电"
+        },
+        "effect": {
+          "zh-cn": "从自己的牌库选择1张雷能量卡，附于这只宝可梦身上。并且重洗牌库。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "zh-cn": "电光球"
+        },
+        "damage": 140
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "zh-cn": "雷电飓风GX"
+        },
+        "effect": {
+          "zh-cn": "掷4次硬币，造成正面出现的次数×100点伤害。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": "100×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "005"
+  },
+  {
+    "id": "CSMPiC-004",
+    "name": {
+      "zh-cn": "冰伊布GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      471
+    ],
+    "hp": 200,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "zh-cn": "伊布"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-cn": "冰冷视线"
+        },
+        "effect": {
+          "zh-cn": "只要这只宝可梦是你的战斗宝可梦，对手的场上、手牌与弃牌区的宝可梦GX与宝可梦EX，除了「冰冷视线」以外，没有特性。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "冰霜子弹"
+        },
+        "effect": {
+          "zh-cn": "对手的1只后备宝可梦也受到30点伤害。【后备宝可梦不计算弱点・抵抗力。】"
+        },
+        "damage": 90
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "极地尖枪GX"
+        },
+        "effect": {
+          "zh-cn": "造成对手的战斗宝可梦身上所放置的伤害指示物的数量×50点伤害。【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "004"
+  },
+  {
+    "id": "CSMPiC-003",
+    "name": {
+      "zh-cn": "暴鲤龙GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 240,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "zh-cn": "鲤鱼王"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "攀瀑"
+        },
+        "damage": 70
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "龙之灾祸"
+        },
+        "effect": {
+          "zh-cn": "若场上有场地卡，则增加100点伤害。然后，将那张场地卡丢弃。"
+        },
+        "damage": "100+"
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-cn": "恐惧风暴GX"
+        },
+        "effect": {
+          "zh-cn": "将对手所有宝可梦身上的能量各丢弃1个。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "003"
+  },
+  {
+    "id": "CSMPiC-002",
+    "name": {
+      "zh-cn": "喷火龙GX"
+    },
+    "illustrator": "aky CG Works",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      6
+    ],
+    "hp": 250,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "zh-cn": "火恐龙"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "喷射火焰"
+        },
+        "damage": 140
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "闪焰冲锋GX"
+        },
+        "effect": {
+          "zh-cn": "【对战中，己方的GX招式只能使用1次。】"
+        },
+        "damage": 300
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "002"
+  },
+  {
+    "id": "CSMPiC-001",
+    "name": {
+      "zh-cn": "叶伊布GX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      470
+    ],
+    "hp": 200,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "zh-cn": "伊布"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-cn": "绿叶之息"
+        },
+        "effect": {
+          "zh-cn": "这个特性在这只宝可梦是你的战斗宝可梦时，在自己的回合可以使用1次。恢复自己的1只身上附有能量的宝可梦的HP「50」点。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-cn": "日光束"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-cn": "绚丽绽放GX"
+        },
+        "effect": {
+          "zh-cn": "对己方全部的后备基础宝可梦，从牌库中搜索进化自那些宝可梦的卡各1张，放置于对应宝可梦身上完成进化。并且重洗牌库。【对战中，己方的GX招式只能使用1次。】"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "CSMPiC"
+    },
+    "suffix": "GX",
+    "cardNumber": "001"
+  }
+]

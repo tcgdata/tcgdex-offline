@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "CP2-027",
+    "name": {
+      "ja": "オンバット"
+    },
+    "illustrator": "sui",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      714
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちょっとすいとる"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「10」回復する。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563508,
+          "tcgplayer": 605345
+        }
+      }
+    ],
+    "description": {
+      "ja": "２０万ヘルツの 超音波を 浴びると 屈強な レスラーも 目が 回り 立っていられないのだ。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "CP2-026",
+    "name": {
+      "ja": "ウォーグル"
+    },
+    "illustrator": "match",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      628
+    ],
+    "hp": 100,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "ja": "ワシボン"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つばさでうつ"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "デュアルカッター"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、オモテの数x80ダメージ。"
+        },
+        "damage": "80×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563507,
+          "tcgplayer": 605331
+        }
+      }
+    ],
+    "description": {
+      "ja": "仲間のため 危険を かえりみず 戦う。 自動車を つかんだまま 大空を 舞う ことが できる。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "CP2-025",
+    "name": {
+      "ja": "ワシボン"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      627
+    ],
+    "hp": 50,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つつく"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563506,
+          "tcgplayer": 605351
+        }
+      }
+    ],
+    "description": {
+      "ja": "強い 相手にも 見境なく 戦いを 挑む。 戦いを 繰り返す ことで 強くなるのだ。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "CP2-024",
+    "name": {
+      "ja": "アルセウス"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      493
+    ],
+    "hp": 120,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひかりをあつめる"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンについているエネルギーを好きなだけ選び、このポケモンにつけ替える。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ジャッジメントバースト"
+        },
+        "effect": {
+          "ja": "このポケモンについている基本エネルギーのタイプの数x30ダメージを追加。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563505,
+          "tcgplayer": 605328
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "CP2-023",
+    "name": {
+      "ja": "レジギガス"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      486
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "だいちのめざめ"
+        },
+        "effect": {
+          "ja": "自分の手札からこのポケモンにエネルギーをつけるたび、このポケモンのHPを「20」回復する。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ギガスパンチ"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、すべてウラなら、このワザは失敗。"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563504,
+          "tcgplayer": 605349
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "CP2-022",
+    "name": {
+      "ja": "ニャース"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      52
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "へとへとタックル"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンに30ダメージ。ウラなら、このポケモンに30ダメージ。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563503,
+          "tcgplayer": 605344
+        }
+      }
+    ],
+    "description": {
+      "ja": "まるいものが 大好き。 夜な夜な 出かけては 落ちている コインを 拾い 集めて 帰ってくる。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "CP2-021",
+    "name": {
+      "ja": "ホワイトキュレム"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      646
+    ],
+    "hp": 120,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はかいこうせん"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "フレアブリザード"
+        },
+        "effect": {
+          "ja": "次の自分の番、このポケモンは「フレアブリザード」が使えない。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563502,
+          "tcgplayer": 605352
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "CP2-020",
+    "name": {
+      "ja": "ブラックキュレム"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      646
+    ],
+    "hp": 120,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンダーネイル"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひょうけつざん"
+        },
+        "effect": {
+          "ja": "このポケモンにも20ダメージ。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563501,
+          "tcgplayer": 605329
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "CP2-019",
+    "name": {
+      "ja": "ラティオス"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      381
+    ],
+    "hp": 100,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かっくう"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スカイブレード"
+        },
+        "effect": {
+          "ja": "自分のベンチに「ラティアス」がいるなら、50ダメージを追加。"
+        },
+        "damage": "70+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563500,
+          "tcgplayer": 605343
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "CP2-018",
+    "name": {
+      "ja": "ラティアス"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      380
+    ],
+    "hp": 90,
+    "types": [
+      "Dragon"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "むげんのおもい"
+        },
+        "effect": {
+          "ja": "自分の山札を1枚引く。自分のベンチに「ラティオス」がいるなら、さらに1枚引く。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スピードウイング"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563499,
+          "tcgplayer": 605342
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "CP2-017",
+    "name": {
+      "ja": "ディアルガ"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 120,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メタルクロー"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "じかんとうけつ"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、手札からポケモンを出して進化できない。"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563498,
+          "tcgplayer": 605334
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "CP2-016",
+    "name": {
+      "ja": "マーイーカ"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      686
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "みだれかいてん"
+        },
+        "effect": {
+          "ja": "コインを4回投げ、オモテの数x10ダメージ。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563497,
+          "tcgplayer": 605341
+        }
+      }
+    ],
+    "description": {
+      "ja": "光の 点滅で 襲ってきた 敵の 戦意を なくしてしまう。 その すきに 姿を くらますのだ。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "CP2-015",
+    "name": {
+      "ja": "ルチャブル"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      701
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "とびひざげり"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "ja": "スカイキック"
+        },
+        "effect": {
+          "ja": "このワザのダメージは抵抗力の計算をしない。"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563496,
+          "tcgplayer": 605338
+        }
+      }
+    ],
+    "description": {
+      "ja": "翼を 使い 空中で 姿勢を コントロール。 防ぎにくい 頭上から 攻撃を 仕掛ける。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "CP2-014",
+    "name": {
+      "ja": "ヤンチャム"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      674
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "えらぶる"
+        },
+        "effect": {
+          "ja": "相手の手札からオモテを見ないで1枚選び、トラッシュする。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563495,
+          "tcgplayer": 605347
+        }
+      }
+    ],
+    "description": {
+      "ja": "一生懸命 怖い 顔で 相手を にらみつけるが 頭を なでられると つい にやけてしまう。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "CP2-013",
+    "name": {
+      "ja": "ヒポポタス"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      449
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はなふんしゃ"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563494,
+          "tcgplayer": 605339
+        }
+      }
+    ],
+    "description": {
+      "ja": "全身に 砂を まとうことで ばい菌から 体を 守る。 水に ぬれることが 苦手。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "CP2-012",
+    "name": {
+      "ja": "フーパEX"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      720
+    ],
+    "hp": 140,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "いじげんリング"
+        },
+        "effect": {
+          "ja": "自分の山札からグッズを2枚まで選び、相手に見せてから、手札に加える。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "ワンダートリック"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563493,
+          "tcgplayer": 605340
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "suffix": "EX",
+    "cardNumber": "012"
+  },
+  {
+    "id": "CP2-011",
+    "name": {
+      "ja": "ソーナンス"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      202
+    ],
+    "hp": 100,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ミラーバリア"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ころがりタックル"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563492,
+          "tcgplayer": 605353
+        }
+      }
+    ],
+    "description": {
+      "ja": "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "CP2-010",
+    "name": {
+      "ja": "デデンネ"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      702
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "でんきショック"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563491,
+          "tcgplayer": 605333
+        }
+      }
+    ],
+    "description": {
+      "ja": "尻尾で 発電所や 民家の コンセントから 電気を 吸い取り ヒゲから 電撃を 撃ち出す。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "CP2-009",
+    "name": {
+      "ja": "ゼクロム"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      644
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きりさく"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ボルテージストーム"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力の計算をしない。］"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563490,
+          "tcgplayer": 605354
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "CP2-008",
+    "name": {
+      "ja": "ピカチュウEX"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "アイアンテール"
+        },
+        "effect": {
+          "ja": "ウラが出るまでコインを投げ、オモテの数x30ダメージ。"
+        },
+        "damage": "30×"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "オーバースパーク"
+        },
+        "effect": {
+          "ja": "このポケモンについている[雷]エネルギーをすべてトラッシュし、トラッシュした枚数x50ダメージ。"
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563489,
+          "tcgplayer": 605348
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "suffix": "EX",
+    "cardNumber": "008"
+  },
+  {
+    "id": "CP2-007",
+    "name": {
+      "ja": "ゲコガシラ"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      657
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "ja": "ケロマツ"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "いあいぎり"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563488,
+          "tcgplayer": 605337
+        }
+      }
+    ],
+    "description": {
+      "ja": "身軽さは だれにも 負けない。 ６００メートルを 超える タワーの 天辺まで １分で 登りきる。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "CP2-006",
+    "name": {
+      "ja": "ケロマツ"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      656
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はたく"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563487,
+          "tcgplayer": 605336
+        }
+      }
+    ],
+    "description": {
+      "ja": "繊細な 泡で 体を 包み 肌を 守る。 のんきに 見せかけて 抜け目なく 周囲を うかがう。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "CP2-005",
+    "name": {
+      "ja": "パルキア"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      484
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スプラッシュ"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クロススライサー"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、手札からエネルギーを出してつけられない。"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563486,
+          "tcgplayer": 605346
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "CP2-004",
+    "name": {
+      "ja": "テールナー"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      654
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "ja": "フォッコ"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かえんほうしゃ"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563485,
+          "tcgplayer": 605330
+        }
+      }
+    ],
+    "description": {
+      "ja": "木の枝を 尻尾から 引き抜くとき 摩擦で 着火。 枝の 炎を 振って 仲間に 合図を 送る。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "CP2-003",
+    "name": {
+      "ja": "フォッコ"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      653
+    ],
+    "hp": 50,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひをふく"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、30ダメージを追加。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563484,
+          "tcgplayer": 605335
+        }
+      }
+    ],
+    "description": {
+      "ja": "小枝を 持ち歩き おやつがわりに ポリポリ 食べる。 耳から 熱気を 噴き出して 相手を 威嚇する。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "CP2-002",
+    "name": {
+      "ja": "レシラム"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      643
+    ],
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きりさく"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かえんれんだん"
+        },
+        "effect": {
+          "ja": "ウラが出るまでコインを投げ、オモテの数x20ダメージを追加。"
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 563483,
+          "tcgplayer": 605350
+        }
+      }
+    ],
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "CP2-001",
+    "name": {
+      "ja": "ハリマロン"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      650
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つるのムチ"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 563482,
+          "tcgplayer": 605332
+        }
+      }
+    ],
+    "description": {
+      "ja": "頭と 背中を 硬い 樹木の 殻で 覆われているため トラックが ぶつかってきても 平気なのだ。"
+    },
+    "series": {
+      "id": "XY"
+    },
+    "set": {
+      "id": "CP2"
+    },
+    "cardNumber": "001"
+  }
+]

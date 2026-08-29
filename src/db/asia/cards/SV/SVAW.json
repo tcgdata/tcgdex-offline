@@ -1,0 +1,946 @@
+[
+  {
+    "id": "SVAW-WAT",
+    "name": {
+      "zh-tw": "基本【水】能量",
+      "th": "พลังงานพื้นฐาน[น้ำ]",
+      "id": "Energi Dasar Air"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "WAT"
+  },
+  {
+    "id": "SVAW-PSY",
+    "name": {
+      "zh-tw": "基本【超】能量",
+      "th": "พลังงานพื้นฐาน[พลังจิต]",
+      "id": "Energi Dasar Psychic"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "PSY"
+  },
+  {
+    "id": "SVAW-023",
+    "name": {
+      "zh-tw": "博士的研究(奧琳博士)",
+      "th": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์โอลิม)",
+      "id": "Penelitian Profesor (Profesor Olim)"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "th": "ทิ้งการ์ดบนมือฝ่ายเราทั้งหมดที่ตำแหน่งทิ้งการ์ด จั่วการ์ด 7 ใบจากสำรับการ์ด",
+      "id": "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "SVAW-022",
+    "name": {
+      "zh-tw": "妮莫",
+      "th": "เนโม",
+      "id": "Nemola"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "th": "จั่วการ์ด 3 ใบจากสำรับการ์ดฝ่ายเรา",
+      "id": "Ambil 3 kartu dari atas Deck sendiri."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SVAW-021",
+    "name": {
+      "zh-tw": "短褲小子",
+      "th": "เจ้าหนูกางเกงขาสั้น",
+      "id": "Bocah Bercelana Pendek"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "th": "นำการ์ดบนมือฝ่ายเราทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น จั่วการ์ด 5 ใบจากสำรับการ์ด",
+      "id": "Kocok kembali semua Kartu Pegangan sendiri ke Deck. Setelah itu, ambil 5 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SVAW-020",
+    "name": {
+      "zh-tw": "裁判",
+      "th": "ผู้ตัดสิน",
+      "id": "Judge"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各自將手牌全部放回牌庫並重洗。然後，各自從牌庫抽出4張卡。",
+      "th": "ผู้เล่นทั้งสองฝ่าย นำการ์ดบนมือของแต่ละฝ่ายทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น แต่ละฝ่ายจั่วการ์ด 4 ใบจากสำรับการ์ด",
+      "id": "Kedua pemain masing-masing mengocok kembali semua Kartu Pegangan ke Deck. Setelah itu, kedua pemain masing-masing mengambil 4 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SVAW-019",
+    "name": {
+      "zh-tw": "活力頭帶",
+      "th": "ผ้าคาดหัวแห่งความแข็งแกร่ง",
+      "id": "Ikat Kepala Semangat"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "trainerType": "Tool",
+    "effect": {
+      "zh-tw": "附有這張卡的寶可夢使用的招式，對對手的戰鬥寶可夢造成的傷害「+10」點。",
+      "th": "แดเมจของท่าต่อสู้ที่โปเกมอนที่ติดการ์ดนี้อยู่ ใช้ทำกับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามจะถูก [+10]",
+      "id": "Kerusakan akibat serangan yang digunakan oleh Pokémon yang mengenakan kartu ini kepada Pokémon Bertarung lawan bertambah sejumlah 10."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SVAW-018",
+    "name": {
+      "zh-tw": "寶可夢捕捉器",
+      "th": "โปเกมอนแคชเชอร์",
+      "id": "Pokémon Catcher"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "擲1次硬幣若為正面，則選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。",
+      "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกโปเกมอนบนเบนช์ฝ่ายตรงข้าม 1 ตัว สลับกับโปเกมอนบนตำแหน่งต่อสู้",
+      "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 Pokémon Cadangan lawan, lalu tukar dengan Pokémon Bertarung."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SVAW-017",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "th": "สับเปลี่ยนโปเกมอน",
+      "id": "Tukar Pokémon"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "th": "สลับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายเรากับโปเกมอนบนเบนช์",
+      "id": "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SVAW-016",
+    "name": {
+      "zh-tw": "寶可裝置3.0",
+      "th": "โปเกเกีย 3.0",
+      "id": "Pokégear 3.0"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "查看自己的牌庫上方7張卡，從其中選擇1張支援者卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。",
+      "th": "ดูการ์ด 7 ใบจากด้านบนของสำรับการ์ดฝ่ายเรา เลือกการ์ดซัพพอร์ต 1 ใบจากในนั้น ให้ฝ่ายตรงข้ามดู นำขึ้นมือ การ์ดที่เหลือใส่กลับไปในสำรับการ์ดแล้วสับ",
+      "id": "Lihat 7 kartu dari atas Deck sendiri, pilih 1 lembar Supporter di antaranya, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kocok kembali sisa kartu ke Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SVAW-015",
+    "name": {
+      "zh-tw": "高級球",
+      "th": "ไฮเปอร์บอล",
+      "id": "Bola Ultra"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。 從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "การ์ดนี้ ถ้าไม่ทิ้งการ์ดบนมือฝ่ายเรา 2 ใบที่ตำแหน่งทิ้งการ์ดจะใช้ไม่ได้ เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash. Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SVAW-014",
+    "name": {
+      "zh-tw": "巢穴球",
+      "th": "เนสต์บอล",
+      "id": "Bola Nest"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอน[พื้นฐาน] 1 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SVAW-013",
+    "name": {
+      "zh-tw": "粉碎之錘",
+      "th": "แครชแฮมเมอร์",
+      "id": "Crush Hammer"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "擲1次硬幣若為正面，則選擇1個對手的場上寶可夢身上附加的能量，將其丟棄。",
+      "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว เลือกพลังงานที่ติดอยู่กับโปเกมอนบนกระดานฝ่ายตรงข้าม 1 ลูก ทิ้งที่ตำแหน่งทิ้งการ์ด",
+      "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, pilih 1 Energi yang dikenakan pada Pokémon di Arena lawan, lalu buang ke Trash."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SVAW-012",
+    "name": {
+      "zh-tw": "能量輸送",
+      "th": "ส่งต่อพลังงาน",
+      "id": "Transfer Energi"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "เลือกการ์ดพลังงานพื้นฐาน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Energi Dasar dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SVAW-011",
+    "name": {
+      "zh-tw": "能量回收",
+      "th": "กู้คืนพลังงาน",
+      "id": "Pemulihan Energi"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的棄牌區選擇最多2張基本能量卡，在給對手看過後加入手牌。",
+      "th": "เลือกการ์ดพลังงานพื้นฐานได้สูงสุด 2 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ",
+      "id": "Pilih paling banyak 2 lembar Energi Dasar dari Trash sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SVAW-010",
+    "name": {
+      "zh-tw": "摩托蜥",
+      "th": "โมโตโทคาเงะ",
+      "id": "Cyclizar"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "突擊",
+          "th": "ประจัญบาน",
+          "id": "Menyerang"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到10點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 10 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 10."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "似乎自古就會讓人類坐在背上。１萬年前的 壁畫上描繪著該模樣。",
+      "th": "ดูเหมือนว่าจะให้ผู้คนขี่บนหลังมาตั้งแต่สมัยโบราณ มีการวาดภาพของมันบนจิตรกรรมฝาผนังเมื่อ 10000 ปีที่แล้ว",
+      "id": "Kabarnya, sudah sejak dahulu kala manusia menunggangi punggung Cyclizar. Situasi tersebut terlukiskan dalam sebuah mural 10 ribu tahun lalu."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SVAW-009",
+    "name": {
+      "zh-tw": "愛吃豚",
+      "th": "กูร์ตง",
+      "id": "Lechonk"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼喚",
+          "th": "รวบรวม",
+          "id": "Mengumpulkan"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出1張卡。",
+          "th": "จั่วการ์ด 1 ใบจากสำรับการ์ดฝ่ายเรา",
+          "id": "Ambil 1 kartu dari atas Deck sendiri."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撞擊",
+          "th": "พุ่งเข้าชน",
+          "id": "Serudukan"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一整天都在覓食。雖然擁有優秀的嗅覺， 但卻只被用在覓食上。",
+      "th": "หาอาหารตลอดวัน มีประสาทการรับกลิ่นที่ยอดเยี่ยมแต่จะไม่ใช้ไปกับเรื่องที่ไม่เกี่ยวข้องกับการหาอาหาร",
+      "id": "Lechonk mencari makanan seharian penuh. Meskipun memiliki indra penciuman yang sangat baik, Pokémon ini tidak menggunakannya selain untuk mencari makan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SVAW-008",
+    "name": {
+      "zh-tw": "貓鼬斬",
+      "th": "แซงกูส",
+      "id": "Zangoose"
+    },
+    "illustrator": "Yuya Oka",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "劈開",
+          "th": "ฟันแหลก",
+          "id": "Menyayat"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "和飯匙蛇是死對頭。一旦撞見彼此，就會立刻 張開前腳的爪子來威嚇對方。",
+      "th": "เป็นคู่ปรับกับฮาบูเนค หากเจอหน้ากันจะกางเล็บเท้าหน้าข่มขู่ในทันที",
+      "id": "Hubungan Zangoose dan Seviper adalah musuh bebuyutan. Jika mereka bertemu, Pokémon ini melebarkan cakar kaki depannya dengan cepat dan mengintimidasi Seviper."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SVAW-007",
+    "name": {
+      "zh-tw": "飄飄雛",
+      "th": "ฮิราฮินะ",
+      "id": "Flittle"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Pokemon",
+    "hp": 30,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "衝撞",
+          "th": "กระแทก",
+          "id": "Menyeruduk"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "zh-tw": "從肚子的褶邊放射出的精神力量，能夠讓牠浮在腳尖和地面 距離僅有區區１公分的空中。",
+      "th": "พลังจิตที่ปลดปล่อยออกมาจากส่วนที่พลิ้วไหวบริเวณท้องจะทำให้นิ้วเท้าลอยจากพื้นเพียง 1 เซนติเมตร",
+      "id": "Dengan kekuatan psikokinesis yang dipancarkan dari embel-embel di perutnya, ujung kaki Flittle melayang di udara hanya setinggi 1 cm."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SVAW-006",
+    "name": {
+      "zh-tw": "謎擬Ｑex",
+      "th": "มิมิคคิวex",
+      "id": "Mimikyu ex"
+    },
+    "illustrator": "PLANETA Yamashita",
+    "category": "Pokemon",
+    "hp": 190,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "虛無折返",
+          "th": "กลับสู่ความว่างเปล่า",
+          "id": "Putar Balik Hampa"
+        },
+        "effect": {
+          "zh-tw": "若希望，將這隻寶可夢與備戰寶可夢互換。",
+          "th": "หากต้องการ สลับโปเกมอนนี้กับโปเกมอนบนเบนช์",
+          "id": "Pemain dapat menukar Pokémon ini dengan Pokémon Cadangan."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "能量爆炸",
+          "th": "เอนเนอร์จี้เบิสท์",
+          "id": "Energy Burst"
+        },
+        "effect": {
+          "zh-tw": "造成雙方的戰鬥寶可夢身上附加的能量的數量×30點傷害。",
+          "th": "แดเมจจะเท่ากับจำนวนพลังงานที่ติดอยู่กับโปเกมอนบนตำแหน่งต่อสู้ของทั้งสองฝ่าย x30",
+          "id": "Serangan ini memberikan kerusakan sejumlah 30 untuk tiap Energi yang dikenakan pada Pokémon Bertarung kedua pemain."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "suffix": "EX",
+    "cardNumber": "006"
+  },
+  {
+    "id": "SVAW-005",
+    "name": {
+      "zh-tw": "咚咚鼠",
+      "th": "เดเด็นเนะ",
+      "id": "Dedenne"
+    },
+    "illustrator": "Nelnal",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬住傷口",
+          "th": "กัดติดบาดแผล",
+          "id": "Menggigit Luka"
+        },
+        "effect": {
+          "zh-tw": "增加對手的戰鬥寶可夢身上放置的傷害指示物的數量×10點傷害。",
+          "th": "แดเมจจะเพิ่มตามจำนวนตัวนับแดเมจที่วางอยู่บนโปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้าม x10",
+          "id": "Kerusakan yang diberikan bertambah sejumlah 10 untuk tiap Token Kerusakan yang dimiliki Pokémon Bertarung lawan."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "由於體型嬌小，發電器官尚未發達，因此會用尾巴 吸取住家的電力來充電。",
+      "th": "อวัยวะผลิตกระแสไฟฟ้ามีขนาดเล็กและยังไม่พัฒนาเต็มที่ เลยชอบเอาหางไปดูดไฟฟ้าจากบ้านคนเพื่อชาร์จไฟฟ้า",
+      "id": "Dedenne mengecas dan menyerap listrik dari rumah manusia menggunakan ekornya karena tubuhnya kecil dan organ pembangkit listriknya masih belum sempurna."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SVAW-004",
+    "name": {
+      "zh-tw": "狂歡浪舞鴨",
+      "th": "เวนิวัล",
+      "id": "Quaquaval"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "能量嘉年華",
+          "th": "เอนเนอร์จี้คาร์นิวัล",
+          "id": "Energy Carnival"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時可使用1次。從自己的手牌選擇1張基本能量卡，附於自己的寶可夢身上。",
+          "th": "ใช้ได้ 1 ครั้งในเทิร์นฝ่ายเรา เลือกการ์ดพลังงานพื้นฐาน 1 ใบจากบนมือฝ่ายเรา ติดที่โปเกมอนฝ่ายเรา",
+          "id": "Dapat digunakan 1 kali pada giliran sendiri. Pilih 1 lembar Energi Dasar dari Kartu Pegangan sendiri, lalu kenakan pada Pokémon sendiri."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水炮踢",
+          "th": "ไฮโดรคิก",
+          "id": "Hydro Kick"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會善用只要一踢就能踢翻卡車的強韌腳力， 展現充滿異國風情的舞蹈。",
+      "th": "แสดงการเต้นรำที่มีความแปลกใหม่ด้วยการใช้ขาแข็งแกร่งที่ผลักรถบรรทุกให้ล้มได้ด้วยการเตะครั้งเดียว",
+      "id": "Quaquaval menunjukkan tarian eksotis dengan memanfaatkan kaki kuatnya yang dapat menggulingkan truk hanya dengan satu tendangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SVAW-003",
+    "name": {
+      "zh-tw": "湧躍鴨",
+      "th": "เวลคาโมะ",
+      "id": "Quaxwell"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "潑水",
+          "th": "สาดน้ำ",
+          "id": "Guyuran Air"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "迴轉踢",
+          "th": "หมุนตัวเตะ",
+          "id": "Tendangan Berputar"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "會在淺灘不斷跑步來鍛鍊下盤的筋骨，好跟夥伴們 競爭誰的腿技最為華麗。",
+      "th": "ขยันวิ่งไปมาบริเวณน้ำตื้นเพื่อให้ขาและสะโพกแข็งแรง แข่งความงดงามของเทคนิคการใช้ขากับพวกพ้อง",
+      "id": "Quaxwell melatih kaki dan pinggangnya dengan terus berlari di perairan dangkal. Pokémon ini saling mengadu keindahan teknik serangan kaki dengan sesamanya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SVAW-002",
+    "name": {
+      "zh-tw": "潤水鴨",
+      "th": "แคว็กซ์",
+      "id": "Quaxly"
+    },
+    "illustrator": "Mizue",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "拍擊",
+          "th": "ปัด",
+          "id": "Tumbuk"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "踢",
+          "th": "เตะ",
+          "id": "Kick"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "很久以前從遠方來到了這裡棲息。羽毛分泌出的 凝膠有防水和防污的效果。",
+      "th": "มาจากดินแดนห่างไกลตั้งแต่ในสมัยอดีต เจลที่หลั่งจากปีกจะขับน้ำและสิ่งสกปรกออก",
+      "id": "Dulu, Quaxly bermigrasi dari daerah yang jauh. Gel yang disekresi dari bulunya menangkis air dan kotoran."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SVAW-001",
+    "name": {
+      "zh-tw": "保母曼波",
+      "th": "มามันโบ",
+      "id": "Alomomola"
+    },
+    "illustrator": "Shinji Kanda",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝浪",
+          "th": "โต้คลื่น",
+          "id": "Berselancar"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水流斬",
+          "th": "อควาสแลช",
+          "id": "Aqua Slash"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用招式。",
+          "th": "เทิร์นถัดไปของฝ่ายเรา โปเกมอนนี้จะใช้ท่าต่อสู้ไม่ได้",
+          "id": "Pada giliran sendiri berikutnya, Pokémon ini tidak dapat menggunakan serangan."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "會用魚鰭溫柔地抱住受傷或是虛弱的寶可夢， 並用特殊的黏膜加以治療。",
+      "th": "ประคองโปเกมอนที่อ่อนแอหรือบาดเจ็บด้วยครีบอย่างอ่อนโยน แล้วใช้เยื่อเมือกพิเศษช่วยรักษา",
+      "id": "Sambil memeluk lembut Pokémon yang melemah atau terluka dengan siripnya, Alomomola menyembuhkan mereka menggunakan membran khususnya."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAW"
+    },
+    "cardNumber": "001"
+  }
+]

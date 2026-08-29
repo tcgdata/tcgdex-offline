@@ -1,0 +1,929 @@
+[
+  {
+    "id": "SVAL-LIG",
+    "name": {
+      "zh-tw": "基本【雷】能量",
+      "th": "พลังงานพื้นฐาน[สายฟ้า]",
+      "id": "Energi Dasar Listrik"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "LIG"
+  },
+  {
+    "id": "SVAL-FIR",
+    "name": {
+      "zh-tw": "基本【火】能量",
+      "th": "พลังงานพื้นฐาน[ไฟ]",
+      "id": "Energi Dasar Api"
+    },
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "FIR"
+  },
+  {
+    "id": "SVAL-021",
+    "name": {
+      "zh-tw": "博士的研究(弗圖博士)",
+      "th": "งานวิจัยของศาสตราจารย์ (ศาสตราจารย์ฟูทูร์)",
+      "id": "Penelitian Profesor (Profesor Futu)"
+    },
+    "illustrator": "kirisAki",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。",
+      "th": "ทิ้งการ์ดบนมือฝ่ายเราทั้งหมดที่ตำแหน่งทิ้งการ์ด จั่วการ์ด 7 ใบจากสำรับการ์ด",
+      "id": "Buang semua Kartu Pegangan sendiri ke Trash, lalu ambil 7 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SVAL-020",
+    "name": {
+      "zh-tw": "妮莫",
+      "th": "เนโม",
+      "id": "Nemola"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫抽出3張卡。",
+      "th": "จั่วการ์ด 3 ใบจากสำรับการ์ดฝ่ายเรา",
+      "id": "Ambil 3 kartu dari atas Deck sendiri."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SVAL-019",
+    "name": {
+      "zh-tw": "短褲小子",
+      "th": "เจ้าหนูกางเกงขาสั้น",
+      "id": "Bocah Bercelana Pendek"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部放回牌庫並重洗。然後，從牌庫抽出5張卡。",
+      "th": "นำการ์ดบนมือฝ่ายเราทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น จั่วการ์ด 5 ใบจากสำรับการ์ด",
+      "id": "Kocok kembali semua Kartu Pegangan sendiri ke Deck. Setelah itu, ambil 5 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SVAL-018",
+    "name": {
+      "zh-tw": "裁判",
+      "th": "ผู้ตัดสิน",
+      "id": "Judge"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "雙方玩家各自將手牌全部放回牌庫並重洗。然後，各自從牌庫抽出4張卡。",
+      "th": "ผู้เล่นทั้งสองฝ่าย นำการ์ดบนมือของแต่ละฝ่ายทั้งหมดใส่กลับไปในสำรับการ์ดแล้วสับ หลังจากนั้น แต่ละฝ่ายจั่วการ์ด 4 ใบจากสำรับการ์ด",
+      "id": "Kedua pemain masing-masing mengocok kembali semua Kartu Pegangan ke Deck. Setelah itu, kedua pemain masing-masing mengambil 4 kartu dari atas Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SVAL-017",
+    "name": {
+      "zh-tw": "吉尼亞",
+      "th": "ซินเนีย",
+      "id": "Jim"
+    },
+    "illustrator": "GIDORA",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇最多2張進化寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอนวิวัฒนาการได้สูงสุด 2 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Pilih paling banyak 2 lembar Pokémon Evolusi dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SVAL-016",
+    "name": {
+      "zh-tw": "寶可夢交替",
+      "th": "สับเปลี่ยนโปเกมอน",
+      "id": "Tukar Pokémon"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "將自己的戰鬥寶可夢與備戰寶可夢互換。",
+      "th": "สลับโปเกมอนบนตำแหน่งต่อสู้ฝ่ายเรากับโปเกมอนบนเบนช์",
+      "id": "Tukar Pokémon Bertarung sendiri dengan Pokémon Cadangan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SVAL-015",
+    "name": {
+      "zh-tw": "寶可裝置3.0",
+      "th": "โปเกเกีย 3.0",
+      "id": "Pokégear 3.0"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "查看自己的牌庫上方7張卡，從其中選擇1張支援者卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。",
+      "th": "ดูการ์ด 7 ใบจากด้านบนของสำรับการ์ดฝ่ายเรา เลือกการ์ดซัพพอร์ต 1 ใบจากในนั้น ให้ฝ่ายตรงข้ามดู นำขึ้นมือ การ์ดที่เหลือใส่กลับไปในสำรับการ์ดแล้วสับ",
+      "id": "Lihat 7 kartu dari atas Deck sendiri, pilih 1 lembar Supporter di antaranya, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kocok kembali sisa kartu ke Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SVAL-014",
+    "name": {
+      "zh-tw": "神奇糖果",
+      "th": "ลูกอมประหลาด",
+      "id": "Permen Langka"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的手牌選擇1張【2階進化】寶可夢卡，放置於自己的場上的可進化成那隻寶可夢的【基礎】寶可夢身上，跳過【1階進化】完成進化。（無法對自己的最初回合或剛使出的寶可夢使用。）",
+      "th": "เลือกการ์ดโปเกมอน[ร่าง2] 1 ใบจากบนมือฝ่ายเรา วางบนโปเกมอน[พื้นฐาน]บนกระดานฝ่ายเราที่จะวิวัฒนาการเป็นโปเกมอนนั้น เพื่อให้วิวัฒนาการโดยข้าม[ร่าง1] ได้เลย (ไม่สามารถใช้ได้กับเทิร์นแรกสุดของฝ่ายเรา และโปเกมอนที่เพิ่งออกมา)",
+      "id": "Pilih 1 lembar Pokémon Stage 2 dari Kartu Pegangan sendiri, lalu letakkan ke Pokémon Basic di Arena sendiri yang berevolusi menjadi Pokémon tersebut, lakukan evolusi tanpa perlu melakukan evolusi Stage 1. (Tidak dapat digunakan pada giliran pertama pemain dan pada Pokémon yang baru dimasukkan.)"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SVAL-013",
+    "name": {
+      "zh-tw": "高級球",
+      "th": "ไฮเปอร์บอล",
+      "id": "Bola Ultra"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "category": "Trainer",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "這張卡必須將自己的2張手牌丟棄才可使用。從自己的牌庫選擇1張寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "การ์ดนี้ ถ้าไม่ทิ้งการ์ดบนมือฝ่ายเรา 2 ใบที่ตำแหน่งทิ้งการ์ดจะใช้ไม่ได้ เลือกการ์ดโปเกมอน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Kartu ini dapat digunakan jika pemain membuang 2 lembar Kartu Pegangan sendiri ke Trash. Pilih 1 lembar Pokémon dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SVAL-012",
+    "name": {
+      "zh-tw": "巢穴球",
+      "th": "เนสต์บอล",
+      "id": "Bola Nest"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。",
+      "th": "เลือกการ์ดโปเกมอน[พื้นฐาน] 1 ใบจากสำรับการ์ดฝ่ายเรา วางบนเบนช์ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Pokémon Basic dari Deck sendiri, lalu masukkan ke Cadangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SVAL-011",
+    "name": {
+      "zh-tw": "能量輸送",
+      "th": "ส่งต่อพลังงาน",
+      "id": "Transfer Energi"
+    },
+    "illustrator": "Toyste Beach",
+    "category": "Energy",
+    "energyType": "Normal",
+    "regulationMark": "G",
+    "trainerType": "Item",
+    "effect": {
+      "zh-tw": "從自己的牌庫選擇1張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。",
+      "th": "เลือกการ์ดพลังงานพื้นฐาน 1 ใบจากสำรับการ์ดฝ่ายเรา ให้ฝ่ายตรงข้ามดู นำขึ้นมือ แล้วสับสำรับการ์ด",
+      "id": "Pilih 1 lembar Energi Dasar dari Deck sendiri, perlihatkan ke lawan, lalu tambahkan ke Kartu Pegangan. Kemudian, kocok Deck."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SVAL-010",
+    "name": {
+      "zh-tw": "纏紅鶴",
+      "th": "คลามิงโก้",
+      "id": "Flamigo"
+    },
+    "illustrator": "kantaro",
+    "category": "Pokemon",
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "羽擊",
+          "th": "ตีปีก",
+          "id": "Mengepak"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "急降",
+          "th": "โฉบ",
+          "id": "Menukik Drastis"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到20點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 20 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 20."
+        },
+        "damage": 110
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "擁有被稱為同步的習性，因此攻擊時整個群體會 有條不紊地一起衝過來。",
+      "th": "เนื่องจากมีพฤติกรรมที่เรียกว่าซิงโคร ทุกตัวในฝูงจะโจมตีพร้อมกันอย่างเป็นระเบียบ",
+      "id": "Dengan kebiasaan Flamigo yang disebut Sinkronisasi, kelompok Pokémon ini menyerang lawan secara bersamaan dengan sinkron."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "SVAL-009",
+    "name": {
+      "zh-tw": "愛吃豚",
+      "th": "กูร์ตง",
+      "id": "Lechonk"
+    },
+    "illustrator": "kodama",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "呼喚",
+          "th": "รวบรวม",
+          "id": "Mengumpulkan"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫抽出1張卡。",
+          "th": "จั่วการ์ด 1 ใบจากสำรับการ์ดฝ่ายเรา",
+          "id": "Ambil 1 kartu dari atas Deck sendiri."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "撞擊",
+          "th": "พุ่งเข้าชน",
+          "id": "Serudukan"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "一整天都在覓食。雖然擁有優秀的嗅覺， 但卻只被用在覓食上。",
+      "th": "หาอาหารตลอดวัน มีประสาทการรับกลิ่นที่ยอดเยี่ยมแต่จะไม่ใช้ไปกับเรื่องที่ไม่เกี่ยวข้องกับการหาอาหาร",
+      "id": "Lechonk mencari makanan seharian penuh. Meskipun memiliki indra penciuman yang sangat baik, Pokémon ini tidak menggunakannya selain untuk mencari makan."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SVAL-008",
+    "name": {
+      "zh-tw": "洛托姆",
+      "th": "โรตอม",
+      "id": "Rotom"
+    },
+    "illustrator": "Nisota Niso",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "直擊彈",
+          "th": "ยิงตรง",
+          "id": "Serangan Linear"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻寶可夢受到20點傷害。[在備戰區不計算弱點・抵抗力。]",
+          "th": "ทำแดเมจ 20 กับโปเกมอนฝ่ายตรงข้าม 1 ตัว {โปเกมอนบนเบนช์จะไม่นำจุดอ่อนและความต้านทานมาคิด}",
+          "id": "Serangan ini memberikan kerusakan sejumlah 20 kepada 1 Pokémon lawan. [Kelemahan dan Resistansi Pokémon Cadangan tidak mempengaruhi jumlah kerusakan.]"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "被當作驅動特殊馬達的動力源， 而被長期研究的寶可夢。",
+      "th": "เป็นโปเกมอนที่ถูกวิจัยมายาวนานในฐานะแหล่งพลังงานขับเคลื่อนมอเตอร์พิเศษ",
+      "id": "Rotom adalah Pokémon yang telah diteliti dalam jangka waktu panjang sebagai sumber tenaga penggerak motor khusus."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SVAL-007",
+    "name": {
+      "zh-tw": "電龍ex",
+      "th": "เด็นริวex",
+      "id": "Ampharos ex"
+    },
+    "illustrator": "PLANETA Tsuji",
+    "category": "Pokemon",
+    "hp": 330,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "電球",
+          "th": "อิเล็กทริกบอล",
+          "id": "Electro Ball"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "雷電尾",
+          "th": "ไลท์นิงเทล",
+          "id": "Lightning Tail"
+        },
+        "effect": {
+          "zh-tw": "若希望，將2個這隻寶可夢身上附加的能量丟棄，增加100點傷害。",
+          "th": "หากต้องการ ทิ้งพลังงานที่ติดอยู่กับโปเกมอนนี้ 2 ลูกที่ตำแหน่งทิ้งการ์ด การโจมตีนี้จะเพิ่มแดเมจอีก 100",
+          "id": "Pemain dapat membuang 2 Energi yang dikenakan pada Pokémon ini ke Trash, kerusakan yang diberikan bertambah sejumlah 100."
+        },
+        "damage": "140+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "suffix": "EX",
+    "cardNumber": "007"
+  },
+  {
+    "id": "SVAL-006",
+    "name": {
+      "zh-tw": "茸茸羊",
+      "th": "โมโคโค",
+      "id": "Flaaffy"
+    },
+    "illustrator": "Kurata So",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "電擊",
+          "th": "ช็อคไฟฟ้า",
+          "id": "Sengatan Listrik"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。",
+          "th": "ทอยเหรียญ 1 ครั้งถ้าออกหัว จะทำให้โปเกมอนบนตำแหน่งต่อสู้ฝ่ายตรงข้ามเป็นสภาวะ[ชา]",
+          "id": "Lempar koin 1 kali. Jika hasilnya sisi depan, ubah kondisi Pokémon Bertarung lawan menjadi Lumpuh."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "電球",
+          "th": "อิเล็กทริกบอล",
+          "id": "Electro Ball"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "如同橡膠般光滑的皮膚雖不導電， 但體毛卻很容易蓄電。",
+      "th": "ผิวที่ไม่นำไฟฟ้านั้นเนียนลื่นเหมือนยาง แต่ขนนุ่มฟูสะสมไฟฟ้าได้ง่าย",
+      "id": "Kulit Flaaffy yang tidak menghantarkan listrik licin seperti karet, namun bulunya menyimpan banyak listrik."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SVAL-005",
+    "name": {
+      "zh-tw": "咩利羊",
+      "th": "เมรีป",
+      "id": "Mareep"
+    },
+    "illustrator": "Narumi Sato",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "劈哩啪啦",
+          "th": "ประกายไฟ",
+          "id": "Berpijar-pijar"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "電球",
+          "th": "อิเล็กทริกบอล",
+          "id": "Electro Ball"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "體毛會不斷地變長。即使每到夏天就會掉光， 也能在１週內長回原樣。",
+      "th": "ขนตามตัวจะยาวขึ้นเรื่อย ๆ พอถึงหน้าร้อนจะผลัดขนออกทั้งหมด แต่ไม่ถึงสัปดาห์ก็จะขึ้นกลับมาเป็นเหมือนเดิม",
+      "id": "Bulu Mareep tumbuh terus. Seluruh bulu Pokémon ini akan rontok pada musim panas, namun akan kembali seperti semula dalam 1 minggu."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SVAL-004",
+    "name": {
+      "zh-tw": "骨紋巨聲鱷",
+      "th": "ลาวด์โบน",
+      "id": "Skeledirge"
+    },
+    "illustrator": "nagimiso",
+    "category": "Pokemon",
+    "hp": 180,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "熱情歌唱",
+          "th": "ร้องอย่างเมามัน",
+          "id": "Menyanyi Bersemangat"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇最多2張基本能量卡，以任意方式附於自己的寶可夢身上。",
+          "th": "เลือกการ์ดพลังงานพื้นฐานได้สูงสุด 2 ใบจากตำแหน่งทิ้งการ์ดฝ่ายเรา ติดที่โปเกมอนฝ่ายเราตามชอบ",
+          "id": "Pilih paling banyak 2 lembar Energi Dasar dari Trash sendiri, lalu kenakan sesukanya pada Pokémon sendiri."
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "火焰嚎叫",
+          "th": "เบลซเชาต์",
+          "id": "Blaze Shout"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。",
+          "th": "โปเกมอนนี้ก็จะได้รับแดเมจ 30 ด้วย",
+          "id": "Pokémon ini juga menerima kerusakan sejumlah 30."
+        },
+        "damage": 190
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "溫柔的歌聲能療癒聽者的靈魂。會使用３０００度的火焰 將敵人燒成灰燼。",
+      "th": "เสียงร้องเพลงที่อ่อนโยนจะช่วยเยียวยาจิตวิญญาณของผู้ฟัง เผาคู่ต่อสู้ให้เป็นจุณด้วยเปลวไฟที่ร้อน 3000 องศาเซลเซียส",
+      "id": "Suara nyanyian lembut Skeledirge menenangkan jiwa orang-orang yang mendengarnya. Pokémon ini membakar hangus lawannya dengan api bersuhu 3000"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SVAL-003",
+    "name": {
+      "zh-tw": "炙燙鱷",
+      "th": "อาจิเกเตอร์",
+      "id": "Crocalor"
+    },
+    "illustrator": "kantaro",
+    "category": "Pokemon",
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬住",
+          "th": "กัดติด",
+          "id": "Menggigit"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "滾動衝撞",
+          "th": "กลิ้งโจมตี",
+          "id": "Tubrukan Menggelinding"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "聲帶和火囊的閥緊鄰在一起。會一邊發出嘶啞的聲音， 一邊噴灑火焰。",
+      "th": "เส้นเสียงและวาล์วของถุงไฟมีความสัมพันธ์กันอย่างใกล้ชิด พ่นไฟออกมาพร้อมกับส่งเสียงแหบ",
+      "id": "Katup pita suara dan kantong api Crocalor saling terhubung. Pokémon ini menyemburkan api sambil mengeluarkan suara serak."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SVAL-002",
+    "name": {
+      "zh-tw": "呆火鱷",
+      "th": "โฮเกเตอร์",
+      "id": "Fuecoco"
+    },
+    "illustrator": "Akira Komayama",
+    "category": "Pokemon",
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬",
+          "th": "แทะ",
+          "id": "Menggerogot"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "烈焰",
+          "th": "เผาไหม้",
+          "id": "Lidah Api"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "火囊很小，因此能量會溢出來，在牠頭上的 凹槽那裡搖曳晃動。",
+      "th": "ถุงไฟมีขนาดเล็ก ทำให้พลังงานนั้นเอ่อล้นออกมาจากร่องบนหัวและสั่นไหวไปมา",
+      "id": "Karena kantong api Fuecoco kecil, energi yang meluap dikeluarkan dari cekungan di kepalanya dan bergoyang-goyang."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SVAL-001",
+    "name": {
+      "zh-tw": "卡蒂狗",
+      "th": "การ์ดี",
+      "id": "Growlithe"
+    },
+    "illustrator": "kawayoo",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "zh-tw": "連續火焰",
+          "th": "เพลิงไฟต่อเนื่อง",
+          "id": "Api Beruntun"
+        },
+        "effect": {
+          "zh-tw": "擲硬幣直到出現反面，造成正面出現的次數×30點傷害。",
+          "th": "ทอยเหรียญจนกว่าจะออกก้อย แดเมจจะเท่ากับจำนวนครั้งที่ออกหัว x30",
+          "id": "Lempar koin hingga hasilnya sisi belakang. Serangan ini memberikan kerusakan sejumlah 30 untuk tiap lemparan dengan hasil sisi depan."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "性格誠實，容易和人親近。遇到敵人時牠會吼叫追咬， 試著把敵人趕走。",
+      "th": "เป็นมิตรและซื่อสัตย์ จะพยายามไล่ศัตรูออกไปด้วยการเห่าและไล่กัดอีกฝ่าย",
+      "id": "Growlithe jinak dan berkepribadian jujur. Pokémon ini mengusir lawan dengan menggonggong dan menggigit mereka."
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVAL"
+    },
+    "cardNumber": "001"
+  }
+]

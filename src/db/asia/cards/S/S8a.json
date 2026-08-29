@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "S8a-WAT",
+    "name": {
+      "zh-tw": "基本水能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "WAT"
+  },
+  {
+    "id": "S8a-PSY",
+    "name": {
+      "zh-tw": "基本超能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "PSY"
+  },
+  {
+    "id": "S8a-MET",
+    "name": {
+      "zh-tw": "基本鋼能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "MET"
+  },
+  {
+    "id": "S8a-LIG",
+    "name": {
+      "zh-tw": "基本雷能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "LIG"
+  },
+  {
+    "id": "S8a-GRA",
+    "name": {
+      "zh-tw": "基本草能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "GRA"
+  },
+  {
+    "id": "S8a-FIR",
+    "name": {
+      "zh-tw": "基本火能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "FIR"
+  },
+  {
+    "id": "S8a-FIG",
+    "name": {
+      "zh-tw": "基本鬥能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "FIG"
+  },
+  {
+    "id": "S8a-DAR",
+    "name": {
+      "zh-tw": "基本惡能量"
+    },
+    "category": "Energy",
+    "energyType": "Special",
+    "regulationMark": "G",
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "DAR"
+  },
+  {
+    "id": "S8a-025",
+    "name": {
+      "zh-tw": "皮卡丘V-UNION"
+    },
+    "category": "Pokemon",
+    "hp": 300,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "zh-tw": "寶可夢V-UNION放置方法"
+        },
+        "effect": {
+          "zh-tw": "對戰中可放置1次，在自己的回合將自己的棄牌區中4種皮卡丘【V-UNION】加以組合，放置於備戰區。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "聯盟增輝"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇最多2張【雷】能量卡，附於這隻寶可夢身上。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "麻麻擊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 120
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "電磁干擾"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，對手無法從手牌使出物品卡。"
+        },
+        "damage": 150
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "一同電球"
+        },
+        "damage": 250
+      },
+      {
+        "name": {
+          "zh-tw": "V-UNION規則"
+        },
+        "effect": {
+          "zh-tw": "寶可夢【V-UNION】【氣絕】時，對手獲得3張獎賞卡。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "S8a-024",
+    "name": {
+      "zh-tw": "飛翔皮卡丘VMAX"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 310,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極巨氣球"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，這隻寶可夢不會受到【基礎】寶可夢招式的傷害。"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "S8a-023",
+    "name": {
+      "zh-tw": "飛翔皮卡丘V"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "電擊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "飛翔"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "suffix": "V",
+    "cardNumber": "023"
+  },
+  {
+    "id": "S8a-022",
+    "name": {
+      "zh-tw": "衝浪皮卡丘VMAX"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 310,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "極巨衝浪"
+        },
+        "effect": {
+          "zh-tw": "對手的所有備戰寶可夢也各受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "S8a-021",
+    "name": {
+      "zh-tw": "衝浪皮卡丘V"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 200,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "zh-tw": "衝浪"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "suffix": "V",
+    "cardNumber": "021"
+  },
+  {
+    "id": "S8a-020",
+    "name": {
+      "zh-tw": "皮卡丘V"
+    },
+    "illustrator": "HYOGONOSUKE",
+    "category": "Pokemon",
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "伏特攻擊"
+        },
+        "effect": {
+          "zh-tw": "這隻寶可夢也受到30點傷害。"
+        },
+        "damage": 210
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "suffix": "V",
+    "cardNumber": "020"
+  },
+  {
+    "id": "S8a-019",
+    "name": {
+      "zh-tw": "藏瑪然特V"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "盾之低吼"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，自己的所有【鬥】寶可夢，受到對手的「寶可夢【VMAX】」招式的傷害「-20」點。無論有多少隻擁有這個特性的寶可夢，這個效果也不會重複。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "重磅衝擊"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "suffix": "V",
+    "cardNumber": "019"
+  },
+  {
+    "id": "S8a-018",
+    "name": {
+      "zh-tw": "蒼響V"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 220,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "劍之咆哮"
+        },
+        "effect": {
+          "zh-tw": "在自己的回合時可使用1次，若使用，則自己的回合結束。從自己的牌庫選擇1張【超】能量卡，附於自己的寶可夢身上。並且重洗牌庫。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "風暴斬"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【超】能量的數量×30點傷害。"
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "suffix": "V",
+    "cardNumber": "018"
+  },
+  {
+    "id": "S8a-017",
+    "name": {
+      "zh-tw": "露奈雅拉"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 160,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "月光傷痛"
+        },
+        "effect": {
+          "zh-tw": "在對手的所有寶可夢身上放置傷害指示物直到各寶可夢身上的傷害指示物數量變為2倍為止。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "精神子彈"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻備戰寶可夢也受到30點傷害。[在備戰區不計算弱點・抵抗力。]"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "有時會從通往異世界的洞穴裡把未知的力量和生命召喚到這個世界來。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "S8a-016",
+    "name": {
+      "zh-tw": "索爾迦雷歐"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 170,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "E",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "急奔"
+        },
+        "effect": {
+          "zh-tw": "若這隻寶可夢在備戰區，則在自己的回合時可使用1次。將這隻寶可夢與自己的戰鬥寶可夢互換。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "日光噴湧"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區選擇最多2張基本能量卡，附於1隻備戰寶可夢身上。"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "在遙遠過去的文獻中，留有牠是吞食太陽之獸的相關紀錄。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "S8a-015",
+    "name": {
+      "zh-tw": "科斯莫姆"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "星星守護"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "一邊吸收光一邊不斷成長。金色的外殼堅硬到令人驚異的程度。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "S8a-014",
+    "name": {
+      "zh-tw": "科斯莫古"
+    },
+    "illustrator": "kirisAki",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "星星守護"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "是否是這個世界的寶可夢還是個謎。在遇到危險的時候會使用空間跳躍，躲到安全的地方去。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "S8a-013",
+    "name": {
+      "zh-tw": "伊裴爾塔爾"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "破壞呐喊"
+        },
+        "effect": {
+          "zh-tw": "選擇最多3張對手的場上寶可夢身上附加的特殊能量卡，將其丟棄。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "黑暗羽毛"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "據說當生命走到盡頭時，會吸光所有生物的生命，回到繭的狀態。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "S8a-012",
+    "name": {
+      "zh-tw": "哲爾尼亞斯"
+    },
+    "illustrator": "AKIRA EGAWA",
+    "category": "Pokemon",
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "生命之息"
+        },
+        "effect": {
+          "zh-tw": "從自己的牌庫選擇最多3張各不同屬性的基本能量卡，以任意方式附於自己的寶可夢身上。並且重洗牌庫。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "極光角擊"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "據說當頭上的角閃耀七色光芒時，就會分享永恆的生命。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "S8a-011",
+    "name": {
+      "zh-tw": "捷克羅姆"
+    },
+    "illustrator": "Aya Kusube",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "場地粉碎"
+        },
+        "effect": {
+          "zh-tw": "將場上的對手的競技場卡丟棄。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "皎白雷電"
+        },
+        "effect": {
+          "zh-tw": "若自己的備戰區有「萊希拉姆」，則增加80點傷害。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "用尾巴製造電能。將全身藏在雷雲裡，在合眾地區的上空飛行。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "S8a-010",
+    "name": {
+      "zh-tw": "萊希拉姆"
+    },
+    "illustrator": "Aya Kusube",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "灼熱之風"
+        },
+        "effect": {
+          "zh-tw": "對手的所有備戰寶可夢各受到20點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "闇黑火焰"
+        },
+        "effect": {
+          "zh-tw": "若自己的備戰區有「捷克羅姆」，則增加80點傷害。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "一旦萊希拉姆的尾部燃燒，產生的熱能將會影響大氣，使世界的天氣發生變化。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "S8a-009",
+    "name": {
+      "zh-tw": "帕路奇亞"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "絕對空間"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在戰鬥場上，對手無法從手牌使出競技場卡。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "超頻擊碎"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢「超頻擊碎」的傷害「+80」點。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "擁有扭曲空間的能力。在神奧地區的神話裡被描述為神。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "S8a-008",
+    "name": {
+      "zh-tw": "帝牙盧卡"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "zh-tw": "時空逆流"
+        },
+        "effect": {
+          "zh-tw": "從自己的棄牌區任意選擇1張卡，在給對手看過後加入手牌。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "金屬爆破"
+        },
+        "effect": {
+          "zh-tw": "增加這隻寶可夢身上附加的【鋼】能量的數量×20點傷害。"
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "擁有操縱時間的力量。在神奧地區被稱為神，並在神話中登場。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "S8a-007",
+    "name": {
+      "zh-tw": "蓋歐卡"
+    },
+    "illustrator": "Ryuta Fuse",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "水風暴"
+        },
+        "effect": {
+          "zh-tw": "將自己的牌庫上方5張卡丟棄，對手的2隻備戰寶可夢各受到其中的能量卡的張數×50點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "衝浪"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "據說會用降下大雨的能力擴張海洋。一直沉睡在海溝的底部。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "S8a-006",
+    "name": {
+      "zh-tw": "固拉多"
+    },
+    "illustrator": "Ryuta Fuse",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "熔岩火山"
+        },
+        "effect": {
+          "zh-tw": "將自己的牌庫上方5張卡丟棄，造成其中的能量卡的張數×80點傷害。"
+        },
+        "damage": "80×"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大切斷"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "zh-tw": "與蓋歐卡殊死戰鬥後，便一直沉睡著。被稱為大地化身的傳說的寶可夢。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "S8a-005",
+    "name": {
+      "zh-tw": "洛奇亞"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "氣旋球"
+        },
+        "effect": {
+          "zh-tw": "造成雙方的戰鬥寶可夢身上附加的能量的數量×20點傷害。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "深擊粉碎"
+        },
+        "effect": {
+          "zh-tw": "在下個自己的回合，這隻寶可夢無法使用招式。"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "傳說中被當成海神的寶可夢。有著在暴風雨之夜被人看見其身影的傳說。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "S8a-004",
+    "name": {
+      "zh-tw": "鳳王"
+    },
+    "illustrator": "Kouki Saitou",
+    "category": "Pokemon",
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "神聖之火"
+        },
+        "effect": {
+          "zh-tw": "對手的1隻寶可夢受到50點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "大字爆炎"
+        },
+        "effect": {
+          "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "據說會閃耀著七彩翅膀，出現在正直的訓練家面前。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "S8a-003",
+    "name": {
+      "zh-tw": "博士的研究(大木博士)"
+    },
+    "illustrator": "KIYOTAKA OSHIYAMA",
+    "category": "Trainer",
+    "regulationMark": "D",
+    "trainerType": "Supporter",
+    "effect": {
+      "zh-tw": "將自己的手牌全部丟棄，從牌庫抽出7張卡。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "S8a-002",
+    "name": {
+      "zh-tw": "夢幻"
+    },
+    "illustrator": "Yuu Nishida",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "神秘尾巴"
+        },
+        "effect": {
+          "zh-tw": "若這隻寶可夢在戰鬥場上，則在自己的回合時可使用1次。查看自己的牌庫上方6張卡。選擇其中1張物品卡，在給對手看過後加入手牌。將剩餘卡放回牌庫並重洗。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "精神射擊"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "基因中含有所有寶可夢的資訊，因此據說牠能使用所有的招式。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "S8a-001",
+    "name": {
+      "zh-tw": "皮卡丘"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "category": "Pokemon",
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "E",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "咬"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "電流攻擊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為反面，則這隻寶可夢也受到10點傷害。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "臉頰兩側有著小小的電力袋。遇到危險時就會放電。"
+    },
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S8a"
+    },
+    "cardNumber": "001"
+  }
+]

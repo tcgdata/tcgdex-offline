@@ -1,0 +1,7272 @@
+[
+  {
+    "id": "g1-RC9",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu",
+      "de": "Raichu"
+    },
+    "illustrator": "Aya Kusube",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Circle Circuit",
+          "fr": "Cercle Électrik",
+          "de": "Rundparcours"
+        },
+        "effect": {
+          "en": "This attack does 20 damage times the number of your Benched Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts multipliés par le nombre de vos Pokémon de Banc.",
+          "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der Pokémon auf deiner Bank zu."
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt",
+          "fr": "Tonnerre",
+          "de": "Donnerblitz"
+        },
+        "effect": {
+          "en": "Discard all Energy attached to this Pokémon.",
+          "fr": "Défaussez toutes les Énergies attachées à ce Pokémon.",
+          "de": "Lege alle an dieses Pokémon angelegten Energien auf deinen Ablagestapel."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "The plan for today is to do nothing. My awesome tail is all curled up, and my ears are tired, too.",
+      "de": "Heute ist Ruhetag. Mein toller Schweif hat sich eingekringelt und meine Ohren sind auch ganz müde."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288465
+    },
+    "cardNumber": "RC9"
+  },
+  {
+    "id": "g1-RC8",
+    "name": {
+      "en": "Froslass",
+      "fr": "Momartik",
+      "de": "Frosdedje"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      478
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Snorunt",
+      "fr": "Stalgamin",
+      "de": "Schneppke"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Drag Along",
+          "fr": "Traînée",
+          "de": "Mitschleppen"
+        },
+        "effect": {
+          "en": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+          "fr": "Si ce Pokémon est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, lancez une pièce. Si c'est face, le Pokémon Attaquant est mis K.O.",
+          "de": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch Schaden eines gegnerischen Angriffs kampfunfähig wird, wirf 1 Münze. Bei „Kopf“ wird das Angreifende Pokémon kampfunfähig."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Snowy Drop",
+          "fr": "Chute Enneigée",
+          "de": "Schneefall"
+        },
+        "effect": {
+          "en": "Put 4 damage counters on your opponent's Pokémon in any way you like.",
+          "fr": "Placez 4 marqueurs de dégâts sur les Pokémon de votre adversaire, de la manière que vous voulez.",
+          "de": "Verteile 4 Schadensmarken beliebig auf die Pokémon deines Gegners."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Spring is already here, so goodbye…",
+      "de": "Der Frühling ist schon da. Ich verabschiede mich!"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288517
+    },
+    "cardNumber": "RC8"
+  },
+  {
+    "id": "g1-RC7",
+    "name": {
+      "en": "Snorunt",
+      "fr": "Stalgamin",
+      "de": "Schneppke"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      361
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Icy Snow",
+          "fr": "Verglas",
+          "de": "Eisiger Schnee"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "What a delicious-looking snowman! I think I'll sneak a bite. It's OK…no one's looking, right?",
+      "de": "Was für ein köstlich aussehender Schneemann! Einfach zum reinbeißen. Es sieht ja keiner zu, oder?"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288516
+    },
+    "cardNumber": "RC7"
+  },
+  {
+    "id": "g1-RC6",
+    "name": {
+      "en": "Flareon EX",
+      "fr": "Pyroli-EX",
+      "de": "Flamara-EX"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 170,
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Flash Fire",
+          "fr": "Torche",
+          "de": "Feuerfänger"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may move a Fire Energy from 1 of your Pokémon to this Pokémon.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez déplacer une Énergie Fire de l'un de vos Pokémon vers ce Pokémon.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 {R}-Energie von 1 deiner Pokémon auf dieses Pokémon verschieben."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blaze Ball",
+          "fr": "Balle Incendiaire",
+          "de": "Brandball"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each Fire Energy attached to this Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie Fire attachée à ce Pokémon.",
+          "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {R}-Energie zu."
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288515
+    },
+    "cardNumber": "RC6"
+  },
+  {
+    "id": "g1-RC5",
+    "name": {
+      "en": "Charizard",
+      "fr": "Dracaufeu",
+      "de": "Glurak"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      6
+    ],
+    "hp": 160,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charmeleon",
+      "fr": "Reptincel",
+      "de": "Glutexo"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Recall",
+          "fr": "Récupération",
+          "de": "Abruf"
+        },
+        "effect": {
+          "en": "Choose 1 of this Pokémon's attacks from its previous Evolutions and use it as this attack.",
+          "fr": "Choisissez l'une des attaques de pré-évolutions de ce Pokémon et utilisez-la en tant que cette attaque.",
+          "de": "Wähle 1 Attacke aus den vorangegangenen Entwicklungsstufen dieses Pokémon und verwende sie für diesen Angriff."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Combustion Blast",
+          "fr": "Explo-Combustion",
+          "de": "Brandbombe"
+        },
+        "effect": {
+          "en": "This Pokémon can't use Combustion Blast during your next turn.",
+          "fr": "Ce Pokémon ne peut pas utiliser Explo-Combustion pendant votre prochain tour.",
+          "de": "Dieses Pokémon kann Brandbombe während deines nächsten Zuges nicht einsetzen."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "No matter what happens, if we stick together, we can get past it. Forever and ever.",
+      "de": "Wenn wir zusammenhalten, können wir alles überstehen, egal, was auch passiert. Für immer und ewig."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288405
+    },
+    "cardNumber": "RC5"
+  },
+  {
+    "id": "g1-RC4",
+    "name": {
+      "en": "Charmeleon",
+      "fr": "Reptincel",
+      "de": "Glutexo"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      5
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "de": "Glumanda"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Call for Support",
+          "fr": "Appel au Renfort",
+          "de": "Ruf nach Unterstützung"
+        },
+        "effect": {
+          "en": "Search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+          "fr": "Cherchez une carte Supporter dans votre deck, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+          "de": "Durchsuche dein Deck nach 1 Unterstützerkarte, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Slash",
+          "fr": "Tranche",
+          "de": "Schlitzer"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "My precious friend who is always with me. I have so many things I want to tell you.",
+      "de": "Mein herzallerliebster Freund, der du immer bei mir ist. Ich habe dir so viel zu erzählen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288513
+    },
+    "cardNumber": "RC4"
+  },
+  {
+    "id": "g1-RC32",
+    "name": {
+      "en": "Sylveon EX",
+      "fr": "Nymphali-EX",
+      "de": "Feelinara-EX"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 170,
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dress Up",
+          "fr": "Costumes",
+          "de": "In Schale werfen"
+        },
+        "effect": {
+          "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 30 more damage.",
+          "fr": "Si une carte Outil Pokémon est attachée à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wenn an dieses Pokémon eine Pokémon-Ausrüstung angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Precious Ribbon",
+          "fr": "Ruban Précieux",
+          "de": "Edle Schleife"
+        },
+        "effect": {
+          "en": "Move a Fairy Energy from this Pokémon to 1 of your Benched Pokémon. If you do, heal 50 damage from that Pokémon.",
+          "fr": "Déplacez une Énergie Fairy de ce Pokémon vers l'un de vos Pokémon de Banc. Dans ce cas, soignez 50 dégâts au Pokémon choisi.",
+          "de": "Verschiebe 1 an dieses Pokémon angelegte {FAIRY}-Energie auf 1 Pokémon auf deiner Bank. Wenn du das machst, heile 50 Schadenspunkte bei jenem Pokémon."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288530
+    },
+    "cardNumber": "RC32"
+  },
+  {
+    "id": "g1-RC31",
+    "name": {
+      "en": "M Gardevoir EX",
+      "fr": "M-Gardevoir-EX",
+      "de": "M-Guardevoir-EX"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      282
+    ],
+    "hp": 210,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Gardevoir-EX",
+      "fr": "Gardevoir-EX",
+      "de": "M-Guardevoir-EX"
+    },
+    "stage": "MEGA",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Brilliant Arrow",
+          "fr": "Flèche Éclatante",
+          "de": "Glänzender Pfeil"
+        },
+        "effect": {
+          "en": "This attack does 30 damage times the amount of Fairy Energy attached to all of your Pokémon.",
+          "fr": "Cette attaque inflige 30 dégâts multipliés par le nombre d'Énergies Fairy attachées à tous vos Pokémon.",
+          "de": "Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl der an all deinen Pokémon angelegten {FAIRY}-Energien zu."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "cardNumber": "RC31"
+  },
+  {
+    "id": "g1-RC30",
+    "name": {
+      "en": "Gardevoir EX",
+      "fr": "Gardevoir-EX",
+      "de": "Guardevoir-EX"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      282
+    ],
+    "hp": 170,
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Life Leap",
+          "fr": "Projection Vitale",
+          "de": "Sprung ins Leben"
+        },
+        "effect": {
+          "en": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+          "fr": "Soignez à ce Pokémon la même quantité de dégâts que vous avez infligée au Pokémon Actif de votre adversaire.",
+          "de": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Fairy"
+        ],
+        "name": {
+          "en": "Shining Wind",
+          "fr": "Vent Étincelant",
+          "de": "Schimmernder Wind"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, this Pokémon has no Weakness.",
+          "fr": "Pendant le prochain tour de votre adversaire, ce Pokémon n'a pas de Faiblesse.",
+          "de": "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288539
+    },
+    "cardNumber": "RC30"
+  },
+  {
+    "id": "g1-RC3",
+    "name": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "de": "Glumanda"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      4
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Playful",
+          "fr": "Garnement",
+          "de": "Verspielt"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage times the number of damage counters on this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte mal der Anzahl der Schadensmarken auf diesem Pokémon zu."
+        },
+        "damage": "20×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "My Charmander is so rambunctious! I wonder if we can become good friends?",
+      "de": "Mein Glumanda ist so ungestüm! Ich frage mich, ob wir gute Freunde werden?"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288512
+    },
+    "cardNumber": "RC3"
+  },
+  {
+    "id": "g1-RC29",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Nuzzle",
+          "fr": "Frotte-Frimousse",
+          "de": "Wangenrubbler"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-Attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "A yellow body is proof of good health. If you touch its bright-red cheeks, you'll see its shining, smiling face!",
+      "de": "Ein gelber Körper ist ein Zeichen guter Gesundheit. Wenn du seine hellroten Wangen berührst, schenkt es dir strahlendes Lächeln."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288464
+    },
+    "cardNumber": "RC29"
+  },
+  {
+    "id": "g1-RC28",
+    "name": {
+      "en": "Flareon EX",
+      "fr": "Pyroli-EX",
+      "de": "Flamara-EX"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 170,
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Flash Fire",
+          "fr": "Torche",
+          "de": "Feuerfänger"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may move a Fire Energy from 1 of your Pokémon to this Pokémon.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez déplacer une Énergie Fire de l'un de vos Pokémon vers ce Pokémon.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 {R}-Energie von 1 deiner Pokémon auf dieses Pokémon verschieben."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blaze Ball",
+          "fr": "Balle Incendiaire",
+          "de": "Brandball"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each Fire Energy attached to this Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie Fire attachée à ce Pokémon.",
+          "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jede an dieses Pokémon angelegte {R}-Energie zu."
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288515
+    },
+    "cardNumber": "RC28"
+  },
+  {
+    "id": "g1-RC27",
+    "name": {
+      "en": "Wally",
+      "fr": "Timmy",
+      "de": "Heiko"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Cherchez dans votre deck une carte Évolution de l'un de vos Pokémon (excepté les Pokémon-EX) et placez-la sur ce dernier. (Cela équivaut à faire évoluer le Pokémon.) Mélangez ensuite votre deck. Vous ne pouvez utiliser cette carte ni pendant votre premier tour ni sur un Pokémon qui a été joué pendant ce tour.",
+      "en": "Search your deck for a card that evolves from 1 of your Pokémon (excluding Pokémon-EX) and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "de": "Durchsuche dein Deck nach 1 Karte, zu der sich 1 deiner Pokémon (außer Pokémon-EX) entwickelt, und lege sie auf das entsprechende Pokémon. (Dies zählt als Entwicklung des Pokémon.) Mische anschließend dein Deck. Du kannst diese Karte während deines ersten Zuges oder für ein Pokémon, das in diesem Zug ins Spiel gebracht wurde, verwenden. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288536
+    },
+    "cardNumber": "RC27"
+  },
+  {
+    "id": "g1-RC26",
+    "name": {
+      "en": "Floral Crown",
+      "fr": "Couronne Florale",
+      "de": "Blumenkrone"
+    },
+    "illustrator": "Aya Kusube",
+    "rarity": "Common",
+    "category": "Trainer",
+    "trainerType": "Tool",
+    "effect": {
+      "fr": "À la fin du tour de votre adversaire, soignez 20 dégâts au Pokémon de base auquel cette carte est attachée.",
+      "en": "At the end of your opponent's turn, heal 20 damage from the Basic Pokémon this card is attached to.",
+      "de": "Lege 1 Pokémon-Ausrüstung an 1 deiner Pokémon an, an das noch keine Pokémon-Ausrüstung angelegt ist. Heile am Ende des nächsten Zuges deines Gegners 20 Schadenspunkte bei dem Basis-Pokémon, an das diese Karte angelegt ist. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288535
+    },
+    "cardNumber": "RC26"
+  },
+  {
+    "id": "g1-RC25",
+    "name": {
+      "en": "Fletchling",
+      "fr": "Passerouge",
+      "de": "Dartiri"
+    },
+    "illustrator": "Aya Kusube",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      661
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Warble",
+          "fr": "Gazouillement",
+          "de": "Trällern"
+        },
+        "effect": {
+          "en": "Search your deck for up to 2 Fletchling, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "fr": "Cherchez jusqu'à 2 Passerouge dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+          "de": "Durchsuche dein Deck nach bis zu 2 Dartiri, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Little friends, thanks for always helping me look so cute!",
+      "de": "Ich danke euch, dass ihr mir immer dabei behilflich seid, so hübsch auszusehen, kleine Helfer!"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288534
+    },
+    "cardNumber": "RC25"
+  },
+  {
+    "id": "g1-RC24",
+    "name": {
+      "en": "Altaria",
+      "fr": "Altaria",
+      "de": "Altaria"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      334
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Swablu",
+      "fr": "Tylton",
+      "de": "Wablu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flap",
+          "fr": "Battement",
+          "de": "Flattern"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fairy Friend",
+          "fr": "Ami Féérique",
+          "de": "Feen-Freund"
+        },
+        "effect": {
+          "en": "If you have any Fairy Pokémon on your Bench, this attack does 30 more damage.",
+          "fr": "Si vous avez un Pokémon Fairy sur votre Banc, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wenn du mindestens 1 {FAIRY}-Pokémon auf deiner Bank hast, fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "This fluffiness makes everyone go crazy. Is it really that charming?",
+      "de": "Diese Flaumigkeit macht alle ganz verrückt. Ist sie wirklich so bezaubernd?"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288533
+    },
+    "cardNumber": "RC24"
+  },
+  {
+    "id": "g1-RC23",
+    "name": {
+      "en": "Swablu",
+      "fr": "Tylton",
+      "de": "Wablu"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      333
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bind Wound",
+          "fr": "Blessure Pansée",
+          "de": "Wunden verbinden"
+        },
+        "effect": {
+          "en": "Heal 20 damage from 1 of your Pokémon.",
+          "fr": "Soignez 20 dégâts à l'un de vos Pokémon.",
+          "de": "Heile 20 Schadenspunkte bei 1 deiner Pokémon."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Wings and beaks. I like yours, and I like mine, too.",
+      "de": "Flügel und Schnäbel. Ich mag deine und auch meine."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288532
+    },
+    "cardNumber": "RC23"
+  },
+  {
+    "id": "g1-RC22",
+    "name": {
+      "en": "Diancie",
+      "fr": "Diancie",
+      "de": "Diancie"
+    },
+    "illustrator": "Mizue",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      719
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Sparkle",
+          "fr": "Éclat",
+          "de": "Glitzern"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "fr": "Si le Pokémon Défenseur essaie d'attaquer pendant le prochain tour de votre adversaire, ce dernier lance une pièce. Si c'est pile, son attaque ne fait rien.",
+          "de": "Falls das Verteidigende Pokémon während des nächsten Zuges deines Gegners angreift, wirft dein Gegner 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Diamond Storm",
+          "fr": "Orage Adamantin",
+          "de": "Diamantsturm"
+        },
+        "effect": {
+          "en": "Heal 30 damage from each of your Fairy Pokémon.",
+          "fr": "Soignez 30 dégâts à chacun de vos Pokémon Fairy.",
+          "de": "Heile 30 Schadenspunkte bei jedem deiner {FAIRY}-Pokémon."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Open the magic door and a dream-colored party will start again today. I'll teach you the secret password.",
+      "de": "Öffne die magische Tür, sodass heute wieder eine Party voller bunter Träume beginnt. Ich bringe dir das geheime Passwort bei."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288531
+    },
+    "cardNumber": "RC22"
+  },
+  {
+    "id": "g1-RC21",
+    "name": {
+      "en": "Sylveon EX",
+      "fr": "Nymphali-EX",
+      "de": "Feelinara-EX"
+    },
+    "illustrator": "sui",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 170,
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dress Up",
+          "fr": "Costumes",
+          "de": "In Schale werfen"
+        },
+        "effect": {
+          "en": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 30 more damage.",
+          "fr": "Si une carte Outil Pokémon est attachée à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wenn an dieses Pokémon eine Pokémon-Ausrüstung angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Precious Ribbon",
+          "fr": "Ruban Précieux",
+          "de": "Edle Schleife"
+        },
+        "effect": {
+          "en": "Move a Fairy Energy from this Pokémon to 1 of your Benched Pokémon. If you do, heal 50 damage from that Pokémon.",
+          "fr": "Déplacez une Énergie Fairy de ce Pokémon vers l'un de vos Pokémon de Banc. Dans ce cas, soignez 50 dégâts au Pokémon choisi.",
+          "de": "Verschiebe 1 an dieses Pokémon angelegte {FAIRY}-Energie auf 1 Pokémon auf deiner Bank. Wenn du das machst, heile 50 Schadenspunkte bei jenem Pokémon."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288530
+    },
+    "cardNumber": "RC21"
+  },
+  {
+    "id": "g1-RC20",
+    "name": {
+      "en": "Slurpuff",
+      "fr": "Cupcanaille",
+      "de": "Sabbaione"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      685
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Swirlix",
+      "fr": "Sucroquin",
+      "de": "Flauschling"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Lap Up",
+          "fr": "Gobeur",
+          "de": "Auflecken"
+        },
+        "effect": {
+          "en": "Draw 3 cards.",
+          "fr": "Piochez 3 cartes.",
+          "de": "Ziehe 3 Karten."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fairy Wind",
+          "fr": "Vent Féérique",
+          "de": "Feenbrise"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The cakes Slurpuff makes always look just like that one Pokémon it likes.",
+      "de": "Die Kuchen, die Sabbaione backt, sehen immer wie das Pokémon aus, das es so gerne mag."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288529
+    },
+    "cardNumber": "RC20"
+  },
+  {
+    "id": "g1-RC2",
+    "name": {
+      "en": "Shroomish",
+      "fr": "Balignon",
+      "de": "Knilz"
+    },
+    "illustrator": "Miki Tanaka",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      285
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Worry Seed",
+          "fr": "Soucigraine",
+          "de": "Sorgensamen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Confus.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt verwirrt."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "I wonder if I would look a little cuter with a beautiful flower?",
+      "de": "Ich frage mich, ob ich mit einer schönen Blume niedlicher aussehen würde?"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288511
+    },
+    "cardNumber": "RC2"
+  },
+  {
+    "id": "g1-RC19",
+    "name": {
+      "en": "Swirlix",
+      "fr": "Sucroquin",
+      "de": "Flauschling"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      684
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Lick Away",
+          "fr": "Lèche-Lèche",
+          "de": "Wegschlecken"
+        },
+        "effect": {
+          "en": "Remove all Special Conditions from this Pokémon.",
+          "fr": "Retirez tous les États Spéciaux de ce Pokémon.",
+          "de": "Alle Speziellen Zustände auf diesem Pokémon verlieren ihre Wirkung."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "My fluffy heart makes me feel like a marshmallow. A thrilling macaron full of colorful magic. Everybody's crazy about the taste of candy! ☆",
+      "de": "Durch mein flauschiges Herz fühle ich mich wie Zuckerwerk. Eine köstliche Praline gefüllt mit bunter Magie. Alle sind ganz verrückt nach leckeren Süßigkeiten! ☆"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288528
+    },
+    "cardNumber": "RC19"
+  },
+  {
+    "id": "g1-RC18",
+    "name": {
+      "en": "Floette",
+      "fr": "Floette",
+      "de": "Floette"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      670
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Flabébé",
+      "fr": "Flabébé",
+      "de": "Flabébé"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fairy"
+        ],
+        "name": {
+          "en": "Petal Blizzard",
+          "fr": "Tempête Florale",
+          "de": "Blütenwirbel"
+        },
+        "effect": {
+          "en": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "fr": "Tranch'Herbe",
+          "de": "Rasierblatt"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The five of us team up to be the Pretty Young Girl Force! We'll show you some beautiful moves!",
+      "de": "Wir fünf Mädels haben uns zur Einsatztruppe „Hübsch & Jung“ zusammengetan und haben einige schöne Attacken für dich parat."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288527
+    },
+    "cardNumber": "RC18"
+  },
+  {
+    "id": "g1-RC17",
+    "name": {
+      "en": "Flabébé",
+      "fr": "Flabébé",
+      "de": "Flabébé"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      669
+    ],
+    "hp": 40,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "fr": "Tranch'Herbe",
+          "de": "Rasierblatt"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It's OK. No one will take away your flower. You look cute even when you're angry.",
+      "de": "Keine Sorge. Niemand nimmt dir deine Blume weg. Auch wenn du wütend bist, siehst du niedlich aus."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288526
+    },
+    "cardNumber": "RC17"
+  },
+  {
+    "id": "g1-RC16",
+    "name": {
+      "en": "Yveltal",
+      "fr": "Yveltal",
+      "de": "Yveltal"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      717
+    ],
+    "hp": 130,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "en": "Oblivion Wing",
+          "fr": "Mort-Ailes",
+          "de": "Unheilsschwingen"
+        },
+        "effect": {
+          "en": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "fr": "Attachez une carte Énergie Darkness de votre pile de défausse à l'un de vos Pokémon de Banc.",
+          "de": "Lege 1 {D}-Energiekarte von deinem Ablagestapel an 1 Pokémon auf deiner Bank an."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Darkness Blade",
+          "fr": "Lame Obscure",
+          "de": "Finsterklinge"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this Pokémon can't attack during your next turn.",
+          "fr": "Lancez une pièce. Si c'est pile, ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ kann dieses Pokémon während deines nächsten Zuges nicht angreifen."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Hidden away in its jet-black wings is a red passion.",
+      "de": "Unter seinen pechschwarzen Flügeln verbirgt sich feuerroter Zorn."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288525
+    },
+    "cardNumber": "RC16"
+  },
+  {
+    "id": "g1-RC15",
+    "name": {
+      "en": "Meowstic",
+      "fr": "Mistigrix",
+      "de": "Psiaugon"
+    },
+    "illustrator": "sui",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      678
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Espurr",
+      "fr": "Psystigri",
+      "de": "Psiau"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Ear Influence",
+          "fr": "Influence Otique",
+          "de": "Ohrenspiel"
+        },
+        "effect": {
+          "en": "Move as many damage counters on your opponent's Pokémon as you like to any of your opponent's other Pokémon in any way you like.",
+          "fr": "Déplacez autant de marqueurs de dégâts que vous voulez des Pokémon de votre adversaire vers les autres Pokémon de votre adversaire, de la manière que vous voulez.",
+          "de": "Verschiebe beliebig viele Schadensmarken auf den Pokémon deines Gegners in beliebiger Weise auf seine anderen Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Psychic",
+          "fr": "Psyko",
+          "de": "Psychokinese"
+        },
+        "effect": {
+          "en": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+          "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist."
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Intense silence. Two lamplights. Keep waiting for night to end.",
+      "de": "Konzentrierte Stille. Zwei Lichter. Warten, dass die Nacht zu Ende geht."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288475
+    },
+    "cardNumber": "RC15"
+  },
+  {
+    "id": "g1-RC14",
+    "name": {
+      "en": "Espurr",
+      "fr": "Psystigri",
+      "de": "Psiau"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      677
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Twinkle",
+          "fr": "Étincellement",
+          "de": "Funkeln"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Asleep.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+          "de": "Das Aktive Pokémon deines Gegners schläft jetzt."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "My number one. Exceptionally cute. A little princess.",
+      "de": "Meine Nummer eins. Außergewöhnlich niedlich. Eine kleine Prinzessin."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288523
+    },
+    "cardNumber": "RC14"
+  },
+  {
+    "id": "g1-RC13",
+    "name": {
+      "en": "Jirachi",
+      "fr": "Jirachi",
+      "de": "Jirachi"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      385
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Wish",
+          "fr": "Vœu",
+          "de": "Wunschtraum"
+        },
+        "effect": {
+          "en": "Search your deck for a card and put it into your hand. Shuffle your deck afterward.",
+          "fr": "Cherchez une carte dans votre deck puis ajoutez-la à votre main. Mélangez ensuite votre deck.",
+          "de": "Durchsuche dein Deck nach 1 Karte und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heart Sign",
+          "fr": "Signe de Cœur",
+          "de": "Herzbild"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The twinkle of the stars. The destiny of love. A miracle that grants wishes in the night sky.",
+      "de": "Das Funkeln der Sterne. Die Vorsehung der Liebe. Ein Wunder, das Wünsche unterm Nachthimmel erfüllt."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288522
+    },
+    "cardNumber": "RC13"
+  },
+  {
+    "id": "g1-RC12",
+    "name": {
+      "en": "Gulpin",
+      "fr": "Gloupti",
+      "de": "Schluppuck"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      316
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Starvin'",
+          "fr": "Affamé",
+          "de": "Kohldampf"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "When Mom gets in the kitchen, the happiest things happen. I can feel my mouth watering!",
+      "de": "Wenn Mutter in der Küche loslegt, passieren die leckersten Dinge. Mir läuft schon das Wasser im Mund zusammen!"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288521
+    },
+    "cardNumber": "RC12"
+  },
+  {
+    "id": "g1-RC11",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké",
+      "de": "Woingenau"
+    },
+    "illustrator": "Yukiko Baba",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      202
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Bide Barricade",
+          "fr": "Épreuve d'Endurance",
+          "de": "Sperrzeit"
+        },
+        "effect": {
+          "en": "As long as this Pokémon is your Active Pokémon, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Psychic Pokémon).",
+          "fr": "Tant que ce Pokémon est votre Pokémon Actif, chacun des Pokémon en jeu, dans la main de chaque joueur et dans la pile de défausse de chaque joueur, n'a pas de talent (à part les Pokémon Psychic).",
+          "de": "Solang dieses Pokémon dein Aktives Pokémon ist, hat jedes Pokémon im Spiel, in der Hand beider Spieler oder im Ablagestapel beider Spieler keine Fähigkeit (außer {P}-Pokémon)."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psychic Assault",
+          "fr": "Assaut Psychique",
+          "de": "Psycho-Ansturm"
+        },
+        "effect": {
+          "en": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+          "fr": "Cette attaque inflige 10 dégâts supplémentaires pour chaque marqueur de dégâts placé sur le Pokémon Actif de votre adversaire.",
+          "de": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "When she's surrounded by cushions and dressers that I like, she looks just like a princess!",
+      "de": "Wenn sie von Kissen und Kommoden umgeben ist, die ich toll finde, dann sieht sie wie eine Prinzessin aus!"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288520
+    },
+    "cardNumber": "RC11"
+  },
+  {
+    "id": "g1-RC10",
+    "name": {
+      "en": "Dedenne",
+      "fr": "Dedenne",
+      "de": "Dedenne"
+    },
+    "illustrator": "kanahei",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      702
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rest",
+          "fr": "Repos",
+          "de": "Erholung"
+        },
+        "effect": {
+          "en": "Heal 30 damage from this Pokémon. This Pokémon is now Asleep.",
+          "fr": "Soignez 30 dégâts à ce Pokémon. Ce Pokémon est maintenant Endormi.",
+          "de": "Heile 30 Schadenspunkte bei diesem Pokémon. Dieses Pokémon schläft jetzt."
+        }
+      },
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Pachi",
+          "fr": "Pachi",
+          "de": "Brzzzl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Crackle…buzz…Dedenne…?! Beep…",
+      "de": "Knister... surr... Dedenne...?! Piep..."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288519
+    },
+    "cardNumber": "RC10"
+  },
+  {
+    "id": "g1-RC1",
+    "name": {
+      "en": "Chikorita",
+      "fr": "Germignon",
+      "de": "Endivie"
+    },
+    "illustrator": "Sanosuke Sakuma",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      152
+    ],
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Run Around",
+          "fr": "Course Effrénée",
+          "de": "Herumrennen"
+        },
+        "effect": {
+          "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "fr": "Échangez ce Pokémon avec l'un de vos Pokémon de Banc.",
+          "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Vine Whip",
+          "fr": "Fouet Lianes",
+          "de": "Rankenhieb"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Running around, climbing trees, playing hide-and-seek! Another wonderful day begins!",
+      "de": "Herumlaufen, auf Bäume klettern, Versteck spielen! Wieder bricht ein wundervoller Tag an!"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288510
+    },
+    "cardNumber": "RC1"
+  },
+  {
+    "id": "g1-9",
+    "name": {
+      "en": "Pinsir",
+      "fr": "Scarabrute",
+      "de": "Pinsir"
+    },
+    "illustrator": "Satoshi Shirai",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      127
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Overhead Throw",
+          "fr": "Soulève Corne",
+          "de": "Überwerfer"
+        },
+        "effect": {
+          "en": "This attack does 20 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 20 dégâts à l'un de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf deiner Bank 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heavy Suplex",
+          "fr": "Suplex Imposant",
+          "de": "Wuchtiger Suplex"
+        },
+        "effect": {
+          "en": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+          "fr": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Colorless dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+          "de": "Dieser Angriff fügt 20 weitere Schadenspunkte für jedes {C}-Symbol in den Rückzugskosten des Aktiven Pokémon deines Gegners zu."
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+      "de": "Beim Angriff verdreht es sein Geweih. In Kälteperioden versteckt es sich tief im Wald."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288451,
+      "tcgplayer": 113667
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "g1-83",
+    "name": {
+      "en": "Fairy Energy",
+      "fr": "Énergie Fairy de base",
+      "de": "Feen-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "types": [
+      "Fairy"
+    ],
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288420,
+      "tcgplayer": 113741
+    },
+    "cardNumber": "83"
+  },
+  {
+    "id": "g1-82",
+    "name": {
+      "en": "Metal Energy",
+      "fr": "Énergie Metal de base",
+      "de": "Metall-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288419,
+      "tcgplayer": 113740
+    },
+    "cardNumber": "82"
+  },
+  {
+    "id": "g1-81",
+    "name": {
+      "en": "Darkness Energy",
+      "fr": "Énergie Darkness de base",
+      "de": "Finsternis-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288418,
+      "tcgplayer": 113739
+    },
+    "cardNumber": "81"
+  },
+  {
+    "id": "g1-80",
+    "name": {
+      "en": "Fighting Energy",
+      "fr": "Énergie Fighting de base",
+      "de": "Kampf-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288417,
+      "tcgplayer": 113738
+    },
+    "cardNumber": "80"
+  },
+  {
+    "id": "g1-8",
+    "name": {
+      "en": "Tangela",
+      "fr": "Saquedeneu",
+      "de": "Tangela"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      114
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Absorb",
+          "fr": "Vol-Vie",
+          "de": "Absorber"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "fr": "Soignez 20 dégâts à ce Pokémon.",
+          "de": "Heile 20 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Vine Whip",
+          "fr": "Fouet Lianes",
+          "de": "Rankenhieb"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+      "de": "Es berührt alles, was sich bewegt, mit seinen Ranken. Diese Berührungen kitzeln sehr."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288450,
+      "tcgplayer": 113666
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "g1-79",
+    "name": {
+      "en": "Psychic Energy",
+      "fr": "Énergie Psychic de base",
+      "de": "Psycho-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288416,
+      "tcgplayer": 113737
+    },
+    "cardNumber": "79"
+  },
+  {
+    "id": "g1-78",
+    "name": {
+      "en": "Lightning Energy",
+      "fr": "Énergie Lightning de base",
+      "de": "Elektro-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288415,
+      "tcgplayer": 113736
+    },
+    "cardNumber": "78"
+  },
+  {
+    "id": "g1-77",
+    "name": {
+      "en": "Water Energy",
+      "fr": "Énergie Water de base",
+      "de": "Wasser-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288414,
+      "tcgplayer": 113735
+    },
+    "cardNumber": "77"
+  },
+  {
+    "id": "g1-76",
+    "name": {
+      "en": "Fire Energy",
+      "fr": "Énergie Fire de base",
+      "de": "Feuer-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288413,
+      "tcgplayer": 113734
+    },
+    "cardNumber": "76"
+  },
+  {
+    "id": "g1-75",
+    "name": {
+      "en": "Grass Energy",
+      "fr": "Énergie Grass de base",
+      "de": "Pflanzen-Energie"
+    },
+    "rarity": "Common",
+    "category": "Energy",
+    "energyType": "Normal",
+    "stage": "Basic",
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288412,
+      "tcgplayer": 113733
+    },
+    "cardNumber": "75"
+  },
+  {
+    "id": "g1-74",
+    "name": {
+      "en": "Double Colorless Energy",
+      "fr": "Double Énergie Incolore",
+      "de": "Doppel-Farblos-Energie"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "fr": "Double Énergie Incolore fournit de l'Énergie ColorlessColorless.",
+      "en": "Double Colorless Energy provides ColorlessColorless Energy.",
+      "de": "Doppel-Farblos-Energie liefert {C}{C}-Energie."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288509,
+      "tcgplayer": 113732
+    },
+    "cardNumber": "74"
+  },
+  {
+    "id": "g1-73a",
+    "name": {
+      "en": "Team Flare Grunt",
+      "fr": "Sbire de la Team Flare",
+      "de": "Team Flare-Rüpel"
+    },
+    "illustrator": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Discard an Energy attached to your opponent's Active Pokémon. You may play only 1 Supporter card during your turn (before your attack).",
+      "de": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288508
+    },
+    "cardNumber": "73a"
+  },
+  {
+    "id": "g1-73",
+    "name": {
+      "en": "Team Flare Grunt",
+      "fr": "Sbire de la Team Flare",
+      "de": "Team Flare-Rüpel"
+    },
+    "illustrator": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+      "en": "Discard an Energy attached to your opponent's Active Pokémon.",
+      "de": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288508,
+      "tcgplayer": 113731
+    },
+    "cardNumber": "73"
+  },
+  {
+    "id": "g1-72",
+    "name": {
+      "en": "Shauna",
+      "fr": "Sannah",
+      "de": "Sannah"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Mélangez votre main avec votre deck. Ensuite, piochez 5 cartes.",
+      "en": "Shuffle your hand into your deck. Then, draw 5 cards.",
+      "de": "Mische deine Handkarten in dein Deck. Ziehe anschließend 5 Karten. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288507,
+      "tcgplayer": 113730
+    },
+    "cardNumber": "72"
+  },
+  {
+    "id": "g1-71",
+    "name": {
+      "en": "Red Card",
+      "fr": "Carton Rouge",
+      "de": "Rote Karte"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Votre adversaire mélange sa main avec son deck et pioche 4 cartes.",
+      "en": "Your opponent shuffles his or her hand into his or her deck and draws 4 cards.",
+      "de": "Dein Gegner mischt seine Hand zurück in sein Deck und zieht 4 Karten. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288506,
+      "tcgplayer": 113729
+    },
+    "cardNumber": "71"
+  },
+  {
+    "id": "g1-70",
+    "name": {
+      "en": "Revitalizer",
+      "fr": "Revitalisation",
+      "de": "Revitalisierer"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Ajoutez 2 Pokémon Grass de votre pile de défausse à votre main.",
+      "en": "Put 2 Grass Pokémon from your discard pile into your hand.",
+      "de": "Nimm 2 {G}-Pokémon von deinem Ablagestapel auf deine Hand. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288411,
+      "tcgplayer": 113728
+    },
+    "cardNumber": "70"
+  },
+  {
+    "id": "g1-7",
+    "name": {
+      "en": "Parasect",
+      "fr": "Parasect",
+      "de": "Parasek"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      47
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Paras",
+      "fr": "Paras",
+      "de": "Paras"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Colorful Spores",
+          "fr": "Spores Colorées",
+          "de": "Bunte Sporen"
+        },
+        "effect": {
+          "en": "Choose 3 of your Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Shuffle your deck afterward.",
+          "fr": "Choisissez 3 de vos Pokémon. Pour chacun de ces Pokémon, cherchez une carte Énergie de base de type différent dans votre deck et attachez-la au Pokémon. Mélangez ensuite votre deck.",
+          "de": "Wähle 3 deiner Pokémon im Spiel. Durchsuche dein Deck nach jeweils 1 vom Typ her anderen Basis-Energiekarte für jedes dieser Pokémon und lege sie an diese Pokémon an. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "X-Scissor",
+          "fr": "Plaie-Croix",
+          "de": "Kreuzschere"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+      "de": "Je größer der Pilz auf seinem Rücken wird, desto stärker werden auch die Sporen, die es verteilt"
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288449,
+      "tcgplayer": 113665
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "g1-69",
+    "name": {
+      "en": "Pokémon Fan Club",
+      "fr": "Fan Club Pokémon",
+      "de": "Pokémon Fan Club"
+    },
+    "illustrator": "Yusuke Ohmura",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Cherchez jusqu'à 2 Pokémon de base dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+      "en": "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "de": "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288505
+    },
+    "cardNumber": "69"
+  },
+  {
+    "id": "g1-68",
+    "name": {
+      "en": "Pokémon Center Lady",
+      "fr": "Dame du Centre Pokémon",
+      "de": "Pokémon-Center-Dame"
+    },
+    "illustrator": "Maiko Fujiwara",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Soignez 60 dégâts et retirez tous les États Spéciaux de l'un de vos Pokémon.",
+      "en": "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
+      "de": "Heile 60 Schadenspunkte bei 1 deiner Pokémon. Alle Speziellen Zustände auf diesem Pokémon verlieren ihre Wirkung. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288504
+    },
+    "cardNumber": "68"
+  },
+  {
+    "id": "g1-67",
+    "name": {
+      "en": "Poké Ball",
+      "fr": "Poké Ball",
+      "de": "Pokéball"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Lancez une pièce. Si c'est face, cherchez un Pokémon dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck.",
+      "en": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "de": "Wirf 1 Münze. Durchsuche bei „Kopf“ dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288503
+    },
+    "cardNumber": "67"
+  },
+  {
+    "id": "g1-66",
+    "name": {
+      "en": "Olympia",
+      "fr": "Astera",
+      "de": "Astrid"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Échangez votre Pokémon Actif avec l'un de vos Pokémon de Banc. Dans ce cas, soignez 30 dégâts au Pokémon que vous avez placé sur votre Banc.",
+      "en": "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, heal 30 damage from the Pokémon you moved to your Bench.",
+      "de": "Tausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus. Wenn du das machst, heile 30 Schadenspunkte bei dem Pokémon, das du auf deine Bank verschoben hast. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288502,
+      "tcgplayer": 113724
+    },
+    "cardNumber": "66"
+  },
+  {
+    "id": "g1-65",
+    "name": {
+      "en": "Max Revive",
+      "fr": "Rappel Max",
+      "de": "Top-Beleber"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Mettez un Pokémon de votre pile de défausse sur le dessus de votre deck.",
+      "en": "Put a Pokémon from your discard pile on top of your deck.",
+      "de": "Lege 1 Pokémon von deinem Ablagestapel auf dein Deck. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288501,
+      "tcgplayer": 113723
+    },
+    "cardNumber": "65"
+  },
+  {
+    "id": "g1-64",
+    "name": {
+      "en": "Maintenance",
+      "fr": "Entretien",
+      "de": "Wartung"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Mélangez 2 cartes de votre main avec votre deck. (Si vous ne pouvez pas mélanger 2 cartes avec votre deck, vous ne pouvez pas jouer cette carte.) Ensuite, piochez une carte.",
+      "en": "Shuffle 2 cards from your hand into your deck. (If you can't shuffle 2 cards into your deck, you can't play this card.) Then, draw a card.",
+      "de": "Mische 2 Karten von deiner Hand in dein Deck. (Wenn du keine 2 Karten in dein Deck mischen kannst, kannst du diese Karte nicht spielen.) Ziehe anschließend 1 Karte. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288500,
+      "tcgplayer": 113722
+    },
+    "cardNumber": "64"
+  },
+  {
+    "id": "g1-63",
+    "name": {
+      "en": "Imakuni?",
+      "fr": "Imakuni ?",
+      "de": "Imakuni?"
+    },
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Votre Pokémon Actif est maintenant Confus.",
+      "en": "Your Active Pokémon is now Confused.",
+      "de": "Dein Aktives Pokémon ist jetzt verwirrt. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288409,
+      "tcgplayer": 113721
+    },
+    "cardNumber": "63"
+  },
+  {
+    "id": "g1-62",
+    "name": {
+      "en": "Evosoda",
+      "fr": "Évolusoda",
+      "de": "Evobrause"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Cherchez dans votre deck une carte Évolution de l'un de vos Pokémon et placez-la sur ce dernier. (Cela équivaut à faire évoluer le Pokémon.) Mélangez ensuite votre deck. Vous ne pouvez pas utiliser cette carte pendant votre premier tour ni sur un Pokémon qui a été joué pendant ce tour.",
+      "en": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You can't use this card during your first turn or on a Pokémon that was put into play this turn.",
+      "de": "Durchsuche dein Deck nach 1 Karte, zu der sich 1 deiner Pokémon entwickelt, und lege sie auf das entsprechende Pokémon. (Dies zählt als Entwicklung des Pokémon.) Mische anschließend dein Deck. Du kannst diese Karte nicht während deines ersten Zuges oder für ein Pokémon, das in diesem Zug ins Spiel gebracht wurde, verwenden. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288499,
+      "tcgplayer": 113720
+    },
+    "cardNumber": "62"
+  },
+  {
+    "id": "g1-61",
+    "name": {
+      "en": "Energy Switch",
+      "fr": "Échange d'Énergie",
+      "de": "Energie-Umschalter"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Déplacez une Énergie de base de l'un de vos Pokémon vers un autre de vos Pokémon.",
+      "en": "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+      "de": "Verschiebe 1 an 1 deiner Pokémon angelegte Basis-Energie auf ein anderes deiner Pokémon. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288498,
+      "tcgplayer": 113719
+    },
+    "cardNumber": "61"
+  },
+  {
+    "id": "g1-60",
+    "name": {
+      "en": "Crushing Hammer",
+      "fr": "Maillet Écrasant",
+      "de": "Schmetterhammer"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée à l'un des Pokémon de votre adversaire.",
+      "en": "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+      "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an ein gegnerisches Pokémon angelegte Energie auf den Ablagestapel deines Gegners. Du kannst während deines Zuges (vor deinem Angriff) beliebig viele Itemkarten spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288497,
+      "tcgplayer": 113718
+    },
+    "cardNumber": "60"
+  },
+  {
+    "id": "g1-6",
+    "name": {
+      "en": "Paras",
+      "fr": "Paras",
+      "de": "Paras"
+    },
+    "illustrator": "Aya Kusube",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      46
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blot",
+          "fr": "Pâté",
+          "de": "Klecks"
+        },
+        "effect": {
+          "en": "Heal 10 damage from this Pokémon.",
+          "fr": "Soignez 10 dégâts à ce Pokémon.",
+          "de": "Heile 10 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+      "de": "Dieses Pokémon gräbt sich in den Boden und frisst Wurzeln. Die Pilze auf seinem Rücken sind Parasiten."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288448,
+      "tcgplayer": 113664
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "g1-59",
+    "name": {
+      "en": "Clemont",
+      "fr": "Lem",
+      "de": "Citro"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "fr": "Cherchez jusqu'à 4 cartes Énergie Lightning dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+      "en": "Search your deck for up to 4 Lightning Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "de": "Durchsuche dein Deck nach bis zu 4 {L}-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck. Du kannst während deines Zuges (vor deinem Angriff) nur 1 Unterstützerkarte spielen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288410,
+      "tcgplayer": 113717
+    },
+    "cardNumber": "59"
+  },
+  {
+    "id": "g1-58",
+    "name": {
+      "en": "Snorlax",
+      "fr": "Ronflex",
+      "de": "Relaxo"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      143
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Stir and Snooze",
+          "fr": "Sommeil Lourd",
+          "de": "Umdrehen und Dösen"
+        },
+        "effect": {
+          "en": "If this Pokémon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pokémon is still Asleep.",
+          "fr": "Si ce Pokémon est Endormi, lancez 2 pièces au lieu d'une entre chaque tour. Si vous obtenez au moins un côté pile, ce Pokémon reste Endormi.",
+          "de": "Wenn dieses Pokémon schläft, wirf zwischen den Zügen 2 Münzen anstelle von 1 Münze. Wenn eine oder beide Münzen „Zahl“ zeigen, schläft dieses Pokémon weiter."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sleepy Press",
+          "fr": "Pression Torpide",
+          "de": "Schlafwalze"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon. This Pokémon is now Asleep.",
+          "fr": "Soignez 20 dégâts à ce Pokémon. Ce Pokémon est maintenant Endormi.",
+          "de": "Heile 20 Schadenspunkte bei diesem Pokémon. Dieses Pokémon schläft jetzt."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "description": {
+      "en": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "de": "Es ist erst satt, wenn es über 400 kg Nahrung am Tag gefressen hat. Ist es mit dem Essen fertig, schläft es sofort ein."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288496,
+      "tcgplayer": 113716
+    },
+    "cardNumber": "58"
+  },
+  {
+    "id": "g1-57",
+    "name": {
+      "en": "Tauros",
+      "fr": "Tauros",
+      "de": "Tauros"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      128
+    ],
+    "hp": 110,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Take Down",
+          "fr": "Bélier",
+          "de": "Bodycheck"
+        },
+        "effect": {
+          "en": "This Pokémon does 10 damage to itself.",
+          "fr": "Ce Pokémon s'inflige 10 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Seething Anger",
+          "fr": "Furax",
+          "de": "Schäumende Wut"
+        },
+        "effect": {
+          "en": "Flip a coin for each damage counter on this Pokémon. This attack does 30 damage times the number of heads.",
+          "fr": "Lancez une pièce pour chaque marqueur de dégâts placé sur ce Pokémon. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+      "de": "Es kämpft mit vollem Einsatz, nachdem es sich mit seinen drei Schweifen auspeitschte, um sich anzustacheln."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288495,
+      "tcgplayer": 113715
+    },
+    "cardNumber": "57"
+  },
+  {
+    "id": "g1-56",
+    "name": {
+      "en": "Dodrio",
+      "fr": "Dodrio",
+      "de": "Dodri"
+    },
+    "illustrator": "TOKIYA",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      85
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Doduo",
+      "fr": "Doduo",
+      "de": "Dodu"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Retreat Aid",
+          "fr": "Soutien de Retraite",
+          "de": "Rückzugshilfe"
+        },
+        "effect": {
+          "en": "As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is ColorlessColorless less.",
+          "fr": "Tant que ce Pokémon est sur votre Banc, le Coût de Retraite de votre Pokémon Actif est diminué de ColorlessColorless.",
+          "de": "Solang sich dieses Pokémon auf deiner Bank befindet, verringern sich die Rückzugskosten deines Aktiven Pokémon um {C}{C}."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fury Attack",
+          "fr": "Furie",
+          "de": "Furienschlag"
+        },
+        "effect": {
+          "en": "Flip 3 coins. This attack does 40 damage times the number of heads.",
+          "fr": "Lancez 3 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 3 Münzen. Dieser Angriff fügt 40 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+      "de": "Ein seltsames Exemplar, das nur selten gefunden wird. Die drei Köpfe repräsentieren Freude, Trauer und Wut."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288494,
+      "tcgplayer": 113714
+    },
+    "cardNumber": "56"
+  },
+  {
+    "id": "g1-55",
+    "name": {
+      "en": "Doduo",
+      "fr": "Doduo",
+      "de": "Dodu"
+    },
+    "illustrator": "Eri Yamaki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      84
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double Stab",
+          "fr": "Entaille Double",
+          "de": "Doppelstich"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "10×"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Doduo Delivery",
+          "fr": "Livraison Doduo",
+          "de": "Dodu-Lieferung"
+        },
+        "effect": {
+          "en": "Draw 2 cards.",
+          "fr": "Piochez 2 cartes.",
+          "de": "Ziehe 2 Karten."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+      "de": "Die Gehirne der beiden Köpfe kommunizieren ihre Gefühle über Telepathie."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288493,
+      "tcgplayer": 113713
+    },
+    "cardNumber": "55"
+  },
+  {
+    "id": "g1-54",
+    "name": {
+      "en": "Persian",
+      "fr": "Persian",
+      "de": "Snobilikat"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      53
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "de": "Mauzi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fake Out",
+          "fr": "Bluff",
+          "de": "Mogelhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ambush",
+          "fr": "Embuscade",
+          "de": "Hinterhalt"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+      "de": "Aufgrund seiner geschmeidigen Muskeln kann es sich lautlos bewegen. Es greift ohne Vorwarnung an."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288492,
+      "tcgplayer": 113712
+    },
+    "cardNumber": "54"
+  },
+  {
+    "id": "g1-53",
+    "name": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "de": "Mauzi"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      52
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Exhausted Tackle",
+          "fr": "Tacle Épuisé",
+          "de": "Erschöpfter Tackle"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 damage to your opponent's Active Pokémon. If tails, this Pokémon does 30 damage to itself.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts au Pokémon Actif de votre adversaire. Si c'est pile, ce Pokémon s'inflige 30 dégâts.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff dem Aktiven Pokémon deines Gegners 30 weitere Schadenspunkte zu. Bei „Zahl“ fügt sich dieses Pokémon selbst 30 Schadenspunkte zu."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "de": "Dieses Pokémon bewundert runde Objekte. Es sucht nachts auf den Straßen nach verlorenen Münzen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288491,
+      "tcgplayer": 113711
+    },
+    "cardNumber": "53"
+  },
+  {
+    "id": "g1-52",
+    "name": {
+      "en": "Mr. Mime",
+      "fr": "M. Mime",
+      "de": "Pantimos"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      122
+    ],
+    "hp": 70,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Bench Barrier",
+          "fr": "Barrière de Banc",
+          "de": "Bankbarriere"
+        },
+        "effect": {
+          "en": "Prevent all damage done to your Benched Pokémon by attacks.",
+          "fr": "Évitez tous les dégâts infligés à vos Pokémon de Banc par des attaques.",
+          "de": "Verhindere allen Schaden, der den Pokémon auf deiner Bank durch Angriffe zugefügt wird."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Juggling",
+          "fr": "Jonglerie",
+          "de": "Jongleur"
+        },
+        "effect": {
+          "en": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+          "fr": "Lancez 4 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 4 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "de": "Es ist geschickt darin, Menschen zu beeinflussen. Man sagt, es könne dünne Wände aus Luft nur durch Mimen entstehen lassen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288490,
+      "tcgplayer": 113710
+    },
+    "cardNumber": "52"
+  },
+  {
+    "id": "g1-51",
+    "name": {
+      "en": "Clefable",
+      "fr": "Mélodelfe",
+      "de": "Pixi"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      36
+    ],
+    "hp": 90,
+    "types": [
+      "Fairy"
+    ],
+    "evolveFrom": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "de": "Piepi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Follow Me",
+          "fr": "Par Ici",
+          "de": "Spotlight"
+        },
+        "effect": {
+          "en": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+          "fr": "Échangez l'un des Pokémon de Banc de votre adversaire avec son Pokémon Actif.",
+          "de": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus."
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Moonblast",
+          "fr": "Pouvoir Lunaire",
+          "de": "Mondgewalt"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance).",
+          "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés par les attaques du Pokémon Défenseur sont réduits de 30 (avant application de la Faiblesse et de la Résistance).",
+          "de": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 30 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden)."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+      "de": "Es kann eine Nadel hören, die in 1 km Entfernung zu Boden fällt. Es lebt in der Stille der Berge."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288489,
+      "tcgplayer": 113709
+    },
+    "cardNumber": "51"
+  },
+  {
+    "id": "g1-50",
+    "name": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "de": "Piepi"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      35
+    ],
+    "hp": 60,
+    "types": [
+      "Fairy"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Moonlight",
+          "fr": "Rayon Lune",
+          "de": "Mondschein"
+        },
+        "effect": {
+          "en": "Heal 30 damage from this Pokémon.",
+          "fr": "Soignez 30 dégâts à ce Pokémon.",
+          "de": "Heile 30 Schadenspunkte bei diesem Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras'Face",
+          "de": "Pfund"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+      "de": "Eine Ansammlung von Piepi bei Vollmond tanzen zu sehen, soll Freude verheißen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288488,
+      "tcgplayer": 113708
+    },
+    "cardNumber": "50"
+  },
+  {
+    "id": "g1-5",
+    "name": {
+      "en": "Butterfree",
+      "fr": "Papilusion",
+      "de": "Smettbo"
+    },
+    "illustrator": "miki kudo",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      12
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Metapod",
+      "fr": "Chrysacier",
+      "de": "Safcon"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Quiver Dance",
+          "fr": "Papillodanse",
+          "de": "Falterreigen"
+        },
+        "effect": {
+          "en": "Search your deck for a basic Energy card and attach it to this Pokémon. Shuffle your deck afterward. If you attached Energy in this way, heal 40 damage from this Pokémon.",
+          "fr": "Cherchez une carte Énergie de base dans votre deck et attachez-la à ce Pokémon. Mélangez ensuite votre deck. Si vous avez attaché de l'Énergie de cette façon, soignez 40 dégâts à ce Pokémon.",
+          "de": "Durchsuche dein Deck nach einer Basis-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck. Falls du auf diese Weise Energie angelegt hast, heile 40 Schadenspunkte bei diesem Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade",
+          "de": "Windstoß"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "de": "Es liebt Blütenhonig. Es findet selbst Blumen, die sehr wenig Pollen haben."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288447,
+      "tcgplayer": 113663
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "g1-49",
+    "name": {
+      "en": "Rhyhorn",
+      "fr": "Rhinocorne",
+      "de": "Rihorn"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      111
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Take Down",
+          "fr": "Bélier",
+          "de": "Bodycheck"
+        },
+        "effect": {
+          "en": "This Pokémon does 10 damage to itself.",
+          "fr": "Ce Pokémon s'inflige 10 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 10 Schadenspunkte zu."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It is inept at turning because of its four short legs. It can only charge and run in one direction.",
+      "de": "Aufgrund seiner kurzen Beine kann es sich nicht umdrehen. Es kann immer nur in eine Richtung laufen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288487,
+      "tcgplayer": 113707
+    },
+    "cardNumber": "49"
+  },
+  {
+    "id": "g1-48",
+    "name": {
+      "en": "Hitmonchan",
+      "fr": "Tygnon",
+      "de": "Nockchan"
+    },
+    "illustrator": "match",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      107
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bullet Punch",
+          "fr": "Pisto-Poing",
+          "de": "Patronenhieb"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 20 more damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 20 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mach Cross",
+          "fr": "Passage Éclair",
+          "de": "Tempo-Cross"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+      "de": "Die Schläge, die es austeilt, können Beton pulverisieren. Es muss sich im Kampf alle drei Minuten ausruhen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288486,
+      "tcgplayer": 113706
+    },
+    "cardNumber": "48"
+  },
+  {
+    "id": "g1-47",
+    "name": {
+      "en": "Hitmonlee",
+      "fr": "Kicklee",
+      "de": "Kicklee"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      106
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Stretch Kick",
+          "fr": "Allonge",
+          "de": "Streckkick"
+        },
+        "effect": {
+          "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 30 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Spiral Kick",
+          "fr": "Coup'd Pied en Spirale",
+          "de": "Drehtritt"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+      "de": "Die Beine ziehen und strecken sich unabhängig voneinander. Mit seinen dehnbaren Beinen kann es einen entfernten Gegner treffen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288485,
+      "tcgplayer": 113705
+    },
+    "cardNumber": "47"
+  },
+  {
+    "id": "g1-46",
+    "name": {
+      "en": "Golem EX",
+      "fr": "Grolem-EX",
+      "de": "Geowaz-EX"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      76
+    ],
+    "hp": 180,
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Boulder Crush",
+          "fr": "Rocher Écrasant",
+          "de": "Felsenquetscher"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Megaton Fall",
+          "fr": "Chute Mégatonne",
+          "de": "Megatonnenfall"
+        },
+        "effect": {
+          "en": "This Pokémon does 60 damage to itself.",
+          "fr": "Ce Pokémon s'inflige 60 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 60 Schadenspunkte zu."
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288484,
+      "tcgplayer": 113704
+    },
+    "cardNumber": "46"
+  },
+  {
+    "id": "g1-45",
+    "name": {
+      "en": "Golem",
+      "fr": "Grolem",
+      "de": "Geowaz"
+    },
+    "illustrator": "Hasuno",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      76
+    ],
+    "hp": 150,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "de": "Georok"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Stone Edge",
+          "fr": "Lame de Roc",
+          "de": "Steinkante"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Explosion",
+          "fr": "Explosion",
+          "de": "Explosion"
+        },
+        "effect": {
+          "en": "This Pokémon does 100 damage to itself.",
+          "fr": "Ce Pokémon s'inflige 100 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 100 Schadenspunkte zu."
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+      "de": "Sie rollen Berge hinunter und hinterlassen Spurrillen. Halte dich von diesen Rillen fern."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288483,
+      "tcgplayer": 113703
+    },
+    "cardNumber": "45"
+  },
+  {
+    "id": "g1-44",
+    "name": {
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "de": "Georok"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      75
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "de": "Kleinstein"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double-Edge",
+          "fr": "Damoclès",
+          "de": "Risikotackle"
+        },
+        "effect": {
+          "en": "This Pokémon does 20 damage to itself.",
+          "fr": "Ce Pokémon s'inflige 20 dégâts.",
+          "de": "Dieses Pokémon fügt sich selbst 20 Schadenspunkte zu."
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rollout",
+          "fr": "Roulade",
+          "de": "Walzer"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "With a free and uncaring nature, it doesn't mind if pieces break off while it rolls down mountains.",
+      "de": "Es ist ihm völlig gleichgültig, wenn Stücke aus ihm herausbrechen, während es Berge hinabrollt."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288482,
+      "tcgplayer": 113702
+    },
+    "cardNumber": "44"
+  },
+  {
+    "id": "g1-43",
+    "name": {
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "de": "Kleinstein"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      74
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Rollout",
+          "fr": "Roulade",
+          "de": "Walzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flail",
+          "fr": "Fléau",
+          "de": "Dreschflegel"
+        },
+        "effect": {
+          "en": "This attack does 10 damage times the number of damage counters on this Pokémon.",
+          "fr": "Cette attaque inflige 10 dégâts multipliés par le nombre de marqueurs de dégâts placés sur ce Pokémon.",
+          "de": "Dieser Angriff fügt 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu."
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+      "de": "Wanderer stolpern in den Bergen häufig über dieses Pokémon, da es wie ein Stein aussieht."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288481,
+      "tcgplayer": 113701
+    },
+    "cardNumber": "43"
+  },
+  {
+    "id": "g1-42",
+    "name": {
+      "en": "Machamp",
+      "fr": "Mackogneur",
+      "de": "Machomei"
+    },
+    "illustrator": "PLANETA",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      68
+    ],
+    "hp": 150,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Machoke",
+      "fr": "Machopeur",
+      "de": "Maschock"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Fighting Fury",
+          "fr": "Furie Combative",
+          "de": "Kampfgeist"
+        },
+        "effect": {
+          "en": "Each of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "fr": "Les attaques de vos Pokémon Fighting infligent 20 dégâts supplémentaires au Pokémon Actif de votre adversaire (avant application de la Faiblesse et de la Résistance).",
+          "de": "Jeder Angriff deiner {F}-Pokémon fügt dem Aktiven Pokémon deines Gegners 20 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden)."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Machamp Crush",
+          "fr": "Mackogneur Broyeur",
+          "de": "Machomei-Mühle"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance).",
+          "fr": "Pendant le prochain tour de votre adversaire, tous les dégâts infligés par les attaques du Pokémon Défenseur sont réduits de 40 (avant application de la Faiblesse et de la Résistance).",
+          "de": "Während des nächsten Zuges deines Gegners wird Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 40 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden)."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+      "de": "Seine markigen Arme können innerhalb von nur zwei Sekunden 1 000 Schläge verteilen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288480,
+      "tcgplayer": 113700
+    },
+    "cardNumber": "42"
+  },
+  {
+    "id": "g1-41",
+    "name": {
+      "en": "Machoke",
+      "fr": "Machopeur",
+      "de": "Maschock"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      67
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Machop",
+      "fr": "Machoc",
+      "de": "Machollo"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": {
+          "en": "Beatdown",
+          "fr": "Dérouillée",
+          "de": "Niederprügler"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+      "de": "Dieses Pokémon ist superstark. Es kann sich nur mit einem Kraft regulierenden Gürtel bewegen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288479,
+      "tcgplayer": 113699
+    },
+    "cardNumber": "41"
+  },
+  {
+    "id": "g1-40",
+    "name": {
+      "en": "Machop",
+      "fr": "Machoc",
+      "de": "Machollo"
+    },
+    "illustrator": "Mina Nakai",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      66
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Knuckle Punch",
+          "fr": "Coud'Phalange",
+          "de": "Knöchelhieb"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+      "de": "Es hebt Georok hoch, um seinen Körper zu trainieren. Außerdem übt es sich in jeder Art von Kampfsport."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288478,
+      "tcgplayer": 113698
+    },
+    "cardNumber": "40"
+  },
+  {
+    "id": "g1-4",
+    "name": {
+      "en": "Metapod",
+      "fr": "Chrysacier",
+      "de": "Safcon"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      11
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "de": "Raupy"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Adaptive Evolution",
+          "fr": "Évolution Adaptative",
+          "de": "Anpassunsfähige Entwicklung"
+        },
+        "effect": {
+          "en": "This Pokémon can evolve during your first turn or the turn you play it.",
+          "fr": "Ce Pokémon peut évoluer pendant votre premier tour ou pendant le tour où vous le jouez.",
+          "de": "Dieses Pokémon kann sich während deines ersten Zuges oder während des Zuges, in dem du es spielst, entwickeln."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Harden",
+          "fr": "Armure",
+          "de": "Härtner"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less.",
+          "fr": "Pendant le prochain tour de votre adversaire, si ce Pokémon doit subir les dégâts d'une attaque, évitez les dégâts infligés à ce Pokémon si ces dégâts sont de 60 ou moins.",
+          "de": "Wenn diesem Pokémon während des nächsten Zuges deines Gegners durch einen Angriff 60 oder weniger Schadenspunkte zugefügt würden, verhindere diesen Schaden."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "de": "Der stahlharte Panzer schützt seinen zarten Körper. Es wartet geduldig auf seine Entwicklung."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288446,
+      "tcgplayer": 113662
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "g1-39",
+    "name": {
+      "en": "Dugtrio",
+      "fr": "Triopikeur",
+      "de": "Digdri"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      51
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Diglett",
+      "fr": "Taupiqueur",
+      "de": "Digda"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Earthquake",
+          "fr": "Séisme",
+          "de": "Erdbeben"
+        },
+        "effect": {
+          "en": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 10 dégâts à chacun de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Tumble",
+          "fr": "Roule-Pierre",
+          "de": "Rollende Felsen"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+          "de": "Der Schaden dieses Angriffs wird durch Resistenz nicht verändert."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+      "de": "Im Kampf gräbt es sich ein und attackiert den Gegner aus einer unvorhersehbaren Richtung."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288477,
+      "tcgplayer": 113697
+    },
+    "cardNumber": "39"
+  },
+  {
+    "id": "g1-38",
+    "name": {
+      "en": "Diglett",
+      "fr": "Taupiqueur",
+      "de": "Digda"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      50
+    ],
+    "hp": 50,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Mine",
+          "fr": "Mine",
+          "de": "Abbau"
+        },
+        "effect": {
+          "en": "Look at the top card of your opponent's deck. Then, you may have your opponent shuffle his or her deck.",
+          "fr": "Regardez la carte du dessus du deck de votre adversaire. Ensuite, vous pouvez demander à votre adversaire de mélanger son deck.",
+          "de": "Schau dir die oberste Karte des Decks deines Gegners an. Anschließend kannst du deinen Gegner veranlassen, sein Deck zu mischen."
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mud-Slap",
+          "fr": "Coud'Boue",
+          "de": "Lehmschelle"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
+      "de": "Dieses Pokémon lebt 1 m unter der Erde. Es frisst Wurzeln und kommt selten an die Oberfläche."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288476,
+      "tcgplayer": 113696
+    },
+    "cardNumber": "38"
+  },
+  {
+    "id": "g1-37",
+    "name": {
+      "en": "Meowstic EX",
+      "fr": "Mistigrix-EX",
+      "de": "Psiaugon-EX"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      678
+    ],
+    "hp": 160,
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Shadow Ear",
+          "fr": "Oreill'Ombre",
+          "de": "Schattenohr"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may move 1 damage counter from 1 of your Pokémon to 1 of your opponent's Pokémon.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est votre Pokémon Actif, vous pouvez déplacer 1 marqueur de dégâts de l'un de vos Pokémon vers l'un des Pokémon de votre adversaire.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn dieses Pokémon dein Aktives Pokémon ist, 1 Schadensmarke von 1 deiner Pokémon auf 1 Pokémon deines Gegners verschieben."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mind Shock",
+          "fr": "Choc Cérébral",
+          "de": "Verstandesschock"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Weakness or Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+          "de": "Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288475,
+      "tcgplayer": 113695
+    },
+    "cardNumber": "37"
+  },
+  {
+    "id": "g1-36",
+    "name": {
+      "en": "Jynx",
+      "fr": "Lippoutou",
+      "de": "Rossana"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      124
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Victory Kiss",
+          "fr": "Baiser de la Victoire",
+          "de": "Siegerkuss"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may heal 10 damage from your Active Pokémon.",
+          "fr": "Une seule fois pendant votre tour (avant votre attaque), si ce Pokémon est sur votre Banc, vous pouvez soigner 10 dégâts à votre Pokémon Actif.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du, wenn sich dieses Pokémon auf deiner Bank befindet, 10 Schadenspunkte bei deinem Aktiven Pokémon heilen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hug",
+          "fr": "Câlin",
+          "de": "Hug"
+        },
+        "effect": {
+          "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "fr": "Le Pokémon Défenseur ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+          "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It wiggles its hips as it walks. It can cause people to dance in unison with it.",
+      "de": "Der beschwingte Gang dieses Pokémon bezaubert Zuschauer und lässt sie im Takt dazu tanzen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288474,
+      "tcgplayer": 113694
+    },
+    "cardNumber": "36"
+  },
+  {
+    "id": "g1-35",
+    "name": {
+      "en": "Gengar",
+      "fr": "Ectoplasma",
+      "de": "Gengar"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      94
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Haunter",
+      "fr": "Spectrum",
+      "de": "Alpollo"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Sinister Fog",
+          "fr": "Brouillard Sinistre",
+          "de": "Nebel des Grauens"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Poisoned. Put 1 damage counter on each of your opponent's Benched Pokémon.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Placez 1 marqueur de dégâts sur chacun des Pokémon de Banc de votre adversaire.",
+          "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Lege 1 Schadensmarke auf jedes Pokémon auf der Bank deines Gegners."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Creep Show",
+          "fr": "Spectacle Perturbant",
+          "de": "Gruselkabinett"
+        },
+        "effect": {
+          "en": "If your opponent's Active Pokémon has 3 or more damage counters on it, that Pokémon is Knocked Out.",
+          "fr": "Si le Pokémon Actif de votre adversaire a 3 marqueurs de dégâts ou plus, ce dernier est mis K.O.",
+          "de": "Wenn auf dem Aktiven Pokémon deines Gegners mindestens 3 Schadensmarken liegen, wird jenes Pokémon kampfunfähig."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "de": "Es versteckt sich im Schatten der Menschen und absorbiert deren Wärme, sodass die Menschen frieren."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288473,
+      "tcgplayer": 113693
+    },
+    "cardNumber": "35"
+  },
+  {
+    "id": "g1-34",
+    "name": {
+      "en": "Haunter",
+      "fr": "Spectrum",
+      "de": "Alpollo"
+    },
+    "illustrator": "Midori Harada",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      93
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Gastly",
+      "fr": "Fantominus",
+      "de": "Nebulak"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Gothic Fear",
+          "fr": "Peur Gothique",
+          "de": "Lähmende Angst"
+        },
+        "effect": {
+          "en": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may leave both Active Pokémon Confused.",
+          "fr": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon, vous pouvez laisser les deux Pokémon Actifs Confus.",
+          "de": "Wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du beide Aktiven Pokémon verwirren."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Poison Ring",
+          "fr": "Anneau de Poison",
+          "de": "Giftring"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Poisoned. That Pokémon can't retreat during your opponent's next turn.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Ce dernier ne peut pas battre en retraite pendant le prochain tour de votre adversaire.",
+          "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet. Dieses Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.",
+      "de": "Es beleckt seine Opfer mit seiner Zunge und stiehlt ihnen so Lebenskraft. Es lauert im Dunkeln auf sie."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288472,
+      "tcgplayer": 113692
+    },
+    "cardNumber": "34"
+  },
+  {
+    "id": "g1-33",
+    "name": {
+      "en": "Gastly",
+      "fr": "Fantominus",
+      "de": "Nebulak"
+    },
+    "illustrator": "kodama",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      92
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Sleep Poison",
+          "fr": "Poison Dodo",
+          "de": "Schlafgift"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep and Poisoned.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Endormi et Empoisonné.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ schläft das Aktive Pokémon deines Gegners jetzt und ist vergiftet."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+      "de": "Eingehüllt in seinen gasförmigen, Gift enthaltenden Körper würde jeder in Ohnmacht fallen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288471,
+      "tcgplayer": 113691
+    },
+    "cardNumber": "33"
+  },
+  {
+    "id": "g1-32",
+    "name": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "de": "Flegmon"
+    },
+    "illustrator": "Miki Tanaka",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      79
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spacing Out",
+          "fr": "Trou d'Mémoire",
+          "de": "Dahindöser"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, heal 10 damage from this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, soignez 10 dégâts à ce Pokémon.",
+          "de": "Wirf 1 Münze. Heile bei „Kopf“ 10 Schadenspunkte bei diesem Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Scavenge",
+          "fr": "Farfouille",
+          "de": "Aasfresser"
+        },
+        "effect": {
+          "en": "Discard a Psychic Energy attached to this Pokémon. If you do, put an Item card from your discard pile into your hand.",
+          "fr": "Défaussez une Énergie Psychic attachée à ce Pokémon. Dans ce cas, prenez une carte Objet dans votre pile de défausse et ajoutez-la à votre main.",
+          "de": "Lege 1 an dieses Pokémon angelegte {P}-Energie auf deinen Ablagestapel. Wenn du das machst, nimm 1 Itemkarte von deinem Ablagestapel auf deine Hand."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+      "de": "Es ist stets in Gedanken versunken und niemand weiß, worüber es nachdenkt. Es kann mit seiner Rute gut angeln."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288470,
+      "tcgplayer": 113690
+    },
+    "cardNumber": "32"
+  },
+  {
+    "id": "g1-31",
+    "name": {
+      "en": "Golbat",
+      "fr": "Nosferalto",
+      "de": "Golbat"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      42
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Zubat",
+      "fr": "Nosferapti",
+      "de": "Zubat"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Sneaky Bite",
+          "fr": "Morsure Sournoise",
+          "de": "Hinterhältiger Biss"
+        },
+        "effect": {
+          "en": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "fr": "Lorsque vous jouez ce Pokémon de votre main pour faire évoluer l'un de vos Pokémon, vous pouvez placer 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+          "de": "Wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du auf 1 Pokémon deines Gegners 2 Schadensmarken legen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Swoop Across",
+          "fr": "Déferlement Aérien",
+          "de": "Überflieger"
+        },
+        "effect": {
+          "en": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "de": "Dieses Pokémon saugt dem Gegner selbst dann noch Energie ab, wenn es zu schwer zum Fliegen wird."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288469,
+      "tcgplayer": 113689
+    },
+    "cardNumber": "31"
+  },
+  {
+    "id": "g1-30",
+    "name": {
+      "en": "Zubat",
+      "fr": "Nosferapti",
+      "de": "Zubat"
+    },
+    "illustrator": "match",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      41
+    ],
+    "hp": 50,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Skill Dive",
+          "fr": "Plongeon Contrôlé",
+          "de": "Geübter Sturzflug"
+        },
+        "effect": {
+          "en": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from it mouth.",
+      "de": "Obwohl es keine Augen hat, kann es Hindernisse mithilfe von Ultraschallwellen wahrnehmen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288468,
+      "tcgplayer": 113688
+    },
+    "cardNumber": "30"
+  },
+  {
+    "id": "g1-3",
+    "name": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "de": "Raupy"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      10
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Adaptive Evolution",
+          "fr": "Évolution Adaptative",
+          "de": "Anpassungsfähige Entwicklung"
+        },
+        "effect": {
+          "en": "This Pokémon can evolve during your first turn or the turn you play it.",
+          "fr": "Ce Pokémon peut évoluer pendant votre premier tour ou pendant le tour où vous le jouez.",
+          "de": "Dieses Pokémon kann sich während deines ersten Zuges oder während des Zuges, in dem du es spielst, entwickeln."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Bug Bite",
+          "fr": "Piqûre",
+          "de": "Käferbiss"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+      "de": "Als Schutz vor Feinden sondert es einen übel riechenden Gestank mit seinen Antennen ab."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288445,
+      "tcgplayer": 113661
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "g1-29",
+    "name": {
+      "en": "Zapdos",
+      "fr": "Électhor",
+      "de": "Zapdos"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      145
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Drill Peck",
+          "fr": "Bec Vrille",
+          "de": "Bohrschnabel"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Raging Thunder",
+          "fr": "Tonnerre Déchaîné",
+          "de": "Tosender Donner"
+        },
+        "effect": {
+          "en": "This attack does 40 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 40 dégâts à l'un de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf deiner Bank 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+      "de": "Ein Legendäres Vogel-Pokémon, das in Gewitterwolken leben soll. Es kontrolliert Blitze."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288467,
+      "tcgplayer": 113687
+    },
+    "cardNumber": "29"
+  },
+  {
+    "id": "g1-28a",
+    "name": {
+      "en": "Jolteon-EX",
+      "fr": "Voltali-EX",
+      "de": "Blitza-EX"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Swift",
+          "fr": "Météores",
+          "de": "Sternschauer"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Actif de votre adversaire.",
+          "de": "Der Schaden dieses Angriffs wird durch Schwäche, Resistenz oder alle anderen Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flash Ray",
+          "fr": "Rayon Flash",
+          "de": "Blitzstrahl"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+          "fr": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon de base.",
+          "de": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe von Basis-Pokémon zugefügt wird."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "cardNumber": "28a"
+  },
+  {
+    "id": "g1-28",
+    "name": {
+      "en": "Jolteon EX",
+      "fr": "Voltali-EX",
+      "de": "Blitza-EX"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Swift",
+          "fr": "Météores",
+          "de": "Sternschauer"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance ou tout autre effet en action sur le Pokémon Actif de votre adversaire.",
+          "de": "Der Schaden dieses Angriffs wird durch Schwäche, Resistenz oder alle anderen Effekte auf dem Aktiven Pokémon deines Gegners nicht verändert."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flash Ray",
+          "fr": "Rayon Flash",
+          "de": "Blitzstrahl"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+          "fr": "Pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques de Pokémon de base.",
+          "de": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe von Basis-Pokémon zugefügt wird."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288466,
+      "tcgplayer": 113686
+    },
+    "cardNumber": "28"
+  },
+  {
+    "id": "g1-27",
+    "name": {
+      "en": "Raichu",
+      "fr": "Raichu",
+      "de": "Raichu"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      26
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Circle Circuit",
+          "fr": "Cercle Électrik",
+          "de": "Rundparcours"
+        },
+        "effect": {
+          "en": "This attack does 20 damage times the number of your Benched Pokémon.",
+          "fr": "Cette attaque inflige 20 dégâts multipliés par le nombre de vos Pokémon de Banc.",
+          "de": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der Pokémon auf deiner Bank zu."
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt",
+          "fr": "Tonnerre",
+          "de": "Donnerblitz"
+        },
+        "effect": {
+          "en": "Discard all Energy attached to this Pokémon.",
+          "fr": "Défaussez toutes les Énergies attachées à ce Pokémon.",
+          "de": "Lege alle an dieses Pokémon angelegten Energien auf deinen Ablagestapel."
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.",
+      "de": "Wenn es sich auflädt, zucken seine Muskeln und es wird aggressiver und kampflustiger."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288465,
+      "tcgplayer": 113685
+    },
+    "cardNumber": "27"
+  },
+  {
+    "id": "g1-26",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Nuzzle",
+          "fr": "Frotte-Frimousse",
+          "de": "Wangenrubbler"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-Attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+      "de": "Es streckt seinen Schweif nach oben, um seine Umgebung zu prüfen. Häufig fährt ein Blitz hinein."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288464,
+      "tcgplayer": 113684
+    },
+    "cardNumber": "26"
+  },
+  {
+    "id": "g1-25",
+    "name": {
+      "en": "Articuno",
+      "fr": "Artikodin",
+      "de": "Arktos"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      144
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Find Ice",
+          "fr": "Chercheur de Glace",
+          "de": "Eis finden"
+        },
+        "effect": {
+          "en": "Search your deck for up to 3 Water Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward.",
+          "fr": "Cherchez jusqu'à 3 cartes Énergie Water dans votre deck, montrez-les, puis ajoutez-les à votre main. Mélangez ensuite votre deck.",
+          "de": "Durchsuche dein Deck nach bis zu 3 {W}-Energiekarten, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Freezing Wind",
+          "fr": "Vent Glaçant",
+          "de": "Polarwind"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "de": "Ein Legendäres Vogel-Pokémon, das angeblich in Gletschern verirrten Wanderern den Weg weist."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288407,
+      "tcgplayer": 113683
+    },
+    "cardNumber": "25"
+  },
+  {
+    "id": "g1-24",
+    "name": {
+      "en": "Vaporeon EX",
+      "fr": "Aquali-EX",
+      "de": "Aquana-EX"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bubble Drain",
+          "fr": "Vide Bulle",
+          "de": "Blasengully"
+        },
+        "effect": {
+          "en": "Heal 30 damage from this Pokémon.",
+          "fr": "Soignez 30 dégâts à ce Pokémon.",
+          "de": "Heile 30 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Deep Squall",
+          "fr": "Rafale Profonde",
+          "de": "Tiefer Sturm"
+        },
+        "effect": {
+          "en": "This attack does 130 damage minus 10 damage for each damage counter on this Pokémon.",
+          "fr": "Cette attaque inflige 130 dégâts moins 10 dégâts pour chaque marqueur de dégâts placé sur ce Pokémon.",
+          "de": "Dieser Angriff fügt 130 Schadenspunkte minus 10 Schadenspunkte für jede Schadensmarke auf diesem Pokémon zu."
+        },
+        "damage": "130−"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288408,
+      "tcgplayer": 113682
+    },
+    "cardNumber": "24"
+  },
+  {
+    "id": "g1-23",
+    "name": {
+      "en": "Gyarados",
+      "fr": "Léviator",
+      "de": "Garados"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      130
+    ],
+    "hp": 130,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Magikarp",
+      "fr": "Magicarpe",
+      "de": "Karpador"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Berserker Splash",
+          "fr": "Folle Éclaboussure",
+          "de": "Wahnsinnsplatscher"
+        },
+        "effect": {
+          "en": "This attack does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 10 dégâts à chacun des Pokémon de Banc (les vôtres et ceux de votre adversaire). (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (deinen und denen deines Gegners) 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Aqua Tail",
+          "fr": "Hydroqueue",
+          "de": "Nassschweif"
+        },
+        "effect": {
+          "en": "Flip a coin for each Water Energy attached to this Pokémon. This attack does 30 more damage for each heads.",
+          "fr": "Lancez une pièce pour chaque Énergie Water attachée à ce Pokémon. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf für jede an dieses Pokémon angelegte {W}-Energie 1 Münze. Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "de": "Ein gigantisches, sehr kraftvolles Pokémon. Es ist fähig, ganze Städte zu zerstören."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288463,
+      "tcgplayer": 113681
+    },
+    "cardNumber": "23"
+  },
+  {
+    "id": "g1-22",
+    "name": {
+      "en": "Magikarp",
+      "fr": "Magicarpe",
+      "de": "Karpador"
+    },
+    "illustrator": "Miki Tanaka",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      129
+    ],
+    "hp": 30,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Epic Splash",
+          "fr": "Trempette Épique",
+          "de": "Irrer Platscher"
+        },
+        "effect": {
+          "en": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+          "fr": "Lancez 2 pièces. Si vous obtenez au moins un côté pile, cette attaque ne fait rien.",
+          "de": "Wirf 2 Münzen. Wenn eine oder beide Münzen „Zahl“ zeigen, hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+      "de": "Die urzeitlichen Vorfahren dieses Pokémon waren sehr viel stärker, als ihre heutigen Nachkommen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288462,
+      "tcgplayer": 113680
+    },
+    "cardNumber": "22"
+  },
+  {
+    "id": "g1-21",
+    "name": {
+      "en": "Krabby",
+      "fr": "Krabby",
+      "de": "Krabby"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      98
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Vice Grip",
+          "fr": "Force Poigne",
+          "de": "Klammer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Crabhammer",
+          "fr": "Pince-Masse",
+          "de": "Krabbhammer"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+      "de": "Wittert es Gefahr, hüllt es sich in Blasen aus seinem Maul, um größer zu erscheinen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288461,
+      "tcgplayer": 113679
+    },
+    "cardNumber": "21"
+  },
+  {
+    "id": "g1-20",
+    "name": {
+      "en": "Cloyster",
+      "fr": "Crustabri",
+      "de": "Austos"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      91
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Shellder",
+      "fr": "Kokiyas",
+      "de": "Muschas"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Clamp Crush",
+          "fr": "Pince Broyeuse",
+          "de": "Quetschklammer"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and discard an Energy attached to that Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé, et vous défaussez une Énergie lui étant attachée.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert. Lege 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spike Cannon",
+          "fr": "Picanon",
+          "de": "Dornkanone"
+        },
+        "effect": {
+          "en": "Flip 5 coins. This attack does 30 damage times the number of heads.",
+          "fr": "Lancez 5 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 5 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "description": {
+      "en": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+      "de": "Austos, die im Meer mit starker Strömung leben, werden groß und entwickeln scharfe Stacheln."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288460,
+      "tcgplayer": 113678
+    },
+    "cardNumber": "20"
+  },
+  {
+    "id": "g1-2",
+    "name": {
+      "en": "M Venusaur EX",
+      "fr": "M-Florizarre-EX",
+      "de": "M-Bisaflor-EX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      3
+    ],
+    "hp": 230,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Venusaur-EX",
+      "fr": "Florizarre-EX",
+      "de": "Bisaflor-EX"
+    },
+    "stage": "MEGA",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bloom Buster",
+          "fr": "Explo Pousse",
+          "de": "Blütenbrecher"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts à chacun de vos Pokémon de Banc. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff jedem Pokémon auf der Bank deines Gegners 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": "130+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "tcgplayer": 113660
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "g1-19",
+    "name": {
+      "en": "Shellder",
+      "fr": "Kokiyas",
+      "de": "Muschas"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      90
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rain Splash",
+          "fr": "Pluie Éclaboussante",
+          "de": "Regenplatscher"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "de": "Eine harte Schale schützt dieses Pokémon. Nur wenn es diese öffnet, wird es verwundbar."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288459,
+      "tcgplayer": 113677
+    },
+    "cardNumber": "19"
+  },
+  {
+    "id": "g1-18",
+    "name": {
+      "en": "M Blastoise EX",
+      "fr": "M-Tortank-EX",
+      "de": "M-Turtok-EX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      9
+    ],
+    "hp": 220,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Blastoise-EX",
+      "fr": "Tortank-EX",
+      "de": "Turtok-EX"
+    },
+    "stage": "MEGA",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Dread Launcher",
+          "fr": "Lanceur d'Effroi",
+          "de": "Schleuder des Grauens"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, discard 2 Water Energy attached to this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est pile, défaussez 2 Énergies Water attachées à ce Pokémon.",
+          "de": "Wirf 1 Münze. Lege bei „Zahl“ 2 an dieses Pokémon angelegte {W}-Energien auf deinen Ablagestapel."
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "tcgplayer": 113676
+    },
+    "cardNumber": "18"
+  },
+  {
+    "id": "g1-17",
+    "name": {
+      "en": "Blastoise EX",
+      "fr": "Tortank-EX",
+      "de": "Turtok-EX"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      9
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hyper Whirlpool",
+          "fr": "Hyper Tourbillon",
+          "de": "Hyper Whirlpool"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, défaussez une Énergie attachée au Pokémon Actif de votre adversaire.",
+          "de": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners."
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hydro Press",
+          "fr": "Hydro Presse",
+          "de": "Hydrodruck"
+        },
+        "effect": {
+          "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 20 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288457,
+      "tcgplayer": 113675
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "g1-16",
+    "name": {
+      "en": "Magmar",
+      "fr": "Magmar",
+      "de": "Magmar"
+    },
+    "illustrator": "Hideki Ishikawa",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      126
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Ram",
+          "fr": "Collision",
+          "de": "Ramme"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ember",
+          "fr": "Flammèche",
+          "de": "Glut"
+        },
+        "effect": {
+          "en": "Discard a Fire Energy attached to this Pokémon.",
+          "fr": "Défaussez une Énergie Fire attachée à ce Pokémon.",
+          "de": "Lege 1 an dieses Pokémon angelegte {R}-Energie auf deinen Ablagestapel."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "en": "Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit.",
+      "de": "Es wurde in der Nähe eines Vulkans gefunden. Die Körpertemperatur dieses Feuerspuckers liegt bei fast 1 200 °C."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288456,
+      "tcgplayer": 113674
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "g1-15",
+    "name": {
+      "en": "Rapidash",
+      "fr": "Galopa",
+      "de": "Gallopa"
+    },
+    "illustrator": "DemizuPosuka",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      78
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Ponyta",
+      "fr": "Ponyta",
+      "de": "Ponita"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Agility",
+          "fr": "Hâte",
+          "de": "Agilität"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon zugefügt werden."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Overrun",
+          "fr": "Dépassement",
+          "de": "Überrennen"
+        },
+        "effect": {
+          "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Cette attaque inflige 20 dégâts à l'un des Pokémon de Banc de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "description": {
+      "en": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+      "de": "Dieses Pokémon verfolgt schnelle Objekte in der Hoffnung, ein Wettrennen gegen sie zu gewinnen."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288455,
+      "tcgplayer": 113673
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "g1-14",
+    "name": {
+      "en": "Ponyta",
+      "fr": "Ponyta",
+      "de": "Ponita"
+    },
+    "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      77
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Agility",
+          "fr": "Hâte",
+          "de": "Agilität"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, évitez tous les effets d'attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon zugefügt werden."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flame Tail",
+          "fr": "Queue de Flammes",
+          "de": "Flammenschweif"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "en": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+      "de": "Neugeboren kann es kaum stehen. Durch das Galoppieren werden seine Beine aber schneller und kräftiger."
+    },
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "cardmarket": 288454,
+      "tcgplayer": 113672
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "g1-13",
+    "name": {
+      "en": "Ninetales EX",
+      "fr": "Feunard-EX",
+      "de": "Vulnona-EX"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      38
+    ],
+    "hp": 170,
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Flare Bonus",
+          "fr": "Fulmi-Bonus",
+          "de": "Flammenbonus"
+        },
+        "effect": {
+          "en": "Discard a Fire Energy card from your hand. If you do, draw 3 cards.",
+          "fr": "Défaussez une carte Énergie Fire de votre main. Dans ce cas, piochez 3 cartes.",
+          "de": "Lege 1 {R}-Energie aus deiner Hand auf deinen Ablagestapel. Wenn du das machst, ziehe 3 Karten."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Blast",
+          "fr": "Déflagration",
+          "de": "Feuersturm"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est pile, défaussez une Énergie Fire attachée à ce Pokémon.",
+          "de": "Wirf 1 Münze. Lege bei „Zahl“ 1 an dieses Pokémon angelegte {R}-Energie auf deinen Ablagestapel."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288453,
+      "tcgplayer": 113671
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "g1-12",
+    "name": {
+      "en": "M Charizard EX",
+      "fr": "M-Dracaufeu-EX",
+      "de": "M-Glurak-EX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      6
+    ],
+    "hp": 220,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Charizard-EX",
+      "fr": "Dracaufeu-EX",
+      "de": "Glurak-EX"
+    },
+    "stage": "MEGA",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Heat Typhoon",
+          "fr": "Typhon Ardent",
+          "de": "Feuertaifun"
+        },
+        "effect": {
+          "en": "Flip a coin for each Fire Energy attached to this Pokémon. This attack does 50 more damage for each heads.",
+          "fr": "Lancez une pièce pour chaque Énergie Fire attachée à ce Pokémon. Cette attaque inflige 50 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf für jede an dieses Pokémon angelegte {R}-Energie 1 Münze. Dieser Angriff fügt 50 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "thirdParty": {
+      "tcgplayer": 113670
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "g1-11",
+    "name": {
+      "en": "Charizard EX",
+      "fr": "Dracaufeu-EX",
+      "de": "Glurak-EX"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      6
+    ],
+    "hp": 180,
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Flame Cloak",
+          "fr": "Manteau de Feu",
+          "de": "Flammenumhang"
+        },
+        "effect": {
+          "en": "Attach a Fire Energy card from your discard pile to this Pokémon.",
+          "fr": "Attachez une carte Énergie Fire de votre pile de défausse à ce Pokémon.",
+          "de": "Nimm 1 {R}-Energiekarte von deinem Ablagestapel und lege sie an dieses Pokémon an."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Burning Breath",
+          "fr": "Souffle de Feu",
+          "de": "Heißer Hauch"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 40 more damage for each heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 40 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288405,
+      "tcgplayer": 113669
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "g1-10",
+    "name": {
+      "en": "Leafeon EX",
+      "fr": "Phyllali-EX",
+      "de": "Folipurba-EX"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      470
+    ],
+    "hp": 170,
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leaf Blade",
+          "fr": "Lame-Feuille",
+          "de": "Laubklinge"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Nature's Breath",
+          "fr": "Souffle de la Nature",
+          "de": "Atem der Natur"
+        },
+        "effect": {
+          "en": "If there is any Stadium card in play, this attack does 30 more damage and heal 30 damage from this Pokémon.",
+          "fr": "S'il y a une carte Stade en jeu, cette attaque inflige 30 dégâts supplémentaires et vous soignez 30 dégâts à ce Pokémon.",
+          "de": "Wenn eine Stadionkarte im Spiel ist, füge mit diesem Angriff 30 weitere Schadenspunkte zu und heile 30 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": "90+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288452,
+      "tcgplayer": 113668
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "g1-1",
+    "name": {
+      "en": "Venusaur EX",
+      "fr": "Florizarre-EX",
+      "de": "Bisaflor-EX"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      3
+    ],
+    "hp": 180,
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Frog Hop",
+          "fr": "Bond de Grenouille",
+          "de": "Froschhopser"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 40 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 weitere Schadenspunkte zu."
+        },
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Poison Impact",
+          "fr": "Impact Poison",
+          "de": "Gifteffekt"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Asleep and Poisoned.",
+          "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi et Empoisonné.",
+          "de": "Das Aktive Pokémon deines Gegners schläft jetzt und ist vergiftet."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 4,
+    "series": {
+      "id": "xy"
+    },
+    "set": {
+      "id": "g1"
+    },
+    "suffix": "EX",
+    "thirdParty": {
+      "cardmarket": 288421,
+      "tcgplayer": 113659
+    },
+    "cardNumber": "1"
+  }
+]

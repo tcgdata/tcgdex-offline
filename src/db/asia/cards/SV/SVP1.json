@@ -1,0 +1,368 @@
+[
+  {
+    "id": "SVP1-007",
+    "name": {
+      "zh-tw": "墓揚犬ex"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 260,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "咬緊"
+        },
+        "effect": {
+          "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "掃墓"
+        },
+        "effect": {
+          "zh-tw": "增加自己的棄牌區的【超】寶可夢卡的張數×10點傷害。"
+        },
+        "damage": "160+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "suffix": "EX",
+    "cardNumber": "007"
+  },
+  {
+    "id": "SVP1-006",
+    "name": {
+      "zh-tw": "墓仔狗"
+    },
+    "illustrator": "yuu",
+    "category": "Pokemon",
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "zh-tw": "墓地遊玩"
+        },
+        "effect": {
+          "zh-tw": "造成自己的棄牌區的【超】寶可夢的張數×10點傷害。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "description": {
+      "zh-tw": "愛親近人，害怕寂寞。 就算只跟牠玩了一下下， 牠也會一直跟在後面。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SVP1-005",
+    "name": {
+      "zh-tw": "巴布土撥ex"
+    },
+    "illustrator": "aky CG Works",
+    "category": "Pokemon",
+    "hp": 300,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "電氣踢"
+        },
+        "damage": 60
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "閃電強襲"
+        },
+        "effect": {
+          "zh-tw": "將2個這隻寶可夢身上附加的【雷】能量丟棄，對手的1隻寶可夢受到220點傷害。[在備戰區不計算弱點・抵抗力。]"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "suffix": "EX",
+    "cardNumber": "005"
+  },
+  {
+    "id": "SVP1-004",
+    "name": {
+      "zh-tw": "布土撥"
+    },
+    "illustrator": "Saya Tsuruta",
+    "category": "Pokemon",
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "電擊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "zh-tw": "伏特頭擊"
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "使用的格鬥技非常獨特，會一邊用手掌給予打擊， 並一邊用肉球施放電擊。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SVP1-003",
+    "name": {
+      "zh-tw": "布撥"
+    },
+    "illustrator": "Tika Matsuno",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "zh-tw": "小衝擊"
+        },
+        "effect": {
+          "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "手的肉球是放電的器官。 會費勁地用後腳站起來， 然後從手掌釋放出電擊。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SVP1-002",
+    "name": {
+      "zh-tw": "陸地水母ex"
+    },
+    "illustrator": "5ban Graphics",
+    "category": "Pokemon",
+    "hp": 270,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "zh-tw": "守護菌絲"
+        },
+        "effect": {
+          "zh-tw": "只要這隻寶可夢在場上，自己的所有身上附有能量卡的寶可夢，不會受到對手的寶可夢使用招式的效果的影響。（已經受到的效果不會消除。）"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "菌落猛攻"
+        },
+        "effect": {
+          "zh-tw": "增加自己的備戰區身上附有【草】能量卡的寶可夢的數量×40點傷害。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "suffix": "EX",
+    "cardNumber": "002"
+  },
+  {
+    "id": "SVP1-001",
+    "name": {
+      "zh-tw": "原野水母"
+    },
+    "illustrator": "Shin Nagasawa",
+    "category": "Pokemon",
+    "hp": 50,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "G",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "zh-tw": "亂踢"
+        },
+        "effect": {
+          "zh-tw": "擲3次硬幣，造成正面出現的次數×10點傷害。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "description": {
+      "zh-tw": "看起來像瑪瑙水母，其實是 截然不同的種類。雖然腳很細， 但跑起來能達到時速５０公里。"
+    },
+    "series": {
+      "id": "SV"
+    },
+    "set": {
+      "id": "SVP1"
+    },
+    "cardNumber": "001"
+  }
+]
