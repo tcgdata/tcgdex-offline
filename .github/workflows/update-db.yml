@@ -54,6 +54,7 @@ jobs:
         if: steps.update_db.outputs.has_changes == 'true'
         run: npm test -- --update
       - name: Run prettier
+        if: steps.update_db.outputs.has_changes == 'true'
         run: npm run prettier:fix
       - name: Create changeset
         if: steps.update_db.outputs.has_changes == 'true'
