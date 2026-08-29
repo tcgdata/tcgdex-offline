@@ -35,7 +35,8 @@ jobs:
         id: update_db
         run: |
           UPDATE_DB_RESULT=$(npm run update-db)
-          echo "has_changes=$(echo "${UPDATE_DB_RESULT}" | jq ".hasUncommittedChanges")" >> $GITHUB_OUTPUT
+          echo "Result:\n${UPDATE_DB_RESULT}"
+          echo "has_changes=$(echo "${UPDATE_DB_RESULT}" | jq ".hasChanges")" >> $GITHUB_OUTPUT
           echo "commit_message=$(echo "${UPDATE_DB_RESULT}" | jq ".message")" >> $GITHUB_OUTPUT
       - name: Update test snapshots
         if: steps.update_db.outputs.has_changes == 'true'
