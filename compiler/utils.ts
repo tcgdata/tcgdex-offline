@@ -78,7 +78,11 @@ export const cloneRepository = async (
 ): Promise<void> => {
   await fs.mkdir(directory, { recursive: true });
 
-  const repositoryUrl = `git@github.com:${repository}.git`;
+  // Github actions can't clone 3rd party repo via SSH "Permission denied (publickey)"
+  // Use HTTPS URL when running in action.
+  const repositoryUrl = process.env.CI
+    ? `https://github.com/${repository}.git`
+    : `git@github.com:${repository}.git`;
   const currentCommit = (await exists(path.join(directory, '.git')))
     ? await getCheckedOutCommit(directory)
     : undefined;
