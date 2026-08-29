@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "pop4-9",
+    "name": {
+      "en": "Pokémon Fan Club",
+      "fr": "Fan Club Pokémon",
+      "de": "Pokémon Fan Club"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card. Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
+      "fr": "Vous ne pouvez jouer qu'une seule carte Supporter par tour. Lorsque vous la jouez, placez-la à côté de votre Pokémon Actif. À la fin du tour, défaussez-la.\n\nChoisissez dans votre deck jusqu'à 2 Pokémon de base et placez-les sur votre Banc. Ensuite, mélangez votre deck.",
+      "de": "Du kannst in jedem Zug nur eine Unterstützerkarte spielen. Wenn du diese Karte ausspielst, lege sie neben dein aktives Pokémon. Lege diese Karte am Ende deines Zuges auf deinen Ablagestapel. Durchsuche dein Deck nach bis zu 2 Basis-Pokémonkarten und lege sie auf deine Bank. Mische dein Deck danach."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277474,
+          "tcgplayer": 88226
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop4-8",
+    "name": {
+      "en": "Heal Energy",
+      "fr": "Énergie guérisseuse",
+      "de": "Heilungs-Energie"
+    },
+    "illustrator": "Takumi Akabane",
+    "rarity": "Uncommon",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "en": "Heal Energy provides Colorless Energy. When you attach this card from your hand to 1 of your Pokémon, remove 1 damage counter and all Special Conditions from that Pokémon. If Heal Energy is attached to Pokémon-ex, Heal Energy has no effect other than providing Energy.",
+      "fr": "Énergie guérisseuse fournit une Énergie . Lorsque vous l'attachez de votre main à 1 de vos Pokémon, retirez à ce Pokémon 1 marqueur de dégât et tous ses États Spéciaux. Si Énergie guérisseuse est attachée à un Pokémon-ex, elle n'a pas d'autre effet que de fournir de l'Énergie.",
+      "de": "Heilungs-Energie liefert {C}-Energie. Wenn du diese Karte aus der Hand an 1 deiner Pokémon anlegst, entferne 1 Schadensmarke und alle Speziellen Zustände von diesem Pokémon. Wenn Heilungs-Energie an ein Pokémon-ex angelegt ist, hat sie keinen anderen Effekt, als Energie zu liefern."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277473,
+          "tcgplayer": 86038
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop4-7",
+    "name": {
+      "en": "Grovyle",
+      "fr": "Massko",
+      "de": "Reptain"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      253
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Treecko",
+      "fr": "Arcko",
+      "de": "Geckarbor"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blot",
+          "fr": "Pâté",
+          "de": "Klecks"
+        },
+        "effect": {
+          "en": "Remove 2 damage counters from Grovyle.",
+          "fr": "Retirez à Massko 2 marqueurs de dégât.",
+          "de": "Entferne 2 Schadensmarken von Reptain."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277472,
+          "tcgplayer": 85940
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop4-6",
+    "name": {
+      "en": "Combusken",
+      "fr": "Galifeu",
+      "de": "Jungglut"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      256
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Torchic",
+      "fr": "Poussifeu",
+      "de": "Flemmli"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "en": "Smokescreen",
+          "fr": "Brouillard",
+          "de": "Rauchwolke"
+        },
+        "effect": {
+          "en": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "fr": "Si le Pokémon Défenseur essaye d'attaquer lors du prochain tour de votre adversaire, celui-ci lance une pièce. Si c'est pile, cette attaque est sans effet.",
+          "de": "Falls das Verteidigende Pokémon während des nächsten Zuges deines Gegners angreift, wirft dein Gegner 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sky Uppercut",
+          "fr": "Stratopercut",
+          "de": "Himmelhieb"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+          "de": "Der Schadens dieses Angriffs wird durch die Resistenz des Verteidigenden Pokémon nicht verringert."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277471,
+          "tcgplayer": 84409
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277471,
+          "tcgplayer": 84409
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop4-5",
+    "name": {
+      "en": "Sceptile",
+      "fr": "Jungko",
+      "de": "Gewaldro"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      254
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Grovyle",
+      "fr": "Massko",
+      "de": "Reptain"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Energy Trans",
+          "fr": "Transfert d'énergie",
+          "de": "Energieverteilung"
+        },
+        "effect": {
+          "en": "As often as you like during your turn (before your attack), move a Grass Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Sceptile is affected by a Special Condition.",
+          "fr": "Pendant votre tour (avant votre attaque), vous pouvez déplacer autant de fois que vous le voulez une carte Énergie  attachée à un de vos Pokémon sur un autre de vos Pokémon. Ce pouvoir ne peut être utilisé si Jungko est affecté par un État Spécial.",
+          "de": "Während deines Zuges (vor deinem Angriff) kannst du beliebig oft 1 {G}-Energiekarte, die an 1 deiner Pokémon angelegt ist, an ein anderes deiner Pokémon anlegen. Diese Poké-Power kann nicht verwendet werden, falls Gewaldro von einem Speziellen Zustand betroffen ist."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tail Rap",
+          "fr": "Frap'keu",
+          "de": "Schweifklopfen"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277470,
+          "tcgplayer": 88948
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop4-4",
+    "name": {
+      "en": "Mew",
+      "fr": "Mew",
+      "de": "Mew"
+    },
+    "illustrator": "Nakaoka",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Reactive Barrier",
+          "fr": "Barrière réactive",
+          "de": "Reaktive Barriere"
+        },
+        "effect": {
+          "en": "As long as Mew has any React Energy cards attached to it, prevent all effects, excluding damage, done to Mew by attacks from your opponent's Pokémon.",
+          "fr": "Tant que Mew possède des cartes Énergie réaction, prévenez tous les effets, dégâts exclus, infligés à Mew par des attaques de Pokémon de votre adversaire.",
+          "de": "Solange an Mew mindestens eine Reaktions-Energiekarte angelegt ist, verhindere alle Effekte, inklusive Schaden, die Mew durch Angriffe der Pokémon deines Gegners zugefügt werden."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psyshock",
+          "fr": "Choc psy",
+          "de": "Psychoschock"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277469,
+          "tcgplayer": 87401
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277469,
+          "tcgplayer": 87401
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop4-3",
+    "name": {
+      "en": "Flygon",
+      "fr": "Libegon",
+      "de": "Libelldra"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      330
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Vibrava",
+      "fr": "Vibraninf",
+      "de": "Vibrava"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Levitate",
+          "fr": "Lévitation",
+          "de": "Schwebe"
+        },
+        "effect": {
+          "en": "As long as Flygon has any Energy attached to it, the Retreat Cost for Flygon is 0.",
+          "fr": "Tant que Libegon possède de l'Énergie, son Coût de retraite est de 0.",
+          "de": "Solange mindestens eine Energie an Libelldra angelegt ist, betragen die Rückzugskosten von Libelldra 0."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite",
+          "fr": "Morsure",
+          "de": "Biss"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sand Pit",
+          "fr": "Bac à sable",
+          "de": "Sandgrube"
+        },
+        "effect": {
+          "en": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "fr": "Le Pokémon Défenseur ne peut pas battre en retraite lors du prochain tour de votre adversaire.",
+          "de": "Das Verteidigende Pokémon kann sich im nächsten Zug deines Gegners nicht zurückziehen."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277468,
+          "tcgplayer": 85524
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277468,
+          "tcgplayer": 85524
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop4-2",
+    "name": {
+      "en": "Deoxys δ",
+      "fr": "Deoxys δ",
+      "de": "Deoxys δ"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      386
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Form Change",
+          "fr": "Changement de forme",
+          "de": "Gestaltwandel"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez chercher dans votre deck une autre Deoxys et l'échanger avec Deoxys. (Toutes les autres cartes attachées à Deoxys, marqueurs de dégâts, États Spéciaux et autres effets se trouvent maintenant sur le nouveau Pokémon.) Placez alors Deoxys au-dessus de votre deck. Ensuite, mélangez votre deck. Vous ne pouvez pas utiliser plus d'1 Poké-Power Changement de forme par tour.",
+          "de": "Während deines Zuges (vor deinem Angriff) kannst du ein Mal dein Deck nach einer anderen Deoxys Karte durchsuchen und diese gegen Deoxys austauschen. (Alle an Deoxys angelegten Karten sowie Schadensmarken, Spezielle Zustände und Effekte auf Deoxys werden auf das neue Pokémon übertragen.) Wenn du dies machst, lege Deoxys auf dein Deck. Mische dein Deck danach. Du kannst nicht mehr als 1 Gestaltwandel Poké-Power pro Zug einsetzen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Crystal Laser",
+          "fr": "Laser de cristal",
+          "de": "Kristall-Laser"
+        },
+        "effect": {
+          "en": "During your next turn, Deoxys's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+          "fr": "Lors de votre prochain tour, les attaques de Deoxys infligent 40 dégâts supplémentaires au Pokémon Défenseur (avant application de la Faiblesse et de la Résistance).",
+          "de": "In deinem nächsten Zug fügen die Angriffe von Deoxys dem Verteidigenden Pokémon 40 zusätzliche Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet wurden)."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277467,
+          "tcgplayer": 84765
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277467,
+          "tcgplayer": 84765
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop4-17",
+    "name": {
+      "en": "Deoxys ex",
+      "fr": "Deoxys ex",
+      "de": "Deoxys-ex"
+    },
+    "illustrator": "Hiromichi Sugiyama",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      386
+    ],
+    "hp": 110,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Form Change",
+          "fr": "Changement de forme",
+          "de": "Gestaltwandel"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may search your deck for another Deoxys ex and switch it with Deoxys ex. (Any cards attached to Deoxys ex, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys ex on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez chercher dans votre deck une autre Deoxys ex et l'échanger avec Deoxys ex. (Toutes les autres cartes qui lui sont attachées, marqueurs de dégât, États Spéciaux et autres effets se trouvent maintenant sur le nouveau Pokémon.) Placez alors Deoxys ex au-dessus de votre deck. Ensuite, mélangez votre deck. Vous ne pouvez pas utiliser plus d'1 Poké-Power Changement de forme par tour.",
+          "de": "Während deines Zuges (vor deinem Angriff) kannst du ein Mal dein Deck nach einer anderen Deoxys ex-Karte durchsuchen und diese gegen Deoxys ex austauschen. (Alle an Deoxys ex angelegten Karten sowie Schadensmarken, Spezielle Zustände und Effekte auf Deoxys ex werden auf das neue Pokémon übertragen.) Wenn du dies machst, lege Deoxys ex auf dein Deck. Mische dein Deck danach. Du kannst nicht mehr als 1 Gestaltwandel Poké-Power pro Zug einsetzen."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fastwave",
+          "fr": "Lame de fond",
+          "de": "Rasende Schallwelle"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance, les Poké-Powers, les Poké-Bodies ou tout autre effet sur le Pokémon Défenseur.",
+          "de": "Resistenz, Poké-Powers, Poké-Bodies und alle anderen Effekte auf dem Verteidigenden Pokémon haben keine Auswirkungen auf die Schadenspunkte dieses Angriffs."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277482,
+          "tcgplayer": 84774
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "suffix": "EX",
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop4-16",
+    "name": {
+      "en": "Wobbuffet",
+      "fr": "Qulbutoké",
+      "de": "Woingenau"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      202
+    ],
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Nap",
+          "fr": "Tit'sieste",
+          "de": "Nickerchen"
+        },
+        "effect": {
+          "en": "Remove 2 damage counters from Wobbuffet.",
+          "fr": "Retirez à Qulbutoké 2 marqueurs de dégât.",
+          "de": "Entferne 2 Schadensmarken von Woingenau."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Expand",
+          "fr": "Pousstoidla",
+          "de": "Ausdehnen"
+        },
+        "effect": {
+          "en": "During your opponent's next turn, any damage done to Wobbuffet is reduced by 20 (after applying Weakness and Resistance).",
+          "fr": "Lors du prochain tour de votre adversaire, les dégâts infligés à Qulbutoké sont réduits de 20 (après application de la Faiblesse et de la Résistance).",
+          "de": "Im nächsten Zug deines Gegners wird Schaden, der Woingenau zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277481,
+          "tcgplayer": 90618
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277481,
+          "tcgplayer": 90618
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop4-15",
+    "name": {
+      "en": "Treecko δ",
+      "fr": "Arcko δ",
+      "de": "Geckarbor δ"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      252
+    ],
+    "hp": 40,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pound",
+          "fr": "Écras'face",
+          "de": "Pfund"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Shining Claws",
+          "fr": "Griffes étincelantes",
+          "de": "Glänzende Krallen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Confus.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277480,
+          "tcgplayer": 90045
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop4-14",
+    "name": {
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "de": "Schiggy"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      7
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Shell Retreat",
+          "fr": "Rentrer dans sa coquille",
+          "de": "Schildkrötenpanzer"
+        },
+        "effect": {
+          "en": "As long as Squirtle has any Energy cards attached to it, damage done to Squirtle by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+          "fr": "Tant que Carapuce possède des cartes Énergie, les dégâts qui lui sont infligés par une attaque de votre adversaire sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
+          "de": "Solange mindestens 1 Energiekarte an Schiggy angelegt ist, wird der Schaden, der Schiggy durch gegnerische Angriffe zugefügt wird, um 10 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tackle",
+          "fr": "Charge",
+          "de": "Tackle"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277479,
+          "tcgplayer": 89493
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop4-13",
+    "name": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spark",
+          "fr": "Étincelle",
+          "de": "Funkensprung"
+        },
+        "effect": {
+          "en": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Inflige 10 dégâts à 1 des Pokémon de Banc de votre adversaire. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "de": "Dieser Angriff fügt 1 gegnerischen Pokémon auf der Bank 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277478,
+          "tcgplayer": 88083
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277478,
+          "tcgplayer": 88083
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop4-12",
+    "name": {
+      "en": "Pidgey",
+      "fr": "Roucool",
+      "de": "Taubsi"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      16
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "fr": "Lancez 1 pièce. Si c'est face, cette attaque inflige 20 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277477,
+          "tcgplayer": 88049
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop4-11",
+    "name": {
+      "en": "Mudkip",
+      "fr": "Gobou",
+      "de": "Hydropi"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      258
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Super Hypno Wave",
+          "fr": "Super hypnovague",
+          "de": "Super Hypno Welle"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Asleep.",
+          "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+          "de": "Das Verteidigende Pokémon schläft jetzt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277476,
+          "tcgplayer": 87613
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277476,
+          "tcgplayer": 87613
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop4-10",
+    "name": {
+      "en": "Scramble Energy",
+      "fr": "Énergie codée",
+      "de": "Misch-Energie"
+    },
+    "illustrator": "Takumi Akabane",
+    "rarity": "Uncommon",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "en": "Scramble Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). Scramble Energy provides Colorless Energy. While in play, if you have more Prize cards left than your opponent, Scramble Energy provides every type of Energy but provides only 3 in any combination at a time. If the Pokémon Scramble Energy is attached to isn’t an Evolved Pokémon (or evolves into Pokémon-ex), discard Scramble Energy.",
+      "fr": "Énergie codée ne peut être attachée qu'à un Pokémon Évolué (Pokémon-ex exclus). Énergie codée fournit une Énergie . Lorsqu'elle est en jeu, s'il vous reste plus de cartes Récompense que votre adversaire, Énergie codée fournit tous les types d'Énergie mais seulement 3 de n'importe quelle combinaison à la fois. Si le Pokémon auquel Énergie codée est attachée n'est pas un Pokémon Évolué (ou un Pokémon qui évolue en Pokémon-ex), défaussez-la.",
+      "de": "Misch-Energie kann nur an ein entwickeltes Pokémon (außer Pokémon-ex) angelegt werden. Misch-Energie liefert {C}-Energie. Während Misch-Energie im Spiel ist und du mehr Preise übrig hast als dein Gegner, zählt sie als jeder beliebige Energietyp, spendet aber drei Energien auf einmal. Handelt es sich bei dem Pokémon, an dem Misch-Energie angelegt ist, nicht mehr um ein entwickeltes Pokémon (oder entwickelt es sich in ein Pokémon-ex), dann lege Misch-Energie auf deinen Ablagestapel."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277475,
+          "tcgplayer": 88988
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop4-1",
+    "name": {
+      "en": "Chimecho δ",
+      "fr": "Eoko δ",
+      "de": "Palimpalim δ"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      358
+    ],
+    "hp": 60,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Wrap",
+          "fr": "Ligotage",
+          "de": "Wickel"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Sonicboom",
+          "fr": "Sonicboom",
+          "de": "Ultraschall"
+        },
+        "effect": {
+          "en": "This attack's damage isn't affected by Weakness or Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou la Résistance.",
+          "de": "Der Schaden dieses Angriffs wird durch die Schwäche und Resistenz des Verteidigenden Pokémon nicht verändert."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277466,
+          "tcgplayer": 84298
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop4"
+    },
+    "cardNumber": "1"
+  }
+]

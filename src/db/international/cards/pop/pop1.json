@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "pop1-9",
+    "name": {
+      "en": "Pupitar",
+      "fr": "Ymphect",
+      "de": "Pupitar"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      247
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Larvitar",
+      "fr": "Embrylex",
+      "de": "Larvitar"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Smash",
+          "fr": "Éclate-roc",
+          "de": "Zertrümmerer"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277423,
+          "tcgplayer": 88448
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop1-8",
+    "name": {
+      "en": "Murkrow",
+      "fr": "Cornèbre",
+      "de": "Kramurx"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      198
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Insomnia",
+          "fr": "Insomnie",
+          "de": "Schlaflosigkeit"
+        },
+        "effect": {
+          "en": "Murkrow can't be Asleep.",
+          "fr": "Cornèbre ne peut pas être Endormi.",
+          "de": "Kramurx kann nicht in Schlaf versetzt werden."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Feint Attack",
+          "fr": "Feinte",
+          "de": "Finte"
+        },
+        "effect": {
+          "en": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon.",
+          "fr": "Choisissez un des Pokémon de votre adversaire. Cette attaque lui inflige 20 dégâts. Les dégâts de cette attaque ne sont pas affectés par la Faiblesse, la Résistance, les Poké-Powers, les Poké-Bodies ou tout autre effet.",
+          "de": "Wähle 1 Pokémon deines Gegners. Dieser Angriff fügt diesem Pokémon 20 Schadenspunkte zu. Schwäche, Resistenz, Poké-Power, Poké-Body und alle anderen Effekte auf dem Verteidigenden Pokémon haben keine Auswirkungen auf die Schadenspunkte dieses Angriffs."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277422,
+          "tcgplayer": 87650
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop1-7",
+    "name": {
+      "en": "Masquerain",
+      "fr": "Maskadra",
+      "de": "Maskergen"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      284
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Surskit",
+      "fr": "Arakdo",
+      "de": "Gehweiher"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade",
+          "de": "Windstoß"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277421,
+          "tcgplayer": 87245
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop1-6",
+    "name": {
+      "en": "Beautifly",
+      "fr": "Charmillon",
+      "de": "Papinella"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      267
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Silcoon",
+      "fr": "Armulys",
+      "de": "Schaloko"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blot",
+          "fr": "Pâté",
+          "de": "Klecks"
+        },
+        "effect": {
+          "en": "Remove 1 damage counter from Beautifly.",
+          "fr": "Retirez à Charmillon 1 marqueur de dégât.",
+          "de": "Entferne 1 Schadensmarke von Papinella."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Whirlwind",
+          "fr": "Cyclone",
+          "de": "Wirbelwind"
+        },
+        "effect": {
+          "en": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+          "fr": "Votre adversaire échange le Pokémon Défenseur avec 1 des Pokémon de son Banc.",
+          "de": "Dein Gegner tauscht das Verteidigende Pokémon gegen 1 Pokémon auf seiner Bank aus."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277420,
+          "tcgplayer": 83756
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop1-5",
+    "name": {
+      "en": "Swampert",
+      "fr": "Laggron",
+      "de": "Sumpex"
+    },
+    "illustrator": "Hiromichi Sugiyama",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      260
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Marshtomp",
+      "fr": "Flobio",
+      "de": "Moorabbel"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Bubble",
+          "fr": "Écume",
+          "de": "Blubber"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mud Splash",
+          "fr": "Jet d'boue",
+          "de": "Schlammspritzer"
+        },
+        "effect": {
+          "en": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Si votre adversaire possède des Pokémon de Banc, choisissez-en un et lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts à ce Pokémon. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon du Banc.)",
+          "de": "Wähle 1 Pokémon auf der Bank hat deines Gegners. Dieser Angriff fügt dem gewählten Pokémon 30 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277419,
+          "tcgplayer": 89677
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277419,
+          "tcgplayer": 89677
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop1-4",
+    "name": {
+      "en": "Sceptile",
+      "fr": "Jungko",
+      "de": "Gewaldro"
+    },
+    "illustrator": "Hiromichi Sugiyama",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      254
+    ],
+    "hp": 100,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Grovyle",
+      "fr": "Massko",
+      "de": "Reptain"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Cling",
+          "fr": "« Corps à corps »",
+          "de": "Festklammern"
+        },
+        "effect": {
+          "en": "After your attack, remove from Sceptile the number of damage counters equal to the damage you did to the Defending Pokémon. If Sceptile has fewer damage counters than that, remove all of them.",
+          "fr": "Après votre attaque, retirez à Jungko un nombre de marqueurs de dégât équivalent aux dégâts que vous avez infligés au Pokémon Défenseur. Si Jungko a moins de marqueurs de dégât, retirez-les lui tous.",
+          "de": "Entferne nach deinem Angriff Schadensmarken von Gewaldro entsprechend der Höhe der Schadenspunkte, die dem Verteidigenden Pokémon zugefügt wurden. Sollten weniger Schadensmarken auf Gewaldro liegen, entferne alle."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Leaf Blade",
+          "fr": "Lame-feuille",
+          "de": "Blattklinge"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 40 damage plus 30 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts plus 30 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 Schadenspunkte plus 30 weitere Schadenspunkte zu."
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277418,
+          "tcgplayer": 88946
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277418,
+          "tcgplayer": 88946
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop1-3",
+    "name": {
+      "en": "Rayquaza",
+      "fr": "Rayquaza",
+      "de": "Rayquaza"
+    },
+    "illustrator": "Katsura Tabata",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      384
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fly",
+          "fr": "Vol",
+          "de": "Fliegen"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of an attack, including damage, done to Rayquaza during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est pile, cette attaque est sans effet. Si c'est face, prévenez tous les effets d'une attaque, dégâts inclus, infligés à Rayquaza lors du prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Effekte von Angriffen (einschließlich Schaden), die Rayquaza zugefügt werden. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Dragon Claw",
+          "fr": "Griffe de dragon",
+          "de": "Drachenklaue"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277417,
+          "tcgplayer": 88624
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277417,
+          "tcgplayer": 88624
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop1-2",
+    "name": {
+      "en": "Metagross",
+      "fr": "Métalosse",
+      "de": "Metagross"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      376
+    ],
+    "hp": 100,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "en": "Metang",
+      "fr": "Métang",
+      "de": "Metang"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Metal Claw",
+          "fr": "Griffe acier",
+          "de": "Metallklaue"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hyper Beam",
+          "fr": "Ultralaser",
+          "de": "Hyperstrahl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, discard 1 Energy attached to the Defending Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, défaussez 1 Énergie attachée au Pokémon Défenseur.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ lege 1 Energiekarte von dem Verteidigenden Pokémon auf den Ablagestapel deines Gegners."
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277416,
+          "tcgplayer": 87336
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277416,
+          "tcgplayer": 87336
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop1-17",
+    "name": {
+      "en": "Tyranitar ex",
+      "fr": "Tyranocif ex",
+      "de": "Despotar-ex"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      248
+    ],
+    "hp": 150,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Pupitar",
+      "fr": "Ymphect",
+      "de": "Pupitar"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe",
+          "de": "Kratzer"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Critical Crush",
+          "fr": "Écrasement sévère",
+          "de": "Entscheidender Schlag"
+        },
+        "effect": {
+          "en": "Discard 2 Basic Energy cards attached to Tyranitar ex or this attack does nothing.",
+          "fr": "Défaussez 2 cartes Énergie de base attachées à Tyranocif ex ou cette attaque est sans effet.",
+          "de": "Lege 2 an Despotar angelegte Energiekarten auf deinen Ablagestapel oder dieser Angriff hat keine Auswirkungen."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass"
+      },
+      {
+        "type": "Fighting"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277431,
+          "tcgplayer": 97807
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277431,
+          "tcgplayer": 90124
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "suffix": "EX",
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop1-16",
+    "name": {
+      "en": "Armaldo ex",
+      "fr": "Armaldo ex",
+      "de": "Armaldo-ex"
+    },
+    "illustrator": "Hikaru Koike",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      348
+    ],
+    "hp": 160,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Anorith",
+      "fr": "Anorith",
+      "de": "Anorith"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Twin-blade",
+          "fr": "Double épée",
+          "de": "Doppelklinge"
+        },
+        "effect": {
+          "en": "Does 30 damage to each Defending Pokémon.",
+          "fr": "Inflige 30 dégâts à chacun des Pokémon Défenseurs.",
+          "de": "Dieser Angriff fügt allen Verteidigenden Pokémon 30 Schadenspunkte zu."
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Supersonic Claws",
+          "fr": "Griffes supersoniques",
+          "de": "Überschallklauen"
+        },
+        "effect": {
+          "en": "This attack's damage is not affected by Resistance.",
+          "fr": "Les dégâts de cette attaque ne sont pas affectés par la Résistance.",
+          "de": "Der Schaden dieses Angriffs wird durch die Resistenz des Verteidigenden Pokémon nicht verringert."
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass"
+      },
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277430,
+          "tcgplayer": 83623
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277430,
+          "tcgplayer": 97806
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "suffix": "EX",
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop1-15",
+    "name": {
+      "en": "Swellow",
+      "fr": "Hélédelle",
+      "de": "Schwalboss"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      277
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "evolveFrom": {
+      "en": "Taillow",
+      "fr": "Nirondelle",
+      "de": "Schwalbini"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Focus Energy",
+          "fr": "Puissance",
+          "de": "Energiefokus"
+        },
+        "effect": {
+          "en": "During your next turn, base damage of Swellow's Agility is 70 instead of 30.",
+          "fr": "Lors de votre prochain tour, la base des dégâts d'Hâte d'Heledelle est de 70 au lieu de 30.",
+          "de": "In deinem nächsten Zug beträgt der Grundschaden des Angriffs Agilität 70 Schadenspunkte anstelle von 30 Schadenspunkte."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Agility",
+          "fr": "Hâte",
+          "de": "Agilität"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Swellow during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, prévenez tous les effets d'une attaque, dégâts inclus, infligés à Heledelle lors du prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Auswirkungen von Angriffen (einschließlich Schaden), die Schwalboss zugefügt werden."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277429,
+          "tcgplayer": 89690
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop1-14",
+    "name": {
+      "en": "Surskit",
+      "fr": "Arakdo",
+      "de": "Gehweiher"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      283
+    ],
+    "hp": 50,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Bubble",
+          "fr": "Écume",
+          "de": "Blubber"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277428,
+          "tcgplayer": 89647
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop1-13",
+    "name": {
+      "en": "Plusle",
+      "fr": "Posipi",
+      "de": "Plusle"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      311
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts plus 10 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Agility",
+          "fr": "Hâte",
+          "de": "Agilität"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Plusle during your opponent's next turn.",
+          "fr": "Lancez une pièce. Si c'est face, prévenez tous les effets d'une attaque, dégâts inclus, infligés à Posipi lors du prochain tour de votre adversaire.",
+          "de": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Auswirkungen von Angriffen (einschließlich Schaden), die Plusle zugefügt werden."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277427,
+          "tcgplayer": 88163
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop1-12",
+    "name": {
+      "en": "Minun",
+      "fr": "Négapi",
+      "de": "Minun"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      312
+    ],
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Wave",
+          "fr": "Cage-éclair",
+          "de": "Donnerwelle"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Spark",
+          "fr": "Étincelle",
+          "de": "Funkenregen"
+        },
+        "effect": {
+          "en": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "fr": "Choisissez 2 des Pokémon du Banc de votre adversaire. Cette attaque inflige 10 dégâts à chacun de ces Pokémon. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon du Banc).",
+          "de": "Wähle 2 Pokémon auf der Bank deines Gegners. Dieser Angriff fügt beiden gewählten Pokémon 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277426,
+          "tcgplayer": 87483
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop1-11",
+    "name": {
+      "en": "Larvitar",
+      "fr": "Embrylex",
+      "de": "Larvitar"
+    },
+    "illustrator": "Hisao Nakamura",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      246
+    ],
+    "hp": 40,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Sand Attack",
+          "fr": "Jet de sable",
+          "de": "Sandangriff"
+        },
+        "effect": {
+          "en": "If the Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "fr": "Si le Pokémon Défenseur essaye d'attaquer lors du prochain tour de votre adversaire, votre adversaire lance une pièce. Si c'est pile, cette attaque est sans effet.",
+          "de": "Wenn das Verteidigende Pokémon im nächsten Zug angreift, wirft dein Gegner 1 Münze. Bei „Zahl“ hat der entsprechende Angriff keine Auswirkungen."
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277425,
+          "tcgplayer": 86636
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop1-10",
+    "name": {
+      "en": "Torkoal",
+      "fr": "Chartor",
+      "de": "Qurtel"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      324
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Amnesia",
+          "fr": "Amnésie",
+          "de": "Amnesie"
+        },
+        "effect": {
+          "en": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "fr": "Choisissez une des attaques du Pokémon Défenseur. Ce Pokémon ne peut pas utiliser cette attaque lors du prochain tour de votre adversaire.",
+          "de": "Wähle 1 der Angriffe des Verteidigenden Pokémon. Dieses Pokémon kann den gewählten Angriff im nächsten Zug deines Gegners nicht anwenden."
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Body Slam",
+          "fr": "Plaquage",
+          "de": "Bodyslam"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277424,
+          "tcgplayer": 89967
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop1-1",
+    "name": {
+      "en": "Blaziken",
+      "fr": "Braségali",
+      "de": "Lohgock"
+    },
+    "illustrator": "Katsura Tabata",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      257
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "en": "Combusken",
+      "fr": "Galifeu",
+      "de": "Jungglut"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Punch",
+          "fr": "Poing de feu",
+          "de": "Feuerschlag"
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Double Kick",
+          "fr": "Double pied",
+          "de": "Doppelkick"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 50 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 50 dégâts multipliés par le nombre de faces.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 277415,
+          "tcgplayer": 83905
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 277415,
+          "tcgplayer": 83905
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop1"
+    },
+    "cardNumber": "1"
+  }
+]

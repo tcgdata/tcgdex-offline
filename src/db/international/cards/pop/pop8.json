@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "pop8-9",
+    "name": {
+      "en": "Night Maintenance",
+      "de": "Nächtliche Wartung"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Search your discard pile for up to 3 in any combination of Pokémon and basic Energy cards. Show them to your opponent and shuffle them into your deck.",
+      "de": "Durchsuche deinen Ablagestapel nach bis zu 3 Karten in beliebiger Kombination aus Pokémon- und Basis-Energiekarten. Zeige sie deinem Gegner und mische sie in dein Deck."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278410,
+          "tcgplayer": 87752
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "pop8-8",
+    "name": {
+      "en": "Luxio",
+      "de": "Luxio"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      404
+    ],
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Shinx",
+      "de": "Sheinux"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fasten Claws",
+          "de": "Klauen anlegen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 30 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunder Fang",
+          "de": "Donnerzahn"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278409,
+          "tcgplayer": 86941
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278409,
+          "tcgplayer": 86941
+        }
+      }
+    ],
+    "description": {
+      "en": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+      "de": "Seine Krallen geben Elektrizität ab, die stark genug ist, jemanden bewusstlos zu machen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "pop8-7",
+    "name": {
+      "en": "Carnivine",
+      "de": "Venuflibis"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      455
+    ],
+    "hp": 70,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Swallow Up",
+          "de": "Runterschlucken"
+        },
+        "effect": {
+          "en": "Before doing damage, count the remaining HP of the Defending Pokémon and Carnivine. If the Defending Pokémon has fewer remaining HP than Carnivine’s, this attack does 60 damage instead.",
+          "de": "Bevor der Schaden zugefügt wird, vergleiche die verbliebenen KP von dem Verteidigenden Pokémon und Venuflibis. Wenn das Verteidigende Pokémon weniger verbliebene KP hat als Venuflibis, fügt dieser Angriff 60 Schadenspunkte zu."
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Wring Out",
+          "de": "Auswringen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ lege eine Energiekarte, die am Verteidigenden Pokémon angelegt ist, auf den Ablagestapel deines Gegners und das Verteidigende Pokémon ist jetzt gelähmt."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278408,
+          "tcgplayer": 84100
+        }
+      },
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 278408,
+          "tcgplayer": 84100
+        }
+      }
+    ],
+    "description": {
+      "en": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+      "de": "Sein süßlich riechender Speichel zieht Beute an, die es frisst. Es braucht einen Tag, sie zu fressen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "pop8-6",
+    "name": {
+      "en": "Cherrim",
+      "de": "Kinoso"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Uncommon",
+    "category": "Pokemon",
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Cherubi",
+      "de": "Kikugi"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Worry Seed",
+          "de": "Sorgensamen"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "name": {
+          "en": "Magical Leaf",
+          "de": "Zauberblatt"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 20 weitere Schadenspunkte zu und entferne 3 Schadensmarken von Kinoso."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278407,
+          "tcgplayer": 84253
+        }
+      },
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 278407,
+          "tcgplayer": 84253
+        }
+      }
+    ],
+    "description": {
+      "en": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+      "de": "In Zeiten mit viel Sonnenschein blüht es auf. Es holt nach, was ihm als Knospe verwehrt blieb."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "pop8-5",
+    "name": {
+      "en": "Yanmega",
+      "de": "Yanmega"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      469
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Yanma",
+      "de": "Yanma"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Supersonic",
+          "de": "Superschall"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt verwirrt."
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Air Slash",
+          "de": "Luftschnitt"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, discard an Energy attached to Yanmega.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ lege 1 an Yanmega angelegte Energie auf deinen Ablagestapel."
+        },
+        "damage": 70
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+20"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278406,
+          "tcgplayer": 90691
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278406,
+          "tcgplayer": 90691
+        }
+      }
+    ],
+    "description": {
+      "en": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+      "de": "Durch die Bewegung seiner Flügel entstehen Schockwellen, die dem Gegner innere Verletzungen zufügen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "pop8-4",
+    "name": {
+      "en": "Probopass",
+      "de": "Voluminas"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      476
+    ],
+    "hp": 90,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "en": "Nosepass",
+      "de": "Nasgnet"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rock Slide",
+          "de": "Steinhagel"
+        },
+        "effect": {
+          "en": "Does 10 damage to 2 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)",
+          "de": "Dieser Angriff fügt 2 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Triple Nose",
+          "de": "Dreifachnase"
+        },
+        "effect": {
+          "en": "Flip 3 coins. This attack does 50 damage plus 20 more damage for each heads.",
+          "de": "Wirf 3 Münzen. Dieser Angriff fügt 50 Schadenspunkte plus 20 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+30"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278405,
+          "tcgplayer": 88376
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278405,
+          "tcgplayer": 88376
+        }
+      }
+    ],
+    "description": {
+      "en": "It exudes strong magnetium from all cover. It controls three small units called Mini-Noses.",
+      "de": "Es gibt starken Magnetismus ab. Es steuert drei kleine Einheiten, die sich Mininasen nennen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "pop8-3",
+    "name": {
+      "en": "Luxray",
+      "de": "Luxtra"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      405
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "en": "Luxio",
+      "de": "Luxio"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Intimidating Fang",
+          "de": "Beeindruckende Fangzähne"
+        },
+        "effect": {
+          "en": "As long as Luxray is your Active Pokémon, any damage done by an opponent’s attack is reduced by 10 (before applying Weakness and Resistance).",
+          "de": "Solange Luxtra dein Aktives Pokémon ist, wird aller Schaden von gegnerischen Angriffen um 10 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden)."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunder",
+          "de": "Donner"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, Luxray does 40 damage to itself.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ fügt sich Luxtra selbst 40 Schadenspunkte zu."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+30"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278404,
+          "tcgplayer": 86948
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278404,
+          "tcgplayer": 86948
+        }
+      }
+    ],
+    "description": {
+      "en": "When its eyes gleam gold, it can spot hiding prey–even those taking shelter behind a wall.",
+      "de": "Leuchten seine Augen golden auf, kann es Beute, die sich versteckt, sehen. Es kann durch Wände sehen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "pop8-2",
+    "name": {
+      "en": "Lucario",
+      "de": "Lucario"
+    },
+    "illustrator": "Kent Kanetsuna",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 90,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Riolu",
+      "de": "Riolu"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Blocking Punch",
+          "de": "Abwehrhieb"
+        },
+        "effect": {
+          "en": "During your opponent’s next turn, any damage done to Lucario by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "de": "Während des nächsten Zuges deines Gegners wird Schaden, der Lucario durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+        },
+        "damage": 40
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Striking Kick",
+          "de": "Erstaunlicher Kick"
+        },
+        "effect": {
+          "en": "This attack’s damage isn’t affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "de": "Resistenz, Poké-Power, Poké-Body und alle anderen Effekte auf dem Verteidigenden Pokémon haben keine Auswirkungen auf die Schadenspunkte dieses Angriffs."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278403,
+          "tcgplayer": 86877
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278403,
+          "tcgplayer": 86877
+        }
+      }
+    ],
+    "description": {
+      "en": "By catching the aura emanating from others, it can read their thoughts and movements.",
+      "de": "Es nimmt dies Aura seines Gegners wahr. So kann es dessen Gedanken und Bewegungen erkennen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "pop8-17",
+    "name": {
+      "en": "Turtwig",
+      "de": "Chelast"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      387
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Tackle",
+          "de": "Tackle"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "en": "Razor Leaf",
+          "de": "Rasierblatt"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+10"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278418,
+          "tcgplayer": 90076
+        }
+      }
+    ],
+    "description": {
+      "en": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "de": "Es besteht aus Erdreich. Trinkt es Wasser, verhärtet sich der Panzer auf seinem Rücken. Es lebt an Seen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "17"
+  },
+  {
+    "id": "pop8-16",
+    "name": {
+      "en": "Riolu",
+      "de": "Riolu"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      447
+    ],
+    "hp": 50,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-BODY",
+        "name": {
+          "en": "Inner Focus",
+          "de": "Konzentrator"
+        },
+        "effect": {
+          "en": "Riolu can’t be Paralyzed.",
+          "de": "Riolu kann nicht gelähmt werden."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "en": "Quick Attack",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 10 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278417,
+          "tcgplayer": 88755
+        }
+      },
+      {
+        "type": "reverse",
+        "thirdParty": {
+          "cardmarket": 278417,
+          "tcgplayer": 88755
+        }
+      }
+    ],
+    "description": {
+      "en": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+      "de": "Sein Körper ist schlank, aber kräftig. Es kann in einer Nacht 3 Berge und 2 Täler durchqueren."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "16"
+  },
+  {
+    "id": "pop8-15",
+    "name": {
+      "en": "Piplup",
+      "de": "Plinfa"
+    },
+    "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      393
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Peck",
+          "de": "Schnabel"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Water Splash",
+          "de": "Wasserplatscher"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 Schadenspunkte plus 10 weitere Schadenspunkte zu."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278416,
+          "tcgplayer": 88148
+        }
+      }
+    ],
+    "description": {
+      "en": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "de": "Es ist sehr stolz und nimmt daher kein Futter von anderen an. Seine dicken Daunen schützen vor Kälte."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "15"
+  },
+  {
+    "id": "pop8-14",
+    "name": {
+      "en": "Happiny",
+      "de": "Wonneira"
+    },
+    "illustrator": "Yuka Morii",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      440
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Poke-POWER",
+        "name": {
+          "en": "Baby Evolution",
+          "de": "Baby Evolution"
+        },
+        "effect": {
+          "en": "Once during your turn (before your attack), you may put Chansey from your hand onto Happiny (this counts as evolving Happiny) and remove all damage counters from Happiny.",
+          "de": "Einmal während deines Zuges (vor deinem Angriff) kannst du Chaneira von deiner Hand auf Wonneira legen (das zählt als Entwickeln von Wonneira). Entferne alle Schadensmarken von Wonneira."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "name": {
+          "en": "Lively",
+          "de": "Aufpäppeln"
+        },
+        "effect": {
+          "en": "Remove 2 damage counters from 1 of your Pokémon.",
+          "de": "Entferne 2 Schadensmarken von 1 deiner Pokémon."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278415,
+          "tcgplayer": 86007
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278415,
+          "tcgplayer": 86007
+        }
+      }
+    ],
+    "description": {
+      "en": "It loves round white things. It carries an egg-shaped rock in imitation of CHANSEY.",
+      "de": "Es liebt runde, weiße Dinge. Es trägt einen eiförmigen Stein bei sich, und imitiert damit CHANEIRA."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "14"
+  },
+  {
+    "id": "pop8-13",
+    "name": {
+      "en": "Croagunk",
+      "de": "Glibunkel"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      453
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ghastly Sound",
+          "de": "Grässliche Geräusche"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, your opponent can’t play any Supporter cards from his or her hand during his or her next turn.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ kann dein Gegner in seinem nächsten Zug keine Unterstützerkarten von seiner Hand spielen."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Finger Poke",
+          "de": "Fingerstubser"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt vergiftet."
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278414,
+          "tcgplayer": 84475
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278414,
+          "tcgplayer": 84475
+        }
+      }
+    ],
+    "description": {
+      "en": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+      "de": "In seinen Backen sammelt sich Gift. Es versucht, Beute zu überraschen und mit Giftfingern zu schnappen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "13"
+  },
+  {
+    "id": "pop8-12",
+    "name": {
+      "en": "Chimchar",
+      "de": "Panflam"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "Common",
+    "category": "Pokemon",
+    "dexId": [
+      390
+    ],
+    "hp": 50,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Scratch",
+          "de": "Kratzer"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Ember",
+          "de": "Glut"
+        },
+        "effect": {
+          "en": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+          "de": "Wirf 1 Münze. Bei „Zahl“ lege eine {R}-Energie, die an Panflam angelegt ist, auf deinen Ablagestapel."
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+10"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278413,
+          "tcgplayer": 84287
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278413,
+          "tcgplayer": 84287
+        }
+      }
+    ],
+    "description": {
+      "en": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "de": "Es klettert behände steile Felsen hinauf, um auf Bergen zu leben. Sein Feuer ist aus, wenn es schläft."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "pop8-11",
+    "name": {
+      "en": "Roseanne’s Research",
+      "de": "Roxanas Nachforschungen"
+    },
+    "illustrator": "Kanako Eo",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "en": "Search your deck for up to 2 in any combination of Basic Pokémon and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward.",
+      "de": "Durchsuche dein Deck nach bis zu 2 Karten in beliebiger Kombination aus Basis-Pokémon- und Basis-Energiekarten. Zeige sie deinem Gegner und nimm sie auf die Hand. Mische dein Deck danach."
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278412,
+          "tcgplayer": 88816
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "pop8-10",
+    "name": {
+      "en": "Rare Candy",
+      "de": "Sonderbonbon"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "en": "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)",
+      "de": "Wähle 1 deiner Basis-Pokémon im Spiel. Falls du eine Phase 1 oder Phase 2 Karte auf der Hand hast, die sich aus diesem Pokémon entwickelt, lege sie auf das Basis-Pokémon. (Das zählt als Entwickeln des gewählten Pokémon.)"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278411,
+          "tcgplayer": 88594
+        }
+      }
+    ],
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "pop8-1",
+    "name": {
+      "en": "Heatran",
+      "de": "Heatran"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "Rare",
+    "category": "Pokemon",
+    "dexId": [
+      485
+    ],
+    "hp": 100,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Body Slam",
+          "de": "Bodyslam"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ ist das Verteidigende Pokémon jetzt gelähmt."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin",
+          "de": "Feuerwirbel"
+        },
+        "effect": {
+          "en": "Discard 2 basic Energy cards attached to Heatran. (If you can’t discard cards, this attack does nothing.)",
+          "de": "Entferne 2 Basis-Energiekarten von Heatran und lege sie auf deinen Ablagestapel. (Wenn du dies nicht tun kannst, hat dieser Angriff keine Auswirkungen.)"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "+30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 278402,
+          "tcgplayer": 86049
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 278402,
+          "tcgplayer": 86049
+        }
+      }
+    ],
+    "description": {
+      "en": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+      "de": "Es lebt in vulkanischen Höhlen. Mit seinen kreuzförmigen Klauen kann es sogar an der Decke laufen."
+    },
+    "series": {
+      "id": "pop"
+    },
+    "set": {
+      "id": "pop8"
+    },
+    "cardNumber": "1"
+  }
+]

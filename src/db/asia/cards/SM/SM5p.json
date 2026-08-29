@@ -1,0 +1,3809 @@
+[
+  {
+    "id": "SM5p-063",
+    "name": {
+      "ja": "鋼鉄のフライパン"
+    },
+    "illustrator": "",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "trainerType": "Tool",
+    "effect": {
+      "ja": "このカードをつけているポケモンは、相手のポケモンから受けるワザのダメージが「-30」され、弱点もなくなる。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559813
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "063"
+  },
+  {
+    "id": "SM5p-062",
+    "name": {
+      "ja": "ビーストリング"
+    },
+    "illustrator": "",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "このカードは、相手のサイドの残り枚数が、4枚または3枚でなければ使えない。自分の山札にある基本エネルギーを2枚まで、自分の「ウルトラビースト」1匹につける。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559812
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "062"
+  },
+  {
+    "id": "SM5p-061",
+    "name": {
+      "ja": "エネルギーリサイクル"
+    },
+    "illustrator": "",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のトラッシュから基本エネルギーを5枚選び、相手に見せてから、山札にもどす。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559811
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "061"
+  },
+  {
+    "id": "SM5p-060",
+    "name": {
+      "ja": "ディアルガGX"
+    },
+    "illustrator": "",
+    "rarity": "Hyper rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 180,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "クロックアップ"
+        },
+        "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひきさく"
+        },
+        "effect": {
+          "ja": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "タイムレスGX"
+        },
+        "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559810
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "060"
+  },
+  {
+    "id": "SM5p-059",
+    "name": {
+      "ja": "ルカリオGX"
+    },
+    "illustrator": "",
+    "rarity": "Hyper rare",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 210,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "リオル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "はどうげき"
+        },
+        "effect": {
+          "ja": "この番、このポケモンが「リオル」から進化していたなら、90ダメージ追加。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "せんぷうきゃく"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クロスビートGX"
+        },
+        "effect": {
+          "ja": "このポケモンにのっているダメカンの数x30ダメージ。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559809
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "059"
+  },
+  {
+    "id": "SM5p-058",
+    "name": {
+      "ja": "アーゴヨンGX"
+    },
+    "illustrator": "",
+    "rarity": "Hyper rare",
+    "category": "Pokemon",
+    "dexId": [
+      804
+    ],
+    "hp": 210,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "ベベノム"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ビーストレイド"
+        },
+        "effect": {
+          "ja": "自分の場の「ウルトラビースト」の数x20ダメージ。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ジェットタッカー"
+        },
+        "effect": {
+          "ja": "このワザのダメージは弱点・抵抗力を計算しない。"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スティンガーGX"
+        },
+        "effect": {
+          "ja": "おたがいのプレイヤーは、それぞれサイドをすべて山札にもどして切る。その後、それぞれ山札を上から3枚、サイドとして置く。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559808
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "058"
+  },
+  {
+    "id": "SM5p-057",
+    "name": {
+      "ja": "パルキアGX"
+    },
+    "illustrator": "",
+    "rarity": "Hyper rare",
+    "category": "Pokemon",
+    "dexId": [
+      484
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "くうかんせいぎょ"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンについているエネルギーを好きなだけ、このポケモンにつけ替える。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ハイドロプレッシャー"
+        },
+        "effect": {
+          "ja": "このポケモンについている[水]エネルギーの数x20ダメージ追加。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ゼロバニッシュGX"
+        },
+        "effect": {
+          "ja": "相手の場のポケモンについているエネルギーを、すべて山札にもどして切る。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559807
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "057"
+  },
+  {
+    "id": "SM5p-056",
+    "name": {
+      "ja": "マキシ"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "このカードは、自分の手札にある[水]エネルギーを2枚トラッシュしなければ使えない。自分の山札にある好きなカードを2枚まで、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559806
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "056"
+  },
+  {
+    "id": "SM5p-055",
+    "name": {
+      "ja": "ウルトラ調査隊"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札にある「ウルトラビースト」を2枚までトラッシュし、その枚数x3枚、自分の山札を引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559805
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "055"
+  },
+  {
+    "id": "SM5p-054",
+    "name": {
+      "ja": "ディアルガGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 180,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "クロックアップ"
+        },
+        "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひきさく"
+        },
+        "effect": {
+          "ja": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "タイムレスGX"
+        },
+        "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559804
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "054"
+  },
+  {
+    "id": "SM5p-053",
+    "name": {
+      "ja": "ルカリオGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 210,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "リオル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "はどうげき"
+        },
+        "effect": {
+          "ja": "この番、このポケモンが「リオル」から進化していたなら、90ダメージ追加。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "せんぷうきゃく"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クロスビートGX"
+        },
+        "effect": {
+          "ja": "このポケモンにのっているダメカンの数x30ダメージ。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559803
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "053"
+  },
+  {
+    "id": "SM5p-052",
+    "name": {
+      "ja": "アーゴヨンGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      804
+    ],
+    "hp": 210,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "ベベノム"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ビーストレイド"
+        },
+        "effect": {
+          "ja": "自分の場の「ウルトラビースト」の数x20ダメージ。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ジェットタッカー"
+        },
+        "effect": {
+          "ja": "このワザのダメージは弱点・抵抗力を計算しない。"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スティンガーGX"
+        },
+        "effect": {
+          "ja": "おたがいのプレイヤーは、それぞれサイドをすべて山札にもどして切る。その後、それぞれ山札を上から3枚、サイドとして置く。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559802
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "052"
+  },
+  {
+    "id": "SM5p-051",
+    "name": {
+      "ja": "パルキアGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      484
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "くうかんせいぎょ"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンについているエネルギーを好きなだけ、このポケモンにつけ替える。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ハイドロプレッシャー"
+        },
+        "effect": {
+          "ja": "このポケモンについている[水]エネルギーの数x20ダメージ追加。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ゼロバニッシュGX"
+        },
+        "effect": {
+          "ja": "相手の場のポケモンについているエネルギーを、すべて山札にもどして切る。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559801
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "051"
+  },
+  {
+    "id": "SM5p-050",
+    "name": {
+      "ja": "ユニットエネルギー雷超鋼"
+    },
+    "illustrator": "",
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "ja": "このカードは、ポケモンについているかぎり、[雷][超][鋼]の3つのタイプのエネルギー1個ぶんとしてはたらく。ポケモンについていないなら、[無]エネルギー1個ぶんとしてはたらく。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559800
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "050"
+  },
+  {
+    "id": "SM5p-049",
+    "name": {
+      "ja": "ユニットエネルギー草炎水"
+    },
+    "illustrator": "",
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "ja": "このカードは、ポケモンについているかぎり、[草][炎][水]の3つのタイプのエネルギー1個ぶんとしてはたらく。ポケモンについていないなら、[無]エネルギー1個ぶんとしてはたらく。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559799
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "049"
+  },
+  {
+    "id": "SM5p-048",
+    "name": {
+      "ja": "ビーストエネルギー"
+    },
+    "illustrator": "",
+    "rarity": "Rare Holo",
+    "category": "Energy",
+    "energyType": "Special",
+    "effect": {
+      "ja": "このカードは[無]エネルギー1個ぶんとしてはたらく。このカードは、自分の「ウルトラビースト」についているとき、すべてのタイプのエネルギー1個ぶんとしてはたらき、このカードをつけている「ウルトラビースト」が使うワザの、相手のバトルポケモンへのダメージは「+30」される。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559798
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "048"
+  },
+  {
+    "id": "SM5p-047",
+    "name": {
+      "ja": "ウルトラスペース"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Stadium",
+    "effect": {
+      "ja": "おたがいのプレイヤーは、自分の番ごとに1回、自分の山札にある「ウルトラビースト」を1枚、相手に見せてから、手札に加えてよい。その場合、山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559797
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "047"
+  },
+  {
+    "id": "SM5p-046",
+    "name": {
+      "ja": "マキシ"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "このカードは、自分の手札にある[水]エネルギーを2枚トラッシュしなければ使えない。自分の山札にある好きなカードを2枚まで、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559796
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "046"
+  },
+  {
+    "id": "SM5p-045",
+    "name": {
+      "ja": "ハンサム"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札を下から3枚引く。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559795
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "045"
+  },
+  {
+    "id": "SM5p-044",
+    "name": {
+      "ja": "ウルトラ調査隊"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札にある「ウルトラビースト」を2枚までトラッシュし、その枚数x3枚、自分の山札を引く。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559794
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "044"
+  },
+  {
+    "id": "SM5p-043",
+    "name": {
+      "ja": "こだわりハチマキ"
+    },
+    "illustrator": "Eske Yoshinob",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Tool",
+    "effect": {
+      "ja": "このカードをつけているポケモンが使うワザの、相手のバトル場の「ポケモンGX・EX」へのダメージは「+30」される。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559793
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "043"
+  },
+  {
+    "id": "SM5p-042",
+    "name": {
+      "ja": "鋼鉄のフライパン"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Tool",
+    "effect": {
+      "ja": "このカードをつけているポケモンは、相手のポケモンから受けるワザのダメージが「-30」され、弱点もなくなる。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559792
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "SM5p-041",
+    "name": {
+      "ja": "ビーストリング"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "このカードは、相手のサイドの残り枚数が、4枚または3枚でなければ使えない。自分の山札にある基本エネルギーを2枚まで、自分の「ウルトラビースト」1匹につける。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559791
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "SM5p-040",
+    "name": {
+      "ja": "スーパーポケモン回収"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "コインを1回投げオモテなら、自分のポケモン1匹と、ついているすべてのカードを、手札にもどす。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559790
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "SM5p-039",
+    "name": {
+      "ja": "改造ハンマー"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "相手のポケモンについている特殊エネルギーを1個選び、トラッシュする。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559789
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "SM5p-038",
+    "name": {
+      "ja": "アクアパッチ"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "None",
+    "category": "Trainer",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のトラッシュにある[水]エネルギーを1枚、ベンチの[水]ポケモンにつける。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559788
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "SM5p-037",
+    "name": {
+      "ja": "アルセウス"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "Rare Holo",
+    "category": "Pokemon",
+    "dexId": [
+      493
+    ],
+    "hp": 160,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "はじまりのおきて"
+        },
+        "effect": {
+          "ja": "このポケモンは、相手のポケモンが使うワザの効果を受けない。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "トリニティスター"
+        },
+        "effect": {
+          "ja": "このワザは、自分のベンチに[草]と[水]と[雷]ポケモンがいるときにしか使えない。自分の山札にある基本エネルギーを3枚まで、自分のポケモンに好きなようにつける。そして山札を切る。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559787
+        }
+      }
+    ],
+    "description": {
+      "ja": "宇宙が まだ ない ころに 最初に 生まれた ポケモンと 神話の 中で 語られている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "SM5p-036",
+    "name": {
+      "ja": "ネクロズマ たそがれのたてがみ"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      800
+    ],
+    "hp": 130,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "たそがれのだんがん"
+        },
+        "effect": {
+          "ja": "相手の「ポケモンGX・EX」1匹に、60ダメージ。このワザのダメージは、弱点・抵抗力を計算しない。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ラスティネイル"
+        },
+        "effect": {
+          "ja": "相手のサイドの残り枚数が1枚なら、100ダメージ追加。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559786
+        }
+      }
+    ],
+    "description": {
+      "ja": "ソルガレオの光を 喰らい続ける 姿。 敵に とびかかり 背中と 四肢のツメで 相手を 切り裂く。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "SM5p-035",
+    "name": {
+      "ja": "ディアルガGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 180,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Metal"
+        ],
+        "name": {
+          "ja": "クロックアップ"
+        },
+        "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ひきさく"
+        },
+        "effect": {
+          "ja": "このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。"
+        },
+        "damage": 80
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "タイムレスGX"
+        },
+        "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559785
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "035"
+  },
+  {
+    "id": "SM5p-034",
+    "name": {
+      "ja": "エンペルト"
+    },
+    "illustrator": "nagimiso",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      395
+    ],
+    "hp": 160,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "ja": "ポッタイシ"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "トータルコマンド"
+        },
+        "effect": {
+          "ja": "おたがいのベンチポケモンの数x20ダメージ。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "うずしお"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンについているエネルギーを、1個トラッシュする。"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559784
+        }
+      }
+    ],
+    "description": {
+      "ja": "クチバシから 伸びている ３本の ツノは 強さの 象徴。 リーダーが 一番 大きい。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "SM5p-033",
+    "name": {
+      "ja": "マッシブーン"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      794
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "スレッジハンマー"
+        },
+        "effect": {
+          "ja": "相手のサイドの残り枚数が4枚なら、90ダメージ追加。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ふりまわす"
+        },
+        "effect": {
+          "ja": "コインを2回投げ、オモテの数x20ダメージ追加。"
+        },
+        "damage": "80+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559783
+        }
+      }
+    ],
+    "description": {
+      "ja": "謎の 生物 ＵＢ。 一発の パンチで ダンプカーを 粉砕する 光景が 目撃 された。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "SM5p-032",
+    "name": {
+      "ja": "ドクロッグ"
+    },
+    "illustrator": "Hasuno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      454
+    ],
+    "hp": 100,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "グレッグル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "どくづき"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをどくにする。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "むねんをはらす"
+        },
+        "effect": {
+          "ja": "前の相手の番に、ワザのダメージで、自分の[超]ポケモンがきぜつしていたなら、70ダメージ追加。"
+        },
+        "damage": "50+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559782
+        }
+      }
+    ],
+    "description": {
+      "ja": "こぶしの トゲからは かすり傷でも 命を 落とすほどの 猛毒を 分泌する。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "SM5p-031",
+    "name": {
+      "ja": "グレッグル"
+    },
+    "illustrator": "SATOSHI NAKAI",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      453
+    ],
+    "hp": 60,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "いばる"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを、1個トラッシュする。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559781
+        }
+      }
+    ],
+    "description": {
+      "ja": "毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "SM5p-030",
+    "name": {
+      "ja": "ルカリオGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 210,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "リオル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "はどうげき"
+        },
+        "effect": {
+          "ja": "この番、このポケモンが「リオル」から進化していたなら、90ダメージ追加。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "せんぷうきゃく"
+        },
+        "damage": 130
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クロスビートGX"
+        },
+        "effect": {
+          "ja": "このポケモンにのっているダメカンの数x30ダメージ。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559780
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "030"
+  },
+  {
+    "id": "SM5p-029",
+    "name": {
+      "ja": "リオル"
+    },
+    "illustrator": "Kyoko Umemoto",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      447
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "みきり"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+        }
+      },
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "ジャブ"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559779
+        }
+      }
+    ],
+    "description": {
+      "ja": "一晩中 走っていられる タフさが あり 頑張り屋 だが まだまだ ひよっ子 なのだ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "SM5p-028",
+    "name": {
+      "ja": "ガブリアス"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      445
+    ],
+    "hp": 150,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "ガバイト"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クイックダイブ"
+        },
+        "effect": {
+          "ja": "相手のポケモン1匹に、50ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "おうじゃのやいば"
+        },
+        "effect": {
+          "ja": "この番、手札から「シロナ」を出して使っていたなら、100ダメージ追加。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559778
+        }
+      }
+    ],
+    "description": {
+      "ja": "頭に ついた ２つの 突起は センサーの 役目。 遥か 先の 獲物の 様子も わかる。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "SM5p-027",
+    "name": {
+      "ja": "ガバイト"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      444
+    ],
+    "hp": 80,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "フカマル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "かくせい"
+        },
+        "effect": {
+          "ja": "このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "きりさく"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559777
+        }
+      }
+    ],
+    "description": {
+      "ja": "光り 輝くものが 大好き。 宝石や 捕まえた メレシーを 巣穴で じーっと 眺めている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "SM5p-026",
+    "name": {
+      "ja": "フカマル"
+    },
+    "illustrator": "Kyoko Umemoto",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      443
+    ],
+    "hp": 50,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": {
+          "ja": "かくせい"
+        },
+        "effect": {
+          "ja": "このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559776
+        }
+      }
+    ],
+    "description": {
+      "ja": "穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "SM5p-025",
+    "name": {
+      "ja": "ゴウカザル"
+    },
+    "illustrator": "nagimiso",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      392
+    ],
+    "hp": 130,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "モウカザル"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "あつきとうし"
+        },
+        "effect": {
+          "ja": "このポケモンがいるかぎり、相手のバトルポケモンは、やけどでのせるダメカンの数が6個になる。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バーストパンチ"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをやけどにする。"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559775
+        }
+      }
+    ],
+    "description": {
+      "ja": "素早さで 相手を 翻弄する。 両手 両足を 使った 独特の 戦い方を する。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "SM5p-024",
+    "name": {
+      "ja": "ドダイトス"
+    },
+    "illustrator": "kawayoo",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      389
+    ],
+    "hp": 180,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "ハヤシガメ"
+    },
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ギガドレイン"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "じしん"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモン全員にも、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559774
+        }
+      }
+    ],
+    "description": {
+      "ja": "小さな ポケモンたちが 集まり 動かない ドダイトスの 背中で 巣作りを はじめることがある。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "SM5p-023",
+    "name": {
+      "ja": "アーゴヨンGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      804
+    ],
+    "hp": 210,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "ベベノム"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ビーストレイド"
+        },
+        "effect": {
+          "ja": "自分の場の「ウルトラビースト」の数x20ダメージ。"
+        },
+        "damage": "20×"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ジェットタッカー"
+        },
+        "effect": {
+          "ja": "このワザのダメージは弱点・抵抗力を計算しない。"
+        },
+        "damage": 110
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スティンガーGX"
+        },
+        "effect": {
+          "ja": "おたがいのプレイヤーは、それぞれサイドをすべて山札にもどして切る。その後、それぞれ山札を上から3枚、サイドとして置く。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559773
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "023"
+  },
+  {
+    "id": "SM5p-022",
+    "name": {
+      "ja": "ベベノム"
+    },
+    "illustrator": "Megumi Mizutani",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      803
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "どくえき"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをどくにする。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "コープスリバイバー"
+        },
+        "effect": {
+          "ja": "次の相手の番、このポケモンがきぜつしても、相手はサイドをとれない。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559772
+        }
+      }
+    ],
+    "description": {
+      "ja": "異世界に おいては 旅立ちの パートナーに 選ばれるほど 親しまれている ウルトラビースト。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "SM5p-021",
+    "name": {
+      "ja": "ネクロズマ あかつきのつばさ"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      800
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "ガルフストリーム"
+        },
+        "effect": {
+          "ja": "自分のサイドの残り枚数が6枚なら、このポケモンにのっているダメカンの数x20ダメージ追加。"
+        },
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "あかつきのやいば"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを、2個トラッシュする。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559771
+        }
+      }
+    ],
+    "description": {
+      "ja": "ルナアーラに 最早 意思は ない。 ネクロズマに 支配され すべての エネルギーを 放出 し続ける。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "SM5p-020",
+    "name": {
+      "ja": "アグノム"
+    },
+    "illustrator": "sui",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      482
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイコアブダクション"
+        },
+        "effect": {
+          "ja": "このワザは、後攻プレイヤーの最初の番にだけ使える。相手のベンチポケモン1匹と、そのポケモンについているすべてのカードを、相手の山札にもどして切る。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "さいみんはどう"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをねむりにする。"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559770
+        }
+      }
+    ],
+    "description": {
+      "ja": "ユクシー エムリット アグノムは 同じ タマゴから 生まれた ポケモンと 考えられている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "SM5p-019",
+    "name": {
+      "ja": "エムリット"
+    },
+    "illustrator": "kodama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      481
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "せいじゃくのなみ"
+        },
+        "effect": {
+          "ja": "自分の場に「アグノム」がいるなら、相手のポケモン全員の抵抗力は、すべてなくなる。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マインドスプラッシュ"
+        },
+        "effect": {
+          "ja": "自分のベンチに「ユクシー」がいるなら、50ダメージ追加。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559769
+        }
+      }
+    ],
+    "description": {
+      "ja": "湖の 底で 眠っているが 魂が 抜け出して 水面を 飛び回ると 言われている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "SM5p-018",
+    "name": {
+      "ja": "ユクシー"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      480
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "メモリースキップ"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンが持っているワザを1つ選ぶ。次の相手の番、このワザを受けたポケモンは、選ばれたワザを使えない。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559768
+        }
+      }
+    ],
+    "description": {
+      "ja": "ユクシーの 誕生により 人々の 生活を 豊かにする 知恵が 生まれたと 言われている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "SM5p-017",
+    "name": {
+      "ja": "ロトム"
+    },
+    "illustrator": "Naoyo Kimura",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      479
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ロトモーター"
+        },
+        "effect": {
+          "ja": "自分のトラッシュに「ポケモンのどうぐ」が9枚以上あるなら、このポケモンが使うワザに必要なエネルギーは、すべてなくなる。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "プラズマスラッシュ"
+        },
+        "effect": {
+          "ja": "次の自分の番、このポケモンはワザが使えない。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559767
+        }
+      }
+    ],
+    "description": {
+      "ja": "プラズマで できた 体を 持つ。 電化製品に 潜りこみ 悪さを することで 知られている。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "017"
+  },
+  {
+    "id": "SM5p-016",
+    "name": {
+      "ja": "デンジュモク"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      796
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "せんこうだん"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ケーブルグラム"
+        },
+        "effect": {
+          "ja": "自分のサイドの残り枚数が3枚なら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559766
+        }
+      }
+    ],
+    "description": {
+      "ja": "ウルトラホールから 出現した。 発電所を 襲撃 したため 電気が エネルギーと おもわれる。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "SM5p-015",
+    "name": {
+      "ja": "ジバコイル"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      462
+    ],
+    "hp": 150,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "ja": "レアコイル"
+    },
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "マグネサーキット"
+        },
+        "effect": {
+          "ja": "自分の番に何回でも使える。自分の手札にある[雷]エネルギーを1枚、自分のポケモンにつける。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "でんじほう"
+        },
+        "effect": {
+          "ja": "次の自分の番、このポケモンは「でんじほう」が使えない。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559765
+        }
+      }
+    ],
+    "description": {
+      "ja": "怪電波を 発信 しながら 空を 飛び回り 未知の 電波を 受信 していると いう。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "SM5p-014",
+    "name": {
+      "ja": "レアコイル"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      82
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "ja": "コイル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "ぶつかる"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "でんじほう"
+        },
+        "effect": {
+          "ja": "次の自分の番、このポケモンは「でんじほう」が使えない。"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559764
+        }
+      }
+    ],
+    "description": {
+      "ja": "ほぼ コイル ３倍の 電力。 太陽の黒点が 多いとき なぜか 大量発生。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "014"
+  },
+  {
+    "id": "SM5p-013",
+    "name": {
+      "ja": "コイル"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      81
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マグネサーチ"
+        },
+        "effect": {
+          "ja": "自分の山札にある[雷]エネルギーを3枚まで、相手に見せてから、手札に加える。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "ja": "たいあたり"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559763
+        }
+      }
+    ],
+    "description": {
+      "ja": "電磁波を 放ち 空を 漂う。 電気を 喰っているときに 触ると 全身が ビリッと 痺れるぞ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "SM5p-012",
+    "name": {
+      "ja": "オニシズクモ"
+    },
+    "illustrator": "kodama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      752
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "ja": "シズクモ"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "あわ"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バブルトラップ"
+        },
+        "effect": {
+          "ja": "前の自分の番、自分のポケモンが「あわ」を使っていたなら、80ダメージ追加。"
+        },
+        "damage": "40+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559762
+        }
+      }
+    ],
+    "description": {
+      "ja": "見かけに よらず 面倒見が いい。 弱く 小さな 仲間を 見つけると 水泡の 中に 入れて 守る。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "SM5p-011",
+    "name": {
+      "ja": "シズクモ"
+    },
+    "illustrator": "sui",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      751
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かじる"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "クモのす"
+        },
+        "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559761
+        }
+      }
+    ],
+    "description": {
+      "ja": "獲物や 敵を 見つけると 頭に 被った 水泡を 弾いて 水を ぶつけるぞ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "SM5p-010",
+    "name": {
+      "ja": "パルキアGX"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
+    "category": "Pokemon",
+    "dexId": [
+      484
+    ],
+    "hp": 180,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "くうかんせいぎょ"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンについているエネルギーを好きなだけ、このポケモンにつけ替える。"
+        }
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ハイドロプレッシャー"
+        },
+        "effect": {
+          "ja": "このポケモンについている[水]エネルギーの数x20ダメージ追加。"
+        },
+        "damage": "60+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ゼロバニッシュGX"
+        },
+        "effect": {
+          "ja": "相手の場のポケモンについているエネルギーを、すべて山札にもどして切る。［対戦中、自分はGXワザを1回しか使えない。］"
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 559760
+        }
+      }
+    ],
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "suffix": "GX",
+    "cardNumber": "010"
+  },
+  {
+    "id": "SM5p-009",
+    "name": {
+      "ja": "ポッタイシ"
+    },
+    "illustrator": "Mizue",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      394
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "ja": "ポッチャマ"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "ja": "バブルこうせん"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スプラッシュ"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559759
+        }
+      }
+    ],
+    "description": {
+      "ja": "仲間を 作らずに 暮らす。 翼の 強烈な 一撃は 大木を 真っ二つに へし折る。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "SM5p-008",
+    "name": {
+      "ja": "ポッチャマ"
+    },
+    "illustrator": "Shibuzoh.",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      393
+    ],
+    "hp": 70,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "つつく"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スプラッシュ"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559758
+        }
+      }
+    ],
+    "description": {
+      "ja": "プライドが 高く 人から 食べ物を もらう ことを 嫌う。 長い 産毛が 寒さを 防ぐ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "SM5p-007",
+    "name": {
+      "ja": "ヒードラン"
+    },
+    "illustrator": "tetsuya koizumi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      485
+    ],
+    "hp": 130,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ガードプレス"
+        },
+        "effect": {
+          "ja": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ボイラーインパクト"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを、2個トラッシュする。"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559757
+        }
+      }
+    ],
+    "description": {
+      "ja": "マグマのように 燃えたぎる 血液が 体を 流れている。 火山の 洞穴に 生息する。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "SM5p-006",
+    "name": {
+      "ja": "モウカザル"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      391
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "ja": "ヒコザル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "ほのおでこがす"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをやけどにする。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559756
+        }
+      }
+    ],
+    "description": {
+      "ja": "天井や 壁を 利用して 空中殺法を 繰り出す。 尻尾の 炎も 武器の ひとつ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "SM5p-005",
+    "name": {
+      "ja": "ヒコザル"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      390
+    ],
+    "hp": 60,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "みだれひっかき"
+        },
+        "effect": {
+          "ja": "コインを3回投げ、オモテの数x10ダメージ。"
+        },
+        "damage": "10×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559755
+        }
+      }
+    ],
+    "description": {
+      "ja": "お腹で 作られた ガスが お尻で 燃えている。 体調が 悪いと 炎が 弱くなる。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "SM5p-004",
+    "name": {
+      "ja": "ユキノオー"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      460
+    ],
+    "hp": 130,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "ja": "ユキカブリ"
+    },
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "じゅひょうのめぐみ"
+        },
+        "effect": {
+          "ja": "自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のトラッシュにある[草]エネルギーを1枚、自分のポケモンにつける。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ヒプノハンマー"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンをねむりにする。"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559754
+        }
+      }
+    ],
+    "description": {
+      "ja": "万年雪が 積もる 山脈で 静かに 暮らす。 ブリザードを 発生させて 姿を 隠す。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "SM5p-003",
+    "name": {
+      "ja": "ユキカブリ"
+    },
+    "illustrator": "match",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      459
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "こおりのつぶて"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンが[闘]ポケモンなら、40ダメージ追加。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559753
+        }
+      }
+    ],
+    "description": {
+      "ja": "春になると アイスキャンディーの ような 食感の 木の実が お腹の まわりに 生る。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "SM5p-002",
+    "name": {
+      "ja": "ハヤシガメ"
+    },
+    "illustrator": "Shigenori Negishi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      388
+    ],
+    "hp": 110,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "ja": "ナエトル"
+    },
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メガドレイン"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「30」回復する。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はっぱカッター"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559752
+        }
+      }
+    ],
+    "description": {
+      "ja": "きれいな 水が わき出る 場所を 知っていて 仲間の ポケモンを 背中に 乗せて そこまで 運ぶ。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "SM5p-001",
+    "name": {
+      "ja": "ナエトル"
+    },
+    "illustrator": "OOYAMA",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      387
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たいあたり"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "はっぱカッター"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 559751
+        }
+      }
+    ],
+    "description": {
+      "ja": "全身で 光合成を して 酸素を 作る。 のどが 渇くと 頭の 葉っぱが しおれてしまう。"
+    },
+    "series": {
+      "id": "SM"
+    },
+    "set": {
+      "id": "SM5p"
+    },
+    "cardNumber": "001"
+  }
+]

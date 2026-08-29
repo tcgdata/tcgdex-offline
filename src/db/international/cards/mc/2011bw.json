@@ -1,0 +1,688 @@
+[
+  {
+    "id": "2011bw-9",
+    "name": {
+      "en": "Zorua",
+      "fr": "Zorua",
+      "de": "Zorua"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      570
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Scratch",
+          "fr": "Griffe",
+          "de": "Kratzer"
+        },
+        "damage": 10
+      },
+      {
+        "name": {
+          "en": "Fury Swipes",
+          "fr": "Combo-Griffe",
+          "de": "Kratzfurie"
+        },
+        "effect": {
+          "en": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "fr": "Lancez 3 pièces. Cette attaque inflige 10 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 3 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "10×"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281798,
+          "tcgplayer": 90758
+        }
+      }
+    ],
+    "description": {
+      "en": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+      "de": "Es übertölpelt andere, indem es verschiedene Gestalten annimmt. Angeblich tarnt es sich oft als wortkarges Kind."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "2011bw-8",
+    "name": {
+      "en": "Sandile",
+      "fr": "Mascaïman",
+      "de": "Ganovil"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      551
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Sand Tomb",
+          "fr": "Tourbi-Sable",
+          "de": "Sandgrab"
+        },
+        "effect": {
+          "en": "The Defending Pokémon can’t retreat during your opponent’s next turn.",
+          "fr": "Le Pokémon Défenseur ne peut pas battre en retraite durant le prochain tour de votre adversaire.",
+          "de": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen."
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281797,
+          "tcgplayer": 88913
+        }
+      }
+    ],
+    "description": {
+      "en": "It moves along below the sand’s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+      "de": "Wenn es sich durch den Sand gräbt, ragen nur noch Nase und Augen hervor. Die schwarze Haut dient als Augenschutz."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "2011bw-7",
+    "name": {
+      "en": "Munna",
+      "fr": "Munna",
+      "de": "Somniam"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      517
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Yawn",
+          "fr": "Bâillement",
+          "de": "Gähner"
+        },
+        "effect": {
+          "en": "The Defending Pokémon is now Asleep.",
+          "fr": "Le Pokémon Défenseur est maintenant Endormi.",
+          "de": "Das Verteidigende Pokémon schläft jetzt."
+        }
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281796,
+          "tcgplayer": 87642
+        }
+      }
+    ],
+    "description": {
+      "en": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+      "de": "Es verschlingt die Träume der Menschen. Frisst es einen fröhlichen Traum, stößt es danach einen rosafarbenen Dunst aus."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "2011bw-6",
+    "name": {
+      "en": "Blitzle",
+      "fr": "Zébibron",
+      "de": "Elezeba"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      522
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Quick Attack",
+          "fr": "Vive-Attaque",
+          "de": "Ruckzuckhieb"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, this attack does 20 more damage.",
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu."
+        },
+        "damage": "10+"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281795,
+          "tcgplayer": 83929
+        }
+      }
+    ],
+    "description": {
+      "en": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+      "de": "Wenn es Strom entlädt, blitzt seine Mähne auf. Auf diese Weise kann es auch mit Artgenossen kommunizieren."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "2011bw-5",
+    "name": {
+      "en": "Alomomola",
+      "fr": "Mamanbo",
+      "de": "Mamolida"
+    },
+    "illustrator": "sui",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      594
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Pound",
+          "fr": "Écras'Face",
+          "de": "Pfund"
+        },
+        "damage": 20
+      },
+      {
+        "name": {
+          "en": "Wave Splash",
+          "fr": "Grosse Vague",
+          "de": "Wellenplatscher"
+        },
+        "damage": 60
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281794,
+          "tcgplayer": 83507
+        }
+      }
+    ],
+    "description": {
+      "en": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+      "de": "Es treibt durch den Ozean. Findet es ein verletztes Pokémon, nimmt es dieses auf und trägt es zurück an Land."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "2011bw-4",
+    "name": {
+      "en": "Oshawott",
+      "fr": "Moustillon",
+      "de": "Ottaro"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      501
+    ],
+    "hp": 60,
+    "types": [
+      "Water"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Water Pulse",
+          "fr": "Vibraqua",
+          "de": "Aquawelle"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Endormi.",
+          "de": "Wirf 1 Münze. Bei „Kopf“ schläft das Verteidigende Pokémon jetzt."
+        },
+        "damage": 20
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281793,
+          "tcgplayer": 87893
+        }
+      }
+    ],
+    "description": {
+      "en": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+      "de": "Kämpft mit der Muschel auf seinem Bauch. Pariert es einen Angriff, schlägt es sofort mit einer Schnitt-Attacke zurück."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "2011bw-3",
+    "name": {
+      "en": "Tepig",
+      "fr": "Gruikui",
+      "de": "Floink"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      498
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Ember",
+          "fr": "Flammèche",
+          "de": "Glut"
+        },
+        "effect": {
+          "en": "Discard an Energy attached to this Pokémon.",
+          "fr": "Défaussez une Énergie attachée à ce Pokémon.",
+          "de": "Lege 1 an dieses Pokémon angelegte Energie auf deinen Ablagestapel."
+        },
+        "damage": 30
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281792,
+          "tcgplayer": 89882
+        }
+      }
+    ],
+    "description": {
+      "en": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+      "de": "Es schießt Flammen aus seinem Rüssel. Ist es erkältet, kommt statt Feuer aber nur pechschwarzer Rauch zum Vorschein."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "2011bw-2",
+    "name": {
+      "en": "Maractus",
+      "fr": "Maracachi",
+      "de": "Maracamba"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      556
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Mega Drain",
+          "fr": "Méga-Sangsue",
+          "de": "Megasauger"
+        },
+        "effect": {
+          "en": "Heal 20 damage from this Pokémon.",
+          "fr": "Soigne 20 dégâts infligés à ce Pokémon.",
+          "de": "Heile 20 Schadenspunkte bei diesem Pokémon."
+        },
+        "damage": 20
+      },
+      {
+        "name": {
+          "en": "Pin Missile",
+          "fr": "Dard-Nuée",
+          "de": "Nadelrakete"
+        },
+        "effect": {
+          "en": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "fr": "Lancez 4 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 4 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "20×"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281791,
+          "tcgplayer": 87189
+        }
+      }
+    ],
+    "description": {
+      "en": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+      "de": "Verjagt Vogel-Pokémon, die auf seine Blüten aus sind, mit einem flotten Tänzchen und lauter Untermalung."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "2011bw-12",
+    "name": {
+      "en": "Audino",
+      "fr": "Nanméouïe",
+      "de": "Ohrdoch"
+    },
+    "illustrator": "MAHOU",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      531
+    ],
+    "hp": 80,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Double Slap",
+          "fr": "Torgnoles",
+          "de": "Duplexhieb"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "30×"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281801,
+          "tcgplayer": 83660
+        }
+      }
+    ],
+    "description": {
+      "en": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "de": "Berührt es jemanden mit den Fühlern an seinen Ohren, erfährt es durch den Herzschlag der Person, wie es ihr geht."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "2011bw-11",
+    "name": {
+      "en": "Pidove",
+      "fr": "Poichigeon",
+      "de": "Dusselgurr"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      519
+    ],
+    "hp": 40,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Growl",
+          "fr": "Rugissement",
+          "de": "Heuler"
+        },
+        "effect": {
+          "en": "During your opponent’s next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+          "fr": "Lors du prochain tour de votre adversaire, les dégâts infligés par les attaques du Pokémon Défenseur sont réduits de 20 (avant application de la Faiblesse et de la Résistance).",
+          "de": "Während des nächsten Zuges deines Gegners Schaden, der durch Angriffe des Verteidigenden Pokémon zugefügt wird, um 20 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden)."
+        }
+      },
+      {
+        "name": {
+          "en": "Gust",
+          "fr": "Tornade",
+          "de": "Windstoß"
+        },
+        "damage": 10
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281800,
+          "tcgplayer": 88055
+        }
+      }
+    ],
+    "description": {
+      "en": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+      "de": "Ein Pokémon, das in der Stadt zu Hause ist. Es ist sehr zutraulich und bevölkert in Scharen öffentliche Plätze und Parks."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "2011bw-10",
+    "name": {
+      "en": "Klink",
+      "fr": "Tic",
+      "de": "Klikk"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      599
+    ],
+    "hp": 50,
+    "types": [
+      "Metal"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Charge Beam",
+          "fr": "Rayon Chargé",
+          "de": "Ladestrahl"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, cherchez une carte Énergie dans votre pile de défausse et attachez-la à ce Pokémon.",
+          "de": "Wirf 1 Münze. Lege bei „Kopf“ eine Energiekarte von deinem Ablagestapel an dieses Pokémon an."
+        },
+        "damage": 10
+      },
+      {
+        "name": {
+          "en": "Irongrip",
+          "fr": "Poigne de Fer",
+          "de": "Eiserner Griff"
+        },
+        "damage": 20
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281799,
+          "tcgplayer": 86480
+        }
+      }
+    ],
+    "description": {
+      "en": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+      "de": "Seine zwei Teile greifen ineinander wie ein Uhrwerk. Jedes andere Objekt, das man mit ihm kombinieren will, wird abgestoßen."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "2011bw-1",
+    "name": {
+      "en": "Snivy",
+      "fr": "Vipélierre",
+      "de": "Serpifeu"
+    },
+    "illustrator": "Ken Sugimori",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      495
+    ],
+    "hp": 60,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "name": {
+          "en": "Slam",
+          "fr": "Souplesse",
+          "de": "Slam"
+        },
+        "effect": {
+          "en": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "fr": "Lancez 2 pièces. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+          "de": "Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu."
+        },
+        "damage": "20×"
+      }
+    ],
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 281790,
+          "tcgplayer": 89378
+        }
+      }
+    ],
+    "description": {
+      "en": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+      "de": "Eine kühle Denkernatur. Bekommt es genügend Sonnenlicht ab, erhöht sich die Geschwindigkeit seiner Bewegungen."
+    },
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2011bw"
+    },
+    "cardNumber": "1"
+  }
+]

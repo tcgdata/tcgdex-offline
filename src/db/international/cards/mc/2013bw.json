@@ -1,0 +1,783 @@
+[
+  {
+    "id": "2013bw-9",
+    "name": {
+      "fr": "Noctali"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Onde Folie"
+        },
+        "effect": {
+          "fr": "Le Pokémon Défenseur est maintenant Confus."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Dépouillage des Ombres"
+        },
+        "effect": {
+          "fr": "Lancez 2 pièces. Si vous obtenez 2 côtés face, défaussez toutes les Énergies attachées au Pokémon Défenseur."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361729
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "9"
+  },
+  {
+    "id": "2013bw-8",
+    "name": {
+      "fr": "Charpenti"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      532
+    ],
+    "hp": 70,
+    "types": [
+      "Fighting"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Balayage"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Écras'Face"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361728
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "8"
+  },
+  {
+    "id": "2013bw-7",
+    "name": {
+      "fr": "Mentali"
+    },
+    "illustrator": "Mizue",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 90,
+    "types": [
+      "Psychic"
+    ],
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "fr": "Révélation Solaire"
+        },
+        "effect": {
+          "fr": "Évitez tous les effets des attaques de vyotre adversaire, excepté les dégâts, infligés à chacun de vos Pokémon auquel de l'Energie est attachée. Observation Psychique Votre adversaire montre sa main."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Observation Psychique"
+        },
+        "effect": {
+          "fr": "Votre adversaire montre sa main."
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361727
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "7"
+  },
+  {
+    "id": "2013bw-6",
+    "name": {
+      "fr": "Voltali"
+    },
+    "illustrator": "Sumiyoshi Kizuki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      135
+    ],
+    "hp": 90,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Pistolectrique"
+        },
+        "effect": {
+          "fr": "Vous pouvez défausser une Énergie foudre attachée à ce Pokémon. Dans ce cas, cette attaque inflige 40 dégâts supplémentaires."
+        },
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Crocs Éclair"
+        },
+        "effect": {
+          "fr": "Lancez 4 pièces. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face."
+        },
+        "damage": "40x"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 0,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361726
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "6"
+  },
+  {
+    "id": "2013bw-5",
+    "name": {
+      "fr": "Pikachu"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 60,
+    "types": [
+      "Lightning"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "fr": "Éclair"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c'est face, le Pokémon Défenseur est maintenant Paralysé."
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Queue Battoir"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361725
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "5"
+  },
+  {
+    "id": "2013bw-4",
+    "name": {
+      "fr": "Givrali"
+    },
+    "illustrator": "Rya Ueda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      471
+    ],
+    "hp": 90,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Vive-Attaque"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "ranvoi d'Énergie"
+        },
+        "effect": {
+          "fr": "Déplacez une Énergie de ce Pokémon vers 1 de vos Pokémon de Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361724
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "4"
+  },
+  {
+    "id": "2013bw-3",
+    "name": {
+      "fr": "Aquali"
+    },
+    "illustrator": "Akira Komayama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      134
+    ],
+    "hp": 100,
+    "types": [
+      "Water"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "fr": "Ocroupi"
+        },
+        "effect": {
+          "fr": "Inflige 20 dégats à I des Pokémon de Banc_de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Spirale Epuisante"
+        },
+        "effect": {
+          "fr": "Soignez 20 dégâts à ce Pokémon"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361723
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "3"
+  },
+  {
+    "id": "2013bw-2",
+    "name": {
+      "fr": "Pyroli"
+    },
+    "illustrator": "Rya Ueda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      136
+    ],
+    "hp": 90,
+    "types": [
+      "Fire"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Jet de Sable"
+        },
+        "effect": {
+          "fr": "Si le Pokémon Défenseur essaie d'attaquer pendant le prochain tour de votre adversaire, ce dernier lance une pièce. Si c'est pile, son attaque ne fait rien."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Flamme Tranchante"
+        },
+        "effect": {
+          "fr": "Vous pouvez défausser une Energie feu & attachée à ce Pokémon. Dans ce cas, cette attaque inflige 30 dégâts supplémentaires"
+        },
+        "damage": "60+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361722
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "2"
+  },
+  {
+    "id": "2013bw-12",
+    "name": {
+      "fr": "Évoli"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 60,
+    "types": [
+      "Colorless"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Attaque Surprise"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c̕ est pile, cette attaque ne fait rien"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361732
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "12"
+  },
+  {
+    "id": "2013bw-11",
+    "name": {
+      "fr": "Zorua"
+    },
+    "illustrator": "Shin Nagasawa",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      570
+    ],
+    "hp": 50,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "fr": "Collision"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Botte Secrète"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 10 dégâts supplémentaires."
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361731
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "11"
+  },
+  {
+    "id": "2013bw-10",
+    "name": {
+      "fr": "Baggiguane"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      559
+    ],
+    "hp": 60,
+    "types": [
+      "Darkness"
+    ],
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Botte Secrète"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts supplémentaires."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361730
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "10"
+  },
+  {
+    "id": "2013bw-1",
+    "name": {
+      "fr": "Phyllali"
+    },
+    "illustrator": "Masakazu Fukuda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      470
+    ],
+    "hp": 90,
+    "types": [
+      "Grass"
+    ],
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Vive-Attaque"
+        },
+        "effect": {
+          "fr": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts supplémentaires."
+        },
+        "damage": "10+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "fr": "Assistance Énergétique"
+        },
+        "effect": {
+          "fr": "Attachez une carte Énergie de base de votre pile de défausse à I de vos Pokémon de Banc."
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 361721
+        }
+      }
+    ],
+    "series": {
+      "id": "mc"
+    },
+    "set": {
+      "id": "2013bw"
+    },
+    "cardNumber": "1"
+  }
+]
