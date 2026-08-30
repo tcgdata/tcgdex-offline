@@ -39,7 +39,7 @@ jobs:
       - name: Try applying changes from ${{ inputs.branch }}
         run: |
           git fetch origin
-          git cherry-pick -n "origin/${{ inputs.branch }}"
+          git cherry-pick -n "origin/${{ inputs.branch }}" || true
       - name: Install dependencies
         run: npm ci
       - name: Update DB

@@ -32,7 +32,7 @@ process.stderr.write(`Current DB commit: ${currentDbCommit || 'none'}\n`);
 process.stderr.write(`Force updated: ${process.env.FORCE_UPDATE === 'true'}\n`);
 
 // Only recompile if there are either:
-// 1. Changes to the txgdex data.
+// 1. Changes to the tcgdex data.
 // 2. FORCE_UPDATE is set to true (the compilation process was changed and data may be different)
 if (currentDbCommit !== commit || process.env.FORCE_UPDATE === 'true') {
   process.stderr.write(`Compiling international database\n`);
