@@ -39,7 +39,7 @@ jobs:
       - name: Try applying changes from ${{ inputs.branch }}
         run: |
           git fetch origin
-          git merge "${{ inputs.branch }}" --no-edit
+          git merge "origin/${{ inputs.branch }}" --no-edit
       - name: Install dependencies
         run: npm ci
       - name: Update DB
