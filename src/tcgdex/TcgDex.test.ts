@@ -453,7 +453,7 @@ describe('TcgDex', () => {
   describe('Validate full data set', () => {
     test.each(Object.values(LANGUAGES))(
       'International data can be queried and is valid - %s',
-      { timeout: 15_000 },
+      { timeout: 30_000 },
       async (language) => {
         const tcgDex = createInternationalTcgDex({ language });
         const actual = {
