@@ -90,8 +90,18 @@ export const cloneRepository = async (
   if (currentCommit) {
     if (currentCommit.ref === tagOrBranch) {
       // already checked out
-      return;
+      await execa({
+        cwd: directory,
+      })`git pull --depth 1 origin ${tagOrBranch}`;
     } else {
+      try {
+        await execa({
+          cwd: directory,
+        })`git branch -d ${tagOrBranch}`;
+      } catch {
+        // branch does not exist locally
+      }
+
       await execa({
         cwd: directory,
       })`git remote set-branches --add origin ${tagOrBranch}`;
@@ -205,6 +215,9 @@ export const buildRepository = (
   setFiles: Record<string, string>,
   cardFiles: Record<string, string>
 ) => {
+  setFiles = sortObjectRecursive(setFiles);
+  cardFiles = sortObjectRecursive(cardFiles);
+
   return `const loadSeries = async (): Promise<Array<any>> => {
     return (await import(${JSON.stringify(`./${seriesFile}`)}, {
       with: { type: 'json' } 

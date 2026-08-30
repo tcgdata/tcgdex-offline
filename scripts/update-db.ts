@@ -10,8 +10,8 @@ const branchOrTag = 'master';
 let currentDbCommit: string | undefined;
 
 try {
-  const { DATABASES } = await import('../src');
-  currentDbCommit = DATABASES.INTERNATIONAL.COMMIT;
+  const { COMMIT } = await import('../src/db/international');
+  currentDbCommit = COMMIT;
 } catch {
   // DB not yet compiled
 }
