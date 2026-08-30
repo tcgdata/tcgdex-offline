@@ -27,6 +27,10 @@ const result: {
   message: 'No changes to commit',
 };
 
+process.stderr.write(`Cloned repository commit: ${commit}\n`);
+process.stderr.write(`Current DB commit: ${currentDbCommit || 'none'}\n`);
+process.stderr.write(`Force updated: ${process.env.FORCE_UPDATE === 'true'}\n`);
+
 // Only recompile if there are either:
 // 1. Changes to the txgdex data.
 // 2. FORCE_UPDATE is set to true (the compilation process was changed and data may be different)
