@@ -13,9 +13,8 @@ on:
         type: string
         required: true
         default: update-db
-# TODO: uncomment
-#  schedule:
-#    - cron: '0 0 * * *'
+  schedule:
+    - cron: '0 0 * * *'
 
 env:
   FORCE_UPDATE: ${{ inputs.force_update }}
