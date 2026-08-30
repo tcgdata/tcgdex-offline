@@ -1,12 +1,15 @@
 // @ts-check
 
+import { fileURLToPath } from 'node:url';
 import js from '@eslint/js';
-import { defineConfig, globalIgnores } from 'eslint/config';
+import { defineConfig, includeIgnoreFile } from 'eslint/config';
 import tseslint from 'typescript-eslint';
 import vitest from '@vitest/eslint-plugin';
 
+const gitignorePath = fileURLToPath(new URL('.gitignore', import.meta.url));
+
 export default defineConfig([
-  globalIgnores(['temp/*']),
+  includeIgnoreFile(gitignorePath, { gitignoreResolution: true }),
   {
     files: ['**/*.{js,ts}'],
     plugins: {

@@ -1,4 +1,3 @@
-import { DATABASES } from './databases';
 import {
   RawSeries,
   RawSet,
@@ -8,37 +7,44 @@ import {
   NormalizedCard,
 } from './schemas';
 
-export type DatabaseName = keyof typeof DATABASES;
+type ExtractId<T> = T extends ReadonlyArray<string> ? T[number] : T extends string ? T : string;
 
-export type SeriesId<T extends DatabaseName> = (typeof DATABASES)[T]['SERIES_IDS'][number];
-
-export type SetId<T extends DatabaseName> = (typeof DATABASES)[T]['SET_IDS'][number];
-
-export type Series<T extends DatabaseName = DatabaseName> = NormalizedSeries & {
-  id: SeriesId<T>;
+export type Series<TSeriesId extends ReadonlyArray<string> | string = string> = NormalizedSeries & {
+  id: ExtractId<TSeriesId>;
 };
 
-export type Set<T extends DatabaseName = DatabaseName> = NormalizedSet & {
-  id: SetId<T>;
+export type Set<
+  TSeriesId extends ReadonlyArray<string> | string = string,
+  TSetId extends ReadonlyArray<string> | string = string,
+> = NormalizedSet & {
+  id: ExtractId<TSetId>;
   series: {
-    id: SeriesId<T>;
+    id: ExtractId<TSeriesId>;
   };
 };
 
-export type Card<T extends DatabaseName = DatabaseName> = NormalizedCard & {
+export type Card<
+  TSeriesId extends ReadonlyArray<string> | string = string,
+  TSetId extends ReadonlyArray<string> | string = string,
+> = NormalizedCard & {
   series: {
-    id: SeriesId<T>;
+    id: ExtractId<TSeriesId>;
   };
   set: {
-    id: SeriesId<T>;
+    id: ExtractId<TSetId>;
   };
+};
+
+export type DatabaseConfig<
+  TSeriesIds extends ReadonlyArray<string> = ReadonlyArray<string>,
+  TSetIds extends ReadonlyArray<string> = ReadonlyArray<string>,
+> = {
+  seriesIds: TSeriesIds;
+  setIdsBySeriesId: Record<TSeriesIds[number], TSetIds>;
 };
 
 export type CardRepository = {
   loadSeries: () => Promise<Array<RawSeries>>;
-  loadSeriesById: (seriesId: string) => Promise<RawSeries | undefined>;
-  loadSetsBySeriesId: (seriesId: string) => Promise<Array<RawSet>>;
-  loadSetById: (setId: string) => Promise<RawSet | undefined>;
-  loadCardsBySetId: (setId: string) => Promise<Array<RawCard>>;
-  loadCardById: (cardId: string) => Promise<RawCard | undefined>;
+  loadSetsBySeriesId: (seriesId: string) => Promise<Array<RawSet> | undefined>;
+  loadCardsBySetId: (setId: string) => Promise<Array<RawCard> | undefined>;
 };

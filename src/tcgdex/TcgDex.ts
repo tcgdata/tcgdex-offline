@@ -1,100 +1,136 @@
 import { normalizeSet, normalizeSeries, normalizeCard } from '../normalizers';
-import { DatabaseName, SeriesId, SetId, Series, Set, Card } from '../types';
+import { Series, Set, Card } from '../types';
 import { ImageExtension, ImageQuality } from '../constants';
 import { ResolvedTxgDexProps } from './TcgDex.types';
+import { ResourceNotFoundError } from '../error';
 
-export class TcgDex<TDatabase extends DatabaseName = DatabaseName> {
+export class TcgDex<
+  TSeriesIds extends ReadonlyArray<string> = ReadonlyArray<string>,
+  TSetIds extends ReadonlyArray<string> = ReadonlyArray<string>,
+> {
   public constructor(private readonly props: ResolvedTxgDexProps) {}
 
-  public async getSeries(): Promise<Array<Series<TDatabase>>> {
+  public async getSeries(): Promise<Array<Series<TSeriesIds>>> {
     const series = await this.props.repository.loadSeries();
-    const normalizedSeries: Array<Series<TDatabase>> = [];
+    const normalizedSeries: Array<Series<TSeriesIds>> = [];
 
     series.forEach((serie) => {
       const normalized = normalizeSeries(serie, this.props);
 
       if (normalized) {
-        normalizedSeries.push(normalized as Series<TDatabase>);
+        normalizedSeries.push(normalized as Series<TSeriesIds>);
       }
     });
 
     return normalizedSeries;
   }
 
-  public async getSeriesById(id: SeriesId<TDatabase>): Promise<Series<TDatabase>> {
-    const series = await this.props.repository.loadSeriesById(id);
-    const normalized = series && normalizeSeries(series, this.props);
+  public async getSeriesById(id: TSeriesIds[number]): Promise<Series<TSeriesIds>> {
+    const series = await this.props.repository.loadSeries();
+    const serie = series.find((item) => item.id === id);
+    const normalized = serie && normalizeSeries(serie, this.props);
 
     if (!normalized) {
-      throw new Error(
+      throw new ResourceNotFoundError(
         `Series with ID "${id}" does not exist for language "${this.props.language}".`
       );
     }
 
-    return normalized as Series<TDatabase>;
+    return normalized as Series<TSeriesIds>;
   }
 
-  public async getSetsBySeriesId(seriesId: SeriesId<TDatabase>): Promise<Array<Set<TDatabase>>> {
+  public async getSetsBySeriesId(
+    seriesId: TSeriesIds[number]
+  ): Promise<Array<Set<TSeriesIds, TSetIds>>> {
     const sets = await this.props.repository.loadSetsBySeriesId(seriesId);
-    const normalizedSets: Array<Set<TDatabase>> = [];
+
+    if (!sets) {
+      throw new ResourceNotFoundError(
+        `Series with ID "${seriesId}" does not exist for language "${this.props.language}".`
+      );
+    }
+
+    const normalizedSets: Array<Set<TSeriesIds, TSetIds>> = [];
 
     sets.forEach((set) => {
       const normalized = normalizeSet(set, this.props);
 
       if (normalized) {
-        normalizedSets.push(normalized as Set<TDatabase>);
+        normalizedSets.push(normalized as Set<TSeriesIds, TSetIds>);
       }
     });
 
     return normalizedSets;
   }
 
-  public async getSetById(id: SetId<TDatabase>): Promise<Set<TDatabase>> {
-    const set = await this.props.repository.loadSetById(id);
-    const normalized = set && normalizeSet(set, this.props);
+  public async getSetById(id: TSetIds[number]): Promise<Set<TSeriesIds, TSetIds>> {
+    for (const seriesId in this.props.config.setIdsBySeriesId) {
+      if (this.props.config.setIdsBySeriesId[seriesId].includes(id)) {
+        const sets = await this.props.repository.loadSetsBySeriesId(seriesId);
+        const set = sets?.find((set) => set.id === id);
+        const normalized = set && normalizeSet(set, this.props);
 
-    if (!normalized) {
-      throw new Error(`Set with ID "${id}" does not exist for language "${this.props.language}".`);
+        if (normalized) {
+          return normalized as Set<TSeriesIds, TSetIds>;
+        }
+      }
     }
 
-    return normalized as Set<TDatabase>;
+    throw new ResourceNotFoundError(
+      `Set with ID "${id}" does not exist for language "${this.props.language}".`
+    );
   }
 
-  public async getCardsBySetId(setId: SetId<TDatabase>): Promise<Array<Card<TDatabase>>> {
+  public async getCardsBySetId(setId: TSetIds[number]): Promise<Array<Card<TSeriesIds, TSetIds>>> {
     const cards = await this.props.repository.loadCardsBySetId(setId);
-    const normalizedCards: Array<Card<TDatabase>> = [];
+
+    if (!cards) {
+      throw new ResourceNotFoundError(
+        `Set with ID "${setId}" does not exist for language "${this.props.language}".`
+      );
+    }
+
+    const normalizedCards: Array<Card<TSeriesIds, TSetIds>> = [];
 
     cards.forEach((card) => {
       const normalized = normalizeCard(card, this.props);
 
       if (normalized) {
-        normalizedCards.push(normalized as Card<TDatabase>);
+        normalizedCards.push(normalized as Card<TSeriesIds, TSetIds>);
       }
     });
 
     return normalizedCards;
   }
 
-  public async getCardById(id: string): Promise<Card<TDatabase>> {
-    const card = await this.props.repository.loadCardById(id);
-    const normalized = card && normalizeCard(card, this.props);
+  public async getCardById(id: string): Promise<Card<TSeriesIds, TSetIds>> {
+    const lastDash = id.lastIndexOf('-');
 
-    if (!normalized) {
-      throw new Error(`Card with ID "${id}" does not exist for language "${this.props.language}".`);
+    if (lastDash >= 1) {
+      const setId = id.substring(0, lastDash);
+      const cards = await this.props.repository.loadCardsBySetId(setId);
+      const card = cards?.find((card) => card.id === id);
+      const normalized = card && normalizeCard(card, this.props);
+
+      if (normalized) {
+        return normalized as Card<TSeriesIds, TSetIds>;
+      }
     }
 
-    return normalized as Card<TDatabase>;
+    throw new ResourceNotFoundError(
+      `Card with ID "${id}" does not exist for language "${this.props.language}".`
+    );
   }
 
   public getCardImageUrl(
-    card: Card<TDatabase>,
+    card: Card<TSeriesIds, TSetIds>,
     quality: ImageQuality,
     extension: ImageExtension
   ): string {
     return `https://assets.tcgdex.net/${this.props.language}/${card.series.id}/${card.set.id}/${card.cardNumber}/${quality}.${extension}`;
   }
 
-  public getSetLogoImageUrl(set: Set<TDatabase>, extension: ImageExtension): string {
+  public getSetLogoImageUrl(set: Set<TSeriesIds, TSetIds>, extension: ImageExtension): string {
     return `https://assets.tcgdex.net/${this.props.language}/${set.series.id}/${set.id}/logo.${extension}`;
   }
 }

@@ -4,6 +4,20 @@
   "type": "module",
   "main": "dist/index.mjs",
   "types": "dist/index.d.mts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.mts",
+      "default": "./dist/index.mjs"
+    },
+    "./db/asia": {
+      "types": "./dist/db/asia/index.d.mts",
+      "default": "./dist/db/asia/index.mjs"
+    },
+    "./db/international": {
+      "types": "./dist/db/international/index.d.mts",
+      "default": "./dist/db/international/index.mjs"
+    }
+  },
   "sideEffects": false,
   "repository": {
     "url": "https://github.com/tcgdata/tcgdex-offline"
@@ -21,7 +35,7 @@
     "update-db": "tsx ./scripts/update-db.ts",
     "delete-stale-changesets": "tsx ./scripts/delete-stale-changesets.ts"
   },
-  "include": [
+  "files": [
     "dist"
   ],
   "devDependencies": {
@@ -32,18 +46,20 @@
     "@types/node": "^26.4.0",
     "@vitest/coverage-v8": "^4.1.11",
     "@vitest/eslint-plugin": "^1.6.27",
+    "esbuild": "^0.28.2",
     "eslint": "^10.9.1",
     "execa": "^10.0.1",
     "glob": "^13.0.6",
     "prettier": "^3.9.6",
+    "sanitize-filename": "^1.6.4",
     "tsdown": "^0.22.14",
     "tsx": "^4.23.12",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.68.0",
+    "unplugin-ast": "^0.18.1",
     "vitest": "^4.1.11"
   },
   "dependencies": {
-    "sanitize-filename": "^1.6.4",
-    "zod": "^4.4.3"
+    "zod": "^4.5.4"
   }
 }

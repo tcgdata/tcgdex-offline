@@ -3,8 +3,8 @@ name: Update DB
 on:
   workflow_dispatch:
     inputs:
-      force_recompile:
-        description: 'Force recompile'
+      force_update:
+        description: 'Force update'
         type: boolean
         required: false
         default: false
@@ -18,7 +18,7 @@ on:
 #    - cron: '0 0 * * *'
 
 env:
-  FORCE_RECOMPILE: ${{ inputs.force_recompile }}
+  FORCE_UPDATE: ${{ inputs.force_update }}
 
 jobs:
   update-db:

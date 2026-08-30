@@ -1,0 +1,22 @@
+/**
+ * For more details on how to configure Wrangler, refer to:
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tcgdex-cf",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-29",
+  "observability": {
+    "enabled": true,
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+  },
+  "upload_source_maps": true,
+  "compatibility_flags": ["nodejs_compat"],
+  "cache": {
+    "enabled": true,
+  },
+}

@@ -29,8 +29,8 @@ const result: {
 
 // Only recompile if there are either:
 // 1. Changes to the txgdex data.
-// 2. FORCE_RECOMPILE is set to true (the compilation process was changed and data may be different)
-if (currentDbCommit !== commit || process.env.FORCE_RECOMPILE === 'true') {
+// 2. FORCE_UPDATE is set to true (the compilation process was changed and data may be different)
+if (currentDbCommit !== commit || process.env.FORCE_UPDATE === 'true') {
   process.stderr.write(`Compiling international database\n`);
   await compileDb(
     path.resolve(cloneDirectory, 'data'),

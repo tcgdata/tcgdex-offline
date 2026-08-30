@@ -203,8 +203,7 @@ export const sortObjectRecursive = <T>(obj: T): T => {
 export const buildRepository = (
   seriesFile: string,
   setFiles: Record<string, string>,
-  cardFiles: Record<string, string>,
-  db: CompiledDb
+  cardFiles: Record<string, string>
 ) => {
   return `const loadSeries = async (): Promise<Array<any>> => {
     return (await import(${JSON.stringify(`./${seriesFile}`)}, {
@@ -212,14 +211,7 @@ export const buildRepository = (
     })).default;
   };
   
-  const loadSeriesById = async (id: string): Promise<any> => {
-    const series = await import(${JSON.stringify(`./${seriesFile}`)}, {
-      with: { type: 'json' } 
-    });
-    return series.default.find((item: any) => item.id === id);
-  };
-  
-  const loadSetsBySeriesId = async (seriesId: string): Promise<Array<any>> => {
+  const loadSetsBySeriesId = async (seriesId: string): Promise<Array<any> | undefined> => {
     switch (seriesId) {
       ${Object.entries(setFiles)
         .map(
@@ -232,36 +224,9 @@ export const buildRepository = (
         )
         .join('')}
     }
-    
-    throw new Error(\`Cannot load set for unknown series "\${seriesId}".\`);
   };
   
-  const loadSetById = async (id: string): Promise<any> => {
-    let sets;
-  
-    switch (id) {
-      ${Object.entries(db.setsBySeries)
-        .map(
-          ([series, sets]) => `${sets
-            .map(
-              (set) => `
-        case ${JSON.stringify(set.id)}:
-      `
-            )
-            .join('')}
-          sets = (await import(${JSON.stringify(`./${setFiles[series]}`)}, {
-            with: { type: 'json' } 
-          })).default;
-          break;
-      `
-        )
-        .join('')}
-    }
-    
-    return sets?.find((item: any) => item.id === id);
-  };
-  
-  const loadCardsBySetId = async (setId: string): Promise<Array<any>> => {
+  const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> => {
     switch (setId) {
       ${Object.entries(cardFiles)
         .map(
@@ -274,23 +239,59 @@ export const buildRepository = (
         )
         .join('')}
     }
-    
-    throw new Error(\`Cannot load cards for unknown set "\${setId}".\`);
   };
   
-  const loadCardById = async (id: string): Promise<any> => {
-    const lastDashIndex = id.lastIndexOf('-');
+  export const repository = { loadSeries, loadSetsBySeriesId, loadCardsBySetId };`;
+};
+
+export const buildIndex = (): string => {
+  return `import { repository as defaultRepository } from './repository';
+    import { SERIES_IDS, SET_IDS_BY_SERIES_ID } from './constants';
+    import { TcgDex, TcgDexProps } from '../../tcgdex';
+    import { CardRepository } from '../../types';
     
-    if (lastDashIndex <= 1) {
-      return;
-    }
+    export {
+      // Version details
+      COMMIT,
+      VERSION,
     
-    const setId = id.substring(0, lastDashIndex);
-    const cards = await loadCardsBySetId(setId);
-    return cards?.find((item: any) => item.id === id);
-  };
-  
-  export const repository = { loadSeries, loadSeriesById, loadSetsBySeriesId, loadSetById, loadCardsBySetId, loadCardById };`;
+      // Identifiers
+      SERIES_IDS,
+      SET_IDS_BY_SERIES_ID,
+      SET_IDS,
+      SETS,
+      SERIES,
+      TCG_PLAYER_GROUPS,
+    
+      // Card attributes
+      CARD_CATEGORIES,
+      CARD_ILLUSTRATORS,
+      CARD_RARITIES,
+      CARD_REGULATION_MARKS,
+      CARD_VARIANT_STAMPS,
+      CARD_VARIANT_TYPES,
+      CARD_VARIANT_SUB_TYPES,
+    } from './constants';
+    
+    type SeriesIds = (typeof SERIES_IDS);
+    type SetIds = (typeof SET_IDS_BY_SERIES_ID)[keyof typeof SET_IDS_BY_SERIES_ID];
+    
+    export type SeriesId = SeriesIds[number];
+    export type SetId = SetIds[number];
+    
+    export const createTcgDex = (
+      props: TcgDexProps,
+      repository?: CardRepository
+    ): TcgDex<SeriesIds, SetIds> => {
+      return new TcgDex({
+        ...props,
+        repository: defaultRepository || repository,
+        config: {
+          seriesIds: SERIES_IDS,
+          setIdsBySeriesId: SET_IDS_BY_SERIES_ID,
+        },
+      });
+    };`;
 };
 
 export const buildConstants = (db: CompiledDb) => {
@@ -373,6 +374,18 @@ export const buildConstants = (db: CompiledDb) => {
       null,
       2
     )} as const;\n\n` +
+    `export const SET_IDS_BY_SERIES_ID = ${JSON.stringify(
+      Object.fromEntries(
+        Object.entries(setsHash)
+          .map(
+            ([seriesKey, sets]) =>
+              [seriesHash[seriesKey], Object.values(sets)] as [string, Array<string>]
+          )
+          .sort((a, b) => a[0].localeCompare(b[0]))
+      ),
+      null,
+      2
+    )} as const;\n\n` +
     `export const CARD_ILLUSTRATORS = ${JSON.stringify(cardIllustrators, null, 2)} as const;\n\n` +
     `export const CARD_VARIANT_TYPES = ${JSON.stringify(cardVariantTypes, null, 2)} as const;\n\n` +
     `export const CARD_VARIANT_SUB_TYPES = ${JSON.stringify(cardVariantSubTypes, null, 2)} as const;\n\n` +
@@ -430,11 +443,10 @@ export const writeDb = async (db: CompiledDb, outputDirectory: string): Promise<
 
   await fs.writeFile(
     path.resolve(outputDirectory, 'repository.ts'),
-    buildRepository(seriesFile, setFiles, cardFiles, db)
+    buildRepository(seriesFile, setFiles, cardFiles)
   );
-
-  const constants = buildConstants(db);
-  await fs.writeFile(path.resolve(outputDirectory, 'constants.ts'), constants);
+  await fs.writeFile(path.resolve(outputDirectory, 'constants.ts'), buildConstants(db));
+  await fs.writeFile(path.resolve(outputDirectory, 'index.ts'), buildIndex());
 };
 
 export const compileDb = async (
