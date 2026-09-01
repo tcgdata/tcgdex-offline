@@ -9,3 +9,6 @@ jobs:
   trigger-update-db:
     name: Trigger update DB
     uses: ./.github/workflows/update-db.yml
+    permissions:
+      contents: write
+      pull-requests: write
