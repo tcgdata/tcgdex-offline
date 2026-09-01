@@ -1,5 +1,8 @@
 # tcgdex-offline
 
+![NPM Version](https://img.shields.io/npm/v/%40tcgdata%2Ftcgdex-offline)
+![CI](https://github.com/tcgdata/tcgdex-offline/actions/workflows/ci.yml/badge.svg)
+
 Provides functions for querying and iterating through series, set and card data maintained in
 https://github.com/tcgdex/cards-database.
 
