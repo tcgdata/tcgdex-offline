@@ -78,7 +78,7 @@ jobs:
           npm run delete-stale-changesets
           npx changeset add -m "${{ steps.update_db.outputs.message }}" --patch @tcgdata/tcgdex-offline
       - name: Create or Update Pull Request
-        if: steps.update_db.outputs.has_changes == 'true' && inputs.create_pr == 'true'
+        if: steps.update_db.outputs.has_changes == 'true' && inputs.create_pr == true
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
