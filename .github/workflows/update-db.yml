@@ -16,24 +16,21 @@ on:
       create_pr:
         description: 'Create a PR with the changes'
         type: boolean
-        required: true
+        required: false
         default: true
   workflow_call:
     inputs:
       branch:
         description: 'Name of branch to create'
         type: string
-        required: true
         default: update-db
       force_update:
         description: 'Force update'
         type: boolean
-        required: false
         default: false
       create_pr:
         description: 'Create a PR with the changes'
         type: boolean
-        required: true
         default: true
 
 env:

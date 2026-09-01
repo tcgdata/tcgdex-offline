@@ -8,5 +8,4 @@ on:
 jobs:
   trigger-update-db:
     name: Trigger update DB
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     uses: ./.github/workflows/update-db.yml
