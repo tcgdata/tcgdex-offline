@@ -2,23 +2,22 @@ name: Update DB
 
 on:
   workflow_dispatch:
-# TODO: revert
-#    inputs:
-#      branch:
-#        description: 'Name of branch to create'
-#        type: string
-#        required: true
-#        default: update-db
-#      force_update:
-#        description: 'Force update'
-#        type: boolean
-#        required: false
-#        default: false
-#      create_pr:
-#        description: 'Create a PR with the changes'
-#        type: boolean
-#        required: true
-#        default: true
+    inputs:
+      branch:
+        description: 'Name of branch to create'
+        type: string
+        required: true
+        default: update-db
+      force_update:
+        description: 'Force update'
+        type: boolean
+        required: false
+        default: false
+      create_pr:
+        description: 'Create a PR with the changes'
+        type: boolean
+        required: true
+        default: true
   workflow_call:
     inputs:
       branch:
@@ -36,22 +35,13 @@ on:
         type: boolean
         required: true
         default: true
-  schedule:
-    - cron: '0 0 * * *'
 
 env:
   FORCE_UPDATE: ${{ inputs.force_update }}
 
 jobs:
-  # Ensure inputs get passed to workflow when triggered via a schedule
-  trigger-update-db:
-    name: Trigger update DB
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' # todo only run on schedule
-    uses: ./.github/workflows/update-db.yml
-
   update-db:
     name: Update DB
-    if: github.event_name == 'workflow_call' # todo also run on workflow_dispatch
     runs-on: ubuntu-latest
     permissions:
       contents: write # to push db changes
