@@ -1,4 +1,4 @@
-export const COMMIT = 'd86b5107d09484994f7fa15c45b0af8ffd72e1b0';
+export const COMMIT = 'd88210d806d1b55d7832847beaed692c0bb7bfee';
 
 export const VERSION = 'master';
 
