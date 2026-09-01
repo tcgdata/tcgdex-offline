@@ -3,18 +3,38 @@ name: Update DB
 on:
   workflow_dispatch:
     inputs:
-      force_update:
-        description: 'Force update'
-        type: boolean
-        required: false
-        default: false
       branch:
         description: 'Name of branch to create'
         type: string
         required: true
         default: update-db
-  schedule:
-    - cron: '0 0 * * *'
+      force_update:
+        description: 'Force update'
+        type: boolean
+        required: false
+        default: false
+      create_pr:
+        description: 'Create a PR with the changes'
+        type: boolean
+        required: true
+        default: true
+  workflow_call:
+    inputs:
+      branch:
+        description: 'Name of branch to create'
+        type: string
+        required: true
+        default: update-db
+      force_update:
+        description: 'Force update'
+        type: boolean
+        required: false
+        default: false
+      create_pr:
+        description: 'Create a PR with the changes'
+        type: boolean
+        required: true
+        default: true
 
 env:
   FORCE_UPDATE: ${{ inputs.force_update }}
@@ -61,7 +81,7 @@ jobs:
           npm run delete-stale-changesets
           npx changeset add -m "${{ steps.update_db.outputs.message }}" --patch @tcgdata/tcgdex-offline
       - name: Create or Update Pull Request
-        if: steps.update_db.outputs.has_changes == 'true'
+        if: steps.update_db.outputs.has_changes == 'true' && inputs.create_pr == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
