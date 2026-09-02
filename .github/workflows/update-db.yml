@@ -73,7 +73,7 @@ jobs:
         if: steps.update_db.outputs.has_changes == 'true' && steps.globals.outputs.create_pr == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TCGDEX_REPOSITORY_SYNC_TOKEN }}
           commit-message: 'chore: ${{ steps.update_db.outputs.message }}'
           branch: ${{ steps.globals.outputs.branch }}
           base: main
