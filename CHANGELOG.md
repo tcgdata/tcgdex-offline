@@ -1,5 +1,11 @@
 # @tcgdata/tcgdex-offline
 
+## 0.0.2
+
+### Patch Changes
+
+- [#8](https://github.com/tcgdata/tcgdex-offline/pull/8) [`8b288eb`](https://github.com/tcgdata/tcgdex-offline/commit/8b288eb13d9338ea712d4465c1aeeb3d8da659ab) Thanks [@github-actions](https://github.com/apps/github-actions)! - Updated tcgdex data to commit d88210d806d1b55d7832847beaed692c0bb7bfee (ref: master)
+
 ## 0.0.1
 
 ### Patch Changes
