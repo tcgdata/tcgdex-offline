@@ -781,7 +781,7 @@
         },
         "effect": {
           "en": "Search your deck for up to 2 Grass Basic Pokémon and put them onto your Bench. Shuffle your deck afterward.",
-          "fr": "Cherchez dans votre deck jusqu'à 2 Pokémon de base  et placez-les sur votre Banc. Ensuite, mélangez votre deck.",
+          "fr": "Cherchez dans votre deck jusqu'à 2 Pokémon de base {G} et placez-les sur votre Banc. Ensuite, mélangez votre deck.",
           "de": "Search your deck for up to 2  Basic Pokémon and put them onto your bench. Suffle your deck afterward."
         }
       },
@@ -796,7 +796,7 @@
         },
         "effect": {
           "en": "Discard a Grass Energy card attached to Weedle. The Defending Pokémon is now Poisoned.",
-          "fr": "Défaussez une carte Énergie  attachée à Aspicot. Le Pokémon Défenseur est maintenant Empoisonné.",
+          "fr": "Défaussez une carte Énergie {G} attachée à Aspicot. Le Pokémon Défenseur est maintenant Empoisonné.",
           "de": "Discard a  Energy Card attached to Weedle. The Defending Pokémon is now Poisoned."
         }
       }
@@ -1805,7 +1805,7 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, search your discard pile for a Lightning Energy card and attach it to Pikachu.",
-          "fr": "Lancez une pièce. Si c'est face, cherchez une carte Énergie  dans votre pile de défausse et attachez-la à Pikachu.",
+          "fr": "Lancez une pièce. Si c'est face, cherchez une carte Énergie {L} dans votre pile de défausse et attachez-la à Pikachu.",
           "de": "Flip a coin. If heads, search your discard pile for a  Energy card and attach it to Pikachu."
         },
         "damage": 10
@@ -3930,7 +3930,7 @@
         },
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each Water Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
-          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie  attachée à Carabaffe qui n'a pas été utilisée pour payer le Coût en Énergie de cette attaque. Vous ne pouvez pas ajouter plus de 20 dégâts de cette façon.",
+          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie {W} attachée à Carabaffe qui n'a pas été utilisée pour payer le Coût en Énergie de cette attaque. Vous ne pouvez pas ajouter plus de 20 dégâts de cette façon.",
           "de": "Does 20 damage plus 10 more damage for each  Energy attached to Wartortle but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
         },
         "damage": "20+"
@@ -5722,6 +5722,9 @@
     "dexId": [
       96
     ],
+    "cameoDexIds": [
+      41
+    ],
     "hp": 50,
     "types": [
       "Psychic"
@@ -6358,7 +6361,7 @@
         },
         "effect": {
           "en": "Search your deck for up to 2 Water Energy cards and attach them to Kingler. Shuffle your deck afterward.",
-          "fr": "Cherchez dans votre deck jusqu'à 2 cartes Énergie  et attachez-les à Krabboss. Ensuite, mélangez votre deck.",
+          "fr": "Cherchez dans votre deck jusqu'à 2 cartes Énergie {W} et attachez-les à Krabboss. Ensuite, mélangez votre deck.",
           "de": "Search your deck for up to 2  Energy cards and attach them to Kingler. Shuffle your deck afterward."
         }
       },
@@ -6814,7 +6817,7 @@
         },
         "effect": {
           "en": "As long as Dodrio is on your Bench, you pay Colorless Colorless less to retreat your Active Pokémon (excluding Pokémon-ex and Baby Pokémon).\"",
-          "fr": "Tant que Dodrio est sur votre Banc, vous n'avez pas à payer  pour faire battre en retraite votre Pokémon Actif (sauf pour les Pokémon-ex et les Bébés Pokémon).",
+          "fr": "Tant que Dodrio est sur votre Banc, vous n'avez pas à payer {C}{C} pour faire battre en retraite votre Pokémon Actif (sauf pour les Pokémon-ex et les Bébés Pokémon).",
           "de": "Solange sich Dodri auf deiner Bank befindet, kostet dich der Rückzug deiner Aktiven Pokémon (außer Pokémon-ex und Baby-Pokémon).   weniger."
         }
       }
@@ -7743,7 +7746,7 @@
         },
         "effect": {
           "en": "Search your deck for up to 2 Lightning Energy cards and attach them to Raichu. Shuffle your deck afterward.",
-          "fr": "Cherchez dans votre deck jusqu'à 2 cartes Énergie  et attachez-les à Raichu. Ensuite, mélangez votre deck.",
+          "fr": "Cherchez dans votre deck jusqu'à 2 cartes Énergie {L} et attachez-les à Raichu. Ensuite, mélangez votre deck.",
           "de": "Durchsuche dein Deck nach bis zu 2  - Energiekarten und lege sie an Raichu an. Mische dein Deck danach."
         }
       },
@@ -7760,7 +7763,7 @@
         },
         "effect": {
           "en": "You may move any number of Lightning Energy cards attached to Raichu to another of your Pokémon.",
-          "fr": "Vous pouvez déplacer autant de cartes Énergie  attachées à Raichu que vous le voulez sur un autre de vos Pokémon.",
+          "fr": "Vous pouvez déplacer autant de cartes Énergie {L} attachées à Raichu que vous le voulez sur un autre de vos Pokémon.",
           "de": "Du kannst beliebig viele an Raichu angelegte  - Energiekarten an ein anderes deiner Pokémon anlegen."
         },
         "damage": 50
@@ -7823,7 +7826,7 @@
           "de": "Legendary Ascent"
         },
         "effect": {
-          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Élector ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Élector ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base  attachées à votre Pokémon que vous le voulez et les placer sur Élector ex.",
+          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Élector ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Élector ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base {L} attachées à votre Pokémon que vous le voulez et les placer sur Élector ex.",
           "de": "Once during your turn, when you put Zapdos ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Zapdos ex. If you do, you may also move any number of basic  Energy cards attached to your Pokémon to Zapdos ex."
         }
       }
@@ -7899,7 +7902,7 @@
           "de": "Legendary Ascent"
         },
         "effect": {
-          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Sulfura ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Sulfura ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base  attachées à votre Pokémon que vous le voulez et les placer sur Sulfura ex.",
+          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Sulfura ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Sulfura ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base {R} attachées à votre Pokémon que vous le voulez et les placer sur Sulfura ex.",
           "de": "Once during your turn, when you put Moltres ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Moltres ex. If you do, you may also move any number of basic  Energy cards attached to your Pokémon to Moltres ex."
         }
       }
@@ -7975,7 +7978,7 @@
           "de": "Legendary Ascent"
         },
         "effect": {
-          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Artikodin ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Artikodin ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base  attachées à votre Pokémon que vous le voulez et les placer sur Artikodin ex.",
+          "fr": "Une seule fois lors de votre tour, lorsque vous déplacez Artikodin ex de votre main à votre Banc, vous pouvez échanger 1 de vos Pokémon Actifs avec Artikodin ex. Dans ce cas, vous pouvez également déplacer autant de cartes Énergie de base {W} attachées à votre Pokémon que vous le voulez et les placer sur Artikodin ex.",
           "de": "Once during your turn, when you put Articuno ex from your hand onto your Bench, you may switch 1 of your Active Pokémon with Articuno ex. If you do, you may also move any number of basic  Energy cards attached to your Pokémon to Articuno ex."
         }
       }
@@ -8128,7 +8131,7 @@
         },
         "effect": {
           "en": "As often as you like during your turn (before your attack), move a Grass Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Venusaur ex is affected by a Special Condition.",
-          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez déplacer une carte Énergie  d'1 de vos Pokémon à 1 autre de vos Pokémon. Ce pouvoir ne peut pas être utilisé si Florizarre ex est affecté par un État Spécial.",
+          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez déplacer une carte Énergie {G} d'1 de vos Pokémon à 1 autre de vos Pokémon. Ce pouvoir ne peut pas être utilisé si Florizarre ex est affecté par un État Spécial.",
           "de": "As often as you like during your turn (before yxour attack), mova a  Energy card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Venusaur ex is affected by a Special Condition."
         }
       }
@@ -8731,7 +8734,7 @@
         },
         "effect": {
           "en": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type that Pokémon is, Clefable ex's type is still Colorless.) Clefable ex performs that attack. \"",
-          "fr": "Choisissez 1 des attaques du Pokémon Défenseur. Métronome copie cette attaque sans tenir compte du Coût en Énergie. (Vous devez tout de même respecter les autres étapes si vous voulez utiliser cette attaque.) (Peu importe le type du Pokémon Défenseur, le type de Mélodelfe ex reste .) C'est Mélodelfe ex qui utilise cette attaque.",
+          "fr": "Choisissez 1 des attaques du Pokémon Défenseur. Métronome copie cette attaque sans tenir compte du Coût en Énergie. (Vous devez tout de même respecter les autres étapes si vous voulez utiliser cette attaque.) (Peu importe le type du Pokémon Défenseur, le type de Mélodelfe ex reste {C}.) C'est Mélodelfe ex qui utilise cette attaque.",
           "de": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type that Pokémon is, Clefable ex's type is still .) Clefable ex performs that attack."
         }
       },
@@ -8804,7 +8807,7 @@
         },
         "effect": {
           "en": "All Energy attached to Charizard ex are Fire Energy instead of its usual type.",
-          "fr": "Toutes les Énergies attachées à Dracaufeu ex sont des Énergies .",
+          "fr": "Toutes les Énergies attachées à Dracaufeu ex sont des Énergies {R}.",
           "de": "All Energy attached to Charizard ex are  Energy instead of its usual type."
         }
       }
@@ -8838,7 +8841,7 @@
         },
         "effect": {
           "en": "Discard 5 Fire Energy attached to Charizard ex. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, and any other effects on the Defending Pokémon.",
-          "fr": "Défaussez 5 Énergies  attachées à Dracaufeu ex. Les dégâts de cette attaque ne sont pas affectés la Faiblesse, la Résistance, les Poké-Powers, les Poké-Bodies ou tout autre effet sur le Pokémon Défenseur.",
+          "fr": "Défaussez 5 Énergies {R} attachées à Dracaufeu ex. Les dégâts de cette attaque ne sont pas affectés la Faiblesse, la Résistance, les Poké-Powers, les Poké-Bodies ou tout autre effet sur le Pokémon Défenseur.",
           "de": "Discard 5  Energy attached to Charizard ex. This attack's\ndamage isn't affected by Weakness, Resistance,\nPoké-Powers, Poké-Bodies, and any other effects on the\nDefending Pokémon."
         },
         "damage": 200
@@ -8904,7 +8907,7 @@
         },
         "effect": {
           "en": "As often as you like during your turn (before your attack), you may attach a Water Energy card from your hand to 1 of your Pokémon. Put 1 damage counter on that Pokémon. This power can't be used if Blastoise ex is affected by a Special Condition.",
-          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez attacher une carte Énergie  de votre main à 1 de vos Pokémon. Placez 1 marqueur de dégât sur ce Pokémon. Ce pouvoir ne peut pas être utilisé si Tortank ex est affecté par un État Spécial.",
+          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez attacher une carte Énergie {W} de votre main à 1 de vos Pokémon. Placez 1 marqueur de dégât sur ce Pokémon. Ce pouvoir ne peut pas être utilisé si Tortank ex est affecté par un État Spécial.",
           "de": "As often as you like during your turn (before your attack), you may attach a Water Energy card from your hand to 1 of your Pokémon. Put 1 damage counter on that Pokémon. This power can't be used if Blastoise ex is affected by a Special Condition."
         }
       }

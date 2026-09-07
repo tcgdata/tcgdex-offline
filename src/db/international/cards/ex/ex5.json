@@ -301,7 +301,7 @@
         },
         "effect": {
           "en": "Discard a Fire Energy attached to Ninetales ex.",
-          "fr": "Défaussez une Énergie  attachée à Feunard ex.",
+          "fr": "Défaussez une Énergie {R} attachée à Feunard ex.",
           "de": "Discard a  Energy card attached to Ninetales ex."
         },
         "damage": 100
@@ -1679,7 +1679,7 @@
         },
         "effect": {
           "en": "Search your deck for a Lightning Energy card and attach it to Voltorb. Shuffle your deck afterward.",
-          "fr": "Choisissez dans votre deck une carte Énergie  et attachez-la à Voltorbe. Ensuite, mélangez votre deck.",
+          "fr": "Choisissez dans votre deck une carte Énergie {L} et attachez-la à Voltorbe. Ensuite, mélangez votre deck.",
           "de": "Search your deck for a  Energy card and attach it to Voltorb. Shuffle your deck afterward."
         }
       },
@@ -2142,7 +2142,7 @@
         },
         "effect": {
           "en": "If Staryu has any Psychic Energy attached to it, damage done to Staryu by any attack is reduced by 10 (after applying Weakness and Resistance).",
-          "fr": "Si Stari possède des Énergies , les dégâts qui lui sont infligés par une attaque sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
+          "fr": "Si Stari possède des Énergies {P}, les dégâts qui lui sont infligés par une attaque sont réduits de 10 (après application de la Faiblesse et de la Résistance).",
           "de": "If Staryu has any  Energy attached to it, damage done to Staryu by any attack is reduced by 10 (after applying Weakness and Resistance)."
         }
       }
@@ -2365,7 +2365,7 @@
         },
         "effect": {
           "en": "You may discard 1 Psychic Energy card attached to Shuppet. If you do, your opponent discards 1 Energy card attached to the Defending Pokémon.",
-          "fr": "Vous pouvez défausser 1 carte Énergie  attachée à Polichombr. Votre adversaire défausse alors 1 carte Énergie attachée au Pokémon Défenseur.",
+          "fr": "Vous pouvez défausser 1 carte Énergie {P} attachée à Polichombr. Votre adversaire défausse alors 1 carte Énergie attachée au Pokémon Défenseur.",
           "de": "You may discard 1  Energy card attached to Shuppet. If you do, your opponent discards 1 Energy card attached to the Defending Pokémon."
         },
         "damage": 10
@@ -2438,7 +2438,7 @@
         },
         "effect": {
           "en": "Attach a Grass Energy card from your hand to Seedot.",
-          "fr": "Attachez une carte Énergie  de votre main à Grainipiot.",
+          "fr": "Attachez une carte Énergie {G} de votre main à Grainipiot.",
           "de": "Attach a  Energy card from your hand to Seedot."
         }
       },
@@ -2616,7 +2616,7 @@
         },
         "effect": {
           "en": "If your opponent has any Pokémon-ex in play, search your deck for up to 2 Grass Energy cards and attach them to Heracross. Shuffle your deck afterward.",
-          "fr": "Si votre adversaire a des Pokémon-ex en jeu, cherchez dans votre deck jusqu'à 2 cartes Énergie  et attachez-les à Scarhino. Ensuite, mélangez votre deck.",
+          "fr": "Si votre adversaire a des Pokémon-ex en jeu, cherchez dans votre deck jusqu'à 2 cartes Énergie {G} et attachez-les à Scarhino. Ensuite, mélangez votre deck.",
           "de": "If your opponent has any Pokémon-ex in play, search your deck for up to 2  Energy cards and attach them to Heracross. Shuffle your deck afterward."
         }
       },
@@ -2700,7 +2700,7 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, attach a Lightning Energy card from your hand to any of your Pokémon.",
-          "fr": "Lancez une pièce. Si c'est face, attachez une carte Énergie  de votre main à un de vos Pokémon.",
+          "fr": "Lancez une pièce. Si c'est face, attachez une carte Énergie {L} de votre main à un de vos Pokémon.",
           "de": "Flip a coin. If heads, attach a  Energy card from your hand to any of your Pokémon."
         }
       },
@@ -3358,6 +3358,11 @@
     "category": "Pokemon",
     "dexId": [
       349
+    ],
+    "cameoDexIds": [
+      278,
+      279,
+      357
     ],
     "hp": 30,
     "types": [
@@ -5434,7 +5439,7 @@
         },
         "effect": {
           "en": "Attach up to 1 Grass or Darkness Energy card from your hand to your Pokémon.",
-          "fr": "Attachez à votre Pokémon jusqu'à 1 carte Énergie  ou  de votre main.",
+          "fr": "Attachez à votre Pokémon jusqu'à 1 carte Énergie {G} ou {D} de votre main.",
           "de": "Attack up to 1  or  Energy card from your hand to your Pokémon."
         }
       },
@@ -5623,7 +5628,7 @@
         },
         "effect": {
           "en": "You may discard all Lightning Energy attached to Lanturn. If you do, this attack's base damage is 90 instead of 50.",
-          "fr": "Vous pouvez défausser toutes les Énergies  attachées à Lanturn. Les dégâts de base de cette attaque sont alors de 90 au lieu de 50.",
+          "fr": "Vous pouvez défausser toutes les Énergies {L} attachées à Lanturn. Les dégâts de base de cette attaque sont alors de 90 au lieu de 50.",
           "de": "You may discard all  Energy attached to Lanturn. If you do, this attack's base damage is 90 instead of 50."
         },
         "damage": 50
@@ -6489,7 +6494,7 @@
         },
         "effect": {
           "en": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
-          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, cherchez un Pokémon de base  dans votre deck et placez-le sur votre Banc. Ensuite, mélangez votre deck. Ce pouvoir ne peut pas être utilisé si Terhal est affecté par un État Spécial.",
+          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez lancer une pièce. Si c'est face, cherchez un Pokémon de base {M} dans votre deck et placez-le sur votre Banc. Ensuite, mélangez votre deck. Ce pouvoir ne peut pas être utilisé si Terhal est affecté par un État Spécial.",
           "de": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a  Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition."
         }
       }
@@ -6832,6 +6837,9 @@
     "category": "Pokemon",
     "dexId": [
       351
+    ],
+    "cameoDexIds": [
+      361
     ],
     "hp": 70,
     "types": [
@@ -7234,7 +7242,7 @@
         },
         "effect": {
           "en": "Search your discard pile for a Metal Energy card and attach it to Metang.",
-          "fr": "Choisissez une carte Énergie  dans votre pile de défausse et attachez-la à Metang.",
+          "fr": "Choisissez une carte Énergie {M} dans votre pile de défausse et attachez-la à Metang.",
           "de": "Search your discard pile for a  Energy card and attach it to Metang."
         }
       },
@@ -7414,7 +7422,7 @@
         },
         "effect": {
           "en": "As long as Claydol is your Active Pokémon, each player's Evolved Pokémon pays Colorless more Energy to use its attacks.",
-          "fr": "Tant que Kaorine est votre Pokémon Actif, le Pokémon Évolué de chaque joueur paye 1 Énergie  supplémentaire pour utiliser ses attaques.",
+          "fr": "Tant que Kaorine est votre Pokémon Actif, le Pokémon Évolué de chaque joueur paye 1 Énergie {C} supplémentaire pour utiliser ses attaques.",
           "de": "As long as Claydol is your Active Pokémon, each player's Evolved Pokémon pays  more Energy to use its attacks."
         }
       }
@@ -7516,7 +7524,7 @@
         },
         "effect": {
           "en": "Does 40 damage plus 10 more damage for each Darkness Pokémon in play.",
-          "fr": "Inflige 40 dégâts plus 10 dégâts supplémentaires pour chaque Pokémon  en jeu.",
+          "fr": "Inflige 40 dégâts plus 10 dégâts supplémentaires pour chaque Pokémon {D} en jeu.",
           "de": "Does 40 damage plus 10 more damage for each  Energy in play."
         },
         "damage": "40+"
@@ -7604,7 +7612,7 @@
         },
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each Psychic Energy in play.",
-          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie  en jeu.",
+          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie {P} en jeu.",
           "de": "Does 20 damage plus 10 more damage for each  Energy in play."
         },
         "damage": "20+"
@@ -8249,7 +8257,7 @@
         },
         "effect": {
           "en": "As often as you like during your turn (before your attack), you may move a Metal Energy card attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Metagross is affected by a Special Condition.",
-          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez déplacer une carte Énergie  attachée à 1 des Pokémon de votre Banc sur votre Pokémon Actif. Ce pouvoir ne peut pas être utilisé si Metalosse est affecté par un État Spécial.",
+          "fr": "Autant de fois que vous le voulez lors de votre tour (avant votre attaque), vous pouvez déplacer une carte Énergie {M} attachée à 1 des Pokémon de votre Banc sur votre Pokémon Actif. Ce pouvoir ne peut pas être utilisé si Metalosse est affecté par un État Spécial.",
           "de": "As often you like during your turn (before your attack), you may move a  Energy card attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Metagross is affected by a Special Condition."
         }
       }

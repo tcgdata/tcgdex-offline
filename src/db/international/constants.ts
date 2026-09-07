@@ -1,4 +1,4 @@
-export const COMMIT = 'd88210d806d1b55d7832847beaed692c0bb7bfee';
+export const COMMIT = '1c30c50253756bafecf0f065fc377f77016ad12f';
 
 export const VERSION = 'master';
 
@@ -1282,6 +1282,7 @@ export const CARD_VARIANT_STAMPS = {
   WORLDS_2008: 'worlds-2008',
   WORLDS_2009: 'worlds-2009',
   WORLDS_2010: 'worlds-2010',
+  WORLDS_2022: 'worlds-2022',
   WORLDS_2023: 'worlds-2023',
   WORLDS_2024: 'worlds-2024',
   WORLDS_2025: 'worlds-2025',
