@@ -19,6 +19,7 @@ export const RawCardSchema = z
     rarity: z.string().optional(),
     category: z.string(),
     dexId: z.array(z.number()).optional(),
+    cameoDexIds: z.array(z.number()).optional(),
     hp: z.number().optional(),
     types: z.array(z.string()).optional(),
     evolveFrom: z.partialRecord(z.enum(LANGUAGES), z.string()).optional(),
