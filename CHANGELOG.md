@@ -1,5 +1,15 @@
 # @tcgdata/tcgdex-offline
 
+## 0.0.2
+
+### Patch Changes
+
+- [#8](https://github.com/tcgdata/tcgdex-offline/pull/8) [`8b288eb`](https://github.com/tcgdata/tcgdex-offline/commit/8b288eb13d9338ea712d4465c1aeeb3d8da659ab) Thanks [@github-actions](https://github.com/apps/github-actions)! - Updated tcgdex data to commit d88210d806d1b55d7832847beaed692c0bb7bfee (ref: master)
+
+- [#10](https://github.com/tcgdata/tcgdex-offline/pull/10) [`0666eb3`](https://github.com/tcgdata/tcgdex-offline/commit/0666eb37711c3606c231db4f60ec2e89fddd8f7f) Thanks [@raing3](https://github.com/raing3)! - Added cameoDexIds to card object.
+
+- [#11](https://github.com/tcgdata/tcgdex-offline/pull/11) [`60d7409`](https://github.com/tcgdata/tcgdex-offline/commit/60d740943857e9c065ef7fb915bcd8a230fd57e4) Thanks [@raing3](https://github.com/raing3)! - Updated tcgdex data to commit 1c30c50253756bafecf0f065fc377f77016ad12f (ref: master)
+
 ## 0.0.1
 
 ### Patch Changes
