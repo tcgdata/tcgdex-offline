@@ -46,7 +46,7 @@
         },
         "effect": {
           "en": "Discard a Basic Pokémon or Evolution card from your hand. Choose 1 of that card's attacks. Skill Copy copies that attack. This attack does nothing if Alakazam Star doesn't have the Energy necessary to use that attack. (You must still do anything else required for that attack.) Alakazam Star performs that attack.",
-          "fr": "Défaussez un Pokémon de base ou une carte Évolution de votre main. Choisissez 1 des attaques de cette carte. Copiage pro copie cette attaque. Cette attaque est sans effet si Alakazam ☆ ne possède pas l'Énergie nécessaire pour utiliser cette attaque. (Vous devez faire tout ce qui est spécifié pour cette attaque.) Alakazam  utilise cette attaque.",
+          "fr": "Défaussez un Pokémon de base ou une carte Évolution de votre main. Choisissez 1 des attaques de cette carte. Copiage pro copie cette attaque. Cette attaque est sans effet si Alakazam ☆ ne possède pas l'Énergie nécessaire pour utiliser cette attaque. (Vous devez faire tout ce qui est spécifié pour cette attaque.) Alakazam ☆ utilise cette attaque.",
           "de": "Lege 1 Basis-Pokémon-Karte oder Evolutionskarte von deiner Hand auf deinen Ablagestapel. Wähle 1 Angriff auf dieser Karte. Fertigkeitskopie kopiert diesen Angriff. Dieser Angriff hat keine Auswirkungen, wenn an Simsala ☆ nicht die für den kopierten Angriff benötigte Energie angelegt ist. (Du musst immer noch alles tun, was verlangt wird, um diesen Angriff durchzuführen.) Simsala ☆ benutzt den kopierten Angriff."
         }
       }
@@ -288,7 +288,7 @@
         },
         "effect": {
           "en": "Each player's Pokémon-ex can't use any Poké-Powers and pays Colorless more Energy to use its attacks. Each Pokémon can't be affected by more than 1 Extra Liquid Poké-Body.",
-          "fr": "Le Pokémon-ex de chaque joueur ne peut pas utiliser de Poké-Powers et paye une Énergie  de plus pour utiliser ses attaques. Chaque Pokémon ne peut pas être affecté par plus d'1 Poké-Body Liquide supplémentaire.",
+          "fr": "Le Pokémon-ex de chaque joueur ne peut pas utiliser de Poké-Powers et paye une Énergie {C} de plus pour utiliser ses attaques. Chaque Pokémon ne peut pas être affecté par plus d'1 Poké-Body Liquide supplémentaire.",
           "de": "Die Pokémon-ex aller Spieler können keine Poké-Power einsetzen und ihre Angriffe kosten 1 {C} mehr. Jedes Pokémon kann nur von 1 Extraflüssigkeit Poké-Body betroffen sein."
         }
       }
@@ -445,7 +445,7 @@
         },
         "effect": {
           "en": "As long as your opponent has any Pokémon-ex or Stage 2 Evolved Pokémon in play, Jirachi ex pays Colorless less Energy to use Shield Beam or Super Psy Bolt.",
-          "fr": "Tant que votre adversaire possède des Pokémon-ex ou des Pokémon Évolués de Niveau 2 en jeu, Jirachi ex paye une Énergie  de moins pour utiliser Rayon protecteur ou Super psy.",
+          "fr": "Tant que votre adversaire possède des Pokémon-ex ou des Pokémon Évolués de Niveau 2 en jeu, Jirachi ex paye une Énergie {C} de moins pour utiliser Rayon protecteur ou Super psy.",
           "de": "Solange dein Gegner mindestens 1 Pokémon-ex oder ein entwickeltes Pokémon der Phase 2 im Spiel hat, kosten Jirachi ex' Schildstrahl und Super-Psischlag 1 {C} weniger."
         }
       }
@@ -1677,7 +1677,7 @@
     "trainerType": "Tool",
     "effect": {
       "en": "Attach Crystal Shard to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card. As long as Crystal Shard is attached to a Pokémon, that Pokémon's type is Colorless. If that Pokémon attacks, discard this card at the end of the turn.",
-      "fr": "Attachez Écharde de cristal à 1 de vos Pokémon qui ne possède pas déjà d'Outil Pokémon. Si ce Pokémon est mis K.O, défaussez cette carte.\n\nTant qu'Écharde de cristal est attachée à un Pokémon, ce Pokémon est de type . S'il attaque, défaussez cette carte à la fin du tour.",
+      "fr": "Attachez Écharde de cristal à 1 de vos Pokémon qui ne possède pas déjà d'Outil Pokémon. Si ce Pokémon est mis K.O, défaussez cette carte.\n\nTant qu'Écharde de cristal est attachée à un Pokémon, ce Pokémon est de type {C}. S'il attaque, défaussez cette carte à la fin du tour.",
       "de": "Lege Kristallsplitter an 1 deiner Pokémon an, an dem noch keine Pokémon-Ausrüstung anliegt. Wenn das Pokémon, an das Kristallsplitter angelegt ist, kampfunfähig gemacht wird, lege Kristallsplitter auf den Ablagestapel. Solange diese Karte an ein Pokémon angelegt ist, erhält das Pokémon den Typ {C}. Wenn das Pokémon angreift, lege diese Karte am Ende deines Zuges auf deinen Ablagestapel."
     },
     "variants": [
@@ -3324,7 +3324,7 @@
         },
         "effect": {
           "en": "If Lotad has any Water Energy attached to it, the Retreat Cost for Lotad is 0.",
-          "fr": "Si Nenupiot possède une Énergie , son Coût de retraite est de 0.",
+          "fr": "Si Nenupiot possède une Énergie {W}, son Coût de retraite est de 0.",
           "de": "Wenn mindestens 1 {W}-Energie an Loturzel angelegt ist, hat Loturzel Rückzugskosten 0."
         }
       }
@@ -4121,7 +4121,7 @@
         },
         "effect": {
           "en": "Attach a Grass Energy card from your hand to Bulbasaur.",
-          "fr": "Attachez une carte Énergie  de votre main à Bulbizarre.",
+          "fr": "Attachez une carte Énergie {G} de votre main à Bulbizarre.",
           "de": "Lege eine {G}-Energiekarte von deiner Hand an Bisasam an."
         }
       },
@@ -4717,7 +4717,7 @@
         },
         "effect": {
           "en": "Discard all Metal Energy attached to Charizard.",
-          "fr": "Défaussez toutes les Énergies  attachées à Dracaufeu.",
+          "fr": "Défaussez toutes les Énergies {M} attachées à Dracaufeu.",
           "de": "Lege alle an Glurak angelegte {M}-Energie auf deinen Ablagestapel."
         },
         "damage": 120
@@ -4787,7 +4787,7 @@
         },
         "effect": {
           "en": "Attach a Darkness Energy card from your hand to Nuzleaf.",
-          "fr": "Attachez une carte Énergie  de votre main à Pifeuil.",
+          "fr": "Attachez une carte Énergie {D} de votre main à Pifeuil.",
           "de": "Lege eine {D}-Energiekarte von deiner Hand an Blanas an."
         }
       },
@@ -5779,7 +5779,7 @@
         },
         "effect": {
           "en": "Discard a Fire Energy attached to Charmeleon.",
-          "fr": "Défaussez une Énergie  attachée à Reptincel.",
+          "fr": "Défaussez une Énergie {R} attachée à Reptincel.",
           "de": "Entferne 1 {R}-Energie von Glutexo und lege sie auf deinen Ablagestapel."
         },
         "damage": 60
@@ -5848,7 +5848,7 @@
         },
         "effect": {
           "en": "All Energy cards that provide only Colorless Energy attached to your Grass Pokémon provide Grass Energy instead.",
-          "fr": "Toutes les cartes Énergie fournissant uniquement de l'Énergie  attachées à vos Pokémon  fournissent de l'Énergie .",
+          "fr": "Toutes les cartes Énergie fournissant uniquement de l'Énergie {C} attachées à vos Pokémon {G} fournissent de l'Énergie {G}.",
           "de": "Alle Energiekarten, die nur {C}-Energie liefern und an deine Pokémon vom Typ {G} angelegt sind, liefern stattdessen {G}-Energie."
         }
       }
@@ -5866,7 +5866,7 @@
         },
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each Grass Energy attached to all of your Pokémon.",
-          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie  attachée à tous vos Pokémon.",
+          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie {G} attachée à tous vos Pokémon.",
           "de": "Dieser Angriff fügt 20 Schadenspunkte plus 10 weitere Schadenspunkte für jede an deine Pokémon angelegte {G}-Energie zu."
         },
         "damage": "20+"
@@ -6157,7 +6157,7 @@
         },
         "effect": {
           "en": "As long as Medicham has any Psychic Energy cards attached to it, Medicham is both Psychic and Fighting type.",
-          "fr": "Tant que Charmina possède des cartes Énergie , il est de type  et .",
+          "fr": "Tant que Charmina possède des cartes Énergie {P}, il est de type {P} et {F}.",
           "de": "Solange an Meditalis mindestens eine {P}-Energiekarte angelegt ist, ist Meditalis ein Pokémon vom Typ {P} und {F}."
         }
       }
@@ -6520,7 +6520,7 @@
         },
         "effect": {
           "en": "You pay Colorless less to retreat your Jigglypuff, Wigglytuff, Wigglytuff ex, and Igglybuff.",
-          "fr": "Vous payez un  de moins pour faire battre Rondoudou, Groudoudou, Grodoudou ex et Toudoudou en retraite.",
+          "fr": "Vous payez un {C} de moins pour faire battre Rondoudou, Groudoudou, Grodoudou ex et Toudoudou en retraite.",
           "de": "Der Rückzug deiner Pummeluff, Knuddeluff, Knuddeluff ex und Fluffeluff kostet dich {C} weniger."
         }
       },
@@ -6597,7 +6597,7 @@
         },
         "effect": {
           "en": "Any damage done to Grumpig by attacks from Fire Pokémon and Water Pokémon is reduced by 30 (after applying Weakness and Resistance).",
-          "fr": "Tous dégâts infligés à Groret par des attaques de Pokémon  et  sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
+          "fr": "Tous dégâts infligés à Groret par des attaques de Pokémon {R} et {W} sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
           "de": "Jeder Schaden, der Groink durch Angriffe von {R}-Pokémon und {W}-Pokémon zugefügt wird, wird um 30 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
         }
       }
@@ -6967,7 +6967,7 @@
         },
         "effect": {
           "en": "As long as Dusclops is your Active Pokémon, your opponent can't attach any Special Energy cards (except for Darkness and Metal Energy cards) from his or her hand to his or her Active Pokémon.",
-          "fr": "Tant que Teraclope est votre Pokémon Actif, votre adversaire ne peut pas attacher de cartes Énergie spéciale (cartes Énergie  et  exceptées) de sa main à son Pokémon Actif.",
+          "fr": "Tant que Teraclope est votre Pokémon Actif, votre adversaire ne peut pas attacher de cartes Énergie spéciale (cartes Énergie {D} et {M} exceptées) de sa main à son Pokémon Actif.",
           "de": "Solange Zwirrklop dein Aktives Pokémon ist, kann dein Gegner keine Spezialenergiekarten (außer {D}- und {M}-Energiekarten) von seiner Hand an sein Aktives Pokémon anlegen."
         }
       }
@@ -7271,7 +7271,7 @@
         },
         "effect": {
           "en": "Does 50 damage plus 20 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way.",
-          "fr": "Inflige 50 dégâts plus 20 dégâts supplémentaires pour chaque Énergie  attachée à Tortank qui n'a pas été utilisée pour payer le Coût en Énergie de cette attaque. Vous ne pouvez pas ajouter plus de 40 dégâts de cette façon.",
+          "fr": "Inflige 50 dégâts plus 20 dégâts supplémentaires pour chaque Énergie {W} attachée à Tortank qui n'a pas été utilisée pour payer le Coût en Énergie de cette attaque. Vous ne pouvez pas ajouter plus de 40 dégâts de cette façon.",
           "de": "Dieser Angriff fügt 50 Schadenspunkte plus 20 weitere Schadenspunkte für jede an Turtok angelegte {W}-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde. Es lassen sich so nicht mehr als 40 Schadenspunkte hinzufügen."
         },
         "damage": "50+"

@@ -1048,7 +1048,7 @@
     "trainerType": "Item",
     "effect": {
       "en": "Attach Curse Powder to 1 of your Evolved Pokémon (excluding Pokémon-ex) that doesn't already have a Pokémon Tool attached to it. If the Pokémon Curse Powder is attached to is a Basic Pokémon or Pokémon-ex, discard Curse Powder. If the Pokémon that Curse Powder is attached to is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 3 damage counters on the Attacking Pokémon.",
-      "fr": "Attachez Poudre maléfique à un de vos Pokémon Évolués (Pokémon-ex exclus) qui ne possède pas déjà d'Outil Pokémon. Si le Pokémon auquel Poudre maléfique est attachée est un Pokémon de base ou un Pokémon-ex , défaussez Poudre maléfique.\n\nSi le Pokémon auquel Poudre maléfique est attachée est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, placez 3 marqueurs de dégât sur le Pokémon Attaquant.",
+      "fr": "Attachez Poudre maléfique à un de vos Pokémon Évolués (Pokémon-ex exclus) qui ne possède pas déjà d'Outil Pokémon. Si le Pokémon auquel Poudre maléfique est attachée est un Pokémon de base ou un Pokémon-ex, défaussez Poudre maléfique.\n\nSi le Pokémon auquel Poudre maléfique est attachée est votre Pokémon Actif et est mis K.O. par les dégâts d'une attaque de votre adversaire, placez 3 marqueurs de dégât sur le Pokémon Attaquant.",
       "de": "If the Pokémon that Curse Powder is attached to is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 3 damage counters on the Attacking Pokémon."
     },
     "variants": [
@@ -1112,7 +1112,7 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, search your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
-          "fr": "Lancez une pièce. Si c'est face, choisissez dans votre deck une carte Énergie  et attachez-la à 1 de vos Pokémon. Ensuite, mélangez votre deck.",
+          "fr": "Lancez une pièce. Si c'est face, choisissez dans votre deck une carte Énergie {L} et attachez-la à 1 de vos Pokémon. Ensuite, mélangez votre deck.",
           "de": "Flip a coin. If heads, search your deck for a  Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
         },
         "damage": 20
@@ -2037,7 +2037,7 @@
         },
         "effect": {
           "en": "Discard a Fire Energy attached to Houndoom.",
-          "fr": "Défaussez une Énergie  attachée à Demolosse.",
+          "fr": "Défaussez une Énergie {R} attachée à Demolosse.",
           "de": "Discard a  Energy attached to Houndoom."
         },
         "damage": 70
@@ -3380,7 +3380,7 @@
         },
         "effect": {
           "en": "Flip a coin. If tails, discard a Fire Energy card attached to Cyndaquil.",
-          "fr": "Lancez une pièce. Si c'est pile, défaussez une carte Énergie  attachée à Héricendre.",
+          "fr": "Lancez une pièce. Si c'est pile, défaussez une carte Énergie {R} attachée à Héricendre.",
           "de": "Flip a coin. If tails, discard a  Energy card attached to Cyndaquil."
         },
         "damage": 30
@@ -3784,7 +3784,7 @@
         },
         "effect": {
           "en": "Search your discard pile for a Fire Energy card and attach it to 1 of your Pokémon.",
-          "fr": "Choisissez dans votre pile de défausse une carte Énergie  et attachez-la à un 1 de vos Pokémon.",
+          "fr": "Choisissez dans votre pile de défausse une carte Énergie {R} et attachez-la à un 1 de vos Pokémon.",
           "de": "Search your discard pile for a  Energy card and attach it to 1 of your Pokémon."
         },
         "damage": 20
@@ -4504,7 +4504,7 @@
         },
         "effect": {
           "en": "Any damage done to Miltank by attacks from Fire Pokémon and Water Pokémon is reduced by 30 (after applying Weakness and Resistance).",
-          "fr": "Les dégâts infligés à Ecremeuh par des attaques de Pokémon  et  sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
+          "fr": "Les dégâts infligés à Ecremeuh par des attaques de Pokémon {R} et {W} sont réduits de 30 (après application de la Faiblesse et de la Résistance).",
           "de": "Any damage done to Miltank by attacks from  Pokémon and  Pokémon is reduced by 30 (after applying Weakness and Resistance)."
         }
       }
@@ -4609,7 +4609,7 @@
         },
         "effect": {
           "en": "As long as Magcargo has any Fighting Energy attached to it, Magcargo is both Fire and Fighting type.",
-          "fr": "Tant que Volcaropod possède des Énergies , il est de type  et .",
+          "fr": "Tant que Volcaropod possède des Énergies {F}, il est de type {R} et {F}.",
           "de": "As long as Magcargo has any  Energy attached to it, Magcargo is both  and  type."
         }
       }
@@ -5115,7 +5115,7 @@
         },
         "effect": {
           "en": "Search your deck for a Water or Fighting Pokémon (excluding Pokémon-ex), show it to your opponent, and put it into your hand. Shuffle your deck afterward.",
-          "fr": "Choisissez dans votre deck un Pokémon  ou  (Pokémon-ex exclus), montrez-le à votre adversaire et placez-le dans votre main. Ensuite, mélangez votre deck.",
+          "fr": "Choisissez dans votre deck un Pokémon {W} ou {F} (Pokémon-ex exclus), montrez-le à votre adversaire et placez-le dans votre main. Ensuite, mélangez votre deck.",
           "de": "Search your deck for a  or  Pokémon (excluding Pokémon-ex), show it to your opponent, any put it into your hand. Shuffle your deck afterward."
         }
       },
@@ -5839,7 +5839,7 @@
         },
         "effect": {
           "en": "Search your deck for up to 2 Grass Pokémon, show them to your opponent, and put them into your hand. Shuffle your deck afterward. If you put any Grass Pokémon into your hand, you may switch Bellossom with 1 of your Benched Pokémon.",
-          "fr": "Choisissez dans votre deck jusqu'à 2 Pokémon , montrez-les à votre adversaire et placez-les dans votre main. Ensuite, mélangez votre deck. Si vous placez un Pokémon  dans votre main, vous pouvez échanger Joliflor avec 1 des Pokémon de votre Banc.",
+          "fr": "Choisissez dans votre deck jusqu'à 2 Pokémon {G}, montrez-les à votre adversaire et placez-les dans votre main. Ensuite, mélangez votre deck. Si vous placez un Pokémon {G} dans votre main, vous pouvez échanger Joliflor avec 1 des Pokémon de votre Banc.",
           "de": "Search your deck for up to 2  Pokémon, show them to your opponent, and put them into your hand. Shuffle your deck afterward. If you put any  Pokémon into your hand, you may switch Bellossom with 1 of your Benched Pokémon."
         }
       },
@@ -7301,7 +7301,7 @@
         },
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each Grass Energy attached to all of your Pokémon.",
-          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie  attachée à tous vos Pokémon.",
+          "fr": "Inflige 20 dégâts plus 10 dégâts supplémentaires pour chaque Énergie {G} attachée à tous vos Pokémon.",
           "de": "Does 20 damage plus 10 more damage for each  Energy attached to all of your Pokémon."
         },
         "damage": "20+"
@@ -7556,7 +7556,7 @@
         },
         "effect": {
           "en": "As long as Slowbro has any Psychic Energy attached to it, Slowbro is both Water and Psychic type.",
-          "fr": "Tant que Flagadoss possède des Énergies , il est à la fois de type  et .",
+          "fr": "Tant que Flagadoss possède des Énergies {P}, il est à la fois de type {W} et {P}.",
           "de": "As long as Slowbro has any  Energy attached to it, Slowbro is both  and  type."
         }
       }
@@ -8395,7 +8395,7 @@
         },
         "effect": {
           "en": "Once during your turn, when you play Typhlosion ex from your hand to evolve 1 of your Pokémon, count the number of your opponent's Benched Pokémon. You may search your deck for up to that number of Fire Energy cards and attach them to 1 of your Fire Pokémon. Shuffle your deck afterward.",
-          "fr": "Une seule fois lors de votre tour, lorsque vous jouez Typhlosion ex de votre main pour faire évoluer 1 de vos Pokémon, comptez le nombre de Pokémon de Banc de votre adversaire. Vous pouvez chercher dans votre deck autant de cartes Énergie  et les attacher à 1 de vos Pokémon . Ensuite, mélangez votre deck.",
+          "fr": "Une seule fois lors de votre tour, lorsque vous jouez Typhlosion ex de votre main pour faire évoluer 1 de vos Pokémon, comptez le nombre de Pokémon de Banc de votre adversaire. Vous pouvez chercher dans votre deck autant de cartes Énergie {R} et les attacher à 1 de vos Pokémon {R}. Ensuite, mélangez votre deck.",
           "de": "Once during your turn, when you play Thyplosion ex from your hand to evoled q of your Pokémon, count the number of your opponent's Benched Pokémon. You may search your deck for up to that number of  Energy cards and attach them to 1 of your  Pokémon. Shuffle your deck afterward."
         }
       }
@@ -8500,7 +8500,7 @@
         },
         "effect": {
           "en": "If the Defending Pokémon is a Darkness Pokémon or has Dark in its name, this attack does 40 damage plus 30 more damage.",
-          "fr": "Si le Pokémon Défenseur est un Pokémon  ou si son nom comporte Obscur, cette attaque inflige 40 dégâts plus 30 dégâts supplémentaires.",
+          "fr": "Si le Pokémon Défenseur est un Pokémon {D} ou si son nom comporte Obscur, cette attaque inflige 40 dégâts plus 30 dégâts supplémentaires.",
           "de": "If the Defending Pokémon is a  Pokémon or has Dark in its name, this attack does 40 damage plus 30 more damage."
         },
         "damage": "40+"
@@ -8627,7 +8627,7 @@
         },
         "effect": {
           "en": "Discard 2 Fighting Energy attached to Steelix ex and choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
-          "fr": "Défaussez 2 Énergies  attachées à Steelix ex et choisissez 1 des Pokémon de votre adversaire. Cette attaque lui inflige 100 dégâts. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
+          "fr": "Défaussez 2 Énergies {F} attachées à Steelix ex et choisissez 1 des Pokémon de votre adversaire. Cette attaque lui inflige 100 dégâts. (Vous ne pouvez pas appliquer la Faiblesse et la Résistance aux Pokémon de Banc.)",
           "de": "Discard 2  Energy attached to Steelix ex and choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
         }
       }
@@ -8917,7 +8917,7 @@
         },
         "effect": {
           "en": "Once during your turn (before your attack), you may attach a Grass Energy card from your hand to 1 of your Pokémon. If you do, remove 1 damage counter from that Pokémon. This power can't be used if Meganium ex is affected by a Special Condition.",
-          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez attacher à 1 de vos Pokémon une carte Énergie  de votre main. Retirez alors à ce Pokémon 1 marqueur de dégât. Ce pouvoir ne peut pas être utilisé si Meganium ex est affecté par un État Spécial.",
+          "fr": "Une seule fois lors de votre tour (avant votre attaque), vous pouvez attacher à 1 de vos Pokémon une carte Énergie {G} de votre main. Retirez alors à ce Pokémon 1 marqueur de dégât. Ce pouvoir ne peut pas être utilisé si Meganium ex est affecté par un État Spécial.",
           "de": "Once during your turn (before your attack), you may attach a  Energy card from your hand to 1 of your Pokémon. If you do, remove 1 damage counter from that Pokémon. This power can't be used if Meganium ex is affected by a Special Condition"
         }
       }
@@ -9038,7 +9038,7 @@
         },
         "effect": {
           "en": "Discard a Fire Energy, Water Energy, and Lightning Energy attached to Lugia ex.",
-          "fr": "Défaussez une Énergie , une Énergie  et une Énergie  attachée à Lugia ex.",
+          "fr": "Défaussez une Énergie {R}, une Énergie {W} et une Énergie {L} attachée à Lugia ex.",
           "de": "Discard a  Energy,  Energy, and  Energy attached to Lugia ex."
         },
         "damage": 200
@@ -9665,7 +9665,7 @@
         },
         "effect": {
           "en": "You may discard all Lightning Energy attached to Ampharos. If you do, the Defending Pokémon is now Burned and Confused.",
-          "fr": "Vous pouvez défausser toutes les Énergies  attachées à Pharamp. Le Pokémon Défenseur est alors Brûlé et Confus.",
+          "fr": "Vous pouvez défausser toutes les Énergies {L} attachées à Pharamp. Le Pokémon Défenseur est alors Brûlé et Confus.",
           "de": "You may discard all  Energy cards attached to Ampharos. If you do, the Defending Pokémon is now Burned and Confused."
         },
         "damage": 50
