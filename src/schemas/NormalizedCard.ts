@@ -7,6 +7,7 @@ export const NormalizedCardSchema = RawCardSchema.pick({
   rarity: true,
   category: true,
   dexId: true,
+  cameoDexIds: true,
   hp: true,
   types: true,
   energyType: true,
