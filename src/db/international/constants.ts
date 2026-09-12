@@ -1,4 +1,4 @@
-export const COMMIT = '1c30c50253756bafecf0f065fc377f77016ad12f';
+export const COMMIT = '5b6a2859f454972477a9953ffe5cb554d24c45e9';
 
 export const VERSION = 'master';
 
@@ -1194,6 +1194,7 @@ export const CARD_VARIANT_STAMPS = {
   GAMES_EXPO: 'games-expo',
   GAMESTOP: 'gamestop',
   GEN_CON: 'gen-con',
+  GREAT_BALL_LEAGUE: 'great-ball-league',
   GREY_STAR: 'grey-star',
   GUSTAVO_WADA: 'gustavo-wada',
   GYM_CHALLENGE: 'gym-challenge',
@@ -1212,11 +1213,13 @@ export const CARD_VARIANT_STAMPS = {
   JEREMY_SCHARFF_KIM: 'jeremy-scharff-kim',
   JESSE_PARKER: 'jesse-parker',
   JIMMY_BALLARD: 'jimmy-ballard',
+  JOSE_CRUZ_GALINDO_RESENDIZ: 'jose-cruz-galindo-resendiz',
   JR_STAMP_RALLY: 'jr-stamp-rally',
   JUDGE: 'judge',
   JUN_HASEBE: 'jun-hasebe',
   KEVIN_NGUYEN: 'kevin-nguyen',
   KRAZE_CLUB: 'kraze-club',
+  LIAO_FU_GUAN: 'liao-fu-guan',
   MASTER_BALL_LEAGUE: 'master-ball-league',
   MCDONALDS: 'mcdonalds',
   MICHAEL_GONZALEZ: 'michael-gonzalez',
