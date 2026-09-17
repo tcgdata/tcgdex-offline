@@ -264,6 +264,20 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
         })
       ).default;
 
+    case '30th':
+      return (
+        await import('./cards/me/30th.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
+    case '30th-c':
+      return (
+        await import('./cards/me/30th-c.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
     case 'A1':
       return (
         await import('./cards/tcgp/A1.json', {
