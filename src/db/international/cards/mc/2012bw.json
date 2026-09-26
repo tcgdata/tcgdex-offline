@@ -18,6 +18,10 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
         "name": {
           "en": "Knock Off",
           "fr": "Sabotage"
@@ -29,6 +33,19 @@
         "damage": 20
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -71,12 +88,15 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Hone Claws",
           "fr": "Aiguisage"
         },
         "effect": {
-          "en": "During your next turn, each of this Pokémon’s attacks does 30 more damage (before applying Weakness and Resistance).\nFighting",
+          "en": "During your next turn, each of this Pokémon’s attacks does 30 more damage (before applying Weakness and Resistance).",
           "fr": "Pendant votre prochain tour, chaque attaque de ce Pokémon inflige 30 dégâts supplémentaires (avant application de la Faiblesse et de la Résistance)."
         }
       },
@@ -85,11 +105,25 @@
           "Fighting"
         ],
         "name": {
+          "en": "Scratch",
           "fr": "Griffe"
         },
         "damage": "10"
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreat": 2,
     "variants": [
       {
         "type": "holo",
@@ -132,6 +166,10 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
         "name": {
           "en": "Psy Bolt",
           "fr": "Choc Mental"
@@ -143,6 +181,13 @@
         "damage": 20
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -185,6 +230,9 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Lightning"
+        ],
         "name": {
           "en": "Thundershock",
           "fr": "Éclair"
@@ -196,6 +244,10 @@
         "damage": 10
       },
       {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
         "name": {
           "en": "Acrobatics",
           "fr": "Acrobatie"
@@ -207,6 +259,13 @@
         "damage": "10+"
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 0,
     "variants": [
       {
         "type": "holo",
@@ -249,6 +308,10 @@
     "stage": "Stage1",
     "attacks": [
       {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
         "name": {
           "en": "Water Gun",
           "fr": "Pistolet à O"
@@ -256,6 +319,11 @@
         "damage": 30
       },
       {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
         "name": {
           "en": "Razor Shell",
           "fr": "Coquilame"
@@ -267,6 +335,13 @@
         "damage": "40+"
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -309,6 +384,9 @@
     "stage": "Stage1",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Flame Charge",
           "fr": "Nitrocharge"
@@ -319,6 +397,11 @@
         }
       },
       {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
         "name": {
           "en": "Heat Crash",
           "fr": "Tacle Feu"
@@ -326,6 +409,13 @@
         "damage": 50
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
     "variants": [
       {
         "type": "holo",
@@ -368,6 +458,9 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Withdraw",
           "fr": "Repli"
@@ -378,6 +471,10 @@
         }
       },
       {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
         "name": {
           "en": "Slash",
           "fr": "Tranche"
@@ -385,6 +482,13 @@
         "damage": 20
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
     "variants": [
       {
         "type": "holo",
@@ -427,6 +531,9 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Collect",
           "fr": "Collecte"
@@ -437,6 +544,10 @@
         }
       },
       {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
         "name": {
           "en": "Scratch",
           "fr": "Griffe"
@@ -444,6 +555,19 @@
         "damage": 20
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -486,6 +610,9 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Dual Chop",
           "fr": "Double Baffe"
@@ -497,6 +624,7 @@
         "damage": "10×"
       }
     ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -539,6 +667,9 @@
     "stage": "Stage1",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Metal Sound",
           "fr": "Strido-Son"
@@ -549,6 +680,11 @@
         }
       },
       {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
         "name": {
           "en": "Guard Press",
           "fr": "Pression de Garde"
@@ -560,6 +696,19 @@
         "damage": 60
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -602,6 +751,9 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Headbutt",
           "fr": "Coup d'Boule"
@@ -609,6 +761,19 @@
         "damage": 10
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
@@ -651,6 +816,9 @@
     "stage": "Stage1",
     "attacks": [
       {
+        "cost": [
+          "Colorless"
+        ],
         "name": {
           "en": "Wrap",
           "fr": "Ligotage"
@@ -662,6 +830,10 @@
         "damage": 20
       },
       {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
         "name": {
           "en": "Tackle",
           "fr": "Charge"
@@ -669,6 +841,19 @@
         "damage": 30
       }
     ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
     "variants": [
       {
         "type": "holo",
