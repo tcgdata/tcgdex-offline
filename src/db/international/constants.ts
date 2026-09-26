@@ -1,4 +1,4 @@
-export const COMMIT = '46e7d514d534d38257914a5ffee54c17849f72c3';
+export const COMMIT = 'a9bf1ef787f862971b088c4bd713fb7da812171b';
 
 export const VERSION = 'master';
 
@@ -1174,6 +1174,7 @@ export const CARD_VARIANT_STAMPS = {
   '1ST_MOVIE': '1st-movie',
   '1ST_MOVIE_INVERTED': '1st-movie-inverted',
   '25TH_CELEBRATION': '25th-celebration',
+  '30TH_ANNIVERSARY': '30th-anniversary',
   '30TH_POKEDAY': '30th-pokeday',
   ACE_TRAINER: 'ace-trainer',
   AKIRA_MIYAZAKI: 'akira-miyazaki',
@@ -1321,6 +1322,7 @@ export const CARD_RARITIES = {
   HYPER_RARE: 'Hyper rare',
   ILLUSTRATION_RARE: 'Illustration rare',
   LEGEND: 'LEGEND',
+  MEGA_ATTACK_RARE: 'Mega Attack Rare',
   MEGA_HYPER_RARE: 'Mega Hyper Rare',
   NONE: 'None',
   ONE_DIAMOND: 'One Diamond',
@@ -1328,6 +1330,7 @@ export const CARD_RARITIES = {
   ONE_STAR: 'One Star',
   PIKACHU_RARE: 'Pikachu Rare',
   PROMO: 'Promo',
+  RGB_RARE: 'RGB Rare',
   RADIANT_RARE: 'Radiant Rare',
   RARE: 'Rare',
   RARE_HOLO: 'Rare Holo',

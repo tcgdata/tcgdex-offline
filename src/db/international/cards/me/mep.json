@@ -67,6 +67,1496 @@
     "cardNumber": "Museum"
   },
   {
+    "id": "mep-120",
+    "name": {
+      "en": "Celebratory Fanfare"
+    },
+    "illustrator": "Yuu Nishida",
+    "rarity": "Promo",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Stadium",
+    "effect": {
+      "en": "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends."
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "stamp": [
+          "ace-trainer"
+        ]
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "120"
+  },
+  {
+    "id": "mep-110",
+    "name": {
+      "en": "Umbreon ex"
+    },
+    "illustrator": "REND",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 270,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Eevee"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Lunatic Claw"
+        },
+        "effect": {
+          "en": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 140 more damage."
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895618,
+          "tcgplayer": 713259
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "110"
+  },
+  {
+    "id": "mep-109",
+    "name": {
+      "en": "Pikachu ex"
+    },
+    "illustrator": "YOSHIROTTEN",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Zip-Zap Frenzy"
+        },
+        "effect": {
+          "en": "You may attach any number of Basic Energy cards from your hand to your Pokémon in any way you like."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunder"
+        },
+        "effect": {
+          "en": "This Pokémon also does 30 damage to itself."
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895617,
+          "tcgplayer": 713256
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "109"
+  },
+  {
+    "id": "mep-108",
+    "name": {
+      "en": "Espeon ex"
+    },
+    "illustrator": "REND",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 260,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Solar Beatdown"
+        },
+        "effect": {
+          "en": "This attack does 30 damage for each of your Pokémon in play."
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895616,
+          "tcgplayer": 713258
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "108"
+  },
+  {
+    "id": "mep-107",
+    "name": {
+      "en": "Pikachu ex"
+    },
+    "illustrator": "YOSHIROTTEN",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 190,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Pika-Pika Parade"
+        },
+        "effect": {
+          "en": "Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        }
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thunderbolt"
+        },
+        "effect": {
+          "en": "Discard all Energy from this Pokémon."
+        },
+        "damage": 200
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895615,
+          "tcgplayer": 713257
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "107"
+  },
+  {
+    "id": "mep-106",
+    "name": {
+      "en": "Ditto"
+    },
+    "illustrator": "Ounishi",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      132
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Surprisingly Transform"
+        },
+        "effect": {
+          "en": "Flip a coin. If heads, search your deck for a Pokémon and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon. If you switched a Pokémon in this way, put this card into your deck. Then, shuffle your deck."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895619,
+          "tcgplayer": 713287
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "106"
+  },
+  {
+    "id": "mep-105",
+    "name": {
+      "en": "Mew"
+    },
+    "illustrator": "Cona Nitanda",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "en": "Psychic"
+        },
+        "effect": {
+          "en": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895621,
+          "tcgplayer": 713288
+        }
+      },
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "105"
+  },
+  {
+    "id": "mep-104",
+    "name": {
+      "en": "Mewtwo"
+    },
+    "illustrator": "Nisota Niso",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "en": "Empower"
+        },
+        "effect": {
+          "en": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Pokémon."
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Psydrive"
+        },
+        "effect": {
+          "en": "Discard an Energy from this Pokémon."
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895620,
+          "tcgplayer": 713289
+        }
+      },
+      {
+        "type": "holo"
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "104"
+  },
+  {
+    "id": "mep-103",
+    "name": {
+      "en": "Zeraora"
+    },
+    "illustrator": "HACCAN",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      807
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Rapid Draw"
+        },
+        "effect": {
+          "en": "Draw a card."
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Electrobullet"
+        },
+        "effect": {
+          "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895614,
+          "tcgplayer": 713285
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "103"
+  },
+  {
+    "id": "mep-102",
+    "name": {
+      "en": "Victini"
+    },
+    "illustrator": "satoma",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      494
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "en": "Call for Family"
+        },
+        "effect": {
+          "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "V-Flame"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895613,
+          "tcgplayer": 713286
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "102"
+  },
+  {
+    "id": "mep-101",
+    "name": {
+      "en": "Nidorina"
+    },
+    "illustrator": "Taiga Kasai",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      30
+    ],
+    "hp": 90,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "en": "Nidoran♀"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Share Happiness"
+        },
+        "effect": {
+          "en": "Once during your turn, you may use this Ability. Heal 30 damage from 1 of your Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Bite"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895604,
+          "tcgplayer": 713260
+        }
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "pokemon-center"
+        ],
+        "thirdParty": {
+          "cardmarket": 895605,
+          "tcgplayer": 713261
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "101"
+  },
+  {
+    "id": "mep-100",
+    "name": {
+      "en": "Sylveon ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      700
+    ],
+    "hp": 270,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "en": "Eevee"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Colorful Harmony"
+        },
+        "effect": {
+          "en": "This attack does 50 damage for each type of Basic Energy attached to all of your Pokémon."
+        },
+        "damage": "50×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895612,
+          "tcgplayer": 713267
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 910856,
+          "tcgplayer": 713270
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "100"
+  },
+  {
+    "id": "mep-099",
+    "name": {
+      "en": "Greninja ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      658
+    ],
+    "hp": 300,
+    "types": [
+      "Water"
+    ],
+    "evolveFrom": {
+      "en": "Frogadier"
+    },
+    "regulationMark": "J",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": {
+          "en": "Stealthy Slash"
+        },
+        "effect": {
+          "en": "This attack does 30 damage to 1 of your opponent's Pokémon for each damage counter on that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      },
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": {
+          "en": "Aqua Edge"
+        },
+        "damage": 160
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895611,
+          "tcgplayer": 713268
+        }
+      },
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 910855,
+          "tcgplayer": 713269
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "099"
+  },
+  {
+    "id": "mep-098",
+    "name": {
+      "en": "Zapdos"
+    },
+    "illustrator": "SIE NANAHARA",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      145
+    ],
+    "hp": 120,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Flash-Pop Flapping"
+        },
+        "effect": {
+          "en": "Once during your turn, if you have Moltres and Articuno in play, you may use this Ability. Attach a Basic {L} Energy card from your hand to this Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Thundering Lightning"
+        },
+        "effect": {
+          "en": "This Pokémon also does 60 damage to itself."
+        },
+        "damage": 210
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895608,
+          "tcgplayer": 713266
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "098"
+  },
+  {
+    "id": "mep-097",
+    "name": {
+      "en": "Articuno"
+    },
+    "illustrator": "Taira Akitsu",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      144
+    ],
+    "hp": 120,
+    "types": [
+      "Water"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Frosty Flapping"
+        },
+        "effect": {
+          "en": "Once during your turn, if you have Moltres and Zapdos in play, you may use this Ability. Attach a Basic {W} Energy card from your hand to this Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Hail"
+        },
+        "effect": {
+          "en": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895607,
+          "tcgplayer": 713265
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "097"
+  },
+  {
+    "id": "mep-096",
+    "name": {
+      "en": "Moltres"
+    },
+    "illustrator": "Krgc",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      146
+    ],
+    "hp": 120,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Fiery Flapping"
+        },
+        "effect": {
+          "en": "Once during your turn, if you have Articuno and Zapdos in play, you may use this Ability. Attach a Basic {R} Energy card from your hand to this Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Fire Spin"
+        },
+        "effect": {
+          "en": "Discard 2 Energy from this Pokémon."
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895606,
+          "tcgplayer": 713264
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "096"
+  },
+  {
+    "id": "mep-095",
+    "name": {
+      "en": "Lucario"
+    },
+    "illustrator": "Taiga Kasai",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      448
+    ],
+    "hp": 120,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "en": "Riolu"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Aura Sphere"
+        },
+        "effect": {
+          "en": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895610,
+          "tcgplayer": 713263
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "095"
+  },
+  {
+    "id": "mep-094",
+    "name": {
+      "en": "Alolan Exeggutor"
+    },
+    "illustrator": "yuu",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      103
+    ],
+    "hp": 150,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "en": "Exeggcute"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Scale Up"
+        },
+        "effect": {
+          "en": "If this Pokémon has 6 or more {G} Energy attached, it gets +250 HP."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Mega Drain"
+        },
+        "effect": {
+          "en": "Heal 50 damage from this Pokémon."
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 895609,
+          "tcgplayer": 713262
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "094"
+  },
+  {
+    "id": "mep-093",
+    "name": {
+      "en": "Pikachu"
+    },
+    "illustrator": "DOM",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      25
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Scrappy Spark"
+        },
+        "effect": {
+          "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        },
+        "damage": "30+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 894884,
+          "tcgplayer": 712963
+        }
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "winner"
+        ],
+        "thirdParty": {
+          "cardmarket": 894885,
+          "tcgplayer": 716740
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "093"
+  },
+  {
+    "id": "mep-092",
+    "name": {
+      "en": "Paradise Resort"
+    },
+    "illustrator": "Naoki Saito",
+    "rarity": "Promo",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Stadium",
+    "effect": {
+      "en": "The Retreat Cost of each Psyduck in play (both yours and your opponent's) is {C} less."
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 903686,
+          "tcgplayer": 714597
+        }
+      },
+      {
+        "type": "holo",
+        "stamp": [
+          "staff"
+        ],
+        "thirdParty": {
+          "tcgplayer": 714598
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "cardNumber": "092"
+  },
+  {
+    "id": "mep-091",
+    "name": {
+      "en": "Mega Dragonite ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      149
+    ],
+    "hp": 370,
+    "types": [
+      "Dragon"
+    ],
+    "evolveFrom": {
+      "en": "Dragonair"
+    },
+    "regulationMark": "I",
+    "stage": "Stage2",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Sky Transport"
+        },
+        "effect": {
+          "en": "Once during your turn, you may use this Ability. Switch your Active Pokémon with 1 of your Benched Pokémon."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Ryuno Glide"
+        },
+        "effect": {
+          "en": "Discard 2 Energy from this Pokémon."
+        },
+        "damage": 330
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 903681,
+          "tcgplayer": 710757
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "091"
+  },
+  {
+    "id": "mep-090",
+    "name": {
+      "en": "Mega Darkrai ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      491
+    ],
+    "hp": 280,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "en": "Dusk Raid"
+        },
+        "effect": {
+          "en": "If your Benched Pokémon have any damage counters on them, this attack does 110 more damage."
+        },
+        "damage": "110+"
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "en": "Abyss Eye"
+        },
+        "effect": {
+          "en": "If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out."
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 903676,
+          "tcgplayer": 710756
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "090"
+  },
+  {
+    "id": "mep-089",
+    "name": {
+      "en": "Mega Zeraora ex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Promo",
+    "category": "Pokemon",
+    "dexId": [
+      807
+    ],
+    "hp": 270,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": {
+          "en": "Thunderous Fist"
+        },
+        "effect": {
+          "en": "This attack does 60 damage for each {L} Energy attached to this Pokémon."
+        },
+        "damage": "60×"
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "name": {
+          "en": "Zepto Turn"
+        },
+        "effect": {
+          "en": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        "damage": 150
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 903672,
+          "tcgplayer": 710754
+        }
+      }
+    ],
+    "series": {
+      "id": "me"
+    },
+    "set": {
+      "id": "mep"
+    },
+    "suffix": "ex",
+    "cardNumber": "089"
+  },
+  {
     "id": "mep-088",
     "name": {
       "en": "Zarude",
@@ -254,12 +1744,7 @@
   {
     "id": "mep-086",
     "name": {
-      "en": "Slowpoke",
-      "fr": "Ramoloss",
-      "es": "Slowpoke",
-      "it": "Slowpoke",
-      "pt": "Slowpoke",
-      "de": "Flegmon"
+      "en": "Slowpoke"
     },
     "illustrator": "miki kudo",
     "rarity": "Promo",
@@ -277,14 +1762,10 @@
       {
         "type": "Ability",
         "name": {
-          "en": "Dopey Face",
-          "de": "Dösiger Blick",
-          "pt": "Rosto Atordoado"
+          "en": "Dopey Face"
         },
         "effect": {
-          "en": "This Pokémon can't be Confused.",
-          "de": "Dieses Pokémon kann nicht verwirrt werden.",
-          "pt": "Este Pokémon não pode ficar Confuso."
+          "en": "This Pokémon can't be Confused."
         }
       }
     ],
@@ -296,12 +1777,7 @@
           "Colorless"
         ],
         "name": {
-          "en": "Super Psy Bolt",
-          "fr": "Super Psy",
-          "es": "Superrayo Psi",
-          "it": "Superpsico",
-          "pt": "Super-raio Psíquico",
-          "de": "Super-Psischlag"
+          "en": "Super Psy Bolt"
         },
         "damage": 50
       }
@@ -1006,13 +2482,7 @@
   {
     "id": "mep-078",
     "name": {
-      "en": "Toxel",
-      "fr": "Toxizap",
-      "es": "Toxel",
-      "es-mx": "Toxel",
-      "de": "Toxel",
-      "it": "Toxel",
-      "pt": "Toxel"
+      "en": "Toxel"
     },
     "illustrator": "Mina Nakai",
     "rarity": "Promo",
@@ -1032,22 +2502,10 @@
           "Darkness"
         ],
         "name": {
-          "en": "Call for Family",
-          "fr": "Appel à la Famille",
-          "es": "Llamar a la Familia",
-          "es-mx": "Llamar a la Familia",
-          "de": "Familienruf",
-          "it": "Cerca Famiglia",
-          "pt": "Chamar a Família"
+          "en": "Call for Family"
         },
         "effect": {
-          "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.",
-          "fr": "Cherchez dans votre deck jusqu'à 2 Pokémon de base, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",
-          "es": "Busca en tu baraja hasta 2 Pokémon Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja.",
-          "es-mx": "Busca en tu baraja hasta 2 Pokémon Básicos y ponlos en tu Banca. Después, baraja las cartas de tu baraja.",
-          "de": "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon und lege sie auf deine Bank. Mische anschließend dein Deck.",
-          "it": "Cerca nel tuo mazzo fino a due Pokémon Base e mettili nella tua panchina. Poi rimischia il tuo mazzo.",
-          "pt": "Procure por até 2 Pokémon Básicos no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho."
+          "en": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
         }
       },
       {
@@ -1056,13 +2514,7 @@
           "Colorless"
         ],
         "name": {
-          "en": "Playful Kick",
-          "fr": "Coup de Pied de Garnement",
-          "es": "Patada Juguetona",
-          "es-mx": "Patada Juguetona",
-          "de": "Verspielter Kick",
-          "it": "Calcio Briccone",
-          "pt": "Chute Brincalhão"
+          "en": "Playful Kick"
         },
         "damage": 20
       }
@@ -2053,13 +3505,7 @@
   {
     "id": "mep-068",
     "name": {
-      "en": "Makuhita",
-      "fr": "Makuhita",
-      "de": "Makuhita",
-      "it": "Makuhita",
-      "es": "Makuhita",
-      "pt": "Makuhita",
-      "es-mx": "Makuhita"
+      "en": "Makuhita"
     },
     "illustrator": "Takeshi Nakamura",
     "rarity": "Promo",
@@ -2079,13 +3525,7 @@
           "Fighting"
         ],
         "name": {
-          "en": "Corkscrew Punch",
-          "fr": "Poing Tire-Bouchon",
-          "de": "Korkenzieherhieb",
-          "it": "Pugno Rotante",
-          "es": "Puño Tirabuzón",
-          "pt": "Soco Saca-rolha",
-          "es-mx": "Puño Sacacorchos"
+          "en": "Corkscrew Punch"
         },
         "damage": 10
       },
@@ -2095,13 +3535,7 @@
           "Fighting"
         ],
         "name": {
-          "en": "Confront",
-          "fr": "Confrontation",
-          "de": "Konfrontieren",
-          "it": "Confronto",
-          "es": "Confrontar",
-          "pt": "Confrontar",
-          "es-mx": "Confrontar"
+          "en": "Confront"
         },
         "damage": 30
       }
@@ -5173,12 +6607,7 @@
   {
     "id": "mep-028",
     "name": {
-      "en": "Celebratory Fanfare",
-      "fr": "Fanfare de Fête",
-      "de": "Festliche Fanfare",
-      "it": "Fanfara di Celebrazione",
-      "es": "Algarabía Celebratoria",
-      "pt": "Fanfarra de Celebração"
+      "en": "Celebratory Fanfare"
     },
     "illustrator": "Yuu Nishida",
     "rarity": "Promo",
@@ -5186,12 +6615,7 @@
     "regulationMark": "I",
     "trainerType": "Stadium",
     "effect": {
-      "en": "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.",
-      "fr": "Une fois pendant le tour de chaque personne, cette personne-là peut soigner 10 dégâts de chacun de ses Pokémon. Si des dégâts sont ainsi soignés, son tour se termine.",
-      "de": "Einmal während des Zuges jedes Spielers kann jener Spieler 10 Schadenspunkte bei jedem seiner Pokémon heilen. Wenn ein Spieler auf diese Weise Schaden geheilt hat, endet sein Zug.",
-      "it": "Una sola volta durante il turno di ciascun giocatore, quel giocatore può curare 10 danni da ognuno dei suoi Pokémon. Se un giocatore ha curato dei danni in questo modo, il suo turno finisce.",
-      "es": "Una vez durante el turno de cada jugador, ese jugador puede curar 10 puntos de daño a cada uno de sus Pokémon. Si un jugador ha curado algún punto de daño de esta manera, su turno termina.",
-      "pt": "Uma vez durante o turno de cada jogador, aquele jogador poderá curar 10 pontos de dano de cada um dos seus próprios Pokémon. Se um jogador curar qualquer dano desta forma, o turno dele acabará."
+      "en": "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends."
     },
     "variants": [
       {
@@ -5910,12 +7334,7 @@
   {
     "id": "mep-019",
     "name": {
-      "en": "Whimsicott",
-      "fr": "Farfaduvet",
-      "de": "Elfun",
-      "it": "Whimsicott",
-      "es": "Whimsicott",
-      "pt": "Whimsicott"
+      "en": "Whimsicott"
     },
     "illustrator": "Yuka Tanaka",
     "rarity": "Promo",
@@ -5928,12 +7347,7 @@
       "Psychic"
     ],
     "evolveFrom": {
-      "en": "Cottonee",
-      "fr": "Doudouvet",
-      "de": "Waumboll",
-      "it": "Cottonee",
-      "es": "Cottonee",
-      "pt": "Cottonee"
+      "en": "Cottonee"
     },
     "regulationMark": "I",
     "stage": "Stage1",
@@ -5943,20 +7357,10 @@
           "Colorless"
         ],
         "name": {
-          "en": "Healing Fluff",
-          "fr": "Soin Douillet",
-          "de": "Heilender Flausch",
-          "it": "Batuffocura",
-          "es": "Pelusa Sanadora",
-          "pt": "Lanugem Curativa"
+          "en": "Healing Fluff"
         },
         "effect": {
-          "en": "Heal all damage from 1 of your Benched Pokémon.",
-          "fr": "Soignez tous les dégâts de l'un de vos Pokémon de Banc.",
-          "de": "Heile allen Schaden bei 1 Pokémon auf deiner Bank.",
-          "it": "Cura uno dei Pokémon nella tua panchina da tutti i danni.",
-          "es": "Cura todos los puntos de daño a uno de tus Pokémon en Banca.",
-          "pt": "Cure todo o dano de 1 dos seus Pokémon no Banco."
+          "en": "Heal all damage from 1 of your Benched Pokémon."
         }
       },
       {
@@ -5964,20 +7368,10 @@
           "Psychic"
         ],
         "name": {
-          "en": "U-turn",
-          "fr": "Demi-Tour",
-          "de": "Kehrtwende",
-          "it": "Retromarcia",
-          "es": "Ida y Vuelta",
-          "pt": "Fazer Retorno"
+          "en": "U-turn"
         },
         "effect": {
-          "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
-          "fr": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
-          "de": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
-          "it": "Scambia questo Pokémon con uno nella tua panchina.",
-          "es": "Cambia este Pokémon por uno de tus Pokémon en Banca.",
-          "pt": "Troque este Pokémon por 1 dos seus Pokémon no Banco."
+          "en": "Switch this Pokémon with 1 of your Benched Pokémon."
         },
         "damage": 50
       }
@@ -6009,12 +7403,7 @@
   {
     "id": "mep-018",
     "name": {
-      "en": "Cottonee",
-      "fr": "Doudouvet",
-      "de": "Waumboll",
-      "it": "Cottonee",
-      "es": "Cottonee",
-      "pt": "Cottonee"
+      "en": "Cottonee"
     },
     "illustrator": "Kariya",
     "rarity": "Promo",
@@ -6034,20 +7423,10 @@
           "Colorless"
         ],
         "name": {
-          "en": "Collect",
-          "fr": "Collecte",
-          "de": "Sammeln",
-          "it": "Tassa",
-          "es": "Coleccionar",
-          "pt": "Coleta"
+          "en": "Collect"
         },
         "effect": {
-          "en": "Draw a card.",
-          "fr": "Piochez une carte.",
-          "de": "Ziehe 1 Karte.",
-          "it": "Pesca una carta.",
-          "es": "Roba 1 carta.",
-          "pt": "Compre uma carta."
+          "en": "Draw a card."
         }
       }
     ],
@@ -7202,12 +8581,7 @@
   {
     "id": "mep-006",
     "name": {
-      "en": "Drifblim",
-      "fr": "Grodrive",
-      "de": "Drifzepeli",
-      "it": "Drifblim",
-      "es": "Drifblim",
-      "pt": "Drifblim"
+      "en": "Drifblim"
     },
     "illustrator": "Shimaris Yukichi",
     "rarity": "Promo",
@@ -7223,12 +8597,7 @@
       "Psychic"
     ],
     "evolveFrom": {
-      "en": "Drifloon",
-      "fr": "Baudrive",
-      "de": "Driftlon",
-      "it": "Drifloon",
-      "es": "Drifloon",
-      "pt": "Drifloon"
+      "en": "Drifloon"
     },
     "regulationMark": "I",
     "stage": "Stage1",
@@ -7238,20 +8607,10 @@
           "Psychic"
         ],
         "name": {
-          "en": "Disruptive Wind",
-          "fr": "Vent Perturbant",
-          "de": "Störender Wind",
-          "it": "Vento Disturbante",
-          "es": "Viento Perturbador",
-          "pt": "Vento Perturbador"
+          "en": "Disruptive Wind"
         },
         "effect": {
-          "en": "Your opponent's Active Pokémon is now Confused.",
-          "fr": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
-          "de": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt.",
-          "it": "Il Pokémon attivo del tuo avversario viene confuso.",
-          "es": "El Pokémon Activo de tu rival pasa a estar Confundido.",
-          "pt": "O Pokémon Ativo do seu oponente agora está Confuso."
+          "en": "Your opponent's Active Pokémon is now Confused."
         }
       },
       {
@@ -7260,20 +8619,10 @@
           "Psychic"
         ],
         "name": {
-          "en": "Balloon Return",
-          "fr": "Retour Ballon",
-          "de": "Ballon-Rückkehr",
-          "it": "Ritorno Palloncino",
-          "es": "Regreso Globo",
-          "pt": "Retorno de Balão"
+          "en": "Balloon Return"
         },
         "effect": {
-          "en": "Put this Pokémon and all attached cards into your hand.",
-          "fr": "Ajoutez à votre main ce Pokémon et toutes les cartes qui lui sont attachées.",
-          "de": "Nimm dieses Pokémon und alle angelegten Karten auf deine Hand.",
-          "it": "Prendi questo Pokémon e tutte le carte assegnate e aggiungili alla tua mano.",
-          "es": "Pon este Pokémon y todas las cartas unidas a él en tu mano.",
-          "pt": "Coloque este Pokémon e todas as cartas ligadas a ele na sua mão."
+          "en": "Put this Pokémon and all attached cards into your hand."
         },
         "damage": 110
       }
@@ -7311,12 +8660,7 @@
   {
     "id": "mep-005",
     "name": {
-      "en": "Drifloon",
-      "fr": "Baudrive",
-      "de": "Driftlon",
-      "it": "Drifloon",
-      "es": "Drifloon",
-      "pt": "Drifloon"
+      "en": "Drifloon"
     },
     "illustrator": "Shimaris Yukichi",
     "rarity": "Promo",
@@ -7339,21 +8683,10 @@
           "Psychic"
         ],
         "name": {
-          "en": "Pull",
-          "fr": "Tirer",
-          "de": "Ziehen",
-          "it": "Tira",
-          "es": "Tirar",
-          "pt": "Puxar",
-          "es-mx": "Jalar"
+          "en": "Pull"
         },
         "effect": {
-          "en": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
-          "fr": "Lancez une pièce. Si c'est face, envoyez l'un des Pokémon de Banc de votre adversaire sur le Poste Actif.",
-          "de": "Wirf 1 Münze. Wechsle bei Kopf 1 Pokémon auf der Bank deines Gegners gegen dessen Aktives Pokémon aus.",
-          "it": "Lancia una moneta. Se esce testa, scambia 1 dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo.",
-          "es": "Lanza 1 moneda. Si sale cara, cambia 1 de los Pokémon en Banca de tu rival por su Pokémon Activo.",
-          "pt": "Jogue 1 moeda. Se sair cara, troque 1 dos Pokémon no Banco do seu oponente pelo Pokémon Ativo dele."
+          "en": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
         }
       }
     ],
