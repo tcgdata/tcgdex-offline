@@ -236,9 +236,23 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
         })
       ).default;
 
+    case 'M6a':
+      return (
+        await import('./cards/M/M6a.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
     case 'MC':
       return (
         await import('./cards/M/MC.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
+    case 'MF':
+      return (
+        await import('./cards/M/MF.json', {
           with: { type: 'json' },
         })
       ).default;
@@ -1282,6 +1296,13 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
     case 'VS1':
       return (
         await import('./cards/VS/VS1.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
+    case 'WCS23':
+      return (
+        await import('./cards/SV/WCS23.json', {
           with: { type: 'json' },
         })
       ).default;

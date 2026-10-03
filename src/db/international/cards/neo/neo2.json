@@ -201,6 +201,9 @@
     },
     "rarity": "Common",
     "category": "Trainer",
+    "cameoDexIds": [
+      201
+    ],
     "effect": {
       "en": "Flip 2 coins. For each heads, search your deck for a Basic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
       "fr": "Lancez 2 pièces. Pour chaque face, cherchez dans votre deck une carte Énergie de base. Montrez cette carte à votre adversaire, puis placez-la dans votre main. Mélangez ensuite votre deck.",
@@ -242,6 +245,11 @@
     },
     "rarity": "Uncommon",
     "category": "Trainer",
+    "cameoDexIds": [
+      26,
+      140,
+      201
+    ],
     "effect": {
       "en": "Search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. (You can't play this card if your Bench is full.)",
       "fr": "Cherchez dans votre deck une carte Zarbi et placez-la sur votre Banc. Mélangez ensuite votre deck. (Vous ne pouvez pas jouer cette carte si votre Banc est plein.)",
@@ -641,7 +649,7 @@
       {
         "type": "Pokemon Power",
         "name": {
-          "en": "Observe",
+          "en": "[Observe]",
           "fr": "[Observe]",
           "de": "Observe [Observe]"
         },
@@ -726,10 +734,12 @@
       {
         "type": "Pokemon Power",
         "name": {
+          "en": "[Increase]",
           "fr": "[Increase]",
           "de": "Increase"
         },
         "effect": {
+          "en": "When you play Unown [I] from your hand, you may search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. You can’t use this power if your Bench is full.",
           "fr": "Quand vous jouez Zarbi [I] depuis votre main, vous pouvez chercher dans votre deck une autre carte Zarbi et la placer sur votre Banc. Mélangez ensuite votre deck. Vous ne pouvez pas utiliser ce pouvoir si votre Banc est plein.",
           "de": "Wenn du Icognito I aus deiner hand ausspielst, kannst du dein Deck nach einer Karte, die icognito in ihren Namen hat, durchsuchen und diese auf deine Bank legen. Mische danach dein Deck. Du kannst diese Fähigkeit nicht anwenden, wenn deine Bank voll ist."
         }
@@ -814,7 +824,7 @@
           "de": "Engage [Engage]"
         },
         "effect": {
-          "en": "When you play Unown E from your hand, your opponent may shuffle his or her hand into his or her deck and then draw 4 cards. Either way, you may shuffle your hand into your deck and draw 4 cards.",
+          "en": "When you play Unown [E] from your hand, your opponent may shuffle his or her hand into his or her deck and then draw 4 cards. Either way, you may shuffle your hand into your deck and draw 4 cards.",
           "fr": "Quand vous jouez Zarbi [E] depuis votre main, votre adversaire peut mélanger sa main avec son deck et piocher 4 cartes. Vous pouvez aussi mélanger votre main avec votre deck et piocher 4 cartes.",
           "de": "Wenn du Icognito [E] aus deiner Hand ausspielst, kann dein Gegner die Karten von seiner Hand in sein Deck zurückmischen und dann vier Karten ziehen. Unabhängig davon kannst du die Karten von deiner Hand in dein Deck zurückmischen und dann vier Karten ziehen."
         }
@@ -1554,6 +1564,9 @@
     "dexId": [
       177
     ],
+    "cameoDexIds": [
+      178
+    ],
     "hp": 40,
     "types": [
       "Psychic"
@@ -2216,12 +2229,12 @@
       {
         "type": "Pokemon Power",
         "name": {
-          "en": "Undo",
+          "en": "[Undo]",
           "fr": "[Undo]",
           "de": "Undo [Undo]"
         },
         "effect": {
-          "en": "Once during your turn (before you attack), if you have Unown U, Unown N, Unown D, and Unown O on your Bench, you may return your Active Pokémon and all cards attached to it to your hand.",
+          "en": "Once during your turn (before you attack), if you have Unown [U], Unown [N], Unown [D], and Unown [O] on your Bench, you may return your Active Pokémon and all cards attached to it to your hand.",
           "fr": "Une fois pendant votre tour (avant votre attaque), si vous avez Zarbi [U], Zarbi [N], Zarbi [D], et Zarbi [O] sur votre Banc, vous pouvez remettre votre Pokémon Actif et toutes les cartes attachées à lui dans votre main.",
           "de": "Du kannst einmal während deines Zuges (vor deinem Angriff) dein aktives Pokémon und alle daran angelegten Karten auf deine Hand zurücknehmen, wenn Icognito [U], Icognito [N], Icognito [D] und Icognito [O] auf deiner Bank sind."
         }
@@ -2301,10 +2314,12 @@
       {
         "type": "Pokemon Power",
         "name": {
+          "en": "[Normal]",
           "fr": "[Normal]",
           "de": "Normal"
         },
         "effect": {
+          "en": "Whenever a Colorless Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [N] in play. (This power works even if Unown [N] is Asleep, Confused, or Paralyzed.)",
           "fr": "Quand un Pokémon  inflige des dégâts à un de vos Pokémon, réduisez ces dégâts de 30 (après application de la Faiblesse et de la Résistance). Ce pouvoir cesse de fonctionner s'il y a plus d'un Zarbi [N] en jeu. (Ce pouvoir fonctionne même si Zarbi [N] est Endormi, Confus ou Paralysé.)",
           "de": "Immer wenn ein -Pokémon einem deiner Pokémon Schaden zufügt, reduziere diese Schadenspunkte um 30 (nachdem Schwäche und Resistenz verrechnet wurden). Diese Fähigkeit verliert ihre Wirkung, solange du mehr als ein Icognito N im Spiel hast. (Diese Fähigkeit wirkt selbst dann, wenn Icognito N schläft, verwirrt oder gelähmt ist.)"
         }
@@ -2476,10 +2491,12 @@
       {
         "type": "Pokemon Power",
         "name": {
+          "en": "[Metal]",
           "fr": "[Metal]",
           "de": "Metal"
         },
         "effect": {
+          "en": "Whenever a Metal Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)",
           "fr": "Quand un Pokémon  inflige des dégâts à votre Pokémon, réduisez ces dégâts de 30 (après application de la Faiblesse et de la Résistance). Ce pouvoir cesse de fonctionner s'il y a plus d'un Zarbi [M] en jeu. (Ce pouvoir fonctionne même si Zarbi [M] est Endormi, Confus ou Paralysé.)",
           "de": "Immer wenn ein -Pokémon einem deiner Pokémon Schaden zufügt, reduziere diese Schadenspunkte um 30 (nachdem Schwäche und Resistenz verrechnet wurden). Diese Fähigkeit verliert ihre Wirkung, solange du mehr als ein Icognito M im Spiel hast. (Diese Fähigkeit wirkt selbst dann, wenn Icognito M schläft, verwirrt oder gelähmt ist.)\"> Neue Beschreibung"
         }
@@ -2564,7 +2581,7 @@
           "de": "Find [Find]"
         },
         "effect": {
-          "en": "Once during your turn (before you attack), if you have Unown F, Unown I, Unown N, and Unown D on your Bench, you may search your deck for a Trainer card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
+          "en": "Once during your turn (before you attack), if you have Unown [F], Unown [I], Unown [N], and Unown [D] on your Bench, you may search your deck for a Trainer card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.",
           "fr": "Une fois pendant votre tour (avant votre attaque), si vous avez Zarbi [F], Zarbi [I], Zarbi [N], et Zarbi [D] sur votre Banc, vous pouvez chercher dans votre deck une carte Dresseur. Montrez cette carte à votre adversaire, puis placez-la dans votre main. Mélangez ensuite votre deck.",
           "de": "Du kannst einmal während deines Zuges (vor deinem Angriff) dein Deck nach einer Trainerkarte durchsuchen, wenn Icognito [F], Icognito [I], Icognito [N] und Icognito [D] auf deiner Bank sind. Zeige diese Karte deinem Gegner und nimm sie auf deine Hand. Mische danach dein Deck."
         }
@@ -2644,12 +2661,12 @@
       {
         "type": "Pokemon Power",
         "name": {
-          "en": "Darkness",
+          "en": "[Darkness]",
           "fr": "[Darkness]",
           "de": "Dark [Darkness]"
         },
         "effect": {
-          "en": "Whenever a D Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown D in play. (This power even works if Unown D is Asleep, Confused, or Paralyzed.)",
+          "en": "Whenever a Darkness Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power even works if Unown [D] is Asleep, Confused, or Paralyzed.)",
           "fr": "Quand un Pokémon  inflige des dégâts à votre Pokémon, réduisez ces dégâts de 30 (après application de la Faiblesse et de la Résistance). Ce pouvoir cesse de fonctionner s'il y a plus d'un Zarbi [D] en jeu. (Ce pouvoir fonctionne même si Zarbi [D] est Endormi, Confus ou Paralysé.)",
           "de": "Immer wenn ein {D}-Pokémon einem deiner Pokémon Schaden zufügt, reduziere diese Schadenspunkte um 30 (nachdem Schwäche und Resistenz verrechnet wurden). Diese Fähigkeit verliert ihre Wirkung, solange du mehr als ein Icognito [D] im Spiel hast. (Diese Fähigkeit wirkt selbst dann, wenn Icognito [D] schläft, verwirrt, oder gelähmt ist.)"
         }
@@ -3991,12 +4008,12 @@
       {
         "type": "Pokemon Power",
         "name": {
-          "en": "Anger",
+          "en": "[Anger]",
           "fr": "[Anger]",
           "de": "Anger [Anger]"
         },
         "effect": {
-          "en": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown A. If you have more than 1 Unown A in play, use only 1 Anger for each attack.",
+          "en": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack.",
           "fr": "Quand 1 de vos Pokémon Zarbi utilise son attaque Puissance cachée, cette attaque inflige 10 dégâts supplémentaires par marqueur de dégâts placé sur Zarbi [A]. Si vous avez plus d' 1 Zarbi [A] en jeu, n'utilisez que 1 [Anger] par attaque.",
           "de": "Immer wenn eines deiner Pokémon, das Icognito in seinem Namen hat, seinen Angriff Kraftreserve verwendet, fügt dieser Angriff pro Schadensmarke auf Icognito [A] 10 weitere Schadenspunkte zu. Wenn du mehr als ein Icognito [A] im Spiel hast, kannst du nur einmal [Anger] bei jedem Angriff verwenden."
         }
@@ -4026,7 +4043,7 @@
       {
         "type": "normal",
         "thirdParty": {
-          "cardmarket": 274525,
+          "cardmarket": 274544,
           "tcgplayer": 90197
         }
       },
@@ -4036,7 +4053,7 @@
           "1st-edition"
         ],
         "thirdParty": {
-          "cardmarket": 274525,
+          "cardmarket": 274544,
           "tcgplayer": 90197
         }
       }
@@ -6007,12 +6024,12 @@
       {
         "type": "Pokemon Power",
         "name": {
-          "en": "Anger",
+          "en": "[Anger]",
           "fr": "[Anger]",
           "de": "Anger [Anger]"
         },
         "effect": {
-          "en": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown A. If you have more than 1 Unown A in play, use only 1 Anger for each attack.",
+          "en": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack.",
           "fr": "Quand 1 de vos Pokémon Zarbi utilise son attaque Puissance cachée, cette attaque inflige 10 dégâts supplémentaires par marqueur de dégâts placé sur Zarbi [A]. Si vous avez plus d' 1 Zarbi [A] en jeu, n'utilisez que 1 [Anger] par attaque.",
           "de": "Immer wenn eines deiner Pokémon, das Icognito in seinem Namen hat, seinen Angriff Kraftreserve verwendet, fügt dieser Angriff pro Schadensmarke auf Icognito [A] 10 weitere Schadenspunkte zu. Wenn du mehr als ein Icognito [A] im Spiel hast, kannst du nur einmal [Anger] bei jedem Angriff verwenden."
         }
