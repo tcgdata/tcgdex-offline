@@ -1,4 +1,4 @@
-export const COMMIT = '46e7d514d534d38257914a5ffee54c17849f72c3';
+export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
 
 export const VERSION = 'master';
 
@@ -55,7 +55,9 @@ export const SETS = {
     M4: 'M4',
     M5: 'M5',
     M6: 'M6',
+    M6A: 'M6a',
     MC: 'MC',
+    MF: 'MF',
     M_P: 'M-P',
   },
   MISC: {
@@ -224,6 +226,7 @@ export const SETS = {
     SVLS: 'SVLS',
     SVP1: 'SVP1',
     SV_P: 'SV-P',
+    WCS23: 'WCS23',
   },
   VS: {
     VS1: 'VS1',
@@ -255,7 +258,9 @@ export const SET_IDS = [
   'M4',
   'M5',
   'M6',
+  'M6a',
   'MC',
+  'MF',
   'Miscellaneous Promos',
   'PCG1',
   'PCG2',
@@ -405,6 +410,7 @@ export const SET_IDS = [
   'SVLS',
   'SVP1',
   'VS1',
+  'WCS23',
   'neo1',
   'neo2',
   'neo3',
@@ -414,7 +420,7 @@ export const SET_IDS = [
 
 export const SET_IDS_BY_SERIES_ID = {
   e: ['E5', 'E4', 'E3', 'E2', 'E1'],
-  M: ['MC', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
+  M: ['MF', 'MC', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
   misc: ['Miscellaneous Promos'],
   neo: ['neo4', 'neo3', 'neo2', 'neo1'],
   PCG: ['PCG9', 'PCG8', 'PCG7', 'PCG6', 'PCG5', 'PCG4', 'PCG3', 'PCG2', 'PCG1'],
@@ -508,6 +514,7 @@ export const SET_IDS_BY_SERIES_ID = {
     'CSMPiC',
   ],
   SV: [
+    'WCS23',
     'SVP1',
     'SVLS',
     'SVLN',
@@ -690,6 +697,7 @@ export const CARD_ILLUSTRATORS = {
   MINAMINAMI_TAKE: 'MINAMINAMI Take',
   MPC_FILM: 'MPC Film',
   MUGENUP: 'MUGENUP',
+  MAKOTO_IMAI: 'Makoto Imai',
   MAKURA_TAMI: 'Makura Tami',
   MANA_IBE: 'Mana Ibe',
   MASA: 'Masa',
@@ -719,6 +727,7 @@ export const CARD_ILLUSTRATORS = {
   NABATAME_KAZUTAKA: 'Nabatame Kazutaka',
   NAGOMI_NIJO: 'Nagomi Nijo',
   NAKAMURA_IPPAN: 'Nakamura Ippan',
+  NAKAOKA: 'Nakaoka',
   NAOKI_SAITO: 'Naoki Saito',
   NAOYO_KIMURA: 'Naoyo Kimura',
   NARANO: 'Narano',
@@ -777,6 +786,7 @@ export const CARD_ILLUSTRATORS = {
   SHIMARIS_YUKICHI: 'Shimaris Yukichi',
   SHIN_NAGASAWA: 'Shin Nagasawa',
   SHIN_ICHI_YOSHIDA: 'Shin-ichi Yoshida',
+  SHINJI_HIGUCHI_NORIKO_TAKAYA: 'Shinji Higuchi + Noriko Takaya',
   SHINJI_KANDA: 'Shinji Kanda',
   SHINYA_KOMATSU: 'Shinya Komatsu',
   SHINYA_MIZUNO: 'Shinya Mizuno',
@@ -792,6 +802,7 @@ export const CARD_ILLUSTRATORS = {
   TAIGA_KASAI: 'Taiga Kasai',
   TAIGA_KAYAMA: 'Taiga Kayama',
   TAIRA_AKITSU: 'Taira Akitsu',
+  TAKASHI_YAMAGUCHI: 'Takashi Yamaguchi',
   TAKESHI_NAKAMURA: 'Takeshi Nakamura',
   TAKUMI_WADA: 'Takumi Wada',
   TEEZIRO: 'Teeziro',
@@ -818,6 +829,7 @@ export const CARD_ILLUSTRATORS = {
   WHISKER: 'Whisker',
   WINTR_WANDR: 'Wintr Wandr',
   YASHIRO_NANACO: 'YASHIRO Nanaco',
+  YOSHIROTTEN: 'YOSHIROTTEN',
   YU_NAGABA: 'YU NAGABA',
   YANO_KEIJI: 'Yano Keiji',
   YOKO_HISHIDA: 'Yoko Hishida',
@@ -917,14 +929,17 @@ export const CARD_RARITIES = {
   BLACK_WHITE_RARE: 'Black White Rare',
   CHARACTER_RARE: 'Character Rare',
   CHARACTER_SUPER_RARE: 'Character Super Rare',
+  CLASSIC_COLLECTION: 'Classic Collection',
   COMMON: 'Common',
   DOUBLE_RARE: 'Double rare',
+  FUTURISTIC_RARE: 'Futuristic Rare',
   HOLO_RARE: 'Holo Rare',
   HYPER_RARE: 'Hyper rare',
   ILLUSTRATION_RARE: 'Illustration rare',
   MEGA_HYPER_RARE: 'Mega Hyper Rare',
   NONE: 'None',
   PROMO: 'Promo',
+  RGB_RARE: 'RGB Rare',
   RADIANT_RARE: 'Radiant Rare',
   RARE: 'Rare',
   RARE_HOLO: 'Rare Holo',

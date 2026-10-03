@@ -1,0 +1,2506 @@
+[
+  {
+    "id": "MF-PSY",
+    "name": {
+      "ja": "基本超エネルギー"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908406
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "PSY"
+  },
+  {
+    "id": "MF-LIG",
+    "name": {
+      "ja": "基本雷エネルギー"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908405
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "LIG"
+  },
+  {
+    "id": "MF-GRA",
+    "name": {
+      "ja": "基本草エネルギー"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908403
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "GRA"
+  },
+  {
+    "id": "MF-FIR",
+    "name": {
+      "ja": "基本炎エネルギー"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908404
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "FIR"
+  },
+  {
+    "id": "MF-DAR",
+    "name": {
+      "ja": "基本悪エネルギー"
+    },
+    "rarity": "None",
+    "category": "Energy",
+    "energyType": "Normal",
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908407
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "DAR"
+  },
+  {
+    "id": "MF-044",
+    "name": {
+      "ja": "ブラッキーex"
+    },
+    "illustrator": "REND",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 270,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "ja": "イーブイ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ルナティッククロー"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンにダメカンがのっているなら、140ダメージ追加。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908411
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "suffix": "EX",
+    "cardNumber": "044"
+  },
+  {
+    "id": "MF-043",
+    "name": {
+      "ja": "エーフィex"
+    },
+    "illustrator": "REND",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 260,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "イーブイ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンシャインビート"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンの数×30ダメージ。"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908410
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "suffix": "EX",
+    "cardNumber": "043"
+  },
+  {
+    "id": "MF-042",
+    "name": {
+      "ja": "ゼラオラ"
+    },
+    "illustrator": "HACCAN",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      807
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クイックドロー"
+        },
+        "effect": {
+          "ja": "自分の山札を1枚引く。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エレキバレット"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹にも、20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908409
+        }
+      }
+    ],
+    "description": {
+      "ja": "雷に 匹敵する スピードで 走り 大電圧を 発する ツメで 敵を 八つ裂きにする。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "042"
+  },
+  {
+    "id": "MF-041",
+    "name": {
+      "ja": "ビクティニ"
+    },
+    "illustrator": "satoma",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      494
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "なかまをよぶ"
+        },
+        "effect": {
+          "ja": "自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "Vフレイム"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908408
+        }
+      }
+    ],
+    "description": {
+      "ja": "勝利を もたらす ポケモン。 ビクティニを 連れた トレーナーは どんな 勝負にも 勝てるという。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "041"
+  },
+  {
+    "id": "MF-040",
+    "name": {
+      "ja": "リーリエの決心"
+    },
+    "illustrator": "Atsushi Furusawa",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札をすべて山札にもどして切る。その後、山札を6枚引く。自分のサイドの残り枚数が6枚なら、引く枚数は8枚になる。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908402
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "040"
+  },
+  {
+    "id": "MF-039",
+    "name": {
+      "ja": "ボスの指令"
+    },
+    "illustrator": "akagi",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908401
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "039"
+  },
+  {
+    "id": "MF-038",
+    "name": {
+      "ja": "タケシのスカウト"
+    },
+    "illustrator": "Teeziro",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札からたねポケモンを2枚まで、または進化ポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908400
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "038"
+  },
+  {
+    "id": "MF-037",
+    "name": {
+      "ja": "ジャッジマン"
+    },
+    "illustrator": "kantaro",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "おたがいのプレイヤーは、それぞれ手札をすべて山札にもどして切る。その後、それぞれ山札を4枚引く。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908399
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "037"
+  },
+  {
+    "id": "MF-036",
+    "name": {
+      "ja": "ガイ"
+    },
+    "illustrator": "Teeziro",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札を3枚引く。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908398
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "036"
+  },
+  {
+    "id": "MF-035",
+    "name": {
+      "ja": "ウエートレス"
+    },
+    "illustrator": "Cona Nitanda",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札を上から6枚見て、その中から基本エネルギーを1枚選び、自分のポケモンにつける。残りのカードは山札にもどして切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908397
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "035"
+  },
+  {
+    "id": "MF-034",
+    "name": {
+      "ja": "アイリスの闘志"
+    },
+    "illustrator": "yuu",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "このカードは、自分の手札を1枚トラッシュしなければ使えない。 自分の手札が6枚になるように、山札を引く。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908396
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "034"
+  },
+  {
+    "id": "MF-033",
+    "name": {
+      "ja": "ポケモンキャッチャー"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908395
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "033"
+  },
+  {
+    "id": "MF-032",
+    "name": {
+      "ja": "ポケモンいれかえ"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のバトルポケモンをベンチポケモンと入れ替える。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908394
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "032"
+  },
+  {
+    "id": "MF-031",
+    "name": {
+      "ja": "ポケパッド"
+    },
+    "illustrator": "Studio Bora Inc.",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分の山札からポケモン（「ルールを持つポケモン」をのぞく）を1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908393
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "031"
+  },
+  {
+    "id": "MF-030",
+    "name": {
+      "ja": "ハイパーボール"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "I",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "このカードは、自分の手札を2枚トラッシュしなければ使えない。 自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908392
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "030"
+  },
+  {
+    "id": "MF-029",
+    "name": {
+      "ja": "クラッシュハンマー"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "コインを1回投げオモテなら、相手の場のポケモンについているエネルギーを1個選び、トラッシュする。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908391
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "029"
+  },
+  {
+    "id": "MF-028",
+    "name": {
+      "ja": "きずぐすり"
+    },
+    "illustrator": "Ayaka Yoshida",
+    "rarity": "None",
+    "category": "Trainer",
+    "regulationMark": "J",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分のポケモン1匹のHPを「30」回復する。"
+    },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908390
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "028"
+  },
+  {
+    "id": "MF-027",
+    "name": {
+      "ja": "メテノ"
+    },
+    "illustrator": "ryoma uratsuka",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      774
+    ],
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メテオシュート"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーをすべてトラッシュし、相手のポケモン1匹に、120ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908389
+        }
+      }
+    ],
+    "description": {
+      "ja": "大気中の チリが エサ。 チリに 含まれる 成分によって コアの 色が 決まるという。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "027"
+  },
+  {
+    "id": "MF-026",
+    "name": {
+      "ja": "イーブイ"
+    },
+    "illustrator": "Hitoshi Ariga",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "でんこうせっか"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、20ダメージ追加。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908388
+        }
+      }
+    ],
+    "description": {
+      "ja": "不安定な 遺伝子の おかげで さまざまな 進化の 可能性を 秘めている 特殊な ポケモン。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "026"
+  },
+  {
+    "id": "MF-025",
+    "name": {
+      "ja": "イーブイ"
+    },
+    "illustrator": "En Morikura",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      133
+    ],
+    "hp": 70,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "でんこうせっか"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、20ダメージ追加。"
+        },
+        "damage": "20+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908387
+        }
+      }
+    ],
+    "description": {
+      "ja": "不安定な 遺伝子の おかげで さまざまな 進化の 可能性を 秘めている 特殊な ポケモン。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "025"
+  },
+  {
+    "id": "MF-024",
+    "name": {
+      "ja": "ガルーラ"
+    },
+    "illustrator": "Pani Kobayashi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      115
+    ],
+    "hp": 130,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "いかり"
+        },
+        "effect": {
+          "ja": "このポケモンにのっているダメカンの数×10ダメージ追加。"
+        },
+        "damage": "20+"
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メガトンパンチ"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908386
+        }
+      }
+    ],
+    "description": {
+      "ja": "お腹の 袋で 子育てをする。 安全なときだけ 子供を 袋から 出して 遊ばせる。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "024"
+  },
+  {
+    "id": "MF-023",
+    "name": {
+      "ja": "サザンドラ"
+    },
+    "illustrator": "Ryuta Fuse",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      635
+    ],
+    "hp": 170,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "ja": "ジヘッド"
+    },
+    "regulationMark": "J",
+    "stage": "Stage2",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "みつくびバイト"
+        },
+        "effect": {
+          "ja": "コインを3回投げ、オモテの数ぶん、相手のバトルポケモンについているエネルギーを選び、トラッシュする。"
+        }
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "しっこくのキバ"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908385
+        }
+      }
+    ],
+    "description": {
+      "ja": "昔 人が 邪悪 そのものと 忌み嫌い 攻撃し続けたため 凶暴になったと 言われている。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "023"
+  },
+  {
+    "id": "MF-022",
+    "name": {
+      "ja": "ジヘッド"
+    },
+    "illustrator": "IKEDA Saki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      634
+    ],
+    "hp": 100,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "ja": "モノズ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "かみつく"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぶちかます"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908384
+        }
+      }
+    ],
+    "description": {
+      "ja": "２つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "022"
+  },
+  {
+    "id": "MF-021",
+    "name": {
+      "ja": "モノズ"
+    },
+    "illustrator": "Gapao",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      633
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "かじる"
+        },
+        "damage": 10
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ずつき"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908383
+        }
+      }
+    ],
+    "description": {
+      "ja": "棲み処は 洞窟の 奥深く。 エサも 少ないので 動くものは なんでも 食いつき 食べようとする。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "021"
+  },
+  {
+    "id": "MF-020",
+    "name": {
+      "ja": "ゾロアーク"
+    },
+    "illustrator": "Shiburingaru",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      571
+    ],
+    "hp": 120,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "ja": "ゾロア"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "よるのぬけみち"
+        },
+        "effect": {
+          "ja": "このポケモンがベンチにいるかぎり、自分のバトルポケモンのにげるためのエネルギーは、2個ぶん少なくなる。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スラッシュクロー"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908382
+        }
+      }
+    ],
+    "description": {
+      "ja": "いっぺんに 大勢の 人を 化かす 力を 持つ。 幻の 景色を 見せて 棲み処を 守る。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "020"
+  },
+  {
+    "id": "MF-019",
+    "name": {
+      "ja": "ゾロア"
+    },
+    "illustrator": "Atsuya Uki",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      570
+    ],
+    "hp": 70,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "name": {
+          "ja": "やみのキバ"
+        },
+        "damage": 40
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908381
+        }
+      }
+    ],
+    "description": {
+      "ja": "人や ほかの ポケモンに 化ける。 自分の 正体を 隠すことで 危険から 身を 守っているのだ。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "019"
+  },
+  {
+    "id": "MF-018",
+    "name": {
+      "ja": "ヤミカラス"
+    },
+    "illustrator": "Kouki Saitou",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      198
+    ],
+    "hp": 80,
+    "types": [
+      "Darkness"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness"
+        ],
+        "name": {
+          "ja": "ちょっとつかむ"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンは、にげられない。"
+        },
+        "damage": 20
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908380
+        }
+      }
+    ],
+    "description": {
+      "ja": "ヤミカラスを 見かけて 不用意に 後を つけていくと 迷わされ 山道に 置いてけぼりに される。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "018"
+  },
+  {
+    "id": "MF-017",
+    "name": {
+      "ja": "ブラッキーex"
+    },
+    "illustrator": "Keisuke Azuma",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      197
+    ],
+    "hp": 270,
+    "types": [
+      "Darkness"
+    ],
+    "evolveFrom": {
+      "ja": "イーブイ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ルナティッククロー"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンにダメカンがのっているなら、140ダメージ追加。"
+        },
+        "damage": "100+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908379
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "suffix": "EX",
+    "cardNumber": "017"
+  },
+  {
+    "id": "MF-016",
+    "name": {
+      "ja": "キュワワー"
+    },
+    "illustrator": "sui",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      764
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "やすらぎアロマ"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモン1匹のHPを「80」回復する。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "マジカルショット"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908378
+        }
+      }
+    ],
+    "description": {
+      "ja": "花を つけていると 嬉しくなって 癒しの 効果を 発揮する。 花が 多い 土地を 好む。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "016"
+  },
+  {
+    "id": "MF-015",
+    "name": {
+      "ja": "クレセリア"
+    },
+    "illustrator": "KEIICHIRO ITO",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      488
+    ],
+    "hp": 120,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "オーロラゲイン"
+        },
+        "effect": {
+          "ja": "このポケモンのHPを「30」回復する。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ルナブラスト"
+        },
+        "damage": 100
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908377
+        }
+      }
+    ],
+    "description": {
+      "ja": "飛行するときは ベールのような 羽から 光る 粒子を 出す。 三日月の化身と 呼ばれている。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "015"
+  },
+  {
+    "id": "MF-014",
+    "name": {
+      "ja": "エーフィex"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      196
+    ],
+    "hp": 260,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "イーブイ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サンシャインビート"
+        },
+        "effect": {
+          "ja": "自分の場のポケモンの数×30ダメージ。"
+        },
+        "damage": "30×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908376
+        }
+      }
+    ],
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "suffix": "EX",
+    "cardNumber": "014"
+  },
+  {
+    "id": "MF-013",
+    "name": {
+      "ja": "マリルリ"
+    },
+    "illustrator": "Kagemaru Himeno",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      184
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "evolveFrom": {
+      "ja": "マリル"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "のしかかり"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908375
+        }
+      }
+    ],
+    "description": {
+      "ja": "じっと 耳を すますと 激しい 流れの 川の 中に なにが いるのか 聞き分けられる。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "013"
+  },
+  {
+    "id": "MF-012",
+    "name": {
+      "ja": "マリル"
+    },
+    "illustrator": "Saya Tsuruta",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      183
+    ],
+    "hp": 70,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "たいあたり"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908374
+        }
+      }
+    ],
+    "description": {
+      "ja": "脂が 詰まっている 尻尾が 浮き袋の 代わりと なるので 流れの 速い 川も 平気。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "012"
+  },
+  {
+    "id": "MF-011",
+    "name": {
+      "ja": "ミュウ"
+    },
+    "illustrator": "Cona Nitanda",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      151
+    ],
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "name": {
+          "ja": "サイコキネシス"
+        },
+        "effect": {
+          "ja": "相手のバトルポケモンについているエネルギーの数×40ダメージ追加。"
+        },
+        "damage": "10+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908373
+        }
+      }
+    ],
+    "description": {
+      "ja": "今でも 幻の ポケモンと いわれる。その姿を 見たものは 全国でも ほとんど いない。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "011"
+  },
+  {
+    "id": "MF-010",
+    "name": {
+      "ja": "ミュウツー"
+    },
+    "illustrator": "Nisota Niso",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      150
+    ],
+    "hp": 130,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Psychic"
+        ],
+        "name": {
+          "ja": "ちからをあたえる"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから基本エネルギーを2枚まで選び、自分のポケモン1匹につける。"
+        }
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "サイコドライブ"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを1個選び、トラッシュする。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "x2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908372
+        }
+      }
+    ],
+    "description": {
+      "ja": "ミュウの 遺伝子から つくられた ポケモン。 圧倒的 パワーと 狂暴な 心を もつ。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "010"
+  },
+  {
+    "id": "MF-009",
+    "name": {
+      "ja": "ストリンダー"
+    },
+    "illustrator": "Haru Akasaka",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      849
+    ],
+    "hp": 130,
+    "types": [
+      "Lightning"
+    ],
+    "evolveFrom": {
+      "ja": "エレズン"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "マッハボルト"
+        },
+        "damage": 80
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908371
+        }
+      }
+    ],
+    "description": {
+      "ja": "淀んだ 水を ガブ飲みして 体内で 電気を 生みだすとき ベースのような ビートが 響く。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "009"
+  },
+  {
+    "id": "MF-008",
+    "name": {
+      "ja": "エレズン"
+    },
+    "illustrator": "Shimaris Yukichi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      848
+    ],
+    "hp": 70,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ぶつかる"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908370
+        }
+      }
+    ],
+    "description": {
+      "ja": "わがままで とても 甘えん坊。 体内の ２つの 袋に 毒と 電気を それぞれ 溜める。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "008"
+  },
+  {
+    "id": "MF-007",
+    "name": {
+      "ja": "ゼラオラ"
+    },
+    "illustrator": "Bun Toujo",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      807
+    ],
+    "hp": 110,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "クイックドロー"
+        },
+        "effect": {
+          "ja": "自分の山札を1枚引く。"
+        },
+        "damage": 20
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エレキバレット"
+        },
+        "effect": {
+          "ja": "相手のベンチポケモン1匹にも、20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908369
+        }
+      }
+    ],
+    "description": {
+      "ja": "雷に 匹敵する スピードで 走り 大電圧を 発する ツメで 敵を 八つ裂きにする。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "007"
+  },
+  {
+    "id": "MF-006",
+    "name": {
+      "ja": "ビクティニ"
+    },
+    "illustrator": "Jiro Sasumo",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      494
+    ],
+    "hp": 80,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "なかまをよぶ"
+        },
+        "effect": {
+          "ja": "自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "Vフレイム"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908368
+        }
+      }
+    ],
+    "description": {
+      "ja": "勝利を もたらす ポケモン。 ビクティニを 連れた トレーナーは どんな 勝負にも 勝てるという。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "006"
+  },
+  {
+    "id": "MF-005",
+    "name": {
+      "ja": "キュウコン"
+    },
+    "illustrator": "kodama",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      38
+    ],
+    "hp": 110,
+    "types": [
+      "Fire"
+    ],
+    "evolveFrom": {
+      "ja": "ロコン"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "ほのおのしっぽ"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908367
+        }
+      }
+    ],
+    "description": {
+      "ja": "黄金に 輝く 体毛と ９本の 長い 尻尾を 持つ。 １０００年は 生きると 言われる。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "005"
+  },
+  {
+    "id": "MF-004",
+    "name": {
+      "ja": "ロコン"
+    },
+    "illustrator": "miki kudo",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      37
+    ],
+    "hp": 70,
+    "types": [
+      "Fire"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": {
+          "ja": "けりつける"
+        },
+        "effect": {
+          "ja": "コインを1回投げウラなら、このワザは失敗。"
+        },
+        "damage": 30
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908366
+        }
+      }
+    ],
+    "description": {
+      "ja": "温かい ６本の 尻尾は 体が 育つごとに 毛並みが 良くなり 美しく なっていく。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "004"
+  },
+  {
+    "id": "MF-003",
+    "name": {
+      "ja": "チェリム"
+    },
+    "illustrator": "takashi shiraishi",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      421
+    ],
+    "hp": 80,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "ja": "チェリンボ"
+    },
+    "regulationMark": "J",
+    "stage": "Stage1",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "エナジーギフト"
+        },
+        "effect": {
+          "ja": "自分の山札から基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "このは"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908365
+        }
+      }
+    ],
+    "description": {
+      "ja": "太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "003"
+  },
+  {
+    "id": "MF-002",
+    "name": {
+      "ja": "チェリンボ"
+    },
+    "illustrator": "Kurata So",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      420
+    ],
+    "hp": 40,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "かくれる"
+        },
+        "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+        }
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": {
+          "ja": "はねまわる"
+        },
+        "damage": 10
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908364
+        }
+      }
+    ],
+    "description": {
+      "ja": "栄養の 詰まった 玉は 鳥ポケモンの 大好物。 ついばまれないよう 逃げまわる。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "002"
+  },
+  {
+    "id": "MF-001",
+    "name": {
+      "ja": "トロピウス"
+    },
+    "illustrator": "Minahamu",
+    "rarity": "None",
+    "category": "Pokemon",
+    "dexId": [
+      357
+    ],
+    "hp": 120,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "J",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "まきかえす"
+        },
+        "effect": {
+          "ja": "前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、90ダメージ追加。"
+        },
+        "damage": "30+"
+      },
+      {
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "カッターウインド"
+        },
+        "damage": 90
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "x2"
+      }
+    ],
+    "resistances": [],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 908363
+        }
+      }
+    ],
+    "description": {
+      "ja": "いつも 同じ 果物ばかり 食べていたら のど元に とても 美味しい 果物が 生えてきた。"
+    },
+    "series": {
+      "id": "M"
+    },
+    "set": {
+      "id": "MF"
+    },
+    "cardNumber": "001"
+  }
+]

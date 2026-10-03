@@ -1,4 +1,4 @@
-export const COMMIT = '46e7d514d534d38257914a5ffee54c17849f72c3';
+export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
 
 export const VERSION = 'master';
 
@@ -1174,6 +1174,7 @@ export const CARD_VARIANT_STAMPS = {
   '1ST_MOVIE': '1st-movie',
   '1ST_MOVIE_INVERTED': '1st-movie-inverted',
   '25TH_CELEBRATION': '25th-celebration',
+  '30TH_ANNIVERSARY': '30th-anniversary',
   '30TH_POKEDAY': '30th-pokeday',
   ACE_TRAINER: 'ace-trainer',
   AKIRA_MIYAZAKI: 'akira-miyazaki',
@@ -1321,6 +1322,7 @@ export const CARD_RARITIES = {
   HYPER_RARE: 'Hyper rare',
   ILLUSTRATION_RARE: 'Illustration rare',
   LEGEND: 'LEGEND',
+  MEGA_ATTACK_RARE: 'Mega Attack Rare',
   MEGA_HYPER_RARE: 'Mega Hyper Rare',
   NONE: 'None',
   ONE_DIAMOND: 'One Diamond',
@@ -1328,6 +1330,7 @@ export const CARD_RARITIES = {
   ONE_STAR: 'One Star',
   PIKACHU_RARE: 'Pikachu Rare',
   PROMO: 'Promo',
+  RGB_RARE: 'RGB Rare',
   RADIANT_RARE: 'Radiant Rare',
   RARE: 'Rare',
   RARE_HOLO: 'Rare Holo',
@@ -1512,7 +1515,8 @@ export const TCG_PLAYER_GROUPS = {
   '3118': ['swsh11'],
   '3170': ['swsh12'],
   '17688': ['swsh12.5'],
-  '22873': ['sv01', 'svp'],
+  '22872': ['svp'],
+  '22873': ['sv01'],
   '23120': ['sv02'],
   '23228': ['sv03'],
   '23237': ['sv03.5'],
@@ -1530,6 +1534,7 @@ export const TCG_PLAYER_GROUPS = {
   '24326': ['sv10.5w'],
   '24380': ['me01'],
   '24448': ['me02'],
+  '24451': ['mep'],
   '24541': ['me02.5'],
   '24587': ['me03'],
   '24655': ['me04'],
