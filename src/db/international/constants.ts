@@ -1,4 +1,4 @@
-export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
+export const COMMIT = '4199850a6af49665db0080fa2bb9ef751750a406';
 
 export const VERSION = 'master';
 
@@ -1539,4 +1539,5 @@ export const TCG_PLAYER_GROUPS = {
   '24587': ['me03'],
   '24655': ['me04'],
   '24688': ['me05'],
+  '24837': ['30th-c'],
 } as const;
