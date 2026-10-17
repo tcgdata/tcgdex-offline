@@ -874,6 +874,9 @@
     "rarity": "None",
     "category": "Trainer",
     "trainerType": "Supporter",
+    "effect": {
+      "en": "Each player shuffles his or her hand into his or her deck. Then, each player draws a card for each of his or her remaining Prize cards."
+    },
     "variants": [
       {
         "type": "holo",
@@ -905,7 +908,7 @@
       "pt": "Darkrai & Cresselia LENDA",
       "es-mx": "Darkrai & Cresselia LEYENDA"
     },
-    "illustrator": "Shinji Higuchi",
+    "illustrator": "Shinji Higuchi + Noriko Takaya",
     "rarity": "None",
     "category": "Pokemon",
     "dexId": [
@@ -914,6 +917,7 @@
     ],
     "hp": 150,
     "types": [
+      "Darkness",
       "Psychic"
     ],
     "stage": "Basic",
@@ -971,7 +975,12 @@
     ],
     "weaknesses": [
       {
-        "type": "Psychic"
+        "type": "Fighting",
+        "value": "x2"
+      },
+      {
+        "type": "Psychic",
+        "value": "x2"
       }
     ],
     "retreat": 2,
@@ -1007,7 +1016,7 @@
       "pt": "Darkrai & Cresselia LENDA",
       "es-mx": "Darkrai & Cresselia LEYENDA"
     },
-    "illustrator": "Shinji Higuchi + Noriko Takaya 樋口 真嗣 + 高屋 法子",
+    "illustrator": "Shinji Higuchi + Noriko Takaya",
     "rarity": "None",
     "category": "Pokemon",
     "dexId": [
@@ -1016,6 +1025,7 @@
     ],
     "hp": 150,
     "types": [
+      "Darkness",
       "Psychic"
     ],
     "stage": "Basic",
@@ -2358,7 +2368,9 @@
     "illustrator": "Ken Sugimori",
     "rarity": "None",
     "category": "Trainer",
-    "trainerType": "Supporter",
+    "effect": {
+      "en": "Discard 2 of the other cards in your hand in order to play this card. If this turn's attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has missy in its name, the attack does 20 more damage to the Defending Pokémon."
+    },
     "variants": [
       {
         "type": "holo",
