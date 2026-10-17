@@ -1,4 +1,4 @@
-export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
+export const COMMIT = 'af57972e8f784c2507ab9e573c99bf02ae2e5e42';
 
 export const VERSION = 'master';
 
@@ -992,10 +992,7 @@ export const CARD_ILLUSTRATORS = {
   SHIN_ICHI_YOSHIDA: 'Shin-ichi Yoshida',
   SHIN_ICHI_YOSHIKAWA: 'Shin-ichi Yoshikawa',
   SHINJI_HIGUCHI: 'Shinji Higuchi',
-  SHINJI_HIGUCHI_NORIKO_TAKAYA: [
-    'Shinji Higuchi + Noriko Takaya',
-    'Shinji Higuchi + Noriko Takaya 樋口 真嗣 + 高屋 法子',
-  ],
+  SHINJI_HIGUCHI_NORIKO_TAKAYA: 'Shinji Higuchi + Noriko Takaya',
   SHINJI_HIGUCHI_SACHIKO_EBA: 'Shinji Higuchi + Sachiko Eba',
   SHINJI_KANDA: 'Shinji Kanda',
   SHINYA_KOMATSU: 'Shinya Komatsu',
@@ -1539,4 +1536,6 @@ export const TCG_PLAYER_GROUPS = {
   '24587': ['me03'],
   '24655': ['me04'],
   '24688': ['me05'],
+  '24722': ['30th'],
+  '24837': ['30th-c'],
 } as const;
