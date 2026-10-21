@@ -1,4 +1,4 @@
-export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
+export const COMMIT = 'cbddf7e54033b1b58e44af1049c88832e55b94d0';
 
 export const VERSION = 'master';
 
@@ -745,7 +745,6 @@ export const CARD_ILLUSTRATORS = {
   AYA_KUSUBE: 'Aya Kusube',
   AYAKA_YOSHIDA: 'Ayaka Yoshida',
   AYAKO_OZAKI: 'Ayako Ozaki',
-  AYOKO_YOSHIDA: 'Ayoko Yoshida',
   BERUBURI: 'BERUBURI',
   BENIMARU_ITOH: 'Benimaru Itoh',
   BUN_TOUJO: 'Bun Toujo',
@@ -992,10 +991,7 @@ export const CARD_ILLUSTRATORS = {
   SHIN_ICHI_YOSHIDA: 'Shin-ichi Yoshida',
   SHIN_ICHI_YOSHIKAWA: 'Shin-ichi Yoshikawa',
   SHINJI_HIGUCHI: 'Shinji Higuchi',
-  SHINJI_HIGUCHI_NORIKO_TAKAYA: [
-    'Shinji Higuchi + Noriko Takaya',
-    'Shinji Higuchi + Noriko Takaya 樋口 真嗣 + 高屋 法子',
-  ],
+  SHINJI_HIGUCHI_NORIKO_TAKAYA: 'Shinji Higuchi + Noriko Takaya',
   SHINJI_HIGUCHI_SACHIKO_EBA: 'Shinji Higuchi + Sachiko Eba',
   SHINJI_KANDA: 'Shinji Kanda',
   SHINYA_KOMATSU: 'Shinya Komatsu',
@@ -1173,9 +1169,13 @@ export const CARD_VARIANT_STAMPS = {
   '1ST_EDITION_SCRATCH_ERROR': '1st-edition-scratch-error',
   '1ST_MOVIE': '1st-movie',
   '1ST_MOVIE_INVERTED': '1st-movie-inverted',
+  '1ST_PLACE': '1st-place',
   '25TH_CELEBRATION': '25th-celebration',
+  '2ND_PLACE': '2nd-place',
   '30TH_ANNIVERSARY': '30th-anniversary',
   '30TH_POKEDAY': '30th-pokeday',
+  '3RD_PLACE': '3rd-place',
+  '4TH_PLACE': '4th-place',
   ACE_TRAINER: 'ace-trainer',
   AKIRA_MIYAZAKI: 'akira-miyazaki',
   ASIA_2023_24: 'asia-2023-24',
@@ -1279,6 +1279,7 @@ export const CARD_VARIANT_STAMPS = {
   TOP_EIGHT: 'top-eight',
   TOP_SIXTEEN: 'top-sixteen',
   TOP_THIRTY_TWO: 'top-thirty-two',
+  TOYS_R_US: 'toys-r-us',
   TRICK_OR_TRADE: 'trick-or-trade',
   TRISTAN_ROBINSON: 'tristan-robinson',
   TSUBASA_NAKAMURA: 'tsubasa-nakamura',
@@ -1539,4 +1540,6 @@ export const TCG_PLAYER_GROUPS = {
   '24587': ['me03'],
   '24655': ['me04'],
   '24688': ['me05'],
+  '24722': ['30th'],
+  '24837': ['30th-c'],
 } as const;

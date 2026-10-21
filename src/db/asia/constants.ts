@@ -1,9 +1,10 @@
-export const COMMIT = 'c5c0a8a63fe81746d05b9c95e8f51ed6931f7e78';
+export const COMMIT = 'cbddf7e54033b1b58e44af1049c88832e55b94d0';
 
 export const VERSION = 'master';
 
 export const SERIES = {
   ADV: 'ADV',
+  BW: 'BW',
   E: 'e',
   L: 'L',
   M: 'M',
@@ -22,6 +23,7 @@ export const SERIES = {
 
 export const SERIES_IDS = [
   'ADV',
+  'BW',
   'L',
   'M',
   'PCG',
@@ -39,6 +41,9 @@ export const SERIES_IDS = [
 ] as const;
 
 export const SETS = {
+  BW: {
+    BW8A: 'BW8a',
+  },
   E: {
     E1: 'E1',
     E2: 'E2',
@@ -241,6 +246,7 @@ export const SETS = {
 } as const;
 
 export const SET_IDS = [
+  'BW8a',
   'CP1',
   'CP2',
   'CSMPiC',
@@ -419,6 +425,7 @@ export const SET_IDS = [
 ] as const;
 
 export const SET_IDS_BY_SERIES_ID = {
+  BW: ['BW8a'],
   e: ['E5', 'E4', 'E3', 'E2', 'E1'],
   M: ['MF', 'MC', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
   misc: ['Miscellaneous Promos'],
@@ -595,7 +602,6 @@ export const CARD_ILLUSTRATORS = {
   AYA_KUSUBE: 'Aya Kusube',
   AYAKA_YOSHIDA: 'Ayaka Yoshida',
   AYAKO_OZAKI: 'Ayako Ozaki',
-  AYAKO_YOSHIDA: 'Ayako Yoshida',
   BUN_TOUJO: 'Bun Toujo',
   CHORISO: 'CHORISO',
   CONA_NITANDA: 'Cona Nitanda',
@@ -766,7 +772,6 @@ export const CARD_ILLUSTRATORS = {
   ROND: 'Rond',
   RYO_UEDA: 'Ryo Ueda',
   RYOTA_MURAYAMA: 'Ryota Murayama',
-  RYTA_FUSE: 'Ryta Fuse',
   RYUTA_FUSE: 'Ryuta Fuse',
   SATOSHI_NAKAI: 'SATOSHI NAKAI',
   SIE_NANAHARA: 'SIE NANAHARA',
@@ -790,7 +795,6 @@ export const CARD_ILLUSTRATORS = {
   SHINJI_KANDA: 'Shinji Kanda',
   SHINYA_KOMATSU: 'Shinya Komatsu',
   SHINYA_MIZUNO: 'Shinya Mizuno',
-  SONOSUKE_SKAUMA: 'Sonosuke Skauma',
   SOUICHIROU_GUNJIMA: 'Souichirou Gunjima',
   SPIKE_CHUNSOFT: 'Spike Chunsoft.',
   STUDIO_BORA_INC: 'Studio Bora Inc.',
