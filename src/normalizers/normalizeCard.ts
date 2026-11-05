@@ -14,6 +14,8 @@ export const normalizeCard = (
     item,
     evolveFrom,
     boosters: _,
+    level: __,
+    weight: ___,
     ...other
   } = series;
 
