@@ -1,5 +1,13 @@
 # @tcgdata/tcgdex-offline
 
+## 0.0.6
+
+### Patch Changes
+
+- [#18](https://github.com/tcgdata/tcgdex-offline/pull/18) [`cbdc959`](https://github.com/tcgdata/tcgdex-offline/commit/cbdc95974721fd182130ecda211691e020b46535) Thanks [@raing3](https://github.com/raing3)! - Updated tcgdex data to commit a8fe5736aef9bd6be2436e3be730109030f4c6e2 (ref: master)
+
+- [#19](https://github.com/tcgdata/tcgdex-offline/pull/19) [`2e11567`](https://github.com/tcgdata/tcgdex-offline/commit/2e115672209a9c724d8c1fca17b00fe561efcad2) Thanks [@raing3](https://github.com/raing3)! - Added new properties to card schema.
+
 ## 0.0.5
 
 ### Patch Changes
