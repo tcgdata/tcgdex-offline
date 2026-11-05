@@ -142,6 +142,8 @@ export const RawCardSchema = z
       .strict()
       .optional(),
     cardNumber: z.string(),
+    level: z.number().optional(),
+    weight: z.string().optional(),
   })
   .strict();
 
