@@ -38,7 +38,7 @@
           "ja": "ストームエメラルダ"
         },
         "effect": {
-          "ja": "自分のポケモン全員についている[R]と[L]エネルギーの数×50ダメージ。"
+          "ja": "自分のポケモン全員についている{R}と{L}エネルギーの数×50ダメージ。"
         },
         "damage": "50×"
       }
@@ -46,7 +46,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -61,7 +61,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900146,
-          "tcgplayer": 709267
+          "tcgplayer": 709267,
+          "cardtrader": 403195
         }
       }
     ],
@@ -80,7 +81,7 @@
       "ja": "ヒガナの信頼"
     },
     "illustrator": "Teeziro",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Special illustration rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -92,7 +93,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900145,
-          "tcgplayer": 709266
+          "tcgplayer": 709266,
+          "cardtrader": 403194
         }
       }
     ],
@@ -110,7 +112,7 @@
       "ja": "ギリー"
     },
     "illustrator": "Shimaris Yukichi",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Special illustration rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -122,7 +124,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900144,
-          "tcgplayer": 709265
+          "tcgplayer": 709265,
+          "cardtrader": 403193
         }
       }
     ],
@@ -139,8 +142,8 @@
     "name": {
       "ja": "メガレックウザex"
     },
-    "illustrator": "Kozuki Minami",
-    "rarity": "Mega Hyper Rare",
+    "illustrator": "Kazuki Minami",
+    "rarity": "Special illustration rare",
     "category": "Pokemon",
     "dexId": [
       384
@@ -173,7 +176,7 @@
           "ja": "ストームエメラルダ"
         },
         "effect": {
-          "ja": "自分のポケモン全員についている[R]と[L]エネルギーの数×50ダメージ。"
+          "ja": "自分のポケモン全員についている{R}と{L}エネルギーの数×50ダメージ。"
         },
         "damage": "50×"
       }
@@ -181,7 +184,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -196,7 +199,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900143,
-          "tcgplayer": 709264
+          "tcgplayer": 709264,
+          "cardtrader": 403028
         }
       }
     ],
@@ -215,7 +219,7 @@
       "ja": "メガゴルーグex"
     },
     "illustrator": "Takeshi Nakamura",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Special illustration rare",
     "category": "Pokemon",
     "dexId": [
       623
@@ -258,7 +262,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -273,7 +277,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900142,
-          "tcgplayer": 709262
+          "tcgplayer": 709262,
+          "cardtrader": 403192
         }
       }
     ],
@@ -292,7 +297,7 @@
       "ja": "ライコウex"
     },
     "illustrator": "Oku",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Special illustration rare",
     "category": "Pokemon",
     "dexId": [
       243
@@ -333,7 +338,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -343,7 +348,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900141,
-          "tcgplayer": 709261
+          "tcgplayer": 709261,
+          "cardtrader": 403191
         }
       }
     ],
@@ -362,7 +368,7 @@
       "ja": "メガグソクムシャex"
     },
     "illustrator": "nagimiso",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Special illustration rare",
     "category": "Pokemon",
     "dexId": [
       768
@@ -407,7 +413,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -417,7 +423,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900140,
-          "tcgplayer": 709260
+          "tcgplayer": 709260,
+          "cardtrader": 403190
         }
       }
     ],
@@ -436,19 +443,20 @@
       "ja": "バブル水エネルギー"
     },
     "illustrator": "",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Energy",
     "energyType": "Special",
     "regulationMark": "J",
     "effect": {
-      "ja": "このカードは、ポケモンについているかぎり、[W]エネルギー1個ぶんとしてはたらく。このカードをつけている[W]ポケモンは、特殊状態にならず、受けている特殊状態は、すべて回復する。"
+      "ja": "このカードは、ポケモンについているかぎり、{W}エネルギー1個ぶんとしてはたらく。このカードをつけている{W}ポケモンは、特殊状態にならず、受けている特殊状態は、すべて回復する。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900139,
-          "tcgplayer": 709259
+          "tcgplayer": 709259,
+          "cardtrader": 403189
         }
       }
     ],
@@ -466,19 +474,20 @@
       "ja": "ニトロ炎エネルギー"
     },
     "illustrator": "",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Energy",
     "energyType": "Special",
     "regulationMark": "J",
     "effect": {
-      "ja": "このカードは、ポケモンについているかぎり、[R]エネルギー1個ぶんとしてはたらく。このカードをつけている[R]ポケモンが使うワザの効果で、このカードがトラッシュされたなら、ワザのダメージや効果のあとに、手札にもどす。"
+      "ja": "このカードは、ポケモンについているかぎり、{R}エネルギー1個ぶんとしてはたらく。このカードをつけている{R}ポケモンが使うワザの効果で、このカードがトラッシュされたなら、ワザのダメージや効果のあとに、手札にもどす。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900138,
-          "tcgplayer": 709258
+          "tcgplayer": 709258,
+          "cardtrader": 403188
         }
       }
     ],
@@ -496,19 +505,20 @@
       "ja": "グロウ草エネルギー"
     },
     "illustrator": "",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Energy",
     "energyType": "Special",
     "regulationMark": "J",
     "effect": {
-      "ja": "このカードは、ポケモンについているかぎり、[G]エネルギー1個ぶんとしてはたらく。このカードをつけている[G]ポケモンは、最大HPが「＋20」される。"
+      "ja": "このカードは、ポケモンについているかぎり、{G}エネルギー1個ぶんとしてはたらく。このカードをつけている{G}ポケモンは、最大HPが「＋20」される。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900137,
-          "tcgplayer": 709257
+          "tcgplayer": 709257,
+          "cardtrader": 403187
         }
       }
     ],
@@ -526,7 +536,7 @@
       "ja": "フウとランの修行"
     },
     "illustrator": "Yuu Nishida",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -538,7 +548,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900136,
-          "tcgplayer": 709256
+          "tcgplayer": 709256,
+          "cardtrader": 403186
         }
       }
     ],
@@ -556,7 +567,7 @@
       "ja": "ヒガナの信頼"
     },
     "illustrator": "GIDORA",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -568,7 +579,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900135,
-          "tcgplayer": 709255
+          "tcgplayer": 709255,
+          "cardtrader": 403185
         }
       }
     ],
@@ -586,7 +598,7 @@
       "ja": "ギリー"
     },
     "illustrator": "Sanosuke Sakuma",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -598,7 +610,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900134,
-          "tcgplayer": 709254
+          "tcgplayer": 709254,
+          "cardtrader": 403184
         }
       }
     ],
@@ -616,7 +629,7 @@
       "ja": "MCの盛り上げ"
     },
     "illustrator": "DOM",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Supporter",
@@ -628,7 +641,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900133,
-          "tcgplayer": 709253
+          "tcgplayer": 709253,
+          "cardtrader": 403183
         }
       }
     ],
@@ -643,21 +657,23 @@
   {
     "id": "M6-099",
     "name": {
-      "ja": "ポケモンキャッチャー"
+      "ja": "とくちゅうチョッキ"
     },
     "illustrator": "Toyste Beach",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
-    "trainerType": "Item",
+    "regulationMark": "J",
+    "trainerType": "Tool",
     "effect": {
-      "ja": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+      "ja": "このカードをつけているポケモン（「メガシンカex」をのぞく）が、相手の「メガシンカex」から受けるワザのダメージは「-60」される。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900132,
-          "tcgplayer": 709252
+          "tcgplayer": 709252,
+          "cardtrader": 403182
         }
       }
     ],
@@ -672,22 +688,23 @@
   {
     "id": "M6-098",
     "name": {
-      "ja": "とくちゅうチョッキ"
+      "ja": "ポケモンキャッチャー"
     },
     "illustrator": "Studio Bora Inc.",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
-    "trainerType": "Tool",
+    "trainerType": "Item",
     "effect": {
-      "ja": "このカードをつけているポケモン（「メガシンカex」をのぞく）が、相手の「メガシンカex」から受けるワザのダメージは「-60」される。"
+      "ja": "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900131,
-          "tcgplayer": 709251
+          "tcgplayer": 709251,
+          "cardtrader": 403181
         }
       }
     ],
@@ -705,19 +722,20 @@
       "ja": "ぼうけんのランタン"
     },
     "illustrator": "inose yukie",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Trainer",
     "regulationMark": "J",
     "trainerType": "Item",
     "effect": {
-      "ja": "自分の山札から「基本[R]エネルギー」と「基本[L]エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。"
+      "ja": "自分の山札から「基本{R}エネルギー」と「基本{L}エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。"
     },
     "variants": [
       {
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900130,
-          "tcgplayer": 709250
+          "tcgplayer": 709250,
+          "cardtrader": 403180
         }
       }
     ],
@@ -735,7 +753,7 @@
       "ja": "ファイアローex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       663
@@ -756,7 +774,7 @@
           "ja": "エキサイトダイブ"
         },
         "effect": {
-          "ja": "自分の番に、このカードが手札にあり、自分の場に[C]タイプの「メガシンカex」がいるなら、1回使える。このカードをベンチに出す。"
+          "ja": "自分の番に、このカードが手札にあり、自分の場に{C}タイプの「メガシンカex」がいるなら、1回使える。このカードをベンチに出す。"
         }
       }
     ],
@@ -778,7 +796,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -793,7 +811,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900129,
-          "tcgplayer": 709249
+          "tcgplayer": 709249,
+          "cardtrader": 403179
         }
       }
     ],
@@ -812,7 +831,7 @@
       "ja": "メガレックウザex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       384
@@ -845,7 +864,7 @@
           "ja": "ストームエメラルダ"
         },
         "effect": {
-          "ja": "自分のポケモン全員についている[R]と[L]エネルギーの数×50ダメージ。"
+          "ja": "自分のポケモン全員についている{R}と{L}エネルギーの数×50ダメージ。"
         },
         "damage": "50×"
       }
@@ -853,7 +872,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -868,7 +887,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900128,
-          "tcgplayer": 709248
+          "tcgplayer": 709248,
+          "cardtrader": 403178
         }
       }
     ],
@@ -887,7 +907,7 @@
       "ja": "メガカラマネロex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       687
@@ -933,7 +953,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -943,7 +963,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900127,
-          "tcgplayer": 709247
+          "tcgplayer": 709247,
+          "cardtrader": 403177
         }
       }
     ],
@@ -962,7 +983,7 @@
       "ja": "メガゴルーグex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       623
@@ -1005,7 +1026,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1020,7 +1041,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900126,
-          "tcgplayer": 709246
+          "tcgplayer": 709246,
+          "cardtrader": 403176
         }
       }
     ],
@@ -1039,7 +1061,7 @@
       "ja": "ライコウex"
     },
     "illustrator": "aky CG Works",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       243
@@ -1080,7 +1102,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1090,7 +1112,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900123,
-          "tcgplayer": 709245
+          "tcgplayer": 709245,
+          "cardtrader": 403175
         }
       }
     ],
@@ -1109,7 +1132,7 @@
       "ja": "ヨワシex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       746
@@ -1148,7 +1171,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1158,7 +1181,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900117,
-          "tcgplayer": 709244
+          "tcgplayer": 709244,
+          "cardtrader": 403174
         }
       }
     ],
@@ -1177,7 +1201,7 @@
       "ja": "ヒートロトムex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       479
@@ -1198,7 +1222,7 @@
           "ja": "さいかねつ"
         },
         "effect": {
-          "ja": "自分のトラッシュにある「基本[R]エネルギー」をすべて相手に見せて、その枚数×30ダメージ。その後、見せたエネルギーを山札にもどして切る。"
+          "ja": "自分のトラッシュにある「基本{R}エネルギー」をすべて相手に見せて、その枚数×30ダメージ。その後、見せたエネルギーを山札にもどして切る。"
         },
         "damage": "30×"
       },
@@ -1220,7 +1244,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1230,7 +1254,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900116,
-          "tcgplayer": 709243
+          "tcgplayer": 709243,
+          "cardtrader": 403173
         }
       }
     ],
@@ -1249,7 +1274,7 @@
       "ja": "メガグソクムシャex"
     },
     "illustrator": "5ban Graphics",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Ultra Rare",
     "category": "Pokemon",
     "dexId": [
       768
@@ -1294,7 +1319,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1304,7 +1329,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900115,
-          "tcgplayer": 709242
+          "tcgplayer": 709242,
+          "cardtrader": 403172
         }
       }
     ],
@@ -1323,7 +1349,7 @@
       "ja": "カクレオン"
     },
     "illustrator": "Tomokazu Komiya",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       352
@@ -1352,7 +1378,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1362,10 +1388,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900114,
-          "tcgplayer": 709241
+          "tcgplayer": 709241,
+          "cardtrader": 403171
         }
       }
     ],
+    "description": {
+      "ja": "体の 色を 変えて 景色に 溶けこみ 獲物に 忍び寄る。 お腹の 模様は 消せないのだ。"
+    },
     "series": {
       "id": "M"
     },
@@ -1380,7 +1410,7 @@
       "ja": "チルタリス"
     },
     "illustrator": "kodama",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       334
@@ -1421,7 +1451,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1436,10 +1466,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900113,
-          "tcgplayer": 709240
+          "tcgplayer": 709240,
+          "cardtrader": 403170
         }
       }
     ],
+    "description": {
+      "ja": "大空を ゆったりと 飛ぶ。 チルタリスの 美しい ハミングを 聴くと うっとり 夢心地だ。"
+    },
     "series": {
       "id": "M"
     },
@@ -1454,7 +1488,7 @@
       "ja": "ルリリ"
     },
     "illustrator": "Narumi Sato",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       298
@@ -1479,7 +1513,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1489,10 +1523,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900112,
-          "tcgplayer": 709239
+          "tcgplayer": 709239,
+          "cardtrader": 403169
         }
       }
     ],
+    "description": {
+      "ja": "まるくて 大きな 尻尾には 成長に 必要な 栄養が たっぷりと 詰まっているのだ。"
+    },
     "series": {
       "id": "M"
     },
@@ -1507,7 +1545,7 @@
       "ja": "マーイーカ"
     },
     "illustrator": "Rond",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       686
@@ -1535,7 +1573,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1545,10 +1583,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900111,
-          "tcgplayer": 709238
+          "tcgplayer": 709238,
+          "cardtrader": 403168
         }
       }
     ],
+    "description": {
+      "ja": "光の 点滅で 襲ってきた 敵の 戦意を なくしてしまう。 その 隙に 姿を くらますのだ。"
+    },
     "series": {
       "id": "M"
     },
@@ -1563,7 +1605,7 @@
       "ja": "グラードン"
     },
     "illustrator": "Ryota Murayama",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       383
@@ -1603,7 +1645,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1613,10 +1655,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900110,
-          "tcgplayer": 709237
+          "tcgplayer": 709237,
+          "cardtrader": 403167
         }
       }
     ],
+    "description": {
+      "ja": "高熱で 水を 蒸発させて 大地を 広げたと 言われている。 カイオーガと 激しく 戦った。"
+    },
     "series": {
       "id": "M"
     },
@@ -1631,7 +1677,7 @@
       "ja": "ラブトロス"
     },
     "illustrator": "Taira Akitsu",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       905
@@ -1649,7 +1695,7 @@
           "ja": "けしんだんけつ"
         },
         "effect": {
-          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための[C]エネルギーが、すべてなくなる。"
+          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための{C}エネルギーが、すべてなくなる。"
         }
       }
     ],
@@ -1673,7 +1719,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1683,10 +1729,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900109,
-          "tcgplayer": 709236
+          "tcgplayer": 709236,
+          "cardtrader": 403166
         }
       }
     ],
+    "description": {
+      "ja": "海を越えて 飛来したらば 厳しき冬の 終わりを知る。 慈愛が ヒスイの地に 新しき命 芽吹かせるとの 伝承あり。"
+    },
     "series": {
       "id": "M"
     },
@@ -1701,7 +1751,7 @@
       "ja": "バチンウニ"
     },
     "illustrator": "Tetsu Kayama",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       871
@@ -1730,7 +1780,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1740,10 +1790,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900108,
-          "tcgplayer": 709235
+          "tcgplayer": 709235,
+          "cardtrader": 403165
         }
       }
     ],
+    "description": {
+      "ja": "藻屑が 触っただけで 驚き 放電してしまうほど 臆病。 唇は 電気を 通さない。"
+    },
     "series": {
       "id": "M"
     },
@@ -1758,7 +1812,7 @@
       "ja": "エレキブル"
     },
     "illustrator": "Rianti Hidayat",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       466
@@ -1805,7 +1859,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1815,10 +1869,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900107,
-          "tcgplayer": 709234
+          "tcgplayer": 709234,
+          "cardtrader": 403164
         }
       }
     ],
+    "description": {
+      "ja": "相手に 尻尾の先を 押しつけ 瞬時に ２万ボルト 以上の 高圧 電流を 送りこむ。"
+    },
     "series": {
       "id": "M"
     },
@@ -1833,7 +1891,7 @@
       "ja": "カイオーガ"
     },
     "illustrator": "Nurikabe",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       382
@@ -1873,7 +1931,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1883,10 +1941,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900105,
-          "tcgplayer": 709233
+          "tcgplayer": 709233,
+          "cardtrader": 403163
         }
       }
     ],
+    "description": {
+      "ja": "大雨と 大津波で 海を 広げた 神話の ポケモン。 グラードンと 激しく 戦った。"
+    },
     "series": {
       "id": "M"
     },
@@ -1901,7 +1963,7 @@
       "ja": "ブーバーン"
     },
     "illustrator": "Taiga Kasai",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       467
@@ -1922,7 +1984,7 @@
           "ja": "バディブースト"
         },
         "effect": {
-          "ja": "自分の番に1回使える。自分の手札から「基本[R]エネルギー」と「基本[L]エネルギー」をそれぞれ1枚まで選び、自分の「エレキブル」または「ブーバーン」に好きなようにつける。"
+          "ja": "自分の番に1回使える。自分の手札から「基本{R}エネルギー」と「基本{L}エネルギー」をそれぞれ1枚まで選び、自分の「エレキブル」または「ブーバーン」に好きなようにつける。"
         }
       }
     ],
@@ -1942,7 +2004,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -1952,10 +2014,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900104,
-          "tcgplayer": 709232
+          "tcgplayer": 709232,
+          "cardtrader": 403162
         }
       }
     ],
+    "description": {
+      "ja": "火山の 火口に 棲む。 １つの 火山には ひとつがいの ブーバーンしかいないと いわれる。"
+    },
     "series": {
       "id": "M"
     },
@@ -1970,7 +2036,7 @@
       "ja": "ガーディ"
     },
     "illustrator": "Yoshimoto Yoshimon",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       58
@@ -2008,7 +2074,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -2018,10 +2084,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900101,
-          "tcgplayer": 709231
+          "tcgplayer": 709231,
+          "cardtrader": 403161
         }
       }
     ],
+    "description": {
+      "ja": "人懐こく 誠実な 性格。 敵には ほえて かみつき 追い払おうとする。"
+    },
     "series": {
       "id": "M"
     },
@@ -2036,7 +2106,7 @@
       "ja": "アメモース"
     },
     "illustrator": "REND",
-    "rarity": "Mega Hyper Rare",
+    "rarity": "Illustration rare",
     "category": "Pokemon",
     "dexId": [
       284
@@ -2079,7 +2149,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -2089,10 +2159,14 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 900099,
-          "tcgplayer": 709230
+          "tcgplayer": 709230,
+          "cardtrader": 403160
         }
       }
     ],
+    "description": {
+      "ja": "雨に 濡れると 特徴的な 目玉模様の 触角が 重くなり 飛べなくなって しまう。"
+    },
     "series": {
       "id": "M"
     },
@@ -2119,7 +2193,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900089,
-          "tcgplayer": 709229
+          "tcgplayer": 709229,
+          "cardtrader": 403104
         }
       }
     ],
@@ -2149,7 +2224,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900086,
-          "tcgplayer": 709228
+          "tcgplayer": 709228,
+          "cardtrader": 403103
         }
       }
     ],
@@ -2172,14 +2248,15 @@
     "regulationMark": "J",
     "trainerType": "Stadium",
     "effect": {
-      "ja": "おたがいの[C]ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。"
+      "ja": "おたがいの{C}ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。"
     },
     "variants": [
       {
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900085,
-          "tcgplayer": 709227
+          "tcgplayer": 709227,
+          "cardtrader": 403102
         }
       }
     ],
@@ -2202,14 +2279,15 @@
     "regulationMark": "J",
     "trainerType": "Stadium",
     "effect": {
-      "ja": "おたがいの[C]ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。"
+      "ja": "おたがいの{C}ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。"
     },
     "variants": [
       {
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900084,
-          "tcgplayer": 709226
+          "tcgplayer": 709226,
+          "cardtrader": 403101
         }
       }
     ],
@@ -2239,7 +2317,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900083,
-          "tcgplayer": 709225
+          "tcgplayer": 709225,
+          "cardtrader": 403100
         }
       }
     ],
@@ -2269,7 +2348,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900076,
-          "tcgplayer": 709224
+          "tcgplayer": 709224,
+          "cardtrader": 403099
         }
       }
     ],
@@ -2299,7 +2379,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900007,
-          "tcgplayer": 709223
+          "tcgplayer": 709223,
+          "cardtrader": 403098
         }
       }
     ],
@@ -2329,7 +2410,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900006,
-          "tcgplayer": 709222
+          "tcgplayer": 709222,
+          "cardtrader": 403097
         }
       }
     ],
@@ -2359,7 +2441,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900005,
-          "tcgplayer": 709221
+          "tcgplayer": 709221,
+          "cardtrader": 403096
         }
       }
     ],
@@ -2389,7 +2472,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900004,
-          "tcgplayer": 709220
+          "tcgplayer": 709220,
+          "cardtrader": 403095
         }
       }
     ],
@@ -2432,7 +2516,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900003,
-          "tcgplayer": 709219
+          "tcgplayer": 709219,
+          "cardtrader": 403094
         }
       }
     ],
@@ -2462,7 +2547,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900002,
-          "tcgplayer": 709218
+          "tcgplayer": 709218,
+          "cardtrader": 403093
         }
       }
     ],
@@ -2485,14 +2571,15 @@
     "regulationMark": "J",
     "trainerType": "Item",
     "effect": {
-      "ja": "自分の山札から「基本[R]エネルギー」と「基本[L]エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。"
+      "ja": "自分の山札から「基本{R}エネルギー」と「基本{L}エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。"
     },
     "variants": [
       {
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900001,
-          "tcgplayer": 709217
+          "tcgplayer": 709217,
+          "cardtrader": 403092
         }
       }
     ],
@@ -2522,7 +2609,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 900000,
-          "tcgplayer": 709216
+          "tcgplayer": 709216,
+          "cardtrader": 403091
         }
       }
     ],
@@ -2561,7 +2649,7 @@
           "ja": "エキサイトダイブ"
         },
         "effect": {
-          "ja": "自分の番に、このカードが手札にあり、自分の場に[C]タイプの「メガシンカex」がいるなら、1回使える。このカードをベンチに出す。"
+          "ja": "自分の番に、このカードが手札にあり、自分の場に{C}タイプの「メガシンカex」がいるなら、1回使える。このカードをベンチに出す。"
         }
       }
     ],
@@ -2583,7 +2671,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2598,7 +2686,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899993,
-          "tcgplayer": 709215
+          "tcgplayer": 709215,
+          "cardtrader": 403090
         }
       }
     ],
@@ -2649,7 +2738,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2664,7 +2753,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899986,
-          "tcgplayer": 709214
+          "tcgplayer": 709214,
+          "cardtrader": 403089
         }
       }
     ],
@@ -2713,7 +2803,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2728,7 +2818,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899985,
-          "tcgplayer": 709213
+          "tcgplayer": 709213,
+          "cardtrader": 403088
         }
       }
     ],
@@ -2767,7 +2858,7 @@
           "ja": "けしんだんけつ"
         },
         "effect": {
-          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための[C]エネルギーが、すべてなくなる。"
+          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための{C}エネルギーが、すべてなくなる。"
         }
       }
     ],
@@ -2790,7 +2881,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2805,7 +2896,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899980,
-          "tcgplayer": 709212
+          "tcgplayer": 709212,
+          "cardtrader": 403087
         }
       }
     ],
@@ -2859,7 +2951,7 @@
           "ja": "ストームエメラルダ"
         },
         "effect": {
-          "ja": "自分のポケモン全員についている[R]と[L]エネルギーの数×50ダメージ。"
+          "ja": "自分のポケモン全員についている{R}と{L}エネルギーの数×50ダメージ。"
         },
         "damage": "50×"
       }
@@ -2867,7 +2959,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2882,7 +2974,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899977,
-          "tcgplayer": 709211
+          "tcgplayer": 709211,
+          "cardtrader": 403086
         }
       }
     ],
@@ -2930,7 +3023,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -2940,7 +3033,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899972,
-          "tcgplayer": 709210
+          "tcgplayer": 709210,
+          "cardtrader": 403085
         }
       }
     ],
@@ -3002,7 +3096,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3017,7 +3111,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899968,
-          "tcgplayer": 709209
+          "tcgplayer": 709209,
+          "cardtrader": 403084
         }
       }
     ],
@@ -3075,7 +3170,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3090,7 +3185,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899962,
-          "tcgplayer": 709208
+          "tcgplayer": 709208,
+          "cardtrader": 403083
         }
       }
     ],
@@ -3136,7 +3232,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3146,7 +3242,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899957,
-          "tcgplayer": 709207
+          "tcgplayer": 709207,
+          "cardtrader": 403082
         }
       }
     ],
@@ -3212,7 +3309,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899956,
-          "tcgplayer": 709206
+          "tcgplayer": 709206,
+          "cardtrader": 403081
         }
       }
     ],
@@ -3254,7 +3352,7 @@
           "ja": "スケイルビート"
         },
         "effect": {
-          "ja": "自分の番に1回使える。自分の山札を上から6枚見て、その中から基本エネルギーを好きなだけ選び、自分の[N]ポケモンに好きなようにつける。残りのカードは山札にもどして切る。"
+          "ja": "自分の番に1回使える。自分の山札を上から6枚見て、その中から基本エネルギーを好きなだけ選び、自分の{N}ポケモンに好きなようにつける。残りのカードは山札にもどして切る。"
         }
       }
     ],
@@ -3279,7 +3377,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899955,
-          "tcgplayer": 709205
+          "tcgplayer": 709205,
+          "cardtrader": 403080
         }
       }
     ],
@@ -3337,7 +3436,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899954,
-          "tcgplayer": 709204
+          "tcgplayer": 709204,
+          "cardtrader": 403079
         }
       }
     ],
@@ -3392,7 +3492,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899953,
-          "tcgplayer": 709203
+          "tcgplayer": 709203,
+          "cardtrader": 403078
         }
       }
     ],
@@ -3457,7 +3558,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899952,
-          "tcgplayer": 709202
+          "tcgplayer": 709202,
+          "cardtrader": 403077
         }
       }
     ],
@@ -3524,7 +3626,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3534,7 +3636,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899951,
-          "tcgplayer": 709201
+          "tcgplayer": 709201,
+          "cardtrader": 403076
         }
       }
     ],
@@ -3581,7 +3684,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3591,7 +3694,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899950,
-          "tcgplayer": 709200
+          "tcgplayer": 709200,
+          "cardtrader": 403075
         }
       }
     ],
@@ -3651,7 +3755,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3661,7 +3765,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899949,
-          "tcgplayer": 709199
+          "tcgplayer": 709199,
+          "cardtrader": 403074
         }
       }
     ],
@@ -3726,7 +3831,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3736,7 +3841,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899948,
-          "tcgplayer": 709198
+          "tcgplayer": 709198,
+          "cardtrader": 403073
         }
       }
     ],
@@ -3798,7 +3904,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3808,7 +3914,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899947,
-          "tcgplayer": 709197
+          "tcgplayer": 709197,
+          "cardtrader": 403072
         }
       }
     ],
@@ -3873,7 +3980,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3883,7 +3990,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899946,
-          "tcgplayer": 709196
+          "tcgplayer": 709196,
+          "cardtrader": 403071
         }
       }
     ],
@@ -3933,7 +4041,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -3943,7 +4051,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899945,
-          "tcgplayer": 709195
+          "tcgplayer": 709195,
+          "cardtrader": 403070
         }
       }
     ],
@@ -4000,7 +4109,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4010,7 +4119,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899944,
-          "tcgplayer": 709194
+          "tcgplayer": 709194,
+          "cardtrader": 403069
         }
       }
     ],
@@ -4049,7 +4159,7 @@
           "ja": "けしんだんけつ"
         },
         "effect": {
-          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための[C]エネルギーが、すべてなくなる。"
+          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための{C}エネルギーが、すべてなくなる。"
         }
       }
     ],
@@ -4072,7 +4182,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4082,7 +4192,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899943,
-          "tcgplayer": 709193
+          "tcgplayer": 709193,
+          "cardtrader": 403068
         }
       }
     ],
@@ -4143,7 +4254,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4153,7 +4264,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899942,
-          "tcgplayer": 709192
+          "tcgplayer": 709192,
+          "cardtrader": 403067
         }
       }
     ],
@@ -4219,7 +4331,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4229,7 +4341,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899941,
-          "tcgplayer": 709191
+          "tcgplayer": 709191,
+          "cardtrader": 403066
         }
       }
     ],
@@ -4280,7 +4393,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4290,7 +4403,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899940,
-          "tcgplayer": 709190
+          "tcgplayer": 709190,
+          "cardtrader": 403065
         }
       }
     ],
@@ -4353,7 +4467,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4363,7 +4477,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899939,
-          "tcgplayer": 709189
+          "tcgplayer": 709189,
+          "cardtrader": 403064
         }
       }
     ],
@@ -4411,7 +4526,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4421,7 +4536,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899938,
-          "tcgplayer": 709288
+          "tcgplayer": 709288,
+          "cardtrader": 403063
         }
       }
     ],
@@ -4460,7 +4576,7 @@
           "ja": "けしんだんけつ"
         },
         "effect": {
-          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための[C]エネルギーが、すべてなくなる。"
+          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための{C}エネルギーが、すべてなくなる。"
         }
       }
     ],
@@ -4484,7 +4600,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -4494,7 +4610,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899937,
-          "tcgplayer": 709188
+          "tcgplayer": 709188,
+          "cardtrader": 403062
         }
       }
     ],
@@ -4558,7 +4675,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4573,7 +4690,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899936,
-          "tcgplayer": 709187
+          "tcgplayer": 709187,
+          "cardtrader": 403061
         }
       }
     ],
@@ -4618,7 +4736,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4633,7 +4751,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899935,
-          "tcgplayer": 709186
+          "tcgplayer": 709186,
+          "cardtrader": 403060
         }
       }
     ],
@@ -4684,7 +4803,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4699,7 +4818,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899934,
-          "tcgplayer": 709185
+          "tcgplayer": 709185,
+          "cardtrader": 403059
         }
       }
     ],
@@ -4764,7 +4884,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4779,7 +4899,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899933,
-          "tcgplayer": 709184
+          "tcgplayer": 709184,
+          "cardtrader": 403058
         }
       }
     ],
@@ -4825,7 +4946,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4840,7 +4961,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899932,
-          "tcgplayer": 709183
+          "tcgplayer": 709183,
+          "cardtrader": 403057
         }
       }
     ],
@@ -4902,7 +5024,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4917,7 +5039,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899931,
-          "tcgplayer": 709182
+          "tcgplayer": 709182,
+          "cardtrader": 403056
         }
       }
     ],
@@ -4966,7 +5089,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4981,7 +5104,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899930,
-          "tcgplayer": 709181
+          "tcgplayer": 709181,
+          "cardtrader": 403055
         }
       }
     ],
@@ -5031,7 +5155,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5041,7 +5165,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899929,
-          "tcgplayer": 709180
+          "tcgplayer": 709180,
+          "cardtrader": 403054
         }
       }
     ],
@@ -5080,7 +5205,7 @@
           "ja": "けしんだんけつ"
         },
         "effect": {
-          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための[C]エネルギーが、すべてなくなる。"
+          "ja": "自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための{C}エネルギーが、すべてなくなる。"
         }
       }
     ],
@@ -5103,7 +5228,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5113,7 +5238,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899926,
-          "tcgplayer": 709289
+          "tcgplayer": 709289,
+          "cardtrader": 403053
         }
       }
     ],
@@ -5175,7 +5301,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5185,7 +5311,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899908,
-          "tcgplayer": 709286
+          "tcgplayer": 709286,
+          "cardtrader": 403052
         }
       }
     ],
@@ -5251,7 +5378,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5261,7 +5388,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899905,
-          "tcgplayer": 709179
+          "tcgplayer": 709179,
+          "cardtrader": 403051
         }
       }
     ],
@@ -5320,7 +5448,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5330,7 +5458,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899902,
-          "tcgplayer": 709178
+          "tcgplayer": 709178,
+          "cardtrader": 403050
         }
       }
     ],
@@ -5390,7 +5519,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5400,7 +5529,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899898,
-          "tcgplayer": 709177
+          "tcgplayer": 709177,
+          "cardtrader": 403049
         }
       }
     ],
@@ -5460,7 +5590,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5470,7 +5600,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899897,
-          "tcgplayer": 709176
+          "tcgplayer": 709176,
+          "cardtrader": 403048
         }
       }
     ],
@@ -5516,7 +5647,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5526,7 +5657,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899896,
-          "tcgplayer": 709175
+          "tcgplayer": 709175,
+          "cardtrader": 403047
         }
       }
     ],
@@ -5587,7 +5719,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5597,7 +5729,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899895,
-          "tcgplayer": 709174
+          "tcgplayer": 709174,
+          "cardtrader": 403046
         }
       }
     ],
@@ -5658,7 +5791,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5668,7 +5801,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899890,
-          "tcgplayer": 709173
+          "tcgplayer": 709173,
+          "cardtrader": 403045
         }
       }
     ],
@@ -5717,7 +5851,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5727,7 +5861,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899881,
-          "tcgplayer": 709172
+          "tcgplayer": 709172,
+          "cardtrader": 403044
         }
       }
     ],
@@ -5769,7 +5904,7 @@
           "ja": "さいかねつ"
         },
         "effect": {
-          "ja": "自分のトラッシュにある「基本[R]エネルギー」をすべて相手に見せて、その枚数×30ダメージ。その後、見せたエネルギーを山札にもどして切る。"
+          "ja": "自分のトラッシュにある「基本{R}エネルギー」をすべて相手に見せて、その枚数×30ダメージ。その後、見せたエネルギーを山札にもどして切る。"
         },
         "damage": "30×"
       },
@@ -5791,7 +5926,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5801,7 +5936,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899868,
-          "tcgplayer": 709171
+          "tcgplayer": 709171,
+          "cardtrader": 403043
         }
       }
     ],
@@ -5863,7 +5999,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5873,7 +6009,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899867,
-          "tcgplayer": 709170
+          "tcgplayer": 709170,
+          "cardtrader": 403042
         }
       }
     ],
@@ -5915,7 +6052,7 @@
           "ja": "バディブースト"
         },
         "effect": {
-          "ja": "自分の番に1回使える。自分の手札から「基本[R]エネルギー」と「基本[L]エネルギー」をそれぞれ1枚まで選び、自分の「エレキブル」または「ブーバーン」に好きなようにつける。"
+          "ja": "自分の番に1回使える。自分の手札から「基本{R}エネルギー」と「基本{L}エネルギー」をそれぞれ1枚まで選び、自分の「エレキブル」または「ブーバーン」に好きなようにつける。"
         }
       }
     ],
@@ -5935,7 +6072,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -5945,7 +6082,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899861,
-          "tcgplayer": 709169
+          "tcgplayer": 709169,
+          "cardtrader": 403041
         }
       }
     ],
@@ -6003,7 +6141,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6013,7 +6151,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899857,
-          "tcgplayer": 709168
+          "tcgplayer": 709168,
+          "cardtrader": 403040
         }
       }
     ],
@@ -6082,7 +6221,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6092,7 +6231,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899854,
-          "tcgplayer": 709167
+          "tcgplayer": 709167,
+          "cardtrader": 403039
         }
       }
     ],
@@ -6151,7 +6291,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6161,7 +6301,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899839,
-          "tcgplayer": 709166
+          "tcgplayer": 709166,
+          "cardtrader": 403038
         }
       }
     ],
@@ -6227,7 +6368,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6237,7 +6378,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899818,
-          "tcgplayer": 709165
+          "tcgplayer": 709165,
+          "cardtrader": 403037
         }
       }
     ],
@@ -6292,7 +6434,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6302,7 +6444,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899798,
-          "tcgplayer": 709164
+          "tcgplayer": 709164,
+          "cardtrader": 403036
         }
       }
     ],
@@ -6365,7 +6508,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6375,7 +6518,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899797,
-          "tcgplayer": 709163
+          "tcgplayer": 709163,
+          "cardtrader": 403035
         }
       }
     ],
@@ -6438,7 +6582,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6448,7 +6592,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899796,
-          "tcgplayer": 709162
+          "tcgplayer": 709162,
+          "cardtrader": 403034
         }
       }
     ],
@@ -6493,7 +6638,8 @@
         },
         "effect": {
           "ja": "相手のポケモン1匹に、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
-        }
+        },
+        "damage": "10+"
       },
       {
         "cost": [
@@ -6511,7 +6657,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6521,7 +6667,8 @@
         "type": "holo",
         "thirdParty": {
           "cardmarket": 899795,
-          "tcgplayer": 709161
+          "tcgplayer": 709161,
+          "cardtrader": 403033
         }
       }
     ],
@@ -6570,7 +6717,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6580,7 +6727,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899794,
-          "tcgplayer": 709160
+          "tcgplayer": 709160,
+          "cardtrader": 403032
         }
       }
     ],
@@ -6644,7 +6792,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6654,7 +6802,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899793,
-          "tcgplayer": 709159
+          "tcgplayer": 709159,
+          "cardtrader": 403031
         }
       }
     ],
@@ -6711,7 +6860,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6721,7 +6870,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899791,
-          "tcgplayer": 709158
+          "tcgplayer": 709158,
+          "cardtrader": 403030
         }
       }
     ],
@@ -6784,7 +6934,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "x2"
+        "value": "×2"
       }
     ],
     "resistances": [],
@@ -6794,7 +6944,8 @@
         "type": "normal",
         "thirdParty": {
           "cardmarket": 899786,
-          "tcgplayer": 709157
+          "tcgplayer": 709157,
+          "cardtrader": 403029
         }
       }
     ],

@@ -1,4 +1,4 @@
-export const COMMIT = 'a8fe5736aef9bd6be2436e3be730109030f4c6e2';
+export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
 
 export const VERSION = 'master';
 
@@ -657,7 +657,6 @@ export const CARD_ILLUSTRATORS = {
   JAMES_TURNER: 'James Turner',
   JERKY: 'Jerky',
   JIRO_SASUMO: 'Jiro Sasumo',
-  JIRO_SASUNO: 'Jiro Sasuno',
   JULIE_HANG: 'Julie Hang',
   JUMPEI_AKASAKA: 'Jumpei Akasaka',
   JUNE: 'June',
@@ -690,7 +689,6 @@ export const CARD_ILLUSTRATORS = {
   KINU_NISHIMURA: 'Kinu Nishimura',
   KOJI_NAKATA: 'Koji Nakata',
   KOUKI_SAITOU: 'Kouki Saitou',
-  KOZUKI_MINAMI: 'Kozuki Minami',
   KRGC: 'Krgc',
   KURATA_SO: 'Kurata So',
   KUROIMORI: 'Kuroimori',
@@ -712,7 +710,6 @@ export const CARD_ILLUSTRATORS = {
   MASAKO_YAMASHITA: 'Masako Yamashita',
   MEGUMI_HIGUCHI: 'Megumi Higuchi',
   MEGUMI_MIZUTANI: 'Megumi Mizutani',
-  MEKAYU: ['Mekayu', 'Mékayu'],
   MIDORI_HARADA: 'Midori Harada',
   MIKA_PIKAZO: 'Mika Pikazo',
   MIKI_TANAKA: 'Miki Tanaka',
@@ -727,6 +724,7 @@ export const CARD_ILLUSTRATORS = {
   MOTOFUMI_FUJIWARA: 'Motofumi Fujiwara',
   MOUSHO: 'Mousho',
   MUGI_HAMADA: 'Mugi Hamada',
+  MEKAYU: 'Mékayu',
   N_DESIGN_INC: 'N-DESIGN Inc.',
   NC_EMPIRE: 'NC Empire',
   NABANA_KENSAKU: 'Nabana Kensaku',
