@@ -1,4 +1,4 @@
-export const COMMIT = 'a8fe5736aef9bd6be2436e3be730109030f4c6e2';
+export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
 
 export const VERSION = 'master';
 
@@ -149,6 +149,7 @@ export const SETS = {
     '30TH_CLASSIC_COLLECTION': '30th-c',
     ASCENDED_HEROES: 'me02.5',
     CHAOS_RISING: 'me04',
+    DELTA_REIGN: 'me06',
     MEGA_EVOLUTION: 'me01',
     MEGA_EVOLUTION_ENERGY: 'mee',
     MEP_BLACK_STAR_PROMOS: 'mep',
@@ -417,6 +418,7 @@ export const SET_IDS = [
   'me03',
   'me04',
   'me05',
+  'me06',
   'mee',
   'mep',
   'mfb',
@@ -582,7 +584,7 @@ export const SET_IDS_BY_SERIES_ID = {
     '2018sm-fr',
     '2013bw',
   ],
-  me: ['me05', 'me02', 'me03', 'me01', 'mee', 'mep', 'me04', 'me02.5', '30th-c', '30th'],
+  me: ['me05', 'me02', 'me03', 'me01', 'mee', 'mep', 'me06', 'me04', 'me02.5', '30th-c', '30th'],
   misc: ['miscp'],
   neo: ['si1', 'neo3', 'neo1', 'neo2', 'neo4'],
   pl: ['pl3', 'pl2', 'ru1', 'pl1', 'pl4'],
@@ -785,6 +787,7 @@ export const CARD_ILLUSTRATORS = {
   HAGIYA_KAORU: 'HAGIYA Kaoru',
   HICO_KIM: 'HICO KIM',
   HYOGONOSUKE: 'HYOGONOSUKE',
+  HACHINANA: 'Hachinana',
   HAJIME_KUSAJIMA: 'Hajime Kusajima',
   HARU_AKASAKA: 'Haru Akasaka',
   HARUKO_ICHIKAWA: 'Haruko Ichikawa',
@@ -978,6 +981,7 @@ export const CARD_ILLUSTRATORS = {
   SAKI_HAYASHIRO: 'Saki Hayashiro',
   SAKIKO_MAEDA: 'Sakiko Maeda',
   SANOSUKE_SAKUMA: 'Sanosuke Sakuma',
+  SATOSHI_ITO: 'Satoshi Ito',
   SATOSHI_OHTA: 'Satoshi Ohta',
   SATOSHI_SHIRAI: 'Satoshi Shirai',
   SAYA_TSURUTA: 'Saya Tsuruta',
@@ -1007,6 +1011,7 @@ export const CARD_ILLUSTRATORS = {
   SYLVIA_FORREST: 'Sylvia Forrest',
   T_HONDA: 'T. Honda',
   TOKIYA: 'TOKIYA',
+  TOMATO_MARKET: 'TOMATO MARKET',
   TAIGA_KASAI: 'Taiga Kasai',
   TAIGA_KAYAMA: 'Taiga Kayama',
   TAIRA_AKITSU: 'Taira Akitsu',
@@ -1068,6 +1073,7 @@ export const CARD_ILLUSTRATORS = {
   YUSUKE_KOZAKI: 'Yusuke Kozaki',
   YUSUKE_OHMURA: 'Yusuke Ohmura',
   YUSUKE_SHIMADA: 'Yusuke Shimada',
+  YUTA_KAWAZU: 'Yuta Kawazu',
   YUU_NISHIDA: 'Yuu Nishida',
   YUYA_OKA: 'Yuya Oka',
   ZU_KA: 'Zu-Ka',
@@ -1119,6 +1125,7 @@ export const CARD_ILLUSTRATORS = {
   SVLT: 'svlt',
   TAKASHI_SHIRAISHI: 'takashi shiraishi',
   TAKE: 'take',
+  TAYU: 'tayu',
   TETSUYA_KOIZUMI: 'tetsuya koizumi',
   TOI8: 'toi8',
   TONO: 'tono',
@@ -1542,5 +1549,6 @@ export const TCG_PLAYER_GROUPS = {
   '24655': ['me04'],
   '24688': ['me05'],
   '24722': ['30th'],
+  '24831': ['me06'],
   '24837': ['30th-c'],
 } as const;

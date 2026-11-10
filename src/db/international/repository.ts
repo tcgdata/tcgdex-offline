@@ -873,6 +873,13 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
         })
       ).default;
 
+    case 'me06':
+      return (
+        await import('./cards/me/me06.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
     case 'mee':
       return (
         await import('./cards/me/mee.json', {
