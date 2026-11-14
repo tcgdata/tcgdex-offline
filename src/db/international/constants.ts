@@ -1,4 +1,4 @@
-export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
+export const COMMIT = 'cff6522d736af05fd7c398607bb32297f14dc62f';
 
 export const VERSION = 'master';
 
@@ -1208,6 +1208,7 @@ export const CARD_VARIANT_STAMPS = {
   FINALIST: 'finalist',
   FOSSIL_MUSEUM: 'fossil-museum',
   GABRIEL_FERNANDEZ: 'gabriel-fernandez',
+  GAME_ON: 'game-on',
   GAMES_EXPO: 'games-expo',
   GAMESTOP: 'gamestop',
   GEN_CON: 'gen-con',
