@@ -257,6 +257,13 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
         })
       ).default;
 
+    case 'MBG':
+      return (
+        await import('./cards/M/MBG.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
     case 'MC':
       return (
         await import('./cards/M/MC.json', {

@@ -1,4 +1,4 @@
-export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
+export const COMMIT = 'cff6522d736af05fd7c398607bb32297f14dc62f';
 
 export const VERSION = 'master';
 
@@ -61,6 +61,7 @@ export const SETS = {
     M5: 'M5',
     M6: 'M6',
     M6A: 'M6a',
+    MBG: 'MBG',
     MC: 'MC',
     MF: 'MF',
     M_P: 'M-P',
@@ -265,6 +266,7 @@ export const SET_IDS = [
   'M5',
   'M6',
   'M6a',
+  'MBG',
   'MC',
   'MF',
   'Miscellaneous Promos',
@@ -427,7 +429,7 @@ export const SET_IDS = [
 export const SET_IDS_BY_SERIES_ID = {
   BW: ['BW8a'],
   e: ['E5', 'E4', 'E3', 'E2', 'E1'],
-  M: ['MF', 'MC', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
+  M: ['MF', 'MC', 'MBG', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
   misc: ['Miscellaneous Promos'],
   neo: ['neo4', 'neo3', 'neo2', 'neo1'],
   PCG: ['PCG9', 'PCG8', 'PCG7', 'PCG6', 'PCG5', 'PCG4', 'PCG3', 'PCG2', 'PCG1'],
