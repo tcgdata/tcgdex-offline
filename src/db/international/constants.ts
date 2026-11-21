@@ -1,4 +1,4 @@
-export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
+export const COMMIT = '36e2f1af67b2b37d1bbf3d6eb8211e223caaf352';
 
 export const VERSION = 'master';
 
@@ -734,6 +734,7 @@ export const CARD_ILLUSTRATORS = {
   ALIYA_CHEN: 'Aliya Chen',
   AMELICART: 'Amelicart',
   ANDERSON: 'Anderson',
+  ANDERSON_J: 'Anderson J',
   ANESAKI_DYNAMIC: 'Anesaki Dynamic',
   APIOS: 'Apios',
   ARAI_KIRIKO: 'Arai Kiriko',
@@ -1208,6 +1209,7 @@ export const CARD_VARIANT_STAMPS = {
   FINALIST: 'finalist',
   FOSSIL_MUSEUM: 'fossil-museum',
   GABRIEL_FERNANDEZ: 'gabriel-fernandez',
+  GAME_ON: 'game-on',
   GAMES_EXPO: 'games-expo',
   GAMESTOP: 'gamestop',
   GEN_CON: 'gen-con',
