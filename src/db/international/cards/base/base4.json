@@ -223,7 +223,7 @@
         "effect": {
           "en": "The Defending Pokémon is now Poisoned."
         },
-        "damage": 30
+        "damage": 20
       }
     ],
     "weaknesses": [
@@ -821,7 +821,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 damage for each Energy attached to Poliwag but not used to pay for this attack's Energy cost. Extra Energy after the end don't count."
         },
-        "damage": 10
+        "damage": "10+"
       }
     ],
     "weaknesses": [
@@ -1141,7 +1141,8 @@
         },
         "effect": {
           "en": "Flip a coin. If tails, this attack does nothing."
-        }
+        },
+        "damage": 30
       }
     ],
     "weaknesses": [
@@ -1198,7 +1199,7 @@
         "effect": {
           "en": "Flip 3 coins. This attack does 10 damage times the number of heads."
         },
-        "damage": 10
+        "damage": "10x"
       },
       {
         "cost": [
@@ -1921,7 +1922,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
         },
-        "damage": 10
+        "damage": "10x"
       }
     ],
     "weaknesses": [
@@ -2064,7 +2065,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 more damage for each damage counter on Cubone."
         },
-        "damage": 10
+        "damage": "10+"
       }
     ],
     "weaknesses": [
@@ -2512,7 +2513,8 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
-        }
+        },
+        "damage": 10
       },
       {
         "cost": [
@@ -2657,7 +2659,7 @@
         "effect": {
           "en": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
         },
-        "damage": 20
+        "damage": "20+"
       },
       {
         "cost": [
@@ -2671,7 +2673,7 @@
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage)."
         },
-        "damage": 20
+        "damage": "20+"
       }
     ],
     "weaknesses": [
@@ -3023,7 +3025,8 @@
         },
         "effect": {
           "en": "Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
-        }
+        },
+        "damage": "?"
       }
     ],
     "weaknesses": [
@@ -3103,7 +3106,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times number of heads."
         },
-        "damage": 30
+        "damage": "30x"
       }
     ],
     "weaknesses": [
@@ -3313,7 +3316,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
-        "damage": 30
+        "damage": "30x"
       },
       {
         "cost": [
@@ -3398,7 +3401,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
-        "damage": 30
+        "damage": "30x"
       }
     ],
     "weaknesses": [
@@ -3459,7 +3462,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
-        "damage": 30
+        "damage": "30x"
       },
       {
         "cost": [
@@ -3613,7 +3616,7 @@
         "effect": {
           "en": "Does 10 damage times number of damage counters on Magikarp."
         },
-        "damage": 10
+        "damage": "10x"
       }
     ],
     "weaknesses": [
@@ -3751,7 +3754,8 @@
         },
         "effect": {
           "en": "Does 50 damage minus 10 for each damage counter on Machoke."
-        }
+        },
+        "damage": "50-"
       },
       {
         "cost": [
@@ -3913,7 +3917,8 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
-        }
+        },
+        "damage": 20
       }
     ],
     "weaknesses": [
@@ -4041,7 +4046,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 10 damage times the number of heads."
         },
-        "damage": 10
+        "damage": "10x"
       },
       {
         "cost": [
@@ -4055,7 +4060,7 @@
         "effect": {
           "en": "Does 20 damage plus 10 more damage for each damage counter on the Defending Pokémon."
         },
-        "damage": 20
+        "damage": "20+"
       }
     ],
     "weaknesses": [
@@ -4128,7 +4133,7 @@
         "effect": {
           "en": "The Defending Pokémon is now Poisoned."
         },
-        "damage": 30
+        "damage": 20
       }
     ],
     "weaknesses": [
@@ -4199,7 +4204,8 @@
         },
         "effect": {
           "en": "You can't this attack unless the Defending Pokémon is Asleep."
-        }
+        },
+        "damage": 50
       }
     ],
     "resistances": [
@@ -4389,7 +4395,8 @@
         },
         "effect": {
           "en": "Flip a coin. If tails, this attack does nothing. Either way, you can't use this attack again as long as Farfetch'd stays in play (even putting Farfetch'd on the Bench won't let you use it again.)"
-        }
+        },
+        "damage": 30
       },
       {
         "cost": [
@@ -4457,7 +4464,7 @@
     "stage": "Stage2",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Energy Burn"
         },
@@ -4557,7 +4564,7 @@
         "effect": {
           "en": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
         },
-        "damage": 20
+        "damage": "20x"
       }
     ],
     "weaknesses": [
@@ -4662,7 +4669,7 @@
     "stage": "Stage1",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Retreat Aid"
         },
@@ -4684,7 +4691,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 more damage for each damage counter on Dodrio."
         },
-        "damage": 10
+        "damage": "10+"
       }
     ],
     "weaknesses": [
@@ -5117,7 +5124,7 @@
     "stage": "Stage1",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Shift"
         },
@@ -5137,7 +5144,8 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned."
-        }
+        },
+        "damage": 10
       }
     ],
     "weaknesses": [
@@ -5187,13 +5195,10 @@
     "types": [
       "Colorless"
     ],
-    "evolveFrom": {
-      "en": "Munchlax"
-    },
     "stage": "Basic",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Thick Skinned"
         },
@@ -5495,13 +5500,10 @@
     "types": [
       "Psychic"
     ],
-    "evolveFrom": {
-      "en": "Mime Jr."
-    },
     "stage": "Basic",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Invisible Wall"
         },
@@ -5522,7 +5524,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon."
         },
-        "damage": 10
+        "damage": "10+"
       }
     ],
     "weaknesses": [
@@ -5593,7 +5595,7 @@
         "effect": {
           "en": "Flip 4 coins. This attack does 20 damage times the number of heads."
         },
-        "damage": 20
+        "damage": "20x"
       }
     ],
     "weaknesses": [
@@ -5650,7 +5652,7 @@
     "stage": "Stage1",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Buzzap"
         },
@@ -5742,7 +5744,7 @@
         "effect": {
           "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Electabuzz does 10 damage to itself."
         },
-        "damage": 30
+        "damage": "30+"
       }
     ],
     "weaknesses": [
@@ -5883,7 +5885,8 @@
         },
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
-        }
+        },
+        "damage": "30x"
       },
       {
         "cost": [
@@ -5960,7 +5963,7 @@
         "effect": {
           "en": "Flip 2 coins. This attack does 30 damage times the number of heads."
         },
-        "damage": 30
+        "damage": "30x"
       },
       {
         "cost": [
@@ -5973,7 +5976,8 @@
         },
         "effect": {
           "en": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
-        }
+        },
+        "damage": 40
       }
     ],
     "weaknesses": [
@@ -6104,7 +6108,7 @@
     "stage": "Stage2",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Rain Dance"
         },
@@ -6199,7 +6203,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 more damage for each of your Benched Pokémon."
         },
-        "damage": 10
+        "damage": "10+"
       }
     ],
     "weaknesses": [
@@ -6256,7 +6260,7 @@
     "stage": "Stage2",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Energy Trans"
         },
@@ -6487,7 +6491,7 @@
         "effect": {
           "en": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Energy after the 2nd doesn't count."
         },
-        "damage": 30
+        "damage": "30+"
       },
       {
         "cost": [
@@ -6883,6 +6887,10 @@
     "illustrator": "Keiji Kinebuchi",
     "rarity": "Common",
     "category": "Trainer",
+    "cameoDexIds": [
+      14,
+      81
+    ],
     "effect": {
       "en": "Switch 1 of your Benched Pokémon with your Active Pokémon."
     },
@@ -6967,6 +6975,9 @@
     "illustrator": "Keiji Kinebuchi",
     "rarity": "Common",
     "category": "Trainer",
+    "cameoDexIds": [
+      13
+    ],
     "effect": {
       "en": "Choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
     },
@@ -7018,7 +7029,7 @@
         "effect": {
           "en": "Does 20 damage plus 20 more damage for each Nidoking you have in play."
         },
-        "damage": 20
+        "damage": "20+"
       },
       {
         "cost": [
@@ -7180,6 +7191,9 @@
     "illustrator": "Keiji Kinebuchi",
     "rarity": "Uncommon",
     "category": "Trainer",
+    "cameoDexIds": [
+      51
+    ],
     "effect": {
       "en": "Look at up to 5 cards from the top of your deck and rearrange them as you like."
     },
@@ -7371,7 +7385,7 @@
         "effect": {
           "en": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
         },
-        "damage": 30
+        "damage": "30+"
       },
       {
         "cost": [
@@ -7385,7 +7399,7 @@
         "effect": {
           "en": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
         },
-        "damage": 40
+        "damage": 20
       }
     ],
     "weaknesses": [
@@ -7479,6 +7493,9 @@
     "illustrator": "Keiji Kinebuchi",
     "rarity": "Rare",
     "category": "Trainer",
+    "cameoDexIds": [
+      13
+    ],
     "effect": {
       "en": "Choose 1 of your Pokémon in play and return its Basic Pokémon card to your hand. (Discard all cards attached to that card.)"
     },
@@ -7507,6 +7524,9 @@
     "illustrator": "Ken Sugimori",
     "rarity": "Rare",
     "category": "Trainer",
+    "cameoDexIds": [
+      83
+    ],
     "effect": {
       "en": "Trade 1 of the Basic Pokémon or Evolution cards in your hand for 1 of the Basic Pokémon or Evolution cards from your deck. Show both cards to your opponent. Shuffle your deck afterward."
     },
@@ -7752,7 +7772,7 @@
         "effect": {
           "en": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
         },
-        "damage": 10
+        "damage": "10+"
       },
       {
         "cost": [
@@ -7815,7 +7835,7 @@
     "stage": "Stage2",
     "abilities": [
       {
-        "type": "Poke-POWER",
+        "type": "Pokemon Power",
         "name": {
           "en": "Damage Swap"
         },
