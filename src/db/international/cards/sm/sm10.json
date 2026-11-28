@@ -11007,6 +11007,83 @@
     "cardNumber": "196"
   },
   {
+    "id": "sm10-195a",
+    "name": {
+      "en": "Dedenne GX"
+    },
+    "illustrator": "kanahei",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      702
+    ],
+    "hp": 160,
+    "types": [
+      "Lightning"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "en": "Dedechange"
+        },
+        "effect": {
+          "en": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn."
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Static Shock"
+        },
+        "damage": 50
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "en": "Tingly Return GX"
+        },
+        "effect": {
+          "en": "Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. (You can't use more than 1 GX attack in a game.)"
+        },
+        "damage": 50
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreat": 1,
+    "series": {
+      "id": "sm"
+    },
+    "set": {
+      "id": "sm10"
+    },
+    "suffix": "GX",
+    "thirdParty": {
+      "cardmarket": 475149,
+      "tcgplayer": 216699
+    },
+    "cardNumber": "195a"
+  },
+  {
     "id": "sm10-195",
     "name": {
       "en": "Dedenne GX",

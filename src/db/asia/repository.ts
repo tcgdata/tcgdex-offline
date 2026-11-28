@@ -124,6 +124,13 @@ const loadSetsBySeriesId = async (seriesId: string): Promise<Array<any> | undefi
 
 const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> => {
   switch (setId) {
+    case 'ADV1':
+      return (
+        await import('./cards/ADV/ADV1.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
     case 'BW8a':
       return (
         await import('./cards/BW/BW8a.json', {
@@ -253,6 +260,13 @@ const loadCardsBySetId = async (setId: string): Promise<Array<any> | undefined> 
     case 'M6a':
       return (
         await import('./cards/M/M6a.json', {
+          with: { type: 'json' },
+        })
+      ).default;
+
+    case 'MBG':
+      return (
+        await import('./cards/M/MBG.json', {
           with: { type: 'json' },
         })
       ).default;

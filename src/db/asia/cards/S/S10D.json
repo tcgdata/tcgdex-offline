@@ -1,16 +1,1218 @@
 [
   {
-    "id": "S10D-067",
+    "id": "S10D-088",
     "name": {
-      "zh-tw": "大嘴沼澤"
+      "ja": "頂への雪道"
     },
     "illustrator": "Oswaldo KATO",
+    "rarity": "Secret Rare",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Stadium",
     "effect": {
+      "ja": "おたがいの場の「ルールを持つポケモン」の特性は、すべてなくなる。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651330,
+          "tcgplayer": 569843,
+          "cardtrader": 234230
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "088"
+  },
+  {
+    "id": "S10D-087",
+    "name": {
+      "ja": "トレッキングシューズ"
+    },
+    "illustrator": "Toyste Beach",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Item",
+    "effect": {
+      "ja": "自分の山札を上から1枚見て、そのカードを手札に加える。または、そのカードをトラッシュし、自分の山札を1枚引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651329,
+          "tcgplayer": 569842,
+          "cardtrader": 234229
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "087"
+  },
+  {
+    "id": "S10D-086",
+    "name": {
+      "ja": "オリジンディアルガVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 280,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "ja": "オリジンディアルガV"
+    },
+    "regulationMark": "F",
+    "stage": "VSTAR",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メタルブラスト"
+        },
+        "effect": {
+          "ja": "このポケモンについている{M}エネルギーの数×40ダメージ追加。"
+        },
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スタークロノス"
+        },
+        "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651328,
+          "tcgplayer": 569841,
+          "cardtrader": 234228
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "086"
+  },
+  {
+    "id": "S10D-085",
+    "name": {
+      "ja": "ペリーラ"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札が、相手の手札の枚数より1枚多くなるように、山札を引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651327,
+          "tcgplayer": 569840,
+          "cardtrader": 234227
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "085"
+  },
+  {
+    "id": "S10D-084",
+    "name": {
+      "ja": "ナタネの活気"
+    },
+    "illustrator": "En Morikura",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札を2枚引く。その後、自分の手札から{G}エネルギーを2枚まで選び、ベンチポケモン1匹につける。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651326,
+          "tcgplayer": 569839,
+          "cardtrader": 234226
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "084"
+  },
+  {
+    "id": "S10D-083",
+    "name": {
+      "ja": "セキ"
+    },
+    "illustrator": "Souichirou Gunjima",
+    "rarity": "Secret Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "このカードは、自分の手札から{M}エネルギーを2枚トラッシュしなければ使えない。自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651325,
+          "tcgplayer": 569838,
+          "cardtrader": 234225
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "083"
+  },
+  {
+    "id": "S10D-082",
+    "name": {
+      "ja": "オリジンディアルガVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 280,
+    "types": [
+      "Metal"
+    ],
+    "evolveFrom": {
+      "ja": "オリジンディアルガV"
+    },
+    "regulationMark": "F",
+    "stage": "VSTAR",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メタルブラスト"
+        },
+        "effect": {
+          "ja": "このポケモンについている{M}エネルギーの数×40ダメージ追加。"
+        },
+        "damage": "40+"
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スタークロノス"
+        },
+        "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        },
+        "damage": 220
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651324,
+          "tcgplayer": 569837,
+          "cardtrader": 234224
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "082"
+  },
+  {
+    "id": "S10D-081",
+    "name": {
+      "ja": "カイリキーVMAX"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      68
+    ],
+    "hp": 330,
+    "types": [
+      "Fighting"
+    ],
+    "evolveFrom": {
+      "ja": "カイリキーV"
+    },
+    "regulationMark": "F",
+    "stage": "VMAX",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "リベンジバスター"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンにダメカンがのっているなら、140ダメージ追加。"
+        },
+        "damage": "80+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "キョダイシンゲキ"
+        },
+        "effect": {
+          "ja": "次の自分の番、このポケモンは「キョダイシンゲキ」が使えない。"
+        },
+        "damage": 240
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651323,
+          "tcgplayer": 569836,
+          "cardtrader": 234223
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "081"
+  },
+  {
+    "id": "S10D-080",
+    "name": {
+      "ja": "ヒスイ ドレディアVSTAR"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Secret Rare",
+    "category": "Pokemon",
+    "dexId": [
+      549
+    ],
+    "hp": 260,
+    "types": [
+      "Grass"
+    ],
+    "evolveFrom": {
+      "ja": "ヒスイ ドレディアV"
+    },
+    "regulationMark": "F",
+    "stage": "VSTAR",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "スターパフューム"
+        },
+        "effect": {
+          "ja": "自分の番に使える。自分の山札から{G}ポケモンと{G}エネルギーを合計5枚まで選び、相手に見せて、手札に加える。そして山札を切る。［対戦中、自分はVSTARパワーを1回しか使えない。］"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "キャメルスピン"
+        },
+        "effect": {
+          "ja": "のぞむなら、このポケモンについているエネルギーを1個選び、手札にもどす。その場合、100ダメージ追加。"
+        },
+        "damage": "130+"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651322,
+          "tcgplayer": 569835,
+          "cardtrader": 234222
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "080"
+  },
+  {
+    "id": "S10D-079",
+    "name": {
+      "ja": "ペリーラ"
+    },
+    "illustrator": "kirisAki",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の手札が、相手の手札の枚数より1枚多くなるように、山札を引く。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651321,
+          "tcgplayer": 569834,
+          "cardtrader": 234221
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "079"
+  },
+  {
+    "id": "S10D-078",
+    "name": {
+      "ja": "ナタネの活気"
+    },
+    "illustrator": "En Morikura",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "自分の山札を2枚引く。その後、自分の手札から{G}エネルギーを2枚まで選び、ベンチポケモン1匹につける。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651320,
+          "tcgplayer": 569833,
+          "cardtrader": 234220
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "078"
+  },
+  {
+    "id": "S10D-077",
+    "name": {
+      "ja": "セキ"
+    },
+    "illustrator": "Souichirou Gunjima",
+    "rarity": "Ultra Rare",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Supporter",
+    "effect": {
+      "ja": "このカードは、自分の手札から{M}エネルギーを2枚トラッシュしなければ使えない。自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。"
+    },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651319,
+          "tcgplayer": 569832,
+          "cardtrader": 234219
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "cardNumber": "077"
+  },
+  {
+    "id": "S10D-076",
+    "name": {
+      "ja": "アヤシシV"
+    },
+    "illustrator": "aky CG Works",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      899
+    ],
+    "hp": 220,
+    "types": [
+      "Colorless"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "フロンティアロード"
+        },
+        "effect": {
+          "ja": "自分の番に、このポケモンがベンチからバトル場に出たとき、1回使える。自分の場のポケモンについているエネルギーを好きなだけ選び、このポケモンにつけ替える。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "バリアーラッシュ"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーの数×40ダメージ。"
+        },
+        "damage": "40×"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651318,
+          "tcgplayer": 569831,
+          "cardtrader": 234218
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "076"
+  },
+  {
+    "id": "S10D-075",
+    "name": {
+      "ja": "オリジンディアルガV"
+    },
+    "illustrator": "Mitsuhiro Arita",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 220,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メタルコーティング"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから{M}エネルギーを2枚まで選び、このポケモンにつける。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "じかんだんぜつ"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651317,
+          "tcgplayer": 569830,
+          "cardtrader": 234217
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "075"
+  },
+  {
+    "id": "S10D-074",
+    "name": {
+      "ja": "オリジンディアルガV"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      483
+    ],
+    "hp": 220,
+    "types": [
+      "Metal"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": {
+          "ja": "メタルコーティング"
+        },
+        "effect": {
+          "ja": "自分のトラッシュから{M}エネルギーを2枚まで選び、このポケモンにつける。"
+        }
+      },
+      {
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "じかんだんぜつ"
+        },
+        "damage": 180
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651316,
+          "tcgplayer": 569829,
+          "cardtrader": 234215
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "074"
+  },
+  {
+    "id": "S10D-073",
+    "name": {
+      "ja": "カイリキーV"
+    },
+    "illustrator": "Shinya Komatsu",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      68
+    ],
+    "hp": 220,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "リベンジバスター"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンにダメカンがのっているなら、50ダメージ追加。"
+        },
+        "damage": "50+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちきゅうなげ"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651315,
+          "tcgplayer": 569828,
+          "cardtrader": 234214
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "073"
+  },
+  {
+    "id": "S10D-072",
+    "name": {
+      "ja": "カイリキーV"
+    },
+    "illustrator": "Ryo Ueda",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      68
+    ],
+    "hp": 220,
+    "types": [
+      "Fighting"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "リベンジバスター"
+        },
+        "effect": {
+          "ja": "自分のベンチポケモンにダメカンがのっているなら、50ダメージ追加。"
+        },
+        "damage": "50+"
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ちきゅうなげ"
+        },
+        "damage": 140
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651314,
+          "tcgplayer": 569827,
+          "cardtrader": 234212
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "072"
+  },
+  {
+    "id": "S10D-071",
+    "name": {
+      "ja": "ジラーチV"
+    },
+    "illustrator": "N-DESIGN Inc.",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      385
+    ],
+    "hp": 180,
+    "types": [
+      "Psychic"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": {
+          "ja": "ねがいのかけはし"
+        },
+        "effect": {
+          "ja": "自分のたねポケモンの「ポケモンV」が、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについている基本エネルギーを1枚選び、自分の別のポケモンにつけ替える。"
+        }
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ヒプノストライク"
+        },
+        "effect": {
+          "ja": "おたがいのバトルポケモンを、それぞれねむりにする。"
+        },
+        "damage": 60
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651313,
+          "tcgplayer": 569826,
+          "cardtrader": 234211
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "071"
+  },
+  {
+    "id": "S10D-070",
+    "name": {
+      "ja": "レントラーV"
+    },
+    "illustrator": "MUGENUP",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      405
+    ],
+    "hp": 210,
+    "types": [
+      "Lightning"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "スナイプファング"
+        },
+        "effect": {
+          "ja": "相手の手札を見て、その中からトレーナーズを1枚選び、トラッシュする。"
+        },
+        "damage": 30
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "ラジエートパルス"
+        },
+        "effect": {
+          "ja": "このポケモンについているエネルギーを2個トラッシュし、相手のバトルポケモンをマヒにする。"
+        },
+        "damage": 120
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651312,
+          "tcgplayer": 569825,
+          "cardtrader": 234210
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "070"
+  },
+  {
+    "id": "S10D-069",
+    "name": {
+      "ja": "ヒスイ ドレディアV"
+    },
+    "illustrator": "kodama",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      549
+    ],
+    "hp": 200,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [],
+        "name": {
+          "ja": "まいおどる"
+        },
+        "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "リーフステップ"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651311,
+          "tcgplayer": 569824,
+          "cardtrader": 234207
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "069"
+  },
+  {
+    "id": "S10D-068",
+    "name": {
+      "ja": "ヒスイ ドレディアV"
+    },
+    "illustrator": "5ban Graphics",
+    "rarity": "Ultra Rare",
+    "category": "Pokemon",
+    "dexId": [
+      549
+    ],
+    "hp": 200,
+    "types": [
+      "Grass"
+    ],
+    "regulationMark": "F",
+    "stage": "Basic",
+    "attacks": [
+      {
+        "cost": [],
+        "name": {
+          "ja": "まいおどる"
+        },
+        "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。"
+        }
+      },
+      {
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "name": {
+          "ja": "リーフステップ"
+        },
+        "damage": 130
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651310,
+          "tcgplayer": 569823,
+          "cardtrader": 234206
+        }
+      }
+    ],
+    "series": {
+      "id": "S"
+    },
+    "set": {
+      "id": "S10D"
+    },
+    "suffix": "V",
+    "cardNumber": "068"
+  },
+  {
+    "id": "S10D-067",
+    "name": {
+      "ja": "大口の沼",
+      "zh-tw": "大嘴沼澤"
+    },
+    "illustrator": "Oswaldo KATO",
+    "rarity": "Uncommon",
+    "category": "Trainer",
+    "regulationMark": "F",
+    "trainerType": "Stadium",
+    "effect": {
+      "ja": "おたがいのプレイヤーは、それぞれ、手札からたねポケモンをベンチに出すたび、そのポケモンにダメカンを2個のせる。",
       "zh-tw": "雙方玩家每次從手牌將【基礎】寶可夢放置於備戰區時，在那隻寶可夢身上放置2個傷害指示物。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651035,
+          "tcgplayer": 569822,
+          "cardtrader": 234205
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -22,15 +1224,28 @@
   {
     "id": "S10D-066",
     "name": {
+      "ja": "ペリーラ",
       "zh-tw": "貝里菈"
     },
     "illustrator": "kirisAki",
+    "rarity": "Uncommon",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Supporter",
     "effect": {
+      "ja": "自分の手札が、相手の手札の枚数より1枚多くなるように、山札を引く。",
       "zh-tw": "從牌庫抽卡直到自己手牌的張數比對手手牌的張數多1張為止。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651034,
+          "tcgplayer": 569821,
+          "cardtrader": 234204
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -42,15 +1257,28 @@
   {
     "id": "S10D-065",
     "name": {
+      "ja": "ナタネの活気",
       "zh-tw": "菜種的活力"
     },
     "illustrator": "Yuu Nishida",
+    "rarity": "Uncommon",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Supporter",
     "effect": {
+      "ja": "自分の山札を2枚引く。その後、自分の手札から{G}エネルギーを2枚まで選び、ベンチポケモン1匹につける。",
       "zh-tw": "從自己的牌庫抽出2張卡。然後，從自己的手牌選擇最多2張【草】能量卡，附於1隻備戰寶可夢身上。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651033,
+          "tcgplayer": 569820,
+          "cardtrader": 234203
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -62,15 +1290,28 @@
   {
     "id": "S10D-064",
     "name": {
+      "ja": "セキ",
       "zh-tw": "剛石"
     },
     "illustrator": "Souichirou Gunjima",
+    "rarity": "Rare",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Supporter",
     "effect": {
+      "ja": "このカードは、自分の手札から{M}エネルギーを2枚トラッシュしなければ使えない。自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。",
       "zh-tw": "這張卡必須從自己的手牌將2張【鋼】能量卡丟棄才可使用。從自己的牌庫任意選擇最多2張卡加入手牌。並且重洗牌庫。"
     },
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651032,
+          "tcgplayer": 569819,
+          "cardtrader": 234202
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -82,15 +1323,28 @@
   {
     "id": "S10D-063",
     "name": {
+      "ja": "フェザーボール",
       "zh-tw": "飛羽球"
     },
     "illustrator": "Studio Bora Inc.",
+    "rarity": "Uncommon",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Item",
     "effect": {
+      "ja": "自分の山札から、にげるためのエネルギーがないポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。",
       "zh-tw": "從自己的牌庫選擇1張沒有【撤退】所需的能量的寶可夢卡，在給對手看過後加入手牌。並且重洗牌庫。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651031,
+          "tcgplayer": 569818,
+          "cardtrader": 234201
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -102,15 +1356,29 @@
   {
     "id": "S10D-062",
     "name": {
+      "ja": "なぞの化石",
       "zh-tw": "謎之化石"
     },
     "illustrator": "AYUMI ODASHIMA",
+    "rarity": "Common",
     "category": "Trainer",
+    "hp": 60,
     "regulationMark": "F",
     "trainerType": "Item",
     "effect": {
+      "ja": "このカードは、HP60の{C}タイプのたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードは、にげられない。",
       "zh-tw": "這張卡可作為HP60的【無】屬性的【基礎】寶可夢放置於場上。若在自己的回合中，則可將場上的這張卡丟棄。這張卡無法撤退。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651030,
+          "tcgplayer": 569817,
+          "cardtrader": 234200
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -122,15 +1390,28 @@
   {
     "id": "S10D-061",
     "name": {
+      "ja": "トレッキングシューズ",
       "zh-tw": "健行鞋"
     },
     "illustrator": "Toyste Beach",
+    "rarity": "Uncommon",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Item",
     "effect": {
+      "ja": "自分の山札を上から1枚見て、そのカードを手札に加える。または、そのカードをトラッシュし、自分の山札を1枚引く。",
       "zh-tw": "查看自己的牌庫上方1張卡，將那張卡加入手牌。或者將那張卡丟棄，從自己的牌庫抽出1張卡。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651029,
+          "tcgplayer": 569816,
+          "cardtrader": 234199
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -142,15 +1423,28 @@
   {
     "id": "S10D-060",
     "name": {
+      "ja": "いれかえカート",
       "zh-tw": "交替推車"
     },
     "illustrator": "Toyste Beach",
+    "rarity": "Uncommon",
     "category": "Trainer",
     "regulationMark": "F",
     "trainerType": "Item",
     "effect": {
+      "ja": "自分のバトル場のたねポケモンをベンチポケモンと入れ替える。その後、ベンチに入れ替えたポケモンのHPを「30」回復する。",
       "zh-tw": "將自己的戰鬥場的【基礎】寶可夢與備戰寶可夢互換。然後，將換入備戰區的寶可夢恢復「30」HP。"
     },
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651028,
+          "tcgplayer": 569815,
+          "cardtrader": 234198
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -162,10 +1456,15 @@
   {
     "id": "S10D-059",
     "name": {
+      "ja": "アヤシシV",
       "zh-tw": "詭角鹿V"
     },
     "illustrator": "aky CG Works",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      899
+    ],
     "hp": 220,
     "types": [
       "Colorless"
@@ -176,9 +1475,11 @@
       {
         "type": "Ability",
         "name": {
+          "ja": "フロンティアロード",
           "zh-tw": "開拓之路"
         },
         "effect": {
+          "ja": "自分の番に、このポケモンがベンチからバトル場に出たとき、1回使える。自分の場のポケモンについているエネルギーを好きなだけ選び、このポケモンにつけ替える。",
           "zh-tw": "在自己的回合，當從備戰區將這隻寶可夢放置於戰鬥場時，可使用1次。選擇自己的場上寶可夢身上附加的任意數量的能量，改附於這隻寶可夢身上。"
         }
       }
@@ -191,9 +1492,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "バリアーラッシュ",
           "zh-tw": "屏障猛攻"
         },
         "effect": {
+          "ja": "このポケモンについているエネルギーの数×40ダメージ。",
           "zh-tw": "造成這隻寶可夢身上附加的能量的數量×40點傷害。"
         },
         "damage": "40×"
@@ -206,6 +1509,16 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651027,
+          "tcgplayer": 569814,
+          "cardtrader": 234195
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -218,14 +1531,22 @@
   {
     "id": "S10D-058",
     "name": {
+      "ja": "ヨクバリス",
       "zh-tw": "藏飽栗鼠"
     },
     "illustrator": "sui",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      820
+    ],
     "hp": 130,
     "types": [
       "Colorless"
     ],
+    "evolveFrom": {
+      "ja": "ホシガリス"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -234,9 +1555,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "もってくる",
           "zh-tw": "呼喚"
         },
         "effect": {
+          "ja": "自分の山札を2枚引く。",
           "zh-tw": "從自己的牌庫抽出2張卡。"
         }
       },
@@ -246,9 +1569,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ぶちまける",
           "zh-tw": "傾瀉"
         },
         "effect": {
+          "ja": "自分の手札をすべてトラッシュし、トラッシュした枚数が5枚以上なら、150ダメージ追加。",
           "zh-tw": "將自己的手牌全部丟棄，若丟棄的張數為5張以上，則增加150點傷害。"
         },
         "damage": "60+"
@@ -261,7 +1586,18 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651026,
+          "tcgplayer": 569813,
+          "cardtrader": 234194
+        }
+      }
+    ],
     "description": {
+      "ja": "しっぽに 木の実を 溜めこむ。 溜めこみすぎて ポロポロ こぼすが 鈍いので 気がつかない。",
       "zh-tw": "在尾巴裡囤積樹果。雖然囤過頭了就會掉出來， 但遲鈍的牠不會發現。"
     },
     "series": {
@@ -275,10 +1611,15 @@
   {
     "id": "S10D-057",
     "name": {
+      "ja": "ホシガリス",
       "zh-tw": "貪心栗鼠"
     },
     "illustrator": "Miki Tanaka",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      819
+    ],
     "hp": 60,
     "types": [
       "Colorless"
@@ -291,6 +1632,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かじる",
           "zh-tw": "咬"
         },
         "damage": 20
@@ -303,7 +1645,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651025,
+          "tcgplayer": 569812,
+          "cardtrader": 234193
+        }
+      }
+    ],
     "description": {
+      "ja": "ガラルの いたるところに いる。 左右の ほっぺに 木の実を 蓄えていないと 不安。",
       "zh-tw": "在伽勒爾隨處可見。如果不往兩邊的頰囊裡 塞滿樹果，就會感到不安。"
     },
     "series": {
@@ -317,22 +1670,33 @@
   {
     "id": "S10D-056",
     "name": {
+      "ja": "ヒスイ ウォーグル",
       "zh-tw": "洗翠 勇士雄鷹"
     },
     "illustrator": "Shin Nagasawa",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      628
+    ],
     "hp": 130,
     "types": [
       "Colorless"
     ],
+    "evolveFrom": {
+      "ja": "ワシボン"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
       {
+        "cost": [],
         "name": {
+          "ja": "サイコウェーブ",
           "zh-tw": "精神波"
         },
         "effect": {
+          "ja": "相手のバトルポケモンについているエネルギーの数×30ダメージ。",
           "zh-tw": "造成對手的戰鬥寶可夢身上附加的能量的數量×30點傷害。"
         },
         "damage": "30×"
@@ -344,9 +1708,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "スラッシュダウン",
           "zh-tw": "猛擊在地"
         },
         "effect": {
+          "ja": "次の自分の番、このポケモンは「スラッシュダウン」が使えない。",
           "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「猛擊在地」。"
         },
         "damage": 120
@@ -365,7 +1731,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651024,
+          "tcgplayer": 569811,
+          "cardtrader": 234192
+        }
+      }
+    ],
     "description": {
+      "ja": "鬼気迫る 鬨の声を 上げ 狩りをする 猛き 大鳥。 湖水に 衝撃波を 放ち 水面に 浮かびし 獲物を 捕る。",
       "zh-tw": "勇猛的大鳥。狩獵時會發出氣勢駭人的戰吼，朝湖水發出 衝擊波，捕捉浮出水面的獵物。"
     },
     "series": {
@@ -379,10 +1756,15 @@
   {
     "id": "S10D-055",
     "name": {
+      "ja": "ワシボン",
       "zh-tw": "毛頭小鷹"
     },
     "illustrator": "Eri Yamaki",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      627
+    ],
     "hp": 70,
     "types": [
       "Colorless"
@@ -395,9 +1777,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かぎづめ",
           "zh-tw": "鉤爪"
         },
         "effect": {
+          "ja": "コインを1回投げウラなら、このワザは失敗。",
           "zh-tw": "擲1次硬幣若為反面，則這個招式失敗。"
         },
         "damage": 30
@@ -416,7 +1800,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651023,
+          "tcgplayer": 569810,
+          "cardtrader": 234191
+        }
+      }
+    ],
     "description": {
+      "ja": "雛鳥の姿 なれど 血の気 多し。 ことあるごとに 親鳥に 戦を 仕掛け 己が力を 示さんと 躍起なり。",
       "zh-tw": "雖然還是雛鳥，但性情暴躁易怒。 經常藉故向親鳥挑起鬥爭， 為展示自己的力量而奮力搏擊。"
     },
     "series": {
@@ -430,10 +1825,15 @@
   {
     "id": "S10D-054",
     "name": {
+      "ja": "レジギガス",
       "zh-tw": "雷吉奇卡斯"
     },
     "illustrator": "Yuya Oka",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      486
+    ],
     "hp": 150,
     "types": [
       "Colorless"
@@ -444,9 +1844,11 @@
       {
         "type": "Ability",
         "name": {
+          "ja": "こだいのえいち",
           "zh-tw": "古代睿智"
         },
         "effect": {
+          "ja": "自分の場に「レジロック」「レジアイス」「レジスチル」「レジエレキ」「レジドラゴ」がいるなら、自分の番に1回使える。自分のトラッシュからエネルギーを3枚まで選び、自分のポケモン1匹につける。",
           "zh-tw": "若自己的場上有「雷吉洛克」「雷吉艾斯」「雷吉斯奇魯」「雷吉艾勒奇」「雷吉鐸拉戈」，則在自己的回合時可使用1次。從自己的棄牌區選擇最多3張能量卡，附於自己的1隻寶可夢身上。"
         }
       }
@@ -461,9 +1863,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ギガントブレイク",
           "zh-tw": "巨烈破壞"
         },
         "effect": {
+          "ja": "相手のバトルポケモンが「ポケモンVMAX」なら、150ダメージ追加。",
           "zh-tw": "若對手的戰鬥寶可夢為「寶可夢【VMAX】」，則增加150點傷害。"
         },
         "damage": "150+"
@@ -476,7 +1880,18 @@
       }
     ],
     "retreat": 4,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651022,
+          "tcgplayer": 569809,
+          "cardtrader": 234190
+        }
+      }
+    ],
     "description": {
+      "ja": "縄で 縛った 大陸を 引っ張って 動かしたという 伝説が 残されている。",
       "zh-tw": "在世上流傳著的傳說中， 牠拉動了被繩子所綑綁的大地。"
     },
     "series": {
@@ -490,10 +1905,15 @@
   {
     "id": "S10D-053",
     "name": {
+      "ja": "ペラップ",
       "zh-tw": "聒噪鳥"
     },
     "illustrator": "Shin Nagasawa",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      441
+    ],
     "hp": 70,
     "types": [
       "Colorless"
@@ -506,9 +1926,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "もってくる",
           "zh-tw": "呼喚"
         },
         "effect": {
+          "ja": "自分の山札を1枚引く。",
           "zh-tw": "從自己的牌庫抽出1張卡。"
         }
       },
@@ -517,9 +1939,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "まくしたてる",
           "zh-tw": "口若懸河"
         },
         "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、にげられない。",
           "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
         },
         "damage": 30
@@ -538,7 +1962,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651021,
+          "tcgplayer": 569808,
+          "cardtrader": 234189
+        }
+      }
+    ],
     "description": {
+      "ja": "巧みに 人語を 模倣する 芸達者。 齢 重ね 経験を 積んだ者は 言葉の 意味さえ 理解するという。",
       "zh-tw": "能將人類話語模仿得維妙維肖的表演家。 當隨著年齡增長而累積眾多經驗後， 甚至還能夠理解話語中的含意。"
     },
     "series": {
@@ -552,10 +1987,15 @@
   {
     "id": "S10D-052",
     "name": {
+      "ja": "イーブイ",
       "zh-tw": "伊布"
     },
     "illustrator": "sowsow",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      133
+    ],
     "hp": 50,
     "types": [
       "Colorless"
@@ -566,9 +2006,11 @@
       {
         "type": "Ability",
         "name": {
+          "ja": "きょうめいしんか",
           "zh-tw": "共鳴進化"
         },
         "effect": {
+          "ja": "自分の番に、自分の別の「イーブイ」が手札から出したポケモンに進化したなら、1回使える。このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。",
           "zh-tw": "在自己的回合，若自己的其他「伊布」進化成從手牌使出的寶可夢，則可使用1次。從自己的牌庫選擇1張從這隻寶可夢進化而來的卡，放置於這隻寶可夢身上完成進化。並且重洗牌庫。"
         }
       }
@@ -580,6 +2022,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "たいあたり",
           "zh-tw": "撞擊"
         },
         "damage": 20
@@ -592,7 +2035,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651020,
+          "tcgplayer": 569807,
+          "cardtrader": 234188
+        }
+      }
+    ],
     "description": {
+      "ja": "まわりの 環境に 合わせて 体の つくりを 変えていく 能力の 持ち主。",
       "zh-tw": "伊布擁有著能夠為了適應周遭的環境而 改變身體構造的能力。"
     },
     "series": {
@@ -606,14 +2060,22 @@
   {
     "id": "S10D-051",
     "name": {
+      "ja": "キリキザン",
       "zh-tw": "劈斬司令"
     },
     "illustrator": "NC Empire",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      625
+    ],
     "hp": 120,
     "types": [
       "Metal"
     ],
+    "evolveFrom": {
+      "ja": "コマタナ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -622,9 +2084,11 @@
           "Metal"
         ],
         "name": {
+          "ja": "しかえしぎり",
           "zh-tw": "回擊斬"
         },
         "effect": {
+          "ja": "自分のベンチの「コマタナ」全員にのっているダメカンの数×30ダメージ追加。",
           "zh-tw": "增加自己的備戰區所有「駒刀小兵」身上放置的傷害指示物數量×30點傷害。"
         },
         "damage": "30+"
@@ -636,6 +2100,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "スライスブレード",
           "zh-tw": "利刃切割"
         },
         "damage": 90
@@ -654,7 +2119,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651019,
+          "tcgplayer": 569806,
+          "cardtrader": 234116
+        }
+      }
+    ],
     "description": {
+      "ja": "大勢の コマタナを 従える。 手下たちが 裏切らない よう 常に 目を 光らせている。",
       "zh-tw": "率領著一大群駒刀小兵。為了防止手下們背叛自己， 總是睜大著眼睛監視牠們。"
     },
     "series": {
@@ -668,10 +2144,15 @@
   {
     "id": "S10D-050",
     "name": {
+      "ja": "コマタナ",
       "zh-tw": "駒刀小兵"
     },
     "illustrator": "Tomokazu Komiya",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      624
+    ],
     "hp": 60,
     "types": [
       "Metal"
@@ -684,9 +2165,11 @@
           "Metal"
         ],
         "name": {
+          "ja": "とつげき",
           "zh-tw": "突擊"
         },
         "effect": {
+          "ja": "このポケモンにも10ダメージ。",
           "zh-tw": "這隻寶可夢也受到10點傷害。"
         },
         "damage": 30
@@ -705,7 +2188,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651018,
+          "tcgplayer": 569805,
+          "cardtrader": 234115
+        }
+      }
+    ],
     "description": {
+      "ja": "鋭い 刃を 操り 敵を 追い詰める。 河原の 石で 体の 刃を 手入れする。",
       "zh-tw": "揮舞銳利的刀刃將敵人逼向絕境。會用河灘的 石頭來精心保養刀刃。"
     },
     "series": {
@@ -719,25 +2213,35 @@
   {
     "id": "S10D-049",
     "name": {
+      "ja": "オリジンディアルガVSTAR",
       "zh-tw": "起源帝牙盧卡VSTAR"
     },
     "illustrator": "5ban Graphics",
+    "rarity": "Triple Rare",
     "category": "Pokemon",
+    "dexId": [
+      483
+    ],
     "hp": 280,
     "types": [
       "Metal"
     ],
+    "evolveFrom": {
+      "ja": "オリジンディアルガV"
+    },
     "regulationMark": "F",
-    "stage": "VMAX",
+    "stage": "VSTAR",
     "attacks": [
       {
         "cost": [
           "Colorless"
         ],
         "name": {
+          "ja": "メタルブラスト",
           "zh-tw": "金屬爆破"
         },
         "effect": {
+          "ja": "このポケモンについている{M}エネルギーの数×40ダメージ追加。",
           "zh-tw": "增加這隻寶可夢身上附加的【鋼】能量的數量×40點傷害。"
         },
         "damage": "40+"
@@ -751,9 +2255,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "スタークロノス",
           "zh-tw": "[VSTAR力量]星星柯羅諾斯"
         },
         "effect": {
+          "ja": "この番が終わったら、もう1回自分の番を始める。［対戦中、自分はVSTARパワーを1回しか使えない。］",
           "zh-tw": "這個回合結束後，再開始1次自己的回合。[對戰中，己方只可使用1次【VSTAR】力量。]"
         },
         "damage": 220
@@ -772,6 +2278,16 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651017,
+          "tcgplayer": 569804,
+          "cardtrader": 233695
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -783,10 +2299,15 @@
   {
     "id": "S10D-048",
     "name": {
+      "ja": "オリジンディアルガV",
       "zh-tw": "起源帝牙盧卡V"
     },
     "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      483
+    ],
     "hp": 220,
     "types": [
       "Metal"
@@ -799,9 +2320,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "メタルコーティング",
           "zh-tw": "金屬塗層"
         },
         "effect": {
+          "ja": "自分のトラッシュから{M}エネルギーを2枚まで選び、このポケモンにつける。",
           "zh-tw": "從自己的棄牌區選擇最多2張【鋼】能量卡，附於這隻寶可夢身上。"
         }
       },
@@ -813,6 +2336,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "じかんだんぜつ",
           "zh-tw": "時間斷絕"
         },
         "damage": 180
@@ -831,6 +2355,16 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651016,
+          "tcgplayer": 569803,
+          "cardtrader": 234114
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -843,10 +2377,15 @@
   {
     "id": "S10D-047",
     "name": {
+      "ja": "レジスチル",
       "zh-tw": "雷吉斯奇魯"
     },
     "illustrator": "hatachu",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      379
+    ],
     "hp": 130,
     "types": [
       "Metal"
@@ -859,9 +2398,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "レジゲート",
           "zh-tw": "雷吉之門"
         },
         "effect": {
+          "ja": "自分の山札からたねポケモンを1枚選び、ベンチに出す。そして山札を切る。",
           "zh-tw": "從自己的牌庫選擇1張【基礎】寶可夢卡，放置於備戰區。並且重洗牌庫。"
         }
       },
@@ -872,9 +2413,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ヘビーボンバー",
           "zh-tw": "重磅衝撞"
         },
         "effect": {
+          "ja": "相手のバトルポケモンのにげるためのエネルギーの数×50ダメージぶん、このワザのダメージは小さくなる。",
           "zh-tw": "減少對手的戰鬥寶可夢【撤退】所需的能量的數量×50點傷害。"
         },
         "damage": "220-"
@@ -893,7 +2436,18 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651015,
+          "tcgplayer": 569802,
+          "cardtrader": 234113
+        }
+      }
+    ],
     "description": {
+      "ja": "伸び縮みする 柔らかさも あるが どんな 金属よりも 頑丈な 不思議な 物質で できている。",
       "zh-tw": "構成牠身體的神奇物質具有能夠伸縮的柔軟性， 但卻比任何金屬都還要堅韌。"
     },
     "series": {
@@ -907,23 +2461,33 @@
   {
     "id": "S10D-046",
     "name": {
+      "ja": "ジバコイル",
       "zh-tw": "自爆磁怪"
     },
     "illustrator": "GOSSAN",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      462
+    ],
     "hp": 150,
     "types": [
       "Metal"
     ],
+    "evolveFrom": {
+      "ja": "レアコイル"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "abilities": [
       {
         "type": "Ability",
         "name": {
+          "ja": "ギガマグネット",
           "zh-tw": "終極磁鐵"
         },
         "effect": {
+          "ja": "自分の番に1回使える。自分の山札を上から6枚見て、その中から{M}エネルギーを好きなだけ選び、自分のポケモンに好きなようにつける。残りのカードは山札にもどして切る。",
           "zh-tw": "在自己的回合時，可使用1次。查看自己的牌庫上方6張卡，從其中選擇任意數量的【鋼】能量卡，以任意方式附於自己的寶可夢身上。將剩餘卡放回牌庫並重洗。"
         }
       }
@@ -936,6 +2500,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "パワービーム",
           "zh-tw": "强力光束"
         },
         "damage": 120
@@ -954,7 +2519,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651014,
+          "tcgplayer": 569801,
+          "cardtrader": 234112
+        }
+      }
+    ],
     "description": {
+      "ja": "頭の アンテナで 宇宙からの 電波を 受信して 何者かに コントロールされていると いわれる。",
       "zh-tw": "據說牠頭上的天線會接收來自宇宙的電波， 讓牠被未知的對象控制。"
     },
     "series": {
@@ -968,14 +2544,22 @@
   {
     "id": "S10D-045",
     "name": {
+      "ja": "レアコイル",
       "zh-tw": "三合一磁怪"
     },
     "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      82
+    ],
     "hp": 90,
     "types": [
       "Metal"
     ],
+    "evolveFrom": {
+      "ja": "コイル"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -985,9 +2569,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "はねかえす",
           "zh-tw": "彈回"
         },
         "effect": {
+          "ja": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
           "zh-tw": "將對手的戰鬥寶可夢與備戰寶可夢互換。[由對手選擇放置於戰鬥場的寶可夢。]"
         },
         "damage": 50
@@ -1006,7 +2592,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651013,
+          "tcgplayer": 569800,
+          "cardtrader": 234111
+        }
+      }
+    ],
     "description": {
+      "ja": "３匹の コイルが 連結した。 強力な 電波を 放ち まわりの 様子を 観測する。",
       "zh-tw": "由３隻小磁怪連結而成。會發射出強烈的電波 來觀測周圍的狀況。"
     },
     "series": {
@@ -1020,10 +2617,15 @@
   {
     "id": "S10D-044",
     "name": {
+      "ja": "コイル",
       "zh-tw": "小磁怪"
     },
     "illustrator": "Mitsuhiro Arita",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      81
+    ],
     "hp": 60,
     "types": [
       "Metal"
@@ -1036,9 +2638,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "マグネキャッチ",
           "zh-tw": "磁力捕捉"
         },
         "effect": {
+          "ja": "自分のトラッシュから{M}エネルギーを3枚まで選び、相手に見せて、山札にもどして切る。",
           "zh-tw": "從自己的棄牌區選擇最多3張【鋼】能量卡，在給對手看過後放回牌庫並重洗。"
         }
       },
@@ -1048,6 +2652,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ボールアタック",
           "zh-tw": "滾球攻擊"
         },
         "damage": 30
@@ -1066,7 +2671,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651012,
+          "tcgplayer": 569799,
+          "cardtrader": 234110
+        }
+      }
+    ],
     "description": {
+      "ja": "鉄球に 一つ目ありし 奇天烈な姿。 馬蹄形の 磁石が如き 腕から 発する 磁力により 浮遊すると 推察す。",
       "zh-tw": "鐵球上長著一隻眼睛的相貌可謂奇異。 據推測，牠是靠著馬蹄形磁鐵般的 雙臂發出的磁力讓自己保持懸浮。"
     },
     "series": {
@@ -1080,23 +2696,33 @@
   {
     "id": "S10D-043",
     "name": {
+      "ja": "フォクスライ",
       "zh-tw": "狐大盜"
     },
     "illustrator": "KIYOTAKA OSHIYAMA",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      828
+    ],
     "hp": 100,
     "types": [
       "Darkness"
     ],
+    "evolveFrom": {
+      "ja": "クスネ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "abilities": [
       {
         "type": "Ability",
         "name": {
+          "ja": "けむにまく",
           "zh-tw": "五里霧中"
         },
         "effect": {
+          "ja": "相手のサイドの残り枚数が2枚以下なら、はたらく。このポケモンがいるかぎり、自分のベンチの「ポケモンV」全員は、相手が手札からサポートを出して使ったとき、その効果を受けない。",
           "zh-tw": "若對手剩餘獎賞卡的張數為2張以下則生效。只要這隻寶可夢在場上，對手從手牌使出支援者時，自己的備戰區的所有「寶可夢【V】」不會受到其效果的影響。"
         }
       }
@@ -1109,6 +2735,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "するどいキバ",
           "zh-tw": "銳利之牙"
         },
         "damage": 110
@@ -1121,7 +2748,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651011,
+          "tcgplayer": 569798,
+          "cardtrader": 234109
+        }
+      }
+    ],
     "description": {
+      "ja": "狙った 獲物は こっそり マーキング。 においを 辿って 油断 したころ 盗みに 来るぞ。",
       "zh-tw": "會偷偷在看中的獵物身上留下標記，追蹤目標的氣味， 在對方放鬆警戒時偷盜。"
     },
     "series": {
@@ -1135,10 +2773,15 @@
   {
     "id": "S10D-042",
     "name": {
+      "ja": "クスネ",
       "zh-tw": "偷兒狐"
     },
     "illustrator": "Naoyo Kimura",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      827
+    ],
     "hp": 60,
     "types": [
       "Darkness"
@@ -1151,6 +2794,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "うしろげり",
           "zh-tw": "後踢"
         },
         "damage": 10
@@ -1163,7 +2807,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651010,
+          "tcgplayer": 569797,
+          "cardtrader": 234108
+        }
+      }
+    ],
     "description": {
+      "ja": "ほかの ポケモンが みつけた 餌を 掠めて 暮らしている。 ふかふかの 肉球は 足音を たてない。",
       "zh-tw": "靠搶奪其他寶可夢找到的食物為生。腳上長著軟乎乎的肉球， 走路時不會發出絲毫聲響。"
     },
     "series": {
@@ -1177,23 +2832,33 @@
   {
     "id": "S10D-041",
     "name": {
+      "ja": "ヒスイ ダイケンキ",
       "zh-tw": "洗翠 大劍鬼"
     },
     "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      503
+    ],
     "hp": 170,
     "types": [
       "Darkness"
     ],
+    "evolveFrom": {
+      "ja": "フタチマル"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "abilities": [
       {
         "type": "Ability",
         "name": {
+          "ja": "わざしのかまえ",
           "zh-tw": "謀士之勢"
         },
         "effect": {
+          "ja": "自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を3枚引く。",
           "zh-tw": "在自己的回合時，若將自己的1張手牌丟棄，則可使用1次。從自己的牌庫抽出3張卡。"
         }
       }
@@ -1206,9 +2871,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "やみのごくい",
           "zh-tw": "暗之極意"
         },
         "effect": {
+          "ja": "自分の場のポケモンについているエネルギーの数×20ダメージ追加。",
           "zh-tw": "增加自己的場上寶可夢身上附加的能量的數量×20點傷害。"
         },
         "damage": "60+"
@@ -1221,7 +2888,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651009,
+          "tcgplayer": 569796,
+          "cardtrader": 234107
+        }
+      }
+    ],
     "description": {
+      "ja": "非情なる 気質と 太刀筋を 有す。 怒涛の 連撃は 千重波の 如し。 ヒスイにて 進化せし 稀有なる姿。",
       "zh-tw": "性情與刀路皆是殘酷無情。連綿不斷的攻擊彷如千層浪濤。 此乃只在洗翠進化而成的稀有姿態。"
     },
     "series": {
@@ -1235,14 +2913,22 @@
   {
     "id": "S10D-040",
     "name": {
+      "ja": "アリアドス",
       "zh-tw": "阿利多斯"
     },
     "illustrator": "Shinji Kanda",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      168
+    ],
     "hp": 90,
     "types": [
       "Darkness"
     ],
+    "evolveFrom": {
+      "ja": "イトマル"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -1251,9 +2937,11 @@
           "Darkness"
         ],
         "name": {
+          "ja": "いとがらめ",
           "zh-tw": "線帶纏繞"
         },
         "effect": {
+          "ja": "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ追加。",
           "zh-tw": "增加對手的戰鬥寶可夢【撤退】所需的能量的數量×30點傷害。"
         },
         "damage": "10+"
@@ -1265,9 +2953,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "どくのキバ",
           "zh-tw": "毒牙"
         },
         "effect": {
+          "ja": "相手のバトルポケモンをどくにする。",
           "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
         },
         "damage": 80
@@ -1280,7 +2970,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651008,
+          "tcgplayer": 569795,
+          "cardtrader": 234106
+        }
+      }
+    ],
     "description": {
+      "ja": "糸を はいて 獲物を 捕らえる。 夜に なると 巣から 離れて 積極的に 狩りを するぞ。",
       "zh-tw": "會吐絲來捕捉獵物。 每到夜晚就會離開巢穴， 積極地展開狩獵。"
     },
     "series": {
@@ -1294,10 +2995,15 @@
   {
     "id": "S10D-039",
     "name": {
+      "ja": "イトマル",
       "zh-tw": "圓絲蛛"
     },
     "illustrator": "Atsuko Nishida",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      167
+    ],
     "hp": 50,
     "types": [
       "Darkness"
@@ -1310,9 +3016,11 @@
           "Darkness"
         ],
         "name": {
+          "ja": "どくばり",
           "zh-tw": "毒針"
         },
         "effect": {
+          "ja": "相手のバトルポケモンをどくにする。",
           "zh-tw": "將對手的戰鬥寶可夢【中毒】。"
         },
         "damage": 10
@@ -1325,7 +3033,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651007,
+          "tcgplayer": 569794,
+          "cardtrader": 234105
+        }
+      }
+    ],
     "description": {
+      "ja": "キバの 毒は さほど 強くないが 巣に かかって 動けない 獲物を 弱らせるには 充分。",
       "zh-tw": "牙齒的毒性並不強烈， 但用來削弱那些掛在蛛網上 無法動彈的獵物是綽綽有餘。"
     },
     "series": {
@@ -1339,14 +3058,22 @@
   {
     "id": "S10D-038",
     "name": {
+      "ja": "コジョンド",
       "zh-tw": "師父鼬"
     },
     "illustrator": "Shibuzoh.",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      620
+    ],
     "hp": 90,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "コジョフー"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -1355,6 +3082,7 @@
           "Fighting"
         ],
         "name": {
+          "ja": "はたく",
           "zh-tw": "拍擊"
         },
         "damage": 30
@@ -1365,9 +3093,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ダブルスマッシュ",
           "zh-tw": "雙重粉碎"
         },
         "effect": {
+          "ja": "コインを2回投げ、オモテの数×70ダメージ。",
           "zh-tw": "擲2次硬幣，造成正面出現的次數×70點傷害。"
         },
         "damage": "70×"
@@ -1380,7 +3110,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651006,
+          "tcgplayer": 569793,
+          "cardtrader": 234104
+        }
+      }
+    ],
     "description": {
+      "ja": "真の 強敵と 会うと 身軽に なるため 両手の 毛を 噛み千切り 捨ててしまう。",
       "zh-tw": "當牠遇上真正的強敵時，會將雙臂的毛咬斷丟棄， 讓自己的身體更加輕盈。"
     },
     "series": {
@@ -1394,10 +3135,15 @@
   {
     "id": "S10D-037",
     "name": {
+      "ja": "コジョフー",
       "zh-tw": "功夫鼬"
     },
     "illustrator": "yuu",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      619
+    ],
     "hp": 60,
     "types": [
       "Fighting"
@@ -1410,6 +3156,7 @@
           "Fighting"
         ],
         "name": {
+          "ja": "チョップ",
           "zh-tw": "劈打"
         },
         "damage": 10
@@ -1420,6 +3167,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かいてんげり",
           "zh-tw": "迴轉踢"
         },
         "damage": 30
@@ -1432,7 +3180,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651005,
+          "tcgplayer": 569792,
+          "cardtrader": 234103
+        }
+      }
+    ],
     "description": {
+      "ja": "よく鍛えられた コジョフーは １分で １００回を 超える チョップを 打つことが できる。",
       "zh-tw": "千錘百鍊的功夫鼬能夠在１分鐘內使出 超過１００次的劈擊。"
     },
     "series": {
@@ -1446,14 +3205,22 @@
   {
     "id": "S10D-036",
     "name": {
+      "ja": "ラムパルド",
       "zh-tw": "戰槌龍"
     },
     "illustrator": "Nisota Niso",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      409
+    ],
     "hp": 170,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "ズガイドス"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "attacks": [
@@ -1462,6 +3229,7 @@
           "Fighting"
         ],
         "name": {
+          "ja": "とびだしヘッド",
           "zh-tw": "魯莽頭擊"
         },
         "damage": 60
@@ -1472,9 +3240,11 @@
           "Fighting"
         ],
         "name": {
+          "ja": "ジュラシックハンマー",
           "zh-tw": "侏儸紀錘"
         },
         "effect": {
+          "ja": "相手の手札が3枚以下なら、このワザは失敗。",
           "zh-tw": "若對手的手牌為3張以下，則這個招式失敗。"
         },
         "damage": 240
@@ -1487,7 +3257,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651004,
+          "tcgplayer": 569791,
+          "cardtrader": 234102
+        }
+      }
+    ],
     "description": {
+      "ja": "頭突きが 得意な 古代のポケモン。 本当に 脳みそが 小さいので 愚かで 滅んだという説も ある。",
       "zh-tw": "擅長頭錘的古代寶可夢。 因為大腦真的很小，所以也有說法 認為牠是因為太笨而滅亡的。"
     },
     "series": {
@@ -1501,14 +3282,22 @@
   {
     "id": "S10D-035",
     "name": {
+      "ja": "ズガイドス",
       "zh-tw": "頭蓋龍"
     },
     "illustrator": "Hataya",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      408
+    ],
     "hp": 90,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "なぞの化石"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -1517,6 +3306,7 @@
           "Fighting"
         ],
         "name": {
+          "ja": "ぶつかる",
           "zh-tw": "衝撞"
         },
         "damage": 20
@@ -1527,9 +3317,11 @@
           "Fighting"
         ],
         "name": {
+          "ja": "ストーンエッジ",
           "zh-tw": "尖石攻擊"
         },
         "effect": {
+          "ja": "コインを1回投げオモテなら、40ダメージ追加。",
           "zh-tw": "擲1次硬幣若為正面，則增加40點傷害。"
         },
         "damage": "40+"
@@ -1542,7 +3334,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651003,
+          "tcgplayer": 569790,
+          "cardtrader": 234101
+        }
+      }
+    ],
     "description": {
+      "ja": "硬い 頭蓋骨が 特徴。 頭突きで 樹木を へし折って 実った きのみを 食っていた。",
       "zh-tw": "特徵是堅硬的頭蓋骨。 會用頭錘撞斷樹木， 吃樹上長的樹果。"
     },
     "series": {
@@ -1556,10 +3359,15 @@
   {
     "id": "S10D-034",
     "name": {
+      "ja": "ウソッキー",
       "zh-tw": "樹才怪"
     },
     "illustrator": "HYOGONOSUKE",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      185
+    ],
     "hp": 110,
     "types": [
       "Fighting"
@@ -1570,9 +3378,11 @@
       {
         "type": "Ability",
         "name": {
+          "ja": "すたこらさっさ",
           "zh-tw": "速逃"
         },
         "effect": {
+          "ja": "このポケモンにダメカンがのっているなら、このポケモンのにげるためのエネルギーは、すべてなくなる。",
           "zh-tw": "若這隻寶可夢身上放置有傷害指示物，則這隻寶可夢【撤退】所需的能量全部消除。"
         }
       }
@@ -1584,9 +3394,11 @@
           "Fighting"
         ],
         "name": {
+          "ja": "すてみタックル",
           "zh-tw": "捨身衝撞"
         },
         "effect": {
+          "ja": "このポケモンにも30ダメージ。",
           "zh-tw": "這隻寶可夢也受到30點傷害。"
         },
         "damage": 90
@@ -1599,7 +3411,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 651002,
+          "tcgplayer": 569789,
+          "cardtrader": 234100
+        }
+      }
+    ],
     "description": {
+      "ja": "樹木の素振りするも 幼子も 欺けず。 その体は 樹皮ならず 岩の手触り。 水を ひどく嫌う習性 特記に値す。",
       "zh-tw": "偽裝成樹木，卻連幼童也難以騙過。 體表並非樹皮，觸感彷若岩石。 值得一提的是，此寶可夢極其怕水。"
     },
     "series": {
@@ -1613,14 +3436,22 @@
   {
     "id": "S10D-033",
     "name": {
+      "ja": "カイリキーVMAX",
       "zh-tw": "怪力VMAX"
     },
     "illustrator": "N-DESIGN Inc.",
+    "rarity": "Triple Rare",
     "category": "Pokemon",
+    "dexId": [
+      68
+    ],
     "hp": 330,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "カイリキーV"
+    },
     "regulationMark": "F",
     "stage": "VMAX",
     "attacks": [
@@ -1630,9 +3461,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "リベンジバスター",
           "zh-tw": "復仇光炮"
         },
         "effect": {
+          "ja": "自分のベンチポケモンにダメカンがのっているなら、140ダメージ追加。",
           "zh-tw": "若自己的備戰寶可夢身上放置有傷害指示物，則增加140點傷害。"
         },
         "damage": "80+"
@@ -1644,9 +3477,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "キョダイシンゲキ",
           "zh-tw": "超極巨會心一擊"
         },
         "effect": {
+          "ja": "次の自分の番、このポケモンは「キョダイシンゲキ」が使えない。",
           "zh-tw": "在下個自己的回合，這隻寶可夢無法使用「超極巨會心一擊」。"
         },
         "damage": 240
@@ -1659,6 +3494,16 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651001,
+          "tcgplayer": 569788,
+          "cardtrader": 234099
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -1670,10 +3515,15 @@
   {
     "id": "S10D-032",
     "name": {
+      "ja": "カイリキーV",
       "zh-tw": "怪力V"
     },
     "illustrator": "kawayoo",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      68
+    ],
     "hp": 220,
     "types": [
       "Fighting"
@@ -1687,9 +3537,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "リベンジバスター",
           "zh-tw": "復仇光炮"
         },
         "effect": {
+          "ja": "自分のベンチポケモンにダメカンがのっているなら、50ダメージ追加。",
           "zh-tw": "若自己的備戰寶可夢身上放置有傷害指示物，則增加50點傷害。"
         },
         "damage": "50+"
@@ -1701,6 +3553,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ちきゅうなげ",
           "zh-tw": "地球上投"
         },
         "damage": 140
@@ -1713,6 +3566,16 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 651000,
+          "tcgplayer": 569787,
+          "cardtrader": 234098
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -1725,14 +3588,22 @@
   {
     "id": "S10D-031",
     "name": {
+      "ja": "ニョロボン",
       "zh-tw": "蚊香泳士"
     },
     "illustrator": "Teeziro",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      62
+    ],
     "hp": 160,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "ニョロゾ"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "attacks": [
@@ -1741,9 +3612,11 @@
           "Water"
         ],
         "name": {
+          "ja": "ぐるぐるパンチ",
           "zh-tw": "轉轉拳"
         },
         "effect": {
+          "ja": "相手のバトルポケモンをこんらんにする。",
           "zh-tw": "將對手的戰鬥寶可夢【混亂】。"
         },
         "damage": 60
@@ -1755,9 +3628,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "スプラッシュループ",
           "zh-tw": "飛濺閉環"
         },
         "effect": {
+          "ja": "このポケモンについているエネルギーを2個選び、手札にもどす。",
           "zh-tw": "選擇2個這隻寶可夢身上附加的能量，放回手牌。"
         },
         "damage": 160
@@ -1770,7 +3645,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650999,
+          "tcgplayer": 569786,
+          "cardtrader": 234097
+        }
+      }
+    ],
     "description": {
+      "ja": "全身が 筋肉の 塊。 寒い 海でも たくましい 腕で 流氷を 砕き 突き進む。",
       "zh-tw": "全身都是肌肉。即使是在寒冷的大海也能用結實的手臂 擊碎浮冰，奮勇前進。"
     },
     "series": {
@@ -1784,14 +3670,22 @@
   {
     "id": "S10D-030",
     "name": {
+      "ja": "ヒスイ ウインディ",
       "zh-tw": "洗翠 風速狗"
     },
     "illustrator": "Kagemaru Himeno",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      59
+    ],
     "hp": 150,
     "types": [
       "Fighting"
     ],
+    "evolveFrom": {
+      "ja": "ヒスイ ガーディ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -1801,6 +3695,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ロックスマッシュ",
           "zh-tw": "岩石粉碎"
         },
         "damage": 50
@@ -1812,9 +3707,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "しゃくねつのつの",
           "zh-tw": "灼熱之角"
         },
         "effect": {
+          "ja": "このポケモンに{R}エネルギーがついているなら、80ダメージ追加し、相手のバトルポケモンをやけどにする。",
           "zh-tw": "若這隻寶可夢身上附有【火】能量，則增加80點傷害，並將對手的戰鬥寶可夢【灼傷】。"
         },
         "damage": "80+"
@@ -1827,7 +3724,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650998,
+          "tcgplayer": 569785,
+          "cardtrader": 234096
+        }
+      }
+    ],
     "description": {
+      "ja": "燃え盛る炎 牙に纏わせ 食らい付く。 体躯 大柄なれど 陽動 鮮やかなりて 敵 翻弄せしむる姿 演舞の如し。",
       "zh-tw": "將猛烈燃燒的火焰纏繞在牙齒上撲向獵物。雖然體型很大，卻能以靈巧的假動作戲弄敵手，那姿態就像是舞蹈一般。"
     },
     "series": {
@@ -1841,10 +3749,15 @@
   {
     "id": "S10D-029",
     "name": {
+      "ja": "ヒスイ ガーディ",
       "zh-tw": "洗翠 卡蒂狗"
     },
     "illustrator": "Akira Komayama",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      58
+    ],
     "hp": 80,
     "types": [
       "Fighting"
@@ -1853,10 +3766,13 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [],
         "name": {
+          "ja": "ぼうぎょしせい",
           "zh-tw": "防禦姿勢"
         },
         "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。",
           "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害。"
         }
       },
@@ -1866,6 +3782,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かみつく",
           "zh-tw": "咬住"
         },
         "damage": 30
@@ -1878,7 +3795,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650995,
+          "tcgplayer": 569784,
+          "cardtrader": 234095
+        }
+      }
+    ],
     "description": {
+      "ja": "対になりて 縄張りを 哨戒す。 体毛に 火成岩なる 成分 混ざるは 火山活動の 影響と 推察す。",
       "zh-tw": "兩隻一組共同負責地盤的警戒工作。體毛中混有火成岩的成分，可以 推想這是受到火山活動的影響。"
     },
     "series": {
@@ -1892,10 +3820,15 @@
   {
     "id": "S10D-028",
     "name": {
+      "ja": "クレセリア",
       "zh-tw": "克雷色利亞"
     },
     "illustrator": "saino misaki",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      488
+    ],
     "hp": 120,
     "types": [
       "Psychic"
@@ -1908,9 +3841,11 @@
           "Psychic"
         ],
         "name": {
+          "ja": "ムーンライトリバース",
           "zh-tw": "月下反轉"
         },
         "effect": {
+          "ja": "自分のポケモン全員にのっているダメカンをそれぞれ2個ずつ選び、相手のポケモン1匹にのせ替える。",
           "zh-tw": "選擇自己的所有寶可夢身上放置的傷害指示物各2個，改放於對手的1隻寶可夢身上。"
         }
       },
@@ -1921,6 +3856,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ルナブラスト",
           "zh-tw": "月光爆破"
         },
         "damage": 110
@@ -1939,7 +3875,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650991,
+          "tcgplayer": 569783,
+          "cardtrader": 234094
+        }
+      }
+    ],
     "description": {
+      "ja": "クレセリアの 羽を 持って 寝ると 楽しい 夢が 見られると いう。 三日月の化身と 呼ばれている。",
       "zh-tw": "據說只要拿著克雷色利亞 的羽毛入睡，就能作個美夢。 被稱為新月的化身。"
     },
     "series": {
@@ -1953,14 +3900,22 @@
   {
     "id": "S10D-027",
     "name": {
+      "ja": "フワライド",
       "zh-tw": "隨風球"
     },
     "illustrator": "Kyoko Umemoto",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      426
+    ],
     "hp": 110,
     "types": [
       "Psychic"
     ],
+    "evolveFrom": {
+      "ja": "フワンテ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -1969,9 +3924,11 @@
           "Psychic"
         ],
         "name": {
+          "ja": "スプーキーバルーン",
           "zh-tw": "鬼怪氣球"
         },
         "effect": {
+          "ja": "相手のベンチポケモン1匹に、ダメカンを2個のせる。",
           "zh-tw": "在對手的1隻備戰寶可夢身上放置2個傷害指示物。"
         },
         "damage": 50
@@ -1990,7 +3947,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650990,
+          "tcgplayer": 569782,
+          "cardtrader": 234093
+        }
+      }
+    ],
     "description": {
+      "ja": "無念の 死を とげた 魂が 集まった 姿とも いわれる。 宵闇を 音も なく 漂う。",
       "zh-tw": "也有人說牠是萬念俱灰的靈魂聚在一起的樣子。 會在黑夜裡靜靜地飄盪。"
     },
     "series": {
@@ -2004,10 +3972,15 @@
   {
     "id": "S10D-026",
     "name": {
+      "ja": "フワンテ",
       "zh-tw": "飄飄球"
     },
     "illustrator": "Narumi Sato",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      425
+    ],
     "hp": 60,
     "types": [
       "Psychic"
@@ -2020,9 +3993,11 @@
           "Psychic"
         ],
         "name": {
+          "ja": "トリプルスピン",
           "zh-tw": "三重旋轉"
         },
         "effect": {
+          "ja": "コインを3回投げ、オモテの数×10ダメージ。",
           "zh-tw": "擲3次硬幣，造成正面出現的次數×10點傷害。"
         },
         "damage": "10×"
@@ -2041,7 +4016,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650989,
+          "tcgplayer": 569781,
+          "cardtrader": 234092
+        }
+      }
+    ],
     "description": {
+      "ja": "幼子 惑わし 彼岸へ 連れ去ると 伝えられし ポケモン。 人魂より 転生したと 噂あるも 真偽不明なり。",
       "zh-tw": "傳說會迷惑幼童，將其帶往另一個 世界的寶可夢。也有傳聞說牠是由 鬼魂轉生而成，但不知是真是假。"
     },
     "series": {
@@ -2055,10 +4041,15 @@
   {
     "id": "S10D-025",
     "name": {
+      "ja": "ジラーチV",
       "zh-tw": "基拉祈V"
     },
     "illustrator": "N-DESIGN Inc.",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      385
+    ],
     "hp": 180,
     "types": [
       "Psychic"
@@ -2069,9 +4060,11 @@
       {
         "type": "Ability",
         "name": {
+          "ja": "ねがいのかけはし",
           "zh-tw": "許願之橋"
         },
         "effect": {
+          "ja": "自分のたねポケモンの「ポケモンV」が、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについている基本エネルギーを1枚選び、自分の別のポケモンにつけ替える。",
           "zh-tw": "每次當自己的【基礎】寶可夢的「寶可夢【V】」受到對手的寶可夢招式的傷害而【氣絕】時，可使用1次。選擇1張【氣絕】的寶可夢身上附加的基本能量卡，改附於自己的其他寶可夢身上。"
         }
       }
@@ -2083,9 +4076,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ヒプノストライク",
           "zh-tw": "催眠強襲"
         },
         "effect": {
+          "ja": "おたがいのバトルポケモンを、それぞれねむりにする。",
           "zh-tw": "將雙方的戰鬥寶可夢【睡眠】。"
         },
         "damage": 60
@@ -2104,6 +4099,16 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650988,
+          "tcgplayer": 569780,
+          "cardtrader": 234091
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -2116,10 +4121,15 @@
   {
     "id": "S10D-024",
     "name": {
+      "ja": "クチート",
       "zh-tw": "大嘴娃"
     },
     "illustrator": "kurumitsu",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      303
+    ],
     "hp": 90,
     "types": [
       "Psychic"
@@ -2132,9 +4142,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "あまいわな",
           "zh-tw": "甜甜圈套"
         },
         "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、にげられない。次の自分の番、このワザを受けたポケモンが受けるワザのダメージは「+90」される。",
           "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。在下個自己的回合，受到這個招式的寶可夢受到招式的傷害「+90」點。"
         }
       },
@@ -2145,6 +4157,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かみつく",
           "zh-tw": "咬住"
         },
         "damage": 90
@@ -2157,7 +4170,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650987,
+          "tcgplayer": 569779,
+          "cardtrader": 234090
+        }
+      }
+    ],
     "description": {
+      "ja": "おとなしい 顔で 相手を 油断 させてから おおあごで がぶり。 噛みつくと 絶対に 放さない。",
       "zh-tw": "用溫順的長相讓對手大意，然後用大顎一口咬住對手。 咬住後就絕不會鬆口。"
     },
     "series": {
@@ -2171,23 +4195,33 @@
   {
     "id": "S10D-023",
     "name": {
+      "ja": "ヒスイ バクフーン",
       "zh-tw": "洗翠 火爆獸"
     },
     "illustrator": "Kouki Saitou",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      157
+    ],
     "hp": 150,
     "types": [
       "Psychic"
     ],
+    "evolveFrom": {
+      "ja": "マグマラシ"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "abilities": [
       {
         "type": "Ability",
         "name": {
+          "ja": "あやかしだま",
           "zh-tw": "靈異彈"
         },
         "effect": {
+          "ja": "自分の番に、自分の手札から{P}エネルギーを1枚トラッシュするなら、1回使える。相手のバトルポケモンをやけどとこんらんにする。",
           "zh-tw": "在自己的回合，若從自己的手牌將1張【超】能量卡丟棄，則可使用1次。將對手的戰鬥寶可夢【灼傷】與【混亂】。"
         }
       }
@@ -2199,9 +4233,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かげしばり",
           "zh-tw": "影子束縛"
         },
         "effect": {
+          "ja": "次の相手の番、このワザを受けたポケモンは、にげられない。",
           "zh-tw": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
         },
         "damage": 90
@@ -2220,7 +4256,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650986,
+          "tcgplayer": 569778,
+          "cardtrader": 234089
+        }
+      }
+    ],
     "description": {
+      "ja": "ヒスイの中心にそびえし 霊山の気が 影響した姿と 考察。 行き場 失いし 霊魂を 己の炎で浄化し 送ると言う。",
       "zh-tw": "據考察，牠是受到聳立於洗翠中心的靈山所發之氣的影響，才形成了現在的模樣。據說會用 自己的火焰淨化並超渡無處可去的靈魂。"
     },
     "series": {
@@ -2234,10 +4281,15 @@
   {
     "id": "S10D-022",
     "name": {
+      "ja": "レジエレキ",
       "zh-tw": "雷吉艾勒奇"
     },
     "illustrator": "Shiburingaru",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      894
+    ],
     "hp": 130,
     "types": [
       "Lightning"
@@ -2250,9 +4302,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "でんじソナー",
           "zh-tw": "電磁聲納"
         },
         "effect": {
+          "ja": "自分のトラッシュからトレーナーズを1枚選び、相手に見せて、手札に加える。",
           "zh-tw": "從自己的棄牌區選擇1張訓練家卡，在給對手看過後加入手牌。"
         }
       },
@@ -2263,9 +4317,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ターゲットボルト",
           "zh-tw": "目標伏特"
         },
         "effect": {
+          "ja": "このポケモンについている{L}エネルギーを2個トラッシュし、相手のベンチポケモン1匹に、120ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
           "zh-tw": "將這隻寶可夢身上附加的2個【雷】能量丟棄，對手的1隻備戰寶可夢受到120點傷害。[在備戰區不計算弱點・抵抗力。]"
         }
       }
@@ -2277,7 +4333,18 @@
       }
     ],
     "retreat": 3,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650982,
+          "tcgplayer": 569777,
+          "cardtrader": 234088
+        }
+      }
+    ],
     "description": {
+      "ja": "電気エネルギーの 塊。 体の リングを 外すと 秘めた 力が 解き放たれるらしい。",
       "zh-tw": "由電能凝聚而成的寶可夢。據說拿下牠身上的圓環後， 就會解放牠潛藏的力量。"
     },
     "series": {
@@ -2291,10 +4358,15 @@
   {
     "id": "S10D-021",
     "name": {
+      "ja": "レントラーV",
       "zh-tw": "倫琴貓V"
     },
     "illustrator": "AKIRA EGAWA",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      405
+    ],
     "hp": 210,
     "types": [
       "Lightning"
@@ -2308,9 +4380,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "スナイプファング",
           "zh-tw": "狙擊獠牙"
         },
         "effect": {
+          "ja": "相手の手札を見て、その中からトレーナーズを1枚選び、トラッシュする。",
           "zh-tw": "查看對手的手牌，選擇其中1張訓練家卡，將其丟棄。"
         },
         "damage": 30
@@ -2322,9 +4396,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ラジエートパルス",
           "zh-tw": "發散脈衝"
         },
         "effect": {
+          "ja": "このポケモンについているエネルギーを2個トラッシュし、相手のバトルポケモンをマヒにする。",
           "zh-tw": "將這隻寶可夢身上附加的2個能量丟棄，將對手的戰鬥寶可夢【麻痺】。"
         },
         "damage": 120
@@ -2337,6 +4413,16 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650981,
+          "tcgplayer": 569776,
+          "cardtrader": 234087
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -2349,14 +4435,22 @@
   {
     "id": "S10D-020",
     "name": {
+      "ja": "ライボルト",
       "zh-tw": "雷電獸"
     },
     "illustrator": "GIDORA",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      310
+    ],
     "hp": 120,
     "types": [
       "Lightning"
     ],
+    "evolveFrom": {
+      "ja": "ラクライ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -2366,6 +4460,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かみつく",
           "zh-tw": "咬住"
         },
         "damage": 50
@@ -2377,9 +4472,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "アサルトレーザー",
           "zh-tw": "進擊鐳射"
         },
         "effect": {
+          "ja": "相手のバトルポケモンに「ポケモンのどうぐ」がついているなら、80ダメージ追加。",
           "zh-tw": "若對手的戰鬥寶可夢身上附有「寶可夢道具」，則增加80點傷害。"
         },
         "damage": "80+"
@@ -2392,7 +4489,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650980,
+          "tcgplayer": 569775,
+          "cardtrader": 234086
+        }
+      }
+    ],
     "description": {
+      "ja": "電気で 筋肉を 刺激するので 素早く 動ける。 筋肉痛も 電気で ほぐすので すぐ 治る。",
       "zh-tw": "會用電流刺激肌肉，因此能迅速行動。電流也能讓 肌肉放鬆並快速治癒酸痛。"
     },
     "series": {
@@ -2406,10 +4514,15 @@
   {
     "id": "S10D-019",
     "name": {
+      "ja": "ラクライ",
       "zh-tw": "落雷獸"
     },
     "illustrator": "otumami",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      309
+    ],
     "hp": 60,
     "types": [
       "Lightning"
@@ -2422,6 +4535,7 @@
           "Lightning"
         ],
         "name": {
+          "ja": "エレキック",
           "zh-tw": "電氣踢"
         },
         "damage": 10
@@ -2432,9 +4546,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "かみなりのキバ",
           "zh-tw": "雷電牙"
         },
         "effect": {
+          "ja": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
           "zh-tw": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢【麻痺】。"
         },
         "damage": 20
@@ -2447,7 +4563,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650979,
+          "tcgplayer": 569774,
+          "cardtrader": 234085
+        }
+      }
+    ],
     "description": {
+      "ja": "静電気を 体毛に たくわえて 放電する。 嵐が 近づくと 全身から 火花を 散らす。",
       "zh-tw": "會將靜電積蓄在體毛中後放電。當暴風雨來臨前， 會從全身冒出火花。"
     },
     "series": {
@@ -2461,14 +4588,22 @@
   {
     "id": "S10D-018",
     "name": {
+      "ja": "スワンナ",
       "zh-tw": "舞天鵝"
     },
     "illustrator": "Sekio",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      581
+    ],
     "hp": 120,
     "types": [
       "Water"
     ],
+    "evolveFrom": {
+      "ja": "コアルヒー"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -2477,9 +4612,11 @@
           "Water"
         ],
         "name": {
+          "ja": "みずのはどう",
           "zh-tw": "水之波動"
         },
         "effect": {
+          "ja": "相手のバトルポケモンをねむりにする。",
           "zh-tw": "將對手的戰鬥寶可夢【睡眠】。"
         },
         "damage": 20
@@ -2491,9 +4628,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "エアスラッシュ",
           "zh-tw": "空氣斬"
         },
         "effect": {
+          "ja": "このポケモンについているエネルギーを1個選び、トラッシュする。",
           "zh-tw": "選擇1個這隻寶可夢身上附加的能量，將其丟棄。"
         },
         "damage": 130
@@ -2512,7 +4651,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650978,
+          "tcgplayer": 569773,
+          "cardtrader": 234084
+        }
+      }
+    ],
     "description": {
+      "ja": "夜明けと ともに スワンナたちは 踊りはじめる。真ん中で 踊る スワンナが 群れの リーダー。",
       "zh-tw": "舞天鵝們會隨著黎明起舞。 在正中間跳舞的就是群體的首領。"
     },
     "series": {
@@ -2526,10 +4676,15 @@
   {
     "id": "S10D-017",
     "name": {
+      "ja": "コアルヒー",
       "zh-tw": "鴨寶寶"
     },
     "illustrator": "Yuka Morii",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      580
+    ],
     "hp": 60,
     "types": [
       "Water"
@@ -2542,6 +4697,7 @@
           "Water"
         ],
         "name": {
+          "ja": "みずかけ",
           "zh-tw": "潑水"
         },
         "damage": 20
@@ -2560,7 +4716,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650977,
+          "tcgplayer": 569772,
+          "cardtrader": 234083
+        }
+      }
+    ],
     "description": {
+      "ja": "飛ぶよりも 泳ぐのが 得意で 水中に 潜っては 大好きな 水ゴケを うれしそうに 食べる。",
       "zh-tw": "比起飛行更擅長游泳。 一潛入水中就會開心地 吃起最愛的水苔。"
     },
     "series": {
@@ -2574,14 +4741,22 @@
   {
     "id": "S10D-016",
     "name": {
+      "ja": "フタチマル",
       "zh-tw": "雙刃丸"
     },
     "illustrator": "Mina Nakai",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      502
+    ],
     "hp": 90,
     "types": [
       "Water"
     ],
+    "evolveFrom": {
+      "ja": "ミジュマル"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -2590,9 +4765,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "シェルブレード",
           "zh-tw": "硬殼利刃"
         },
         "effect": {
+          "ja": "コインを1回投げオモテなら、20ダメージ追加。",
           "zh-tw": "擲1次硬幣若為正面，則增加20點傷害。"
         },
         "damage": "20+"
@@ -2605,7 +4782,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650976,
+          "tcgplayer": 569771,
+          "cardtrader": 234082
+        }
+      }
+    ],
     "description": {
+      "ja": "日々の 鍛錬の 賜物か 帆太刀 ２枚の 貝さばき たるや 剣豪も 裸足の 腕前なり。",
       "zh-tw": "或許是拜平日的鍛鍊所賜， 運用兩枚扇貝貝刀的高超技術 能令劍豪也甘拜下風。"
     },
     "series": {
@@ -2619,10 +4807,15 @@
   {
     "id": "S10D-015",
     "name": {
+      "ja": "ミジュマル",
       "zh-tw": "水水獺"
     },
     "illustrator": "Saya Tsuruta",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      501
+    ],
     "hp": 70,
     "types": [
       "Water"
@@ -2635,6 +4828,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "たたく",
           "zh-tw": "敲擊"
         },
         "damage": 10
@@ -2647,7 +4841,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650975,
+          "tcgplayer": 569770,
+          "cardtrader": 234081
+        }
+      }
+    ],
     "description": {
+      "ja": "イッシュの地に 棲みし ポケモン。 腹の貝を 得物に 敵を 斬る。 ゆえに 貝の名 帆太刀と 命名す。",
       "zh-tw": "棲息在合眾地區的寶可夢。 會將腹部貝殼作為兵刃斬擊敵手， 因而吾人將此貝殼命名為扇貝貝刀。"
     },
     "series": {
@@ -2661,10 +4866,15 @@
   {
     "id": "S10D-014",
     "name": {
+      "ja": "マンタイン",
       "zh-tw": "巨翅飛魚"
     },
     "illustrator": "OKACHEKE",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      226
+    ],
     "hp": 110,
     "types": [
       "Water"
@@ -2677,9 +4887,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "きしにはこぶ",
           "zh-tw": "搬上岸"
         },
         "effect": {
+          "ja": "自分または相手のトラッシュからたねポケモンを1枚選び、持ち主のベンチに出す。",
           "zh-tw": "從自己或者對手的棄牌區選擇1張【基礎】寶可夢卡，放置於持有人的備戰區。"
         }
       },
@@ -2690,6 +4902,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "アクアエッジ",
           "zh-tw": "水之刀鋒"
         },
         "damage": 100
@@ -2702,7 +4915,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650974,
+          "tcgplayer": 569769,
+          "cardtrader": 234080
+        }
+      }
+    ],
     "description": {
+      "ja": "大海 優雅に泳ぎ 穏やかな 性質。 遊泳速度 増せば 海面より 飛び出し 鳥ポケモンと 見間違うこと 多し。",
       "zh-tw": "性情溫和，悠游於大海之中。 游泳速度增快時會躍出海面， 人們常將其誤認為鳥寶可夢。"
     },
     "series": {
@@ -2716,14 +4940,22 @@
   {
     "id": "S10D-013",
     "name": {
+      "ja": "ニョロトノ",
       "zh-tw": "蚊香蛙皇"
     },
     "illustrator": "ryoma uratsuka",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      186
+    ],
     "hp": 140,
     "types": [
       "Water"
     ],
+    "evolveFrom": {
+      "ja": "ニョロゾ"
+    },
     "regulationMark": "F",
     "stage": "Stage2",
     "attacks": [
@@ -2733,9 +4965,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "とのさまおんど",
           "zh-tw": "君主樂舞"
         },
         "effect": {
+          "ja": "自分のベンチにそれぞれ、「ニョロモ」がいるなら60ダメージ追加、「ニョロゾ」がいるなら90ダメージ追加、「ニョロボン」がいるなら120ダメージ追加。",
           "zh-tw": "若自己的備戰區有「蚊香蝌蚪」則增加60點傷害，有「蚊香君」則增加90點傷害，有「蚊香泳士」則增加120點傷害。"
         },
         "damage": "10+"
@@ -2747,6 +4981,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ハイドロスプラッシュ",
           "zh-tw": "水炮濺射"
         },
         "damage": 100
@@ -2759,7 +4994,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650973,
+          "tcgplayer": 569768,
+          "cardtrader": 234079
+        }
+      }
+    ],
     "description": {
+      "ja": "夜になると 池の 畔に 現れる。 怒鳴るような 声で 鳴いて 縄張りを アピールするぞ。",
       "zh-tw": "天黑後就會出現在池子邊。會用怒吼般的聲音大叫， 來強調那是自己的地盤喔。"
     },
     "series": {
@@ -2773,14 +5019,22 @@
   {
     "id": "S10D-012",
     "name": {
+      "ja": "ニョロゾ",
       "zh-tw": "蚊香君"
     },
     "illustrator": "Scav",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      61
+    ],
     "hp": 90,
     "types": [
       "Water"
     ],
+    "evolveFrom": {
+      "ja": "ニョロモ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -2790,6 +5044,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "なぐる",
           "zh-tw": "打擊"
         },
         "damage": 30
@@ -2801,9 +5056,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ダブルスマッシュ",
           "zh-tw": "雙重粉碎"
         },
         "effect": {
+          "ja": "コインを2回投げ、オモテの数×50ダメージ。",
           "zh-tw": "擲2次硬幣，造成正面出現的次數×50點傷害。"
         },
         "damage": "50×"
@@ -2816,7 +5073,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650972,
+          "tcgplayer": 569767,
+          "cardtrader": 234078
+        }
+      }
+    ],
     "description": {
+      "ja": "お腹の 渦は ずっと 見ていると 眠くなる。 子守唄がわりに 子どもを 寝つかせるのにも 使う。",
       "zh-tw": "一直盯著牠肚子上的漩渦看，就會想睡覺。牠會利用這花紋 來代替搖籃曲去哄孩子睡覺。"
     },
     "series": {
@@ -2830,10 +5098,15 @@
   {
     "id": "S10D-011",
     "name": {
+      "ja": "ニョロモ",
       "zh-tw": "蚊香蝌蚪"
     },
     "illustrator": "Miki Tanaka",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      60
+    ],
     "hp": 60,
     "types": [
       "Water"
@@ -2846,9 +5119,11 @@
           "Water"
         ],
         "name": {
+          "ja": "はねてかわす",
           "zh-tw": "躍起閃避"
         },
         "effect": {
+          "ja": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
           "zh-tw": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
         },
         "damage": 10
@@ -2861,7 +5136,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650971,
+          "tcgplayer": 569766,
+          "cardtrader": 234077
+        }
+      }
+    ],
     "description": {
+      "ja": "歩くよりも 泳ぐほうが 得意。 お腹の 渦巻き模様は 透けて 見える 内臓の 一部だ。",
       "zh-tw": "比起步行更擅長游泳。腹部的漩渦花紋是透過皮膚 可以看到的部分內臟。"
     },
     "series": {
@@ -2875,14 +5161,22 @@
   {
     "id": "S10D-010",
     "name": {
+      "ja": "マグマラシ",
       "zh-tw": "火岩鼠"
     },
     "illustrator": "Pani Kobayashi",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      156
+    ],
     "hp": 90,
     "types": [
       "Fire"
     ],
+    "evolveFrom": {
+      "ja": "ヒノアラシ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -2891,6 +5185,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "たいあたり",
           "zh-tw": "撞擊"
         },
         "damage": 20
@@ -2901,6 +5196,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ほのお",
           "zh-tw": "火焰"
         },
         "damage": 40
@@ -2913,7 +5209,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650970,
+          "tcgplayer": 569765,
+          "cardtrader": 234076
+        }
+      }
+    ],
     "description": {
+      "ja": "絶対に 燃えることなき 摩訶不思議な 体毛なり。 背を 此方へ 向けるは 攻撃の 合図なれば 注意されたし。",
       "zh-tw": "擁有一身絕不會被點燃的奇異體毛。 當牠背向己方時須特別小心， 這是牠將發動攻擊的信號。"
     },
     "series": {
@@ -2927,10 +5234,15 @@
   {
     "id": "S10D-009",
     "name": {
+      "ja": "ヒノアラシ",
       "zh-tw": "火球鼠"
     },
     "illustrator": "sui",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      155
+    ],
     "hp": 60,
     "types": [
       "Fire"
@@ -2943,9 +5255,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "エネチャージ",
           "zh-tw": "蓄能量"
         },
         "effect": {
+          "ja": "自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
           "zh-tw": "從自己的牌庫選擇最多2張基本能量卡，在給對手看過後加入手牌。並且重洗牌庫。"
         }
       },
@@ -2954,6 +5268,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ひだね",
           "zh-tw": "火種"
         },
         "damage": 10
@@ -2966,7 +5281,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650969,
+          "tcgplayer": 569764,
+          "cardtrader": 234075
+        }
+      }
+    ],
     "description": {
+      "ja": "ジョウトの地に 棲みし ポケモン。 小胆な 気性ゆえ 常より 身を 丸めるが 秘めたる 火力は 強烈。",
       "zh-tw": "棲息在城都地區的寶可夢。 生性膽小，總是將身子縮成一團， 但其實體內蘊藏著強大的火力。"
     },
     "series": {
@@ -2980,23 +5306,33 @@
   {
     "id": "S10D-008",
     "name": {
+      "ja": "ヒスイ ドレディアVSTAR",
       "zh-tw": "洗翠 裙兒小姐VSTAR"
     },
     "illustrator": "5ban Graphics",
+    "rarity": "Triple Rare",
     "category": "Pokemon",
+    "dexId": [
+      549
+    ],
     "hp": 260,
     "types": [
       "Grass"
     ],
+    "evolveFrom": {
+      "ja": "ヒスイ ドレディアV"
+    },
     "regulationMark": "F",
-    "stage": "VMAX",
+    "stage": "VSTAR",
     "abilities": [
       {
         "type": "Ability",
         "name": {
+          "ja": "スターパフューム",
           "zh-tw": "星星芬香"
         },
         "effect": {
+          "ja": "自分の番に使える。自分の山札から{G}ポケモンと{G}エネルギーを合計5枚まで選び、相手に見せて、手札に加える。そして山札を切る。［対戦中、自分はVSTARパワーを1回しか使えない。］",
           "zh-tw": "在自己的回合時可使用。從自己的牌庫選擇【草】寶可夢卡與【草】能量卡合計最多5張，在給對手看過後加入手牌。並且重洗牌庫。[對戰中，己方只可使用1次【VSTAR】力量。]"
         }
       }
@@ -3009,9 +5345,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "キャメルスピン",
           "zh-tw": "燕式旋轉"
         },
         "effect": {
+          "ja": "のぞむなら、このポケモンについているエネルギーを1個選び、手札にもどす。その場合、100ダメージ追加。",
           "zh-tw": "若希望，選擇1個這隻寶可夢身上附加的能量，放回手牌。這個情況下，增加100點傷害。"
         },
         "damage": "130+"
@@ -3024,6 +5362,16 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650968,
+          "tcgplayer": 569763,
+          "cardtrader": 234074
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -3035,10 +5383,15 @@
   {
     "id": "S10D-007",
     "name": {
+      "ja": "ヒスイ ドレディアV",
       "zh-tw": "洗翠 裙兒小姐V"
     },
     "illustrator": "5ban Graphics",
+    "rarity": "Double rare",
     "category": "Pokemon",
+    "dexId": [
+      549
+    ],
     "hp": 200,
     "types": [
       "Grass"
@@ -3047,10 +5400,13 @@
     "stage": "Basic",
     "attacks": [
       {
+        "cost": [],
         "name": {
+          "ja": "まいおどる",
           "zh-tw": "跳舞"
         },
         "effect": {
+          "ja": "自分の手札が6枚になるように、山札を引く。",
           "zh-tw": "從牌庫抽卡直到自己的手牌滿6張為止。"
         }
       },
@@ -3061,6 +5417,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "リーフステップ",
           "zh-tw": "綠葉舞步"
         },
         "damage": 130
@@ -3073,6 +5430,16 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650967,
+          "tcgplayer": 569762,
+          "cardtrader": 234073
+        }
+      }
+    ],
     "series": {
       "id": "S"
     },
@@ -3085,14 +5452,22 @@
   {
     "id": "S10D-006",
     "name": {
+      "ja": "ヒスイ ドレディア",
       "zh-tw": "洗翠 裙兒小姐"
     },
     "illustrator": "Mizue",
+    "rarity": "Rare",
     "category": "Pokemon",
+    "dexId": [
+      549
+    ],
     "hp": 110,
     "types": [
       "Grass"
     ],
+    "evolveFrom": {
+      "ja": "チュリネ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -3102,9 +5477,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "たつまきルッツ",
           "zh-tw": "龍捲風勾手跳"
         },
         "effect": {
+          "ja": "相手のポケモン全員に、それぞれ20ダメージ。このポケモンをベンチポケモンと入れ替える。［ベンチは弱点・抵抗力を計算しない。］",
           "zh-tw": "對手的所有寶可夢各受到20點傷害。將這隻寶可夢與備戰寶可夢互換。[在備戰區不計算弱點・抵抗力。]"
         }
       },
@@ -3115,6 +5492,7 @@
           "Colorless"
         ],
         "name": {
+          "ja": "リーフステップ",
           "zh-tw": "綠葉舞步"
         },
         "damage": 100
@@ -3127,7 +5505,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "holo",
+        "thirdParty": {
+          "cardmarket": 650966,
+          "tcgplayer": 569761,
+          "cardtrader": 234072
+        }
+      }
+    ],
     "description": {
+      "ja": "雪深き山に 棲みしゆえに 脚力が 発達したと 考察す。 周囲の者を 鼓舞する 香りを 冠の花より 放つ。",
       "zh-tw": "據考察，雪山深處的棲息環境為其帶來了發達的腳力。會從頭冠般的 花中發出鼓舞周遭夥伴的香氣。"
     },
     "series": {
@@ -3141,10 +5530,15 @@
   {
     "id": "S10D-005",
     "name": {
+      "ja": "チュリネ",
       "zh-tw": "百合根娃娃"
     },
     "illustrator": "Yukiko Baba",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      548
+    ],
     "hp": 50,
     "types": [
       "Grass"
@@ -3157,9 +5551,11 @@
           "Grass"
         ],
         "name": {
+          "ja": "スピンターン",
           "zh-tw": "旋轉迴旋"
         },
         "effect": {
+          "ja": "このポケモンをベンチポケモンと入れ替える。",
           "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
         },
         "damage": 10
@@ -3172,7 +5568,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650965,
+          "tcgplayer": 569760,
+          "cardtrader": 234071
+        }
+      }
+    ],
     "description": {
+      "ja": "頭の 葉は 薬として 重宝されたり。 天日で 乾かし 煎じて 飲むと 苦けれども 疲労回復に 効果抜群。",
       "zh-tw": "頭上的葉片是人們愛用的藥材。 在太陽下曬乾後煎煮服用， 雖然味苦但能有效地消除疲勞。"
     },
     "series": {
@@ -3186,10 +5593,15 @@
   {
     "id": "S10D-004",
     "name": {
+      "ja": "シェイミ",
       "zh-tw": "謝米"
     },
     "illustrator": "Kouki Saitou",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      492
+    ],
     "hp": 70,
     "types": [
       "Grass"
@@ -3202,9 +5614,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "はればれギフト",
           "zh-tw": "晴光之禮"
         },
         "effect": {
+          "ja": "このワザは、後攻プレイヤーの最初の番にだけ使える。自分の山札から好きなカードを3枚まで選び、手札に加える。そして山札を切る。",
           "zh-tw": "這個招式只可在後攻玩家的最初回合使用。從自己的牌庫任意選擇最多3張卡加入手牌。並且重洗牌庫。"
         }
       },
@@ -3213,6 +5627,7 @@
           "Grass"
         ],
         "name": {
+          "ja": "はねまわる",
           "zh-tw": "活蹦亂跳"
         },
         "damage": 30
@@ -3225,7 +5640,18 @@
       }
     ],
     "retreat": 1,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650964,
+          "tcgplayer": 569759,
+          "cardtrader": 234070
+        }
+      }
+    ],
     "description": {
+      "ja": "季節 巡り 厳冬 終わりしこと 喜び 天に 感謝 捧げしとき このポケモン 現れ 枯れし大地を 花で 満たす。",
       "zh-tw": "當人們欣喜於嚴冬隨著季節輪轉而終結， 向上天奉獻感謝之意時，此寶可夢就會 現身，令荒寂的大地開滿鮮花。"
     },
     "series": {
@@ -3239,14 +5665,22 @@
   {
     "id": "S10D-003",
     "name": {
+      "ja": "リーフィア",
       "zh-tw": "葉伊布"
     },
     "illustrator": "Atsushi Furusawa",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      470
+    ],
     "hp": 110,
     "types": [
       "Grass"
     ],
+    "evolveFrom": {
+      "ja": "イーブイ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -3255,9 +5689,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "エナジーガーデン",
           "zh-tw": "能量花園"
         },
         "effect": {
+          "ja": "自分の山札から、それぞれちがうタイプの基本エネルギーを3枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。",
           "zh-tw": "從自己的牌庫選擇最多3張各不同屬性的基本能量卡，以任意方式附於自己的寶可夢身上。並且重洗牌庫。"
         }
       },
@@ -3268,9 +5704,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "はっぱサイクロン",
           "zh-tw": "葉子旋風"
         },
         "effect": {
+          "ja": "次の自分の番、このポケモンはワザが使えない。",
           "zh-tw": "在下個自己的回合，這隻寶可夢無法使用招式。"
         },
         "damage": 120
@@ -3283,7 +5721,18 @@
       }
     ],
     "retreat": 2,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650963,
+          "tcgplayer": 569758,
+          "cardtrader": 234069
+        }
+      }
+    ],
     "description": {
+      "ja": "体毛から 植物に似た 細胞 検出す。 硬き 尾は 大木を 一刀両断し 切れ味 名刀にも 勝る 得物なり。",
       "zh-tw": "從體毛中可檢出近似植物的細胞。 堅硬的尾部能將大樹一刀兩斷， 鋒利程度更勝名刀一籌。"
     },
     "series": {
@@ -3297,14 +5746,22 @@
   {
     "id": "S10D-002",
     "name": {
+      "ja": "メガヤンマ",
       "zh-tw": "遠古巨蜓"
     },
     "illustrator": "Masakazu Fukuda",
+    "rarity": "Uncommon",
     "category": "Pokemon",
+    "dexId": [
+      469
+    ],
     "hp": 120,
     "types": [
       "Grass"
     ],
+    "evolveFrom": {
+      "ja": "ヤンヤンマ"
+    },
     "regulationMark": "F",
     "stage": "Stage1",
     "attacks": [
@@ -3313,6 +5770,7 @@
           "Grass"
         ],
         "name": {
+          "ja": "するどいはね",
           "zh-tw": "銳利羽"
         },
         "damage": 30
@@ -3323,9 +5781,11 @@
           "Colorless"
         ],
         "name": {
+          "ja": "ワイドウイング",
           "zh-tw": "廣域之翼"
         },
         "effect": {
+          "ja": "自分の手札の枚数が、相手の手札の枚数より多いなら、80ダメージ追加。",
           "zh-tw": "若自己手牌的張數比對手手牌的張數多，則增加80點傷害。"
         },
         "damage": "40+"
@@ -3338,7 +5798,18 @@
       }
     ],
     "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650962,
+          "tcgplayer": 569757,
+          "cardtrader": 234068
+        }
+      }
+    ],
     "description": {
+      "ja": "６本の 脚で 大人を 抱えて 楽々と 飛ぶ ことが できる。 尻尾の 羽で バランスを とる。",
       "zh-tw": "能以６隻腳攫住成年人 並輕鬆地飛行。 以尾部的翅膀保持平衡。"
     },
     "series": {
@@ -3352,10 +5823,15 @@
   {
     "id": "S10D-001",
     "name": {
+      "ja": "ヤンヤンマ",
       "zh-tw": "蜻蜻蜓"
     },
     "illustrator": "OKACHEKE",
+    "rarity": "Common",
     "category": "Pokemon",
+    "dexId": [
+      193
+    ],
     "hp": 60,
     "types": [
       "Grass"
@@ -3368,6 +5844,7 @@
           "Grass"
         ],
         "name": {
+          "ja": "スピードひこう",
           "zh-tw": "高速飛行"
         },
         "damage": 20
@@ -3380,7 +5857,18 @@
       }
     ],
     "retreat": 0,
+    "variants": [
+      {
+        "type": "normal",
+        "thirdParty": {
+          "cardmarket": 650961,
+          "tcgplayer": 569756,
+          "cardtrader": 234067
+        }
+      }
+    ],
     "description": {
+      "ja": "その翅 彼方 透け見えるほど 薄く 頼りなし。 しかれども 飛翔し際は 大気乱し 人家 吹き飛ばす 力あり。",
       "zh-tw": "翅膀看似脆弱，薄到可以透光。 然而當牠飛翔之時卻能拂亂大氣， 發揮足以吹倒家屋的強勁力道。"
     },
     "series": {

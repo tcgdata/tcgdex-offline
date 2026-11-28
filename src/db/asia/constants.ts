@@ -1,4 +1,4 @@
-export const COMMIT = '00d5de7fc75917545f348fdc282540ff5a1d44bc';
+export const COMMIT = 'f4c5c759a18d154fba6de71d96c49a56eac73602';
 
 export const VERSION = 'master';
 
@@ -41,6 +41,9 @@ export const SERIES_IDS = [
 ] as const;
 
 export const SETS = {
+  ADV: {
+    ADV1: 'ADV1',
+  },
   BW: {
     BW8A: 'BW8a',
   },
@@ -61,6 +64,7 @@ export const SETS = {
     M5: 'M5',
     M6: 'M6',
     M6A: 'M6a',
+    MBG: 'MBG',
     MC: 'MC',
     MF: 'MF',
     M_P: 'M-P',
@@ -246,6 +250,7 @@ export const SETS = {
 } as const;
 
 export const SET_IDS = [
+  'ADV1',
   'BW8a',
   'CP1',
   'CP2',
@@ -265,6 +270,7 @@ export const SET_IDS = [
   'M5',
   'M6',
   'M6a',
+  'MBG',
   'MC',
   'MF',
   'Miscellaneous Promos',
@@ -425,9 +431,10 @@ export const SET_IDS = [
 ] as const;
 
 export const SET_IDS_BY_SERIES_ID = {
+  ADV: ['ADV1'],
   BW: ['BW8a'],
   e: ['E5', 'E4', 'E3', 'E2', 'E1'],
-  M: ['MF', 'MC', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
+  M: ['MF', 'MC', 'MBG', 'M6a', 'M6', 'M5', 'M4', 'M3', 'M2a', 'M2', 'M1S', 'M1L', 'M-P'],
   misc: ['Miscellaneous Promos'],
   neo: ['neo4', 'neo3', 'neo2', 'neo1'],
   PCG: ['PCG9', 'PCG8', 'PCG7', 'PCG6', 'PCG5', 'PCG4', 'PCG3', 'PCG2', 'PCG1'],
@@ -640,6 +647,7 @@ export const CARD_ILLUSTRATORS = {
   HEISUKE_KITAZAWA: 'Heisuke Kitazawa',
   HIDEAKI_HAKOZAKI: 'Hideaki Hakozaki',
   HIDEKI_ISHIKAWA: 'Hideki Ishikawa',
+  HIKARU_KOIKE: 'Hikaru Koike',
   HIROKI_ASANUMA: 'Hiroki Asanuma',
   HIROMICHI_SUGIYAMA: 'Hiromichi Sugiyama',
   HIRONOBU_YOSHIDA: 'Hironobu Yoshida',
@@ -677,6 +685,7 @@ export const CARD_ILLUSTRATORS = {
   KAZUKI_MINAMI: 'Kazuki Minami',
   KAZUMA_KODA: 'Kazuma Koda',
   KAZUMASA_YASUKUNI: 'Kazumasa Yasukuni',
+  KAZUO_YAZAWA: 'Kazuo Yazawa',
   KEDAMAHADAITAI_YAWARAKAI: 'Kedamahadaitai Yawarakai',
   KEIJI_KINEBUCHI: 'Keiji Kinebuchi',
   KEISIN: 'Keisin',
@@ -945,6 +954,7 @@ export const CARD_RARITIES = {
   RADIANT_RARE: 'Radiant Rare',
   RARE: 'Rare',
   RARE_HOLO: 'Rare Holo',
+  RARE_SHINING: 'Rare Shining',
   SECRET_RARE: 'Secret Rare',
   SHINY_ULTRA_RARE: 'Shiny Ultra Rare',
   SHINY_RARE: 'Shiny rare',
